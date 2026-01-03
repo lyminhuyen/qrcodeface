@@ -1,0 +1,118 @@
+{
+  "characters": [
+    {
+      "id": "viper-ning",
+      "name": "Viper Ning",
+      "nameCN": "玉玲珑",
+      "topicTag": "玉玲珑捏脸"
+    },
+    {
+      "id": "temulch",
+      "name": "Temulch",
+      "nameCN": "铁木真",
+      "topicTag": "铁木真捏脸"
+    },
+    {
+      "id": "matari",
+      "name": "Matari",
+      "nameCN": "沙弥",
+      "topicTag": "沙弥捏脸"
+    },
+    {
+      "id": "tarka-ji",
+      "name": "Tarka Ji",
+      "nameCN": "胡桃",
+      "topicTag": "胡桃捏脸"
+    },
+    {
+      "id": "kurumi",
+      "name": "Kurumi",
+      "nameCN": "迦南",
+      "topicTag": "迦南捏脸"
+    },
+    {
+      "id": "tianhai",
+      "name": "Tianhai",
+      "nameCN": "天海",
+      "topicTag": "天海捏脸"
+    },
+    {
+      "id": "yoto-hime",
+      "name": "Yoto Hime",
+      "nameCN": "妖刀姬",
+      "topicTag": "妖刀姬捏脸"
+    },
+    {
+      "id": "valda-cui",
+      "name": "Valda Cui",
+      "nameCN": "崔三娘",
+      "topicTag": "崔三娘捏脸"
+    },
+    {
+      "id": "justina-gu",
+      "name": "Justina Gu",
+      "nameCN": "顾清寒",
+      "topicTag": "顾清寒捏脸"
+    },
+    {
+      "id": "wuchen",
+      "name": "Wuchen",
+      "nameCN": "无尘",
+      "topicTag": "无尘捏脸"
+    },
+    {
+      "id": "yueshan",
+      "name": "Yueshan",
+      "nameCN": "岳山",
+      "topicTag": "岳山捏脸"
+    },
+    {
+      "id": "takeda-nobutada",
+      "name": "Takeda Nobutada",
+      "nameCN": "武田信忠",
+      "topicTag": "武田信忠捏脸"
+    },
+    {
+      "id": "ziping-yin",
+      "name": "Ziping Yin",
+      "nameCN": "殷紫萍",
+      "topicTag": "殷紫萍捏脸"
+    },
+    {
+      "id": "feria-shen",
+      "name": "Feria Shen",
+      "nameCN": "沈妙",
+      "topicTag": "沈妙捏脸"
+    },
+    {
+      "id": "wei-qing",
+      "name": "Wei Qing",
+      "nameCN": "魏轻",
+      "topicTag": "魏轻捏脸"
+    },
+    {
+      "id": "akos-hu",
+      "name": "Akos Hu",
+      "nameCN": "胡晓",
+      "topicTag": "胡晓捏脸"
+    },
+    {
+      "id": "zai",
+      "name": "Zai",
+      "nameCN": "哉",
+      "topicTag": "哉捏脸"
+    },
+    {
+      "id": "lyam",
+      "name": "Lyam",
+      "nameCN": "凌",
+      "topicTag": "凌捏脸"
+    },
+    {
+      "id": "untagged",
+      "name": "Chưa phân loại",
+      "nameCN": "未分类",
+      "topicTag": null
+    }
+  ]
+}

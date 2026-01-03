@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# logs
+/logs/*.log
+
+# source files (not needed in repo)
+source_web.md
+source_web2.md
