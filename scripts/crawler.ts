@@ -1,18 +1,48 @@
 import puppeteer from 'puppeteer';
 import * as fs from 'fs';
 import * as path from 'path';
+import { fileURLToPath } from 'url';
 
-// Config
-const USER_ID = 'abe6cbb14ebd4cba9ff2aa0c7af97734';
-const TARGET_URL = `https://ds.163.com/user/${USER_ID}/`;
-const MAX_SCROLL_COUNT = 20; // Số lần scroll để load thêm posts
+// ES Module fix for __dirname
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Config - Support both USER and TOPIC modes
+const USER_ID = process.env.DS163_USER_ID || '';
+const TOPIC_NAME = process.env.DS163_TOPIC || '';
+
+let TARGET_URL: string;
+let CRAWL_MODE: 'user' | 'topic';
+
+if (TOPIC_NAME) {
+  // Topic mode - crawl from topic page
+  TARGET_URL = `https://ds.163.com/topic/${encodeURIComponent(TOPIC_NAME)}/`;
+  CRAWL_MODE = 'topic';
+} else if (USER_ID) {
+  // User mode - crawl from user profile
+  TARGET_URL = `https://ds.163.com/user/${USER_ID}/`;
+  CRAWL_MODE = 'user';
+} else {
+  console.error('Error: DS163_USER_ID or DS163_TOPIC environment variable is required');
+  console.error('Usage:');
+  console.error('  DS163_USER_ID=xxx npx ts-node scripts/crawler.ts');
+  console.error('  DS163_TOPIC=刘炼捏脸 npx ts-node scripts/crawler.ts');
+  process.exit(1);
+}
+
+const MAX_SCROLL_COUNT = 100; // Số lần scroll để load thêm posts
 const SCROLL_DELAY = 2000; // ms
 
 // Paths
 const DATA_DIR = path.join(__dirname, '../src/data');
-const QRCODES_FILE = path.join(DATA_DIR, 'qrcodes.json');
+const QRCODES_DIR = path.join(DATA_DIR, 'qrcodes');
 const CHARACTERS_FILE = path.join(DATA_DIR, 'characters.json');
 const LOG_FILE = path.join(__dirname, '../logs/crawler.log');
+
+// Ensure qrcodes directory exists
+if (!fs.existsSync(QRCODES_DIR)) {
+  fs.mkdirSync(QRCODES_DIR, { recursive: true });
+}
 
 // Types
 interface QRCodeImage {
@@ -78,19 +108,122 @@ function loadCharacters(): Character[] {
   return JSON.parse(data).characters;
 }
 
-// Extract character from topic tags
+// Get character ID from topic name (e.g., "刘炼捏脸" → "liu-lian")
+function getCharacterIdFromTopic(topicName: string, characters: Character[]): string {
+  for (const char of characters) {
+    if (char.topicTag === topicName) {
+      return char.id;
+    }
+    // Also check without 捏脸 suffix
+    const charName = topicName.replace('捏脸', '');
+    if (char.nameCN === charName) {
+      return char.id;
+    }
+  }
+  return 'unknown';
+}
+
+// Extract character name from topic pattern "X捏脸"
+function extractCharNameFromTopic(topicName: string): string | null {
+  const match = topicName.match(/^(.+)捏脸$/);
+  return match ? match[1] : null;
+}
+
+// Extended Character type with aliases
+interface CharacterWithAliases extends Character {
+  aliases?: string[];
+}
+
+// Fuzzy match character name with aliases
+function fuzzyMatchCharacter(
+  name: string,
+  characters: Character[]
+): Character | null {
+  // Normalize name for comparison
+  const normalizedName = name.toLowerCase().trim();
+
+  for (const char of characters) {
+    const charWithAliases = char as CharacterWithAliases;
+
+    // Match by nameCN (exact)
+    if (char.nameCN === name) return char;
+
+    // Match by aliases
+    if (charWithAliases.aliases) {
+      for (const alias of charWithAliases.aliases) {
+        if (alias === name || name.includes(alias) || alias.includes(name)) {
+          return char;
+        }
+      }
+    }
+
+    // Match by nameCN (partial - for variations)
+    if (char.nameCN && name.includes(char.nameCN)) return char;
+    if (char.nameCN && char.nameCN.includes(name)) return char;
+
+    // Match by English name (case insensitive)
+    if (char.name.toLowerCase() === normalizedName) return char;
+
+    // Match by topicTag prefix
+    if (char.topicTag) {
+      const tagName = char.topicTag.replace('捏脸', '');
+      if (tagName === name || name.includes(tagName) || tagName.includes(name)) {
+        return char;
+      }
+    }
+  }
+
+  return null;
+}
+
+// Track unknown characters found
+const unknownCharacters = new Set<string>();
+
+// Extract character from topic tags and text content
 function extractCharacter(
   topics: { topicName: string }[] | undefined,
+  text: string,
   characters: Character[]
-): { id: string; name: string } {
-  if (!topics) return { id: 'untagged', name: 'Chưa phân loại' };
+): { id: string; name: string; detectedName?: string } {
+  // 1. Check topicInfoList for "X捏脸" pattern
+  if (topics) {
+    for (const topic of topics) {
+      const charName = extractCharNameFromTopic(topic.topicName);
+      if (charName) {
+        const matched = fuzzyMatchCharacter(charName, characters);
+        if (matched) {
+          return { id: matched.id, name: matched.name };
+        } else {
+          // Found a character topic but not in our list - track it
+          unknownCharacters.add(charName);
+          return { id: 'untagged', name: 'Chưa phân loại', detectedName: charName };
+        }
+      }
+    }
+  }
 
-  for (const topic of topics) {
-    const char = characters.find(
-      (c) => c.topicTag && topic.topicName.includes(c.topicTag.replace('捏脸', ''))
-    );
-    if (char) {
-      return { id: char.id, name: char.name };
+  // 2. Check text content for character names
+  if (text) {
+    // Look for #X捏脸# pattern in text
+    const hashtagMatches = text.match(/#([^#]+捏脸)#/g);
+    if (hashtagMatches) {
+      for (const match of hashtagMatches) {
+        const charName = match.replace(/#/g, '').replace('捏脸', '');
+        const matched = fuzzyMatchCharacter(charName, characters);
+        if (matched) {
+          return { id: matched.id, name: matched.name };
+        } else {
+          unknownCharacters.add(charName);
+          return { id: 'untagged', name: 'Chưa phân loại', detectedName: charName };
+        }
+      }
+    }
+
+    // Direct character name search in text
+    for (const char of characters) {
+      if (char.nameCN && text.includes(char.nameCN)) {
+        return { id: char.id, name: char.name };
+      }
     }
   }
 
@@ -136,6 +269,7 @@ function formatDate(timestamp: number): string {
 // Main crawler function
 async function crawl() {
   log('=== Starting crawler ===');
+  log(`Mode: ${CRAWL_MODE.toUpperCase()}`);
   log(`Target URL: ${TARGET_URL}`);
 
   const browser = await puppeteer.launch({
@@ -150,7 +284,7 @@ async function crawl() {
   page.on('response', async (response) => {
     const url = response.url();
     if (
-      (url.includes('/feed/') || url.includes('/v1/web/')) &&
+      (url.includes('/feed/') || url.includes('/v1/web/') || url.includes('/topic/')) &&
       response.status() === 200
     ) {
       try {
@@ -166,7 +300,7 @@ async function crawl() {
   });
 
   log('Opening page...');
-  await page.goto(TARGET_URL, { waitUntil: 'networkidle0', timeout: 60000 });
+  await page.goto(TARGET_URL, { waitUntil: 'networkidle2', timeout: 60000 });
   log('Page loaded');
 
   // Scroll to load more posts
@@ -187,7 +321,8 @@ async function crawl() {
   // Parse feeds
   log('Parsing feeds...');
   const parsedQRCodes: ParsedQRCode[] = feedsData.map((feed) => {
-    const character = extractCharacter(feed.topicInfoList, characters);
+    const text = extractText(feed.content);
+    const character = extractCharacter(feed.topicInfoList, text, characters);
     return {
       id: feed.id,
       createTime: feed.createTime,
@@ -196,7 +331,7 @@ async function crawl() {
       characterName: character.name,
       images: extractImages(feed.content),
       qrCodes: extractQRCodes(feed.attributeInfoList),
-      text: extractText(feed.content),
+      text: text,
     };
   });
 
@@ -205,16 +340,23 @@ async function crawl() {
     (qr, index, self) => index === self.findIndex((t) => t.id === qr.id)
   );
 
+  // Filter out video-only posts (no images, only .mp4)
+  const imageOnlyQRCodes = uniqueQRCodes.filter((qr) => {
+    const hasImages = qr.images.some((img) => !img.includes('.mp4'));
+    return hasImages;
+  });
+
   log(`Parsed ${uniqueQRCodes.length} unique QR codes`);
+  log(`Filtered to ${imageOnlyQRCodes.length} image-only posts (removed ${uniqueQRCodes.length - imageOnlyQRCodes.length} video-only)`);
 
   // Stats
   const stats = {
-    total: uniqueQRCodes.length,
+    total: imageOnlyQRCodes.length,
     byCharacter: {} as Record<string, number>,
     untagged: 0,
   };
 
-  uniqueQRCodes.forEach((qr) => {
+  imageOnlyQRCodes.forEach((qr) => {
     if (qr.characterId === 'untagged') {
       stats.untagged++;
     } else {
@@ -223,6 +365,12 @@ async function crawl() {
     }
   });
 
+  // Log unknown characters found
+  if (unknownCharacters.size > 0) {
+    log('Unknown characters found (consider adding to characters.json):');
+    unknownCharacters.forEach((name) => log(`  - ${name}`));
+  }
+
   log('Stats:');
   log(`  Total: ${stats.total}`);
   log(`  Untagged: ${stats.untagged}`);
@@ -230,15 +378,26 @@ async function crawl() {
     log(`  ${name}: ${count}`);
   });
 
+  // Determine output filename
+  let outputFile: string;
+  if (CRAWL_MODE === 'topic') {
+    const characterId = getCharacterIdFromTopic(TOPIC_NAME, characters);
+    outputFile = path.join(QRCODES_DIR, `${characterId}.json`);
+  } else {
+    // User mode - save to user-{id}.json
+    outputFile = path.join(QRCODES_DIR, `user-${USER_ID.slice(0, 8)}.json`);
+  }
+
   // Save to file
   const output = {
     lastUpdated: new Date().toISOString(),
-    totalCount: uniqueQRCodes.length,
-    qrcodes: uniqueQRCodes,
+    source: CRAWL_MODE === 'topic' ? TOPIC_NAME : `user:${USER_ID}`,
+    totalCount: imageOnlyQRCodes.length,
+    qrcodes: imageOnlyQRCodes,
   };
 
-  fs.writeFileSync(QRCODES_FILE, JSON.stringify(output, null, 2));
-  log(`Saved to ${QRCODES_FILE}`);
+  fs.writeFileSync(outputFile, JSON.stringify(output, null, 2));
+  log(`Saved to ${outputFile}`);
 
   log('=== Crawler finished ===');
 }

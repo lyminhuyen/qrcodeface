@@ -5,18 +5,39 @@ import { Character } from '@/types';
 interface FilterBarProps {
   characters: Character[];
   selectedCharacter: string;
+  selectedYear: string;
   selectedMonth: string;
   onCharacterChange: (characterId: string) => void;
+  onYearChange: (year: string) => void;
   onMonthChange: (month: string) => void;
+  availableYears: string[];
   availableMonths: string[];
 }
+
+const MONTH_NAMES = [
+  { value: '01', label: 'January' },
+  { value: '02', label: 'February' },
+  { value: '03', label: 'March' },
+  { value: '04', label: 'April' },
+  { value: '05', label: 'May' },
+  { value: '06', label: 'June' },
+  { value: '07', label: 'July' },
+  { value: '08', label: 'August' },
+  { value: '09', label: 'September' },
+  { value: '10', label: 'October' },
+  { value: '11', label: 'November' },
+  { value: '12', label: 'December' },
+];
 
 export default function FilterBar({
   characters,
   selectedCharacter,
+  selectedYear,
   selectedMonth,
   onCharacterChange,
+  onYearChange,
   onMonthChange,
+  availableYears,
   availableMonths,
 }: FilterBarProps) {
   return (
@@ -49,21 +70,54 @@ export default function FilterBar({
           ))}
         </div>
 
-        {/* Month filter */}
-        <div className="flex items-center gap-4 mt-3">
-          <label className="text-sm text-gray-600">Filter by month:</label>
-          <select
-            value={selectedMonth}
-            onChange={(e) => onMonthChange(e.target.value)}
-            className="px-3 py-1.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
-          >
-            <option value="all">All time</option>
-            {availableMonths.map((month) => (
-              <option key={month} value={month}>
-                {month}
-              </option>
-            ))}
-          </select>
+        {/* Year & Month filters */}
+        <div className="flex items-center gap-4 mt-3 flex-wrap">
+          {/* Year filter */}
+          <div className="flex items-center gap-2">
+            <label className="text-sm text-gray-600">Year:</label>
+            <select
+              value={selectedYear}
+              onChange={(e) => onYearChange(e.target.value)}
+              className="px-3 py-1.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+            >
+              <option value="all">All</option>
+              {availableYears.map((year) => (
+                <option key={year} value={year}>
+                  {year}
+                </option>
+              ))}
+            </select>
+          </div>
+
+          {/* Month filter */}
+          <div className="flex items-center gap-2">
+            <label className="text-sm text-gray-600">Month:</label>
+            <select
+              value={selectedMonth}
+              onChange={(e) => onMonthChange(e.target.value)}
+              className="px-3 py-1.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+            >
+              <option value="all">All</option>
+              {MONTH_NAMES.filter((m) => availableMonths.includes(m.value)).map((month) => (
+                <option key={month.value} value={month.value}>
+                  {month.label}
+                </option>
+              ))}
+            </select>
+          </div>
+
+          {/* Clear filters button */}
+          {(selectedYear !== 'all' || selectedMonth !== 'all') && (
+            <button
+              onClick={() => {
+                onYearChange('all');
+                onMonthChange('all');
+              }}
+              className="text-sm text-blue-500 hover:text-blue-700"
+            >
+              Clear date filter
+            </button>
+          )}
         </div>
       </div>
     </div>

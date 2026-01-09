@@ -1,5 +1,5 @@
 import Gallery from '@/components/Gallery';
-import qrcodesData from '@/data/qrcodes.json';
+import qrcodesData from '@/data/qrcodes/index.json';
 import charactersData from '@/data/characters.json';
 import { QRCodesData, CharactersData } from '@/types';
 

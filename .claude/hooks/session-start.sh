@@ -1,7 +1,6 @@
 #!/bin/bash
-# Hook chạy khi session bắt đầu
+# Hook khi session bat dau
 
-JOURNAL_FILE="$CLAUDE_PROJECT_DIR/journal/work_journal.md"
 TIMESTAMP=$(date "+%Y-%m-%d %H:%M")
 
 echo ""

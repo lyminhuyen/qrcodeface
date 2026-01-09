@@ -41,8 +41,17 @@ yarn-error.log*
 next-env.d.ts
 
 # logs
-/logs/*.log
+/logs/
 
 # source files (not needed in repo)
 source_web.md
 source_web2.md
+
+# Claude Code
+.claude/
+CLAUDE.md
+
+# Work journal & docs (local only)
+journal/
+docs/
+

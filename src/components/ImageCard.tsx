@@ -1,6 +1,5 @@
 'use client';
 
-import Image from 'next/image';
 import { QRCode } from '@/types';
 
 interface ImageCardProps {
@@ -30,13 +29,13 @@ export default function ImageCard({ qrcode, onClick }: ImageCardProps) {
             </svg>
           </div>
         ) : thumbnailUrl ? (
-          <Image
+          /* eslint-disable-next-line @next/next/no-img-element */
+          <img
             src={thumbnailUrl}
             alt={qrcode.text || 'QRCode Face'}
-            fill
-            className="object-cover group-hover:scale-105 transition-transform duration-300"
-            sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
-            unoptimized
+            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+            loading="lazy"
+            referrerPolicy="no-referrer"
           />
         ) : (
           <div className="w-full h-full flex items-center justify-center bg-gray-200">
