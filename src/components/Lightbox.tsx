@@ -1,19 +1,27 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { QRCode } from '@/types';
+import { QRCode, Character, getCharacterName } from '@/types';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 interface LightboxProps {
   qrcode: QRCode;
   qrcodes: QRCode[]; // Full list for navigation
+  characters: Character[];
   onClose: () => void;
   onNavigate: (qrcode: QRCode) => void; // Navigate to different post
 }
 
-export default function Lightbox({ qrcode, qrcodes, onClose, onNavigate }: LightboxProps) {
+export default function Lightbox({ qrcode, qrcodes, characters, onClose, onNavigate }: LightboxProps) {
+  const { locale } = useLanguage();
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
   const images = qrcode.images.filter((img) => !img.includes('.mp4'));
+
+  const character = characters.find((c) => c.id === qrcode.characterId);
+  const characterName = character
+    ? getCharacterName(character, locale)
+    : qrcode.characterName;
 
   // Reset image index and loading state when post changes
   useEffect(() => {
@@ -180,7 +188,7 @@ export default function Lightbox({ qrcode, qrcodes, onClose, onNavigate }: Light
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <span className="px-3 py-1 bg-blue-500 rounded-full text-sm font-medium">
-                {qrcode.characterName}
+                {characterName}
               </span>
               <span className="text-gray-400 text-sm">{qrcode.createDate}</span>
               {images.length > 1 && (

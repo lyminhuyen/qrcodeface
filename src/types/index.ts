@@ -19,8 +19,16 @@ export interface QRCode {
 export interface Character {
   id: string;
   name: string;
+  nameEN?: string;
+  nameVI?: string;
   nameCN: string;
   topicTag: string | null;
+}
+
+export function getCharacterName(character: Character, locale: 'vi' | 'en' | 'zh'): string {
+  if (locale === 'zh') return character.nameCN;
+  if (locale === 'vi') return character.nameVI || character.nameEN || character.name;
+  return character.nameEN || character.name;
 }
 
 export interface QRCodesData {

@@ -193,6 +193,7 @@ export default function Gallery({ qrcodes, characters }: GalleryProps) {
         <Lightbox
           qrcode={selectedQRCode}
           qrcodes={filteredQRCodes}
+          characters={characters}
           onClose={() => setSelectedQRCode(null)}
           onNavigate={setSelectedQRCode}
         />
