@@ -1,0 +1,157 @@
+{
+  "characters": [
+    {
+      "id": "tessa",
+      "name": "Tessa",
+      "nameCN": "玉玲珑",
+      "topicTag": "玉玲珑捏脸"
+    },
+    {
+      "id": "temulch",
+      "name": "Temulch",
+      "nameCN": "特木尔",
+      "topicTag": "特木尔捏脸",
+      "aliases": ["铁木真"]
+    },
+    {
+      "id": "matari",
+      "name": "Matari",
+      "nameCN": "迦南",
+      "topicTag": "迦南捏脸"
+    },
+    {
+      "id": "kurumi",
+      "name": "Kurumi",
+      "nameCN": "胡桃",
+      "topicTag": "胡桃捏脸",
+      "aliases": ["土御门胡桃"]
+    },
+    {
+      "id": "tianhai",
+      "name": "Tianhai",
+      "nameCN": "天海",
+      "topicTag": "天海捏脸"
+    },
+    {
+      "id": "valda-cui",
+      "name": "Valda Cui",
+      "nameCN": "崔三娘",
+      "topicTag": "崔三娘捏脸"
+    },
+    {
+      "id": "justina-gu",
+      "name": "Justina Gu",
+      "nameCN": "顾清寒",
+      "topicTag": "顾清寒捏脸",
+      "aliases": ["顾倾寒"]
+    },
+    {
+      "id": "wuchen",
+      "name": "Wuchen",
+      "nameCN": "无尘",
+      "topicTag": "无尘捏脸"
+    },
+    {
+      "id": "yueshan",
+      "name": "Yueshan",
+      "nameCN": "岳山",
+      "topicTag": "岳山捏脸"
+    },
+    {
+      "id": "takeda-nobutada",
+      "name": "Takeda Nobutada",
+      "nameCN": "武田信忠",
+      "topicTag": "武田信忠捏脸"
+    },
+    {
+      "id": "ziping-yin",
+      "name": "Ziping Yin",
+      "nameCN": "殷紫萍",
+      "topicTag": "殷紫萍捏脸"
+    },
+    {
+      "id": "feria-shen",
+      "name": "Feria Shen",
+      "nameCN": "沈妙",
+      "topicTag": "沈妙捏脸"
+    },
+    {
+      "id": "wei-qing",
+      "name": "Wei Qing",
+      "nameCN": "魏轻",
+      "topicTag": "魏轻捏脸"
+    },
+    {
+      "id": "lan-meng",
+      "name": "Lan Meng",
+      "nameCN": "蓝梦",
+      "topicTag": "蓝梦捏脸"
+    },
+    {
+      "id": "ji-yingying",
+      "name": "Ji Yingying",
+      "nameCN": "季莹莹",
+      "topicTag": "季莹莹捏脸"
+    },
+    {
+      "id": "xila",
+      "name": "Xila",
+      "nameCN": "席拉",
+      "topicTag": "席拉捏脸"
+    },
+    {
+      "id": "ning-hongye",
+      "name": "Ning Hongye",
+      "nameCN": "宁红夜",
+      "topicTag": "宁红夜捏脸"
+    },
+    {
+      "id": "hu-wei",
+      "name": "Hu Wei",
+      "nameCN": "胡为",
+      "topicTag": "胡为捏脸"
+    },
+    {
+      "id": "ji-canghai",
+      "name": "Ji Canghai",
+      "nameCN": "季沧海",
+      "topicTag": "季沧海捏脸"
+    },
+    {
+      "id": "zhang-qiling",
+      "name": "Zhang Qiling",
+      "nameCN": "张起灵",
+      "topicTag": "张起灵捏脸"
+    },
+    {
+      "id": "liu-lian",
+      "name": "Liu Lian",
+      "nameCN": "刘炼",
+      "topicTag": "刘炼捏脸"
+    },
+    {
+      "id": "wan-jun",
+      "name": "Wan Jun",
+      "nameCN": "万钧",
+      "topicTag": "万钧捏脸"
+    },
+    {
+      "id": "li-xunhuan",
+      "name": "Li Xunhuan",
+      "nameCN": "李寻欢",
+      "topicTag": "李寻欢捏脸"
+    },
+    {
+      "id": "hadi",
+      "name": "Hadi",
+      "nameCN": "哈迪",
+      "topicTag": "哈迪捏脸"
+    },
+    {
+      "id": "untagged",
+      "name": "Chưa phân loại",
+      "nameCN": "未分类",
+      "topicTag": null
+    }
+  ]
+}
