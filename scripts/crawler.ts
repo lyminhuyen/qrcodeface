@@ -30,7 +30,7 @@ if (TOPIC_NAME) {
   process.exit(1);
 }
 
-const MAX_SCROLL_COUNT = 100; // Số lần scroll để load thêm posts
+const MAX_SCROLL_COUNT = parseInt(process.env.MAX_SCROLL || '100'); // Số lần scroll để load thêm posts
 const SCROLL_DELAY = 2000; // ms
 
 // Paths
@@ -60,6 +60,16 @@ interface MediaItem {
   height: number;
 }
 
+interface UserInfo {
+  user: {
+    uid: string;
+    nick: string;
+    icon: string;
+  };
+}
+
+type UserInfoMap = Record<string, UserInfo>;
+
 interface Feed {
   id: string;
   uid: string;
@@ -85,6 +95,8 @@ interface ParsedQRCode {
   images: string[];
   qrCodes: QRCodeImage[];
   text: string;
+  userName: string;
+  userAvatar: string;
 }
 
 interface Character {
@@ -279,6 +291,7 @@ async function crawl() {
 
   const page = await browser.newPage();
   const feedsData: Feed[] = [];
+  const userInfosMap: UserInfoMap = {};
 
   // Intercept API responses
   page.on('response', async (response) => {
@@ -292,6 +305,18 @@ async function crawl() {
         if (json.result?.feeds) {
           log(`Captured ${json.result.feeds.length} feeds from API`);
           feedsData.push(...json.result.feeds);
+
+          // Capture userInfos (array) and convert to map by uid
+          if (json.result.userInfos && Array.isArray(json.result.userInfos)) {
+            let count = 0;
+            for (const info of json.result.userInfos) {
+              if (info.user?.uid) {
+                userInfosMap[info.user.uid] = info;
+                count++;
+              }
+            }
+            log(`Captured ${count} user infos`);
+          }
         }
       } catch {
         // Ignore non-JSON responses
@@ -320,9 +345,12 @@ async function crawl() {
 
   // Parse feeds
   log('Parsing feeds...');
+  log(`Total userInfos collected: ${Object.keys(userInfosMap).length}`);
   const parsedQRCodes: ParsedQRCode[] = feedsData.map((feed) => {
     const text = extractText(feed.content);
     const character = extractCharacter(feed.topicInfoList, text, characters);
+    // Get user info from userInfosMap using feed.uid
+    const userInfo = userInfosMap[feed.uid];
     return {
       id: feed.id,
       createTime: feed.createTime,
@@ -332,6 +360,8 @@ async function crawl() {
       images: extractImages(feed.content),
       qrCodes: extractQRCodes(feed.attributeInfoList),
       text: text,
+      userName: userInfo?.user?.nick || '',
+      userAvatar: userInfo?.user?.icon || '',
     };
   });
 

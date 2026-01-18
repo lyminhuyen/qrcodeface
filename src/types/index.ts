@@ -14,6 +14,8 @@ export interface QRCode {
   images: string[];
   qrCodes: QRCodeImage[];
   text: string;
+  userName?: string;
+  userAvatar?: string;
 }
 
 export interface Character {

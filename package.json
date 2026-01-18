@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "pkill -f 'next dev' 2>/dev/null; rm -rf .next/dev/lock 2>/dev/null; next dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "crawl": "npx tsx scripts/crawler.ts",
+    "crawl:all": "npx tsx scripts/crawl-all.ts",
     "merge": "npx tsx scripts/merge-qrcodes.ts"
   },
   "dependencies": {
