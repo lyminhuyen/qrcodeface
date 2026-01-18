@@ -8,7 +8,7 @@ export default function AboutPage() {
   const { t } = useLanguage();
 
   return (
-    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 flex flex-col">
+    <div className="min-h-screen bg-gray-50 dark:bg-gray-950 flex flex-col">
       {/* Menubar */}
       <Menubar />
 
@@ -24,7 +24,7 @@ export default function AboutPage() {
               {t('about.description')}
             </p>
 
-            <div className="mt-8 p-6 bg-white dark:bg-gray-800 rounded-xl shadow-lg">
+            <div className="mt-8 p-6 bg-white dark:bg-gray-900/50 rounded-xl shadow-lg border dark:border-gray-800">
               <h2 className="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">
                 Features
               </h2>

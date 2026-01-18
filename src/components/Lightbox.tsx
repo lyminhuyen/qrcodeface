@@ -104,11 +104,100 @@ export default function Lightbox({ qrcode, qrcodes, characters, onClose, onNavig
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [images.length, currentPostIndex, qrcodes.length, onClose]);
 
-  // Direct download - open in new tab (no fetch delay)
-  const handleDownload = () => {
-    const imageUrl = images[currentImageIndex];
-    if (imageUrl) {
-      window.open(imageUrl, '_blank');
+  // Download QR codes (or current image if QR is embedded)
+  const handleDownload = async () => {
+    // Get QR codes that have imgUrl (separate QR code images)
+    const validQRCodes = qrcode.qrCodes
+      .map((qr, index) => ({ qr, originalIndex: index }))
+      .filter(item => item.qr.imgUrl && item.qr.imgUrl.trim() !== '');
+
+    // Fallback: If no separate QR code images, download current displayed image
+    // (QR code might be embedded in the screenshot)
+    if (validQRCodes.length === 0) {
+      const currentImage = images[currentImageIndex];
+      if (!currentImage) {
+        alert('No images available to download');
+        return;
+      }
+
+      try {
+        const response = await fetch(currentImage, {
+          method: 'GET',
+          credentials: 'omit',
+          referrerPolicy: 'no-referrer',
+        });
+
+        if (!response.ok) {
+          window.open(currentImage, '_blank');
+          return;
+        }
+
+        const blob = await response.blob();
+        const blobUrl = window.URL.createObjectURL(blob);
+        const timestamp = Date.now();
+
+        const link = document.createElement('a');
+        link.href = blobUrl;
+        link.download = `${qrcode.characterName}_QRCode_${timestamp}.jpg`;
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+
+        setTimeout(() => window.URL.revokeObjectURL(blobUrl), 100);
+      } catch (error) {
+        console.error('Download failed:', error);
+        window.open(currentImage, '_blank');
+      }
+      return;
+    }
+
+    // Download each separate QR code image
+    for (let i = 0; i < validQRCodes.length; i++) {
+      const { qr, originalIndex } = validQRCodes[i];
+      const imageUrl = qr.imgUrl!;
+
+      try {
+        // Setup timeout for fetch
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 5000); // 5s timeout
+
+        const response = await fetch(imageUrl, {
+          method: 'GET',
+          credentials: 'omit',
+          referrerPolicy: 'no-referrer',
+          signal: controller.signal,
+        });
+
+        clearTimeout(timeoutId);
+
+        if (!response.ok) {
+          console.error(`Failed to download QR code ${i + 1}: ${qr.imgBtn}`);
+          continue;
+        }
+
+        const blob = await response.blob();
+        const blobUrl = window.URL.createObjectURL(blob);
+
+        const qrCodeName = qr.imgBtn.replace(/[/\\?%*:|"<>]/g, '-');
+        const timestamp = Date.now();
+
+        const link = document.createElement('a');
+        link.href = blobUrl;
+        link.download = `${qrcode.characterName}_${qrCodeName}_${timestamp}.jpg`;
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+
+        setTimeout(() => window.URL.revokeObjectURL(blobUrl), 100);
+
+        if (i < validQRCodes.length - 1) {
+          await new Promise(resolve => setTimeout(resolve, 300));
+        }
+      } catch (error) {
+        console.error(`Download failed for QR code "${qr.imgBtn}":`, error);
+        // Fallback to opening in new tab if fetch fails/timeouts
+        window.open(imageUrl, '_blank');
+      }
     }
   };
 
@@ -207,7 +296,10 @@ export default function Lightbox({ qrcode, qrcodes, characters, onClose, onNavig
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
               </svg>
-              Download
+              {(() => {
+                const qrCount = qrcode.qrCodes.filter(qr => qr.imgUrl).length;
+                return qrCount > 0 ? `Download QR (${qrCount})` : 'Download QR';
+              })()}
             </button>
           </div>
 

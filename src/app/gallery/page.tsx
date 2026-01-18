@@ -12,7 +12,7 @@ export default function GalleryPage() {
   const characters = (charactersData as CharactersData).characters;
 
   return (
-    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 flex flex-col">
+    <div className="min-h-screen bg-gray-50 dark:bg-gray-950 flex flex-col">
       {/* Menubar */}
       <Menubar />
 

@@ -1,8 +1,10 @@
 export interface QRCodeImage {
   imgName: string;
-  imgLocalName: string;
+  imgLocalName?: string;
   url: string;
   imgBtn: string;
+  imgUrl?: string;
+  errmsg?: string;
 }
 
 export interface QRCode {

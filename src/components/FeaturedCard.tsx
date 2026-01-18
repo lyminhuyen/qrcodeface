@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { QRCode, Character, getCharacterName } from '@/types';
 import { useLanguage } from '@/contexts/LanguageContext';
 import Lightbox from './Lightbox';
@@ -14,6 +14,7 @@ export default function FeaturedCard({ qrcodes, characters }: FeaturedCardProps)
   const { locale, t } = useLanguage();
   const [selectedImageIndex, setSelectedImageIndex] = useState(0);
   const [showLightbox, setShowLightbox] = useState(false);
+  const [isPaused, setIsPaused] = useState(false);
 
   // Get latest posts (excluding untagged)
   const latestPosts = useMemo(() => {
@@ -22,6 +23,17 @@ export default function FeaturedCard({ qrcodes, characters }: FeaturedCardProps)
       .sort((a, b) => b.createTime - a.createTime)
       .slice(0, 10);
   }, [qrcodes]);
+
+  // Auto-play carousel
+  useEffect(() => {
+    if (isPaused || latestPosts.length <= 1) return;
+
+    const interval = setInterval(() => {
+      setSelectedImageIndex((prev) => (prev + 1) % latestPosts.length);
+    }, 1500); // Change slide every 1.5 seconds
+
+    return () => clearInterval(interval);
+  }, [isPaused, latestPosts.length]);
 
   const selectedPost = latestPosts[selectedImageIndex];
 
@@ -39,7 +51,11 @@ export default function FeaturedCard({ qrcodes, characters }: FeaturedCardProps)
       </h2>
 
       {/* Glassmorphism Container */}
-      <div className="relative bg-white/10 dark:bg-white/5 backdrop-blur-lg rounded-2xl border border-white/20 dark:border-white/10 p-6 shadow-xl">
+      <div
+        className="relative bg-white/10 dark:bg-white/5 backdrop-blur-lg rounded-2xl border border-white/20 dark:border-white/10 p-6 shadow-xl"
+        onMouseEnter={() => setIsPaused(true)}
+        onMouseLeave={() => setIsPaused(false)}
+      >
         <div className="flex flex-col md:flex-row gap-6">
           {/* Main Image */}
           <div
@@ -101,11 +117,10 @@ export default function FeaturedCard({ qrcodes, characters }: FeaturedCardProps)
               <button
                 key={post.id}
                 onClick={() => setSelectedImageIndex(index)}
-                className={`flex-shrink-0 w-16 h-16 rounded-lg overflow-hidden border-2 transition-all ${
-                  index === selectedImageIndex
-                    ? 'border-blue-500 scale-105'
-                    : 'border-transparent opacity-70 hover:opacity-100'
-                }`}
+                className={`flex-shrink-0 w-16 h-16 rounded-lg overflow-hidden border-2 transition-all ${index === selectedImageIndex
+                  ? 'border-blue-500 scale-105'
+                  : 'border-transparent opacity-70 hover:opacity-100'
+                  }`}
                 title={postChar ? getCharacterName(postChar, locale) : post.characterName}
               >
                 {post.images[0] ? (

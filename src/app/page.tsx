@@ -15,7 +15,7 @@ export default function Home() {
   const characters = (charactersData as CharactersData).characters;
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-50 via-white to-blue-50 dark:from-gray-900 dark:via-gray-900 dark:to-gray-800">
+    <div className="min-h-screen bg-gradient-to-br from-purple-50 via-white to-blue-50 dark:from-gray-950 dark:via-gray-950 dark:to-gray-900">
       <Menubar />
 
       {/* Hero Section */}

@@ -13,15 +13,15 @@ export default function ImageCard({ qrcode, onClick }: ImageCardProps) {
 
   return (
     <div
-      className="group relative bg-gray-100 rounded-lg overflow-hidden cursor-pointer hover:shadow-lg transition-shadow"
+      className="group relative bg-gray-100 dark:bg-gray-800 rounded-lg overflow-hidden cursor-pointer hover:shadow-lg transition-shadow"
       onClick={onClick}
     >
       {/* Thumbnail */}
       <div className="aspect-square relative">
         {isVideo ? (
-          <div className="w-full h-full flex items-center justify-center bg-gray-200">
+          <div className="w-full h-full flex items-center justify-center bg-gray-200 dark:bg-gray-700">
             <svg
-              className="w-12 h-12 text-gray-400"
+              className="w-12 h-12 text-gray-400 dark:text-gray-500"
               fill="currentColor"
               viewBox="0 0 24 24"
             >
@@ -38,8 +38,8 @@ export default function ImageCard({ qrcode, onClick }: ImageCardProps) {
             referrerPolicy="no-referrer"
           />
         ) : (
-          <div className="w-full h-full flex items-center justify-center bg-gray-200">
-            <span className="text-gray-400">No image</span>
+          <div className="w-full h-full flex items-center justify-center bg-gray-200 dark:bg-gray-700">
+            <span className="text-gray-400 dark:text-gray-500">No image</span>
           </div>
         )}
       </div>
@@ -50,11 +50,10 @@ export default function ImageCard({ qrcode, onClick }: ImageCardProps) {
       {/* Character badge */}
       <div className="absolute top-2 left-2">
         <span
-          className={`px-2 py-1 text-xs font-medium rounded-full ${
-            qrcode.characterId === 'untagged'
+          className={`px-2 py-1 text-xs font-medium rounded-full ${qrcode.characterId === 'untagged'
               ? 'bg-gray-500 text-white'
               : 'bg-blue-500 text-white'
-          }`}
+            }`}
         >
           {qrcode.characterName}
         </span>

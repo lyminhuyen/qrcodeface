@@ -32,11 +32,10 @@ export default function Menubar() {
   return (
     <div className="sticky top-0 z-50 w-full p-4">
       <nav
-        className={`max-w-6xl mx-auto px-6 py-3 transition-all ${
-          isDark
-            ? 'bg-gradient-to-r from-indigo-900 via-purple-900 to-indigo-900 rounded-full shadow-2xl'
-            : 'bg-white border-2 border-purple-400 rounded-xl shadow-lg'
-        }`}
+        className={`max-w-6xl mx-auto px-6 py-3 transition-all ${isDark
+            ? 'bg-white/5 backdrop-blur-lg border border-white/10 rounded-full shadow-2xl'
+            : 'bg-white/80 backdrop-blur-lg border border-gray-200/50 rounded-full shadow-lg'
+          }`}
       >
         <div className="flex items-center justify-between">
           {/* Left: Logo + Title */}
@@ -63,15 +62,14 @@ export default function Menubar() {
               <Link
                 key={item.href}
                 href={item.href}
-                className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${
-                  pathname === item.href
-                    ? isDark
-                      ? 'bg-white/20 text-white'
-                      : 'bg-purple-500 text-white'
-                    : isDark
+                className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${pathname === item.href
+                  ? isDark
+                    ? 'bg-white/20 text-white'
+                    : 'bg-purple-500 text-white'
+                  : isDark
                     ? 'text-white/80 hover:bg-white/10 hover:text-white'
                     : 'text-gray-700 hover:bg-purple-100'
-                }`}
+                  }`}
               >
                 {item.label}
               </Link>
@@ -84,11 +82,10 @@ export default function Menubar() {
             <div className="relative">
               <button
                 onClick={() => setLangOpen(!langOpen)}
-                className={`flex items-center gap-1 px-3 py-2 rounded-full text-sm transition-all ${
-                  isDark
-                    ? 'bg-white/10 hover:bg-white/20 text-white'
-                    : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
-                }`}
+                className={`flex items-center gap-1 px-3 py-2 rounded-full text-sm transition-all ${isDark
+                  ? 'bg-white/10 hover:bg-white/20 text-white'
+                  : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
+                  }`}
               >
                 <span className="text-lg">{currentLang.flag}</span>
                 <span className="hidden sm:inline">{currentLang.label}</span>
@@ -103,9 +100,8 @@ export default function Menubar() {
                     className="fixed inset-0 z-10"
                     onClick={() => setLangOpen(false)}
                   />
-                  <div className={`absolute right-0 mt-2 w-32 rounded-xl shadow-xl z-20 overflow-hidden ${
-                    isDark ? 'bg-gray-800' : 'bg-white'
-                  }`}>
+                  <div className={`absolute right-0 mt-2 w-32 rounded-xl shadow-xl z-20 overflow-hidden ${isDark ? 'bg-gray-800' : 'bg-white'
+                    }`}>
                     {languages.map((lang) => (
                       <button
                         key={lang.code}
@@ -113,15 +109,13 @@ export default function Menubar() {
                           setLocale(lang.code);
                           setLangOpen(false);
                         }}
-                        className={`w-full flex items-center gap-2 px-4 py-2 text-sm transition-colors ${
-                          locale === lang.code
-                            ? isDark ? 'bg-gray-700' : 'bg-gray-100'
-                            : ''
-                        } ${
-                          isDark
+                        className={`w-full flex items-center gap-2 px-4 py-2 text-sm transition-colors ${locale === lang.code
+                          ? isDark ? 'bg-gray-700' : 'bg-gray-100'
+                          : ''
+                          } ${isDark
                             ? 'text-gray-200 hover:bg-gray-700'
                             : 'text-gray-800 hover:bg-gray-100'
-                        }`}
+                          }`}
                       >
                         <span className="text-lg">{lang.flag}</span>
                         <span>{lang.label}</span>
@@ -135,11 +129,10 @@ export default function Menubar() {
             {/* Theme Toggle */}
             <button
               onClick={toggleTheme}
-              className={`p-2 rounded-full transition-all ${
-                isDark
-                  ? 'bg-white/10 hover:bg-white/20 text-yellow-300'
-                  : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
-              }`}
+              className={`p-2 rounded-full transition-all ${isDark
+                ? 'bg-white/10 hover:bg-white/20 text-yellow-300'
+                : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
+                }`}
               aria-label="Toggle theme"
             >
               {isDark ? (
@@ -152,11 +145,10 @@ export default function Menubar() {
             {/* Mobile Menu Button */}
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className={`md:hidden p-2 rounded-full transition-all ${
-                isDark
-                  ? 'bg-white/10 hover:bg-white/20 text-white'
-                  : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
-              }`}
+              className={`md:hidden p-2 rounded-full transition-all ${isDark
+                ? 'bg-white/10 hover:bg-white/20 text-white'
+                : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
+                }`}
               aria-label="Toggle menu"
             >
               {mobileMenuOpen ? (
@@ -177,15 +169,14 @@ export default function Menubar() {
                   key={item.href}
                   href={item.href}
                   onClick={() => setMobileMenuOpen(false)}
-                  className={`px-4 py-2 rounded-full text-sm font-medium transition-all text-center ${
-                    pathname === item.href
-                      ? isDark
-                        ? 'bg-white/20 text-white'
-                        : 'bg-purple-500 text-white'
-                      : isDark
+                  className={`px-4 py-2 rounded-full text-sm font-medium transition-all text-center ${pathname === item.href
+                    ? isDark
+                      ? 'bg-white/20 text-white'
+                      : 'bg-purple-500 text-white'
+                    : isDark
                       ? 'text-white/80 hover:bg-white/10 hover:text-white'
                       : 'text-gray-700 hover:bg-purple-100'
-                  }`}
+                    }`}
                 >
                   {item.label}
                 </Link>
