@@ -32,7 +32,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# documentation & logs
+# documentation & logs (local only)
 docs/
 journal/
 logs/
@@ -41,3 +41,6 @@ source_web2.md
 CLAUDE.md
 claude_workflow/
 README.md
+
+# claude code
+.claude/
