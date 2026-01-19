@@ -81,12 +81,22 @@ export default function FeaturedCard({ qrcodes, characters }: FeaturedCardProps)
           <div className="flex-1 flex flex-col justify-between">
             <div>
               <div className="flex items-center gap-3 mb-2">
-                <div className="w-10 h-10 rounded-full bg-blue-500 flex items-center justify-center text-white font-bold">
-                  {characterName.charAt(0)}
-                </div>
+                {selectedPost.userAvatar ? (
+                  /* eslint-disable-next-line @next/next/no-img-element */
+                  <img
+                    src={selectedPost.userAvatar}
+                    alt={selectedPost.userName || 'User'}
+                    className="w-10 h-10 rounded-full object-cover"
+                    referrerPolicy="no-referrer"
+                  />
+                ) : (
+                  <div className="w-10 h-10 rounded-full bg-blue-500 flex items-center justify-center text-white font-bold">
+                    {(selectedPost.userName || characterName).charAt(0)}
+                  </div>
+                )}
                 <div>
                   <h3 className="font-semibold text-gray-800 dark:text-gray-200">
-                    {characterName}
+                    {selectedPost.userName || characterName}
                   </h3>
                   <p className="text-sm text-gray-500 dark:text-gray-400">
                     {selectedPost.createDate}
