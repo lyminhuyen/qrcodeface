@@ -5,6 +5,9 @@ on:
     - cron: '0 2 * * *'  # 2:00 AM UTC daily (9:00 AM Vietnam)
   workflow_dispatch:      # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
