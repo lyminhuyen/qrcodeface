@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-01-26T04:16:25.416Z",
+  "lastUpdated": "2026-01-27T04:07:19.665Z",
   "source": "岳山捏脸",
   "totalCount": 798,
   "qrcodes": [
+    {
+      "id": "69772b77d085d23f358ce36c",
+      "createTime": 1769417587806,
+      "createDate": "2026-01-26",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260126_475b96f35c197ac0566f73ef25245596",
+        "https://ok.166.net/reunionpub/1_kol_20260126_7d3fd70ff79c539bae8b7b5b2bee46d5",
+        "https://ok.166.net/reunionpub/1_kol_20260126_377be0b1959ad9bc5a74af808b06d8e4",
+        "https://ok.166.net/reunionpub/1_kol_20260126_94289a75f084d8bffe749ba40f285ab9"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260126_d4a81d5ce258d9b14aae75021557ed3d",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69772880745ea9544ba68b18"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【岳山捏脸x归义】 | 无偿数据分享\n----好久没有捏 归义这一套了\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n\n#永劫无间捏脸站# #岳山捏脸# #永劫无间#  #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "696ddf895d967a2dacfc20f1",
       "createTime": 1768808253686,
@@ -4730,7 +4761,7 @@
       ],
       "text": "【战曜】\n岳山捏脸分享\n\n嘹亮战歌，曜曜长空\n\n#永劫无间闲聊#\n#永劫无间捏脸站#\n#岳山捏脸#",
       "userName": "昆西阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250801_19863bc5f15700868.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260126_19bf9b0761f750186.jpeg"
     },
     {
       "id": "66e7e50a941afc6ff380ab24",
@@ -16288,28 +16319,6 @@
       "text": "#岳山捏脸# 岳山捏脸：宙斯",
       "userName": "冥颂",
       "userAvatar": "https://ok.166.net/reunionpub/3_20210809_17b29f1aaf3334723.jpeg"
-    },
-    {
-      "id": "61c5b581c5a3250001c42b22",
-      "createTime": 1640347009389,
-      "createDate": "2021-12-24",
-      "characterId": "yueshan",
-      "characterName": "Yueshan",
-      "images": [
-        "https://ok.166.net/reunionpub/ds/kol/20211224/195003-ljecihv1ou.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20211224/195005-a1or4t2zsg.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20211224/195009-ri43hgovnu.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20211224/195011-ishec16t58.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20211224/195012-brs4wfocyu.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20211224/195012-p0zg76dch4.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20211224/195013-dzm2vgria7.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20211224/195014-hf7cvsbst8.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20211224/195015-2qk76gfsv4.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#飞利浦显示器捏脸大赛#“百变剑圣，相随心生”《魔气类》\n⚡参赛作品：【岳山-邪曵】\n⚡设计理念：有没有一种邪魅之气 即可灭人于无形。😏\n\n🔥此款数据哒哒将无偿献祭送给大神的粉粉们 喜欢的粉宝们老规矩【关注+点赞/转发+评论 私我截图取码】🔥\n\n#永劫无间捏脸站##岳山捏脸#",
-      "userName": "一隻哒哒捏脸",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20220902_182fba562a5105514.png"
     }
   ]
 }

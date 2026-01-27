@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-01-26T04:00:23.259Z",
+  "lastUpdated": "2026-01-27T03:51:18.258Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 588,
+  "totalCount": 586,
   "qrcodes": [
+    {
+      "id": "6976e6cf07a8752508f1f6f3",
+      "createTime": 1769400005500,
+      "createDate": "2026-01-26",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260126_3d48e5ce081d7215ca0598f3af15265d",
+        "https://ok.166.net/reunionpub/1_kol_20260126_7e549790d80c07c1e6c1147375bd1ec4",
+        "https://ok.166.net/reunionpub/1_kol_20260126_907ea2c3b97b065560fd8e8546f6b7dc"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260126_5f3cc8880b8977ea4b9c6245f08f74d3",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=697682520186943fc22fc9c5"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260126_5cee12cd2e272655ddceaa9e3386d293",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=697682520186943fc22fc9c5"
+        }
+      ],
+      "text": "玉玲珑[玉髓]\n玉玲珑通行证捏脸，左下角可以直接保存哦。\n#永劫无间# #玉玲珑捏脸# #永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "6973570a07a8752508e9a8c6",
       "createTime": 1769166599402,
@@ -14403,52 +14434,6 @@
       "text": "玉玲珑捏脸【露华】\n突然觉得小麦色皮肤感觉好有韵味！！！\n#永劫无间捏脸站##永劫新皮肤捏脸##玉玲珑捏脸#",
       "userName": "纱田奈",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230819_18a0c72b161826665.jpeg"
-    },
-    {
-      "id": "659586640c0cf9000107628c",
-      "createTime": 1704298084608,
-      "createDate": "2024-01-03",
-      "characterId": "tessa",
-      "characterName": "Tessa",
-      "images": [
-        "https://ok.166.net/reunionpub/ds/kol/20240102/170754-36bs9fuze1.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20240102/170758-kjf2ad3y49.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20240102/170804-u6v10i7dqs.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "◆ 小桃子免费【玉玲珑：凤鸢】 ◆\n祝大家2024快乐~\n【划重点】关注桃子获取更多福利捏脸哦！\n【获取】最后一张图自取，喜欢给桃子四连哦！\n【什么是四连】点赞+关注+转发+评论（小可爱要是想躲懒也可以关注+点赞啦）\n【大声讲重点】数据是原创数据，禁止二传二改商用盗卖！！\n桃子跳起来给你个大么么\n#永劫无间捏脸站# #永劫无间# #玉玲珑捏脸#",
-      "userName": "小桃子原创捏脸",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20221229_1855a0d6e7e808395.jpeg"
-    },
-    {
-      "id": "65943a1c92740500012e56f3",
-      "createTime": 1704213020439,
-      "createDate": "2024-01-02",
-      "characterId": "tessa",
-      "characterName": "Tessa",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20240103_18ccb022df7750244.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "-玉玲珑免费捏脸「狐仙」\n-捏脸数据在动态里自取，点击图片左下角一键导入游戏（记得预留空位），评论区欢迎投稿和提出修改意见，喜欢记得给俺三连哦#永劫无间捏脸站##永劫无间# #玉玲珑捏脸#",
-      "userName": "承枳",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250315_1959923e2a8963995.jpeg"
-    },
-    {
-      "id": "6594355d8cf24200014903ca",
-      "createTime": 1704211805411,
-      "createDate": "2024-01-02",
-      "characterId": "tessa",
-      "characterName": "Tessa",
-      "images": [
-        "https://ok.166.net/reunionpub/ds/kol/20240102/170347-zktnq30mfl.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20240102/170350-iofsau809d.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20240102/170354-y4vesfurzn.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "◆ 小桃子免费【玉玲珑：妮子】 ◆\n祝大家2024快乐~\n【划重点】关注桃子获取更多福利捏脸哦！\n【获取】最后一张图自取，喜欢给桃子四连哦！\n【什么是四连】点赞+关注+转发+评论（小可爱要是想躲懒也可以关注+点赞啦）\n【大声讲重点】数据是原创数据，禁止二传二改商用盗卖！！\n桃子跳起来给你个大么么\n#永劫无间捏脸站# #永劫无间# #玉玲珑捏脸#",
-      "userName": "小桃子原创捏脸",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20221229_1855a0d6e7e808395.jpeg"
     }
   ]
 }
