@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-01-28T04:27:43.610Z",
+  "lastUpdated": "2026-01-29T04:49:58.115Z",
   "source": "刘炼捏脸",
-  "totalCount": 206,
+  "totalCount": 207,
   "qrcodes": [
+    {
+      "id": "6979f8f048b20048de464b44",
+      "createTime": 1769601257700,
+      "createDate": "2026-01-28",
+      "characterId": "liu-lian",
+      "characterName": "Liu Lian",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260128_d5e8ec791e18c40c1cb0c1c4827f5e21",
+        "https://ok.166.net/reunionpub/1_kol_20260128_5cc879cdfca5275c6d690d5d11d8beee"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260128_bed11922ea55b539af1cb3cd8b68097f",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6979bdbf093b37370e6cdb27"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260128_12cf50b7a73ef4cc8024a9a0048442c4",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6979bdbf093b37370e6cdb27"
+        }
+      ],
+      "text": "刘炼[平乐]\n左下角可以直接导入哦。\n#永劫无间##刘炼捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "6977372e5d967a2dac14389c",
       "createTime": 1769420267066,

@@ -1,8 +1,37 @@
 {
-  "lastUpdated": "2026-01-28T03:48:32.861Z",
+  "lastUpdated": "2026-01-29T04:10:35.402Z",
   "source": "玉玲珑捏脸",
   "totalCount": 586,
   "qrcodes": [
+    {
+      "id": "69793746377e0713642bdb1b",
+      "createTime": 1769551657776,
+      "createDate": "2026-01-27",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260128_f012abb7648f99418c5bb73e9ea3b29a",
+        "https://ok.166.net/reunionpub/1_kol_20260128_d5aad8c3fc328bb5b264aea5d16ad29c"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260128_0490818e138effe9db907606b7bc0662",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6979365882b7416f9a2461e0"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【玉玲珑·华贵】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##玉玲珑捏脸#",
+      "userName": "怎知榆晚",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250514_196cdf649d2519725.jpeg"
+    },
     {
       "id": "6976e6cf07a8752508f1f6f3",
       "createTime": 1769400005500,
@@ -14418,22 +14447,6 @@
       "text": "【玉玲珑捏脸】花灵\n#玉玲珑捏脸##永劫无间捏脸站##永劫新皮肤捏脸#",
       "userName": "高级护甲粉末",
       "userAvatar": "https://ok.166.net/reunionpub/3_20251210_19b05500f79348617.jpeg"
-    },
-    {
-      "id": "6596812f6a5ced00010e0100",
-      "createTime": 1704362287665,
-      "createDate": "2024-01-04",
-      "characterId": "untagged",
-      "characterName": "Chưa phân loại",
-      "images": [
-        "https://ok.166.net/reunionpub/ds/kol/20240104/175353-n8k1sujyp9.png",
-        "https://ok.166.net/reunionpub/ds/kol/20240104/175409-05del4gkbm.png",
-        "https://ok.166.net/reunionpub/ds/kol/20240104/175412-1fsano97mg.png"
-      ],
-      "qrCodes": [],
-      "text": "玉玲珑捏脸【露华】\n突然觉得小麦色皮肤感觉好有韵味！！！\n#永劫无间捏脸站##永劫新皮肤捏脸##玉玲珑捏脸#",
-      "userName": "纱田奈",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230819_18a0c72b161826665.jpeg"
     }
   ]
 }
