@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-01-29T04:44:09.129Z",
+  "lastUpdated": "2026-01-30T04:45:48.617Z",
   "source": "胡为捏脸",
-  "totalCount": 359,
+  "totalCount": 360,
   "qrcodes": [
+    {
+      "id": "697b24bdce88f93d452fd53a",
+      "createTime": 1769678010373,
+      "createDate": "2026-01-29",
+      "characterId": "hu-wei",
+      "characterName": "Hu Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260129_d0482dbe510ac0a8413bc7aa9839e3c8",
+        "https://ok.166.net/reunionpub/1_kol_20260129_007314d5f704091c809346727ae0d374",
+        "https://ok.166.net/reunionpub/1_kol_20260129_4b5159f33b31e09a8da0b67cc40c5fb2"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260129_4cd87041e2e91a4dad34a1240a37458e",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=697b145c093b37370e6cf4af"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡为捏脸x影舞】 | 免费数据分享\n----格外喜欢胡为的这套穿搭\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n\n#永劫无间捏脸站# #胡为捏脸# #永劫无间#  #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6968432067b5a377008479c6",
       "createTime": 1768440605095,
