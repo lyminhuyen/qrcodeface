@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-01-31T04:34:25.820Z",
+  "lastUpdated": "2026-02-01T04:58:45.167Z",
   "source": "蓝梦捏脸",
-  "totalCount": 293,
+  "totalCount": 294,
   "qrcodes": [
+    {
+      "id": "697c708107799631fd5af05b",
+      "createTime": 1769762941646,
+      "createDate": "2026-01-30",
+      "characterId": "lan-meng",
+      "characterName": "Lan Meng",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260130_063ee2c5077fe0195955e8586cc5760f",
+        "https://ok.166.net/reunionpub/1_kol_20260130_72d071d2505a8ed5bf6bd563cf134ff9"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260130_ea212715bfacc1a02ed6d0098bc5878c",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=697b73860186943fc2301f88"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260130_f0e9af313a58f7d3ad03c2d766566e91",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=697b73860186943fc2301f88"
+        }
+      ],
+      "text": "《硬 劫 无 间》全员硬化——蓝梦\n图2就是捏脸码\n喜欢的下小伙伴可以点赞关注转发自取\n#永劫无间捏脸站# #完美下颌线# #蓝梦捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "697989cd0bccd33782b090e3",
       "createTime": 1769572805096,

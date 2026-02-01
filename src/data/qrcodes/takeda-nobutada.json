@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-01-31T04:26:38.986Z",
+  "lastUpdated": "2026-02-01T04:50:43.694Z",
   "source": "武田信忠捏脸",
-  "totalCount": 500,
+  "totalCount": 501,
   "qrcodes": [
+    {
+      "id": "697c7144362c5408887c4f9a",
+      "createTime": 1769763137279,
+      "createDate": "2026-01-30",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260130_2daa418ff6d0bd7513658fab736cfab8",
+        "https://ok.166.net/reunionpub/1_kol_20260130_b2b7ad92b6ca6a18befb71e55542336d"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260130_f0abaf4fd7e5e39aa17be87d8a568ead",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6970b8e682b7416f9a23b289"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260130_a84b3f643d2142fd060c9f7ce294749b",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6970b8e682b7416f9a23b289"
+        }
+      ],
+      "text": "《硬 劫 无 间》全员硬化——武田信忠\n图2就是捏脸码\n喜欢的下小伙伴可以点赞关注转发自取\n#永劫无间捏脸站# #完美下颌线# #武田信忠捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "6964ba1710e7751f6ec500d2",
       "createTime": 1768208917852,
