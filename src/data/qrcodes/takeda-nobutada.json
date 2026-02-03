@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-02-02T04:45:09.708Z",
+  "lastUpdated": "2026-02-03T04:35:58.266Z",
   "source": "武田信忠捏脸",
-  "totalCount": 501,
+  "totalCount": 502,
   "qrcodes": [
+    {
+      "id": "697f0fb8446d2a17e79e3bfc",
+      "createTime": 1769934693058,
+      "createDate": "2026-02-01",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260201_b9c91c4d64340746212b6205810589db",
+        "https://ok.166.net/reunionpub/1_kol_20260201_54cff54114a7108aa83dcc9a58624107",
+        "https://ok.166.net/reunionpub/1_kol_20260201_fa7c89c38bcd8de3a7b0e466139112a2"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260201_5bc84125ab9266ca74e189eaa8386da1",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=697ef91e82b7416f9a24dbf6"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【武田信忠捏脸x神 海】 | 免费数据分享\n----新联动带一带 老师傅吧\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n\n#永劫无间捏脸站# #武田信忠捏脸# #永劫无间#  #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "697c7144362c5408887c4f9a",
       "createTime": 1769763137279,
