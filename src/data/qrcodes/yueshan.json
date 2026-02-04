@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-02-03T04:33:58.605Z",
+  "lastUpdated": "2026-02-04T04:29:54.024Z",
   "source": "岳山捏脸",
   "totalCount": 779,
   "qrcodes": [
+    {
+      "id": "6980d2fe4ff59464a0279564",
+      "createTime": 1770050294281,
+      "createDate": "2026-02-02",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260203_019ab1c550a078a5cc380f655af34579",
+        "https://ok.166.net/reunionpub/1_kol_20260203_475d16afc28e993ecc880f81b3b4286a",
+        "https://ok.166.net/reunionpub/1_kol_20260203_78899d7816ddcef86ac13b85c59549eb"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260203_8fd94fa4f7e147aadf2b6d6a8e344dbd",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6980bb320186943fc23099f3"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "瞬【岳山】捏脸码在图三\n点击进贴下方按钮 快速导入同款数据\n‎💗‎（记得关注点赞分享哦，谢谢）‎💗（ღ( ´･ᴗ･` )比心）\n#永劫无间##永劫无间捏脸站##岳山捏脸#",
+      "userName": "星野织呀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250904_19910dd0e22102142.jpeg"
+    },
     {
       "id": "69772b77d085d23f358ce36c",
       "createTime": 1769417587806,
@@ -15932,27 +15962,6 @@
       "text": "#岳山捏脸# #永劫无间捏脸站# #永劫无间# \n狗哥原创岳山捏脸【鲁克】 庆祝永劫新年🧧自己拿\n获取方式:第三张图自取使用\n喜欢狗哥捏脸的可以给个点赞+评论+关注吗😁",
       "userName": "神秘狗剩",
       "userAvatar": "https://ok.166.net/reunionpub/3_20210802_17b04358bf2258764.png"
-    },
-    {
-      "id": "61deb9b6a1ca5400012d9d9a",
-      "createTime": 1641986486877,
-      "createDate": "2022-01-12",
-      "characterId": "yueshan",
-      "characterName": "Yueshan",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20220112_17e4e0562e7392057.jpeg",
-        "https://ok.166.net/reunionpub/1_20220112_17e4e0562e7523840.png",
-        "https://ok.166.net/reunionpub/1_20220112_17e4e0562e7550163.jpeg",
-        "https://ok.166.net/reunionpub/1_20220112_17e4e0562e7115528.jpeg",
-        "https://ok.166.net/reunionpub/1_20220112_17e4e0562e7971915.jpg",
-        "https://ok.166.net/reunionpub/1_20220112_17e4e0562e7173550.jpeg",
-        "https://ok.166.net/reunionpub/1_20220112_17e4e0562e7154278.jpeg",
-        "https://ok.166.net/reunionpub/1_20220112_17e4e0562e7867142.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "🐴免费分享【岳山-阎】🐴\n#永劫无间捏脸站##永劫无间##岳山捏脸# \n🐴图自取 🐴\n🐴换脸方法？自己学🙂別问🐴",
-      "userName": "硬核大叔捏脸",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20220707_181d4c5f1b7683418.jpeg"
     }
   ]
 }
