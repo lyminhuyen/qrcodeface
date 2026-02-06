@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-02-05T04:54:51.641Z",
+  "lastUpdated": "2026-02-06T04:57:20.255Z",
   "source": "张起灵捏脸",
-  "totalCount": 212,
+  "totalCount": 213,
   "qrcodes": [
+    {
+      "id": "698440586dd55a5e5e50ddcf",
+      "createTime": 1770274901843,
+      "createDate": "2026-02-05",
+      "characterId": "zhang-qiling",
+      "characterName": "Zhang Qiling",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260205_d4dfc7cfb0279e84b141bd55b19d172e",
+        "https://ok.166.net/reunionpub/1_kol_20260205_5ccee81e31996442665b6b5f0eaa1599",
+        "https://ok.166.net/reunionpub/1_kol_20260205_896e839afd72f973f71c7d88880c8fa1"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260205_47caf5430ea9ded1df1c13ee82e10991",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69843d47093b37370e6dc75f"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260205_3d56c0b69cdc2f8c3f06699043c1b0c2",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69843d47093b37370e6dc75f"
+        }
+      ],
+      "text": "张起灵捏脸｜06\n最适合双枪的一套帅帅衣服！给张起灵捏了一个动漫少年脸。嘻嘻\n捏脸导入指引：捏脸码在图3\n点开捏脸码大图长按保存到手机后发布在评论区点开即可识别 发色同码\n喜欢的朋友请多多点赞评论关注支持小姜~\n#永劫无间# #永劫无间捏脸站# #张起灵捏脸#",
+      "userName": "一头阿姜姜",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251115_19a85eccd0d185582.jpeg"
+    },
     {
       "id": "6981ca2b20438b1f9e278706",
       "createTime": 1770113573634,

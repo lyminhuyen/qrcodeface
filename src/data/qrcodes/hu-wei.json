@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-02-05T04:51:00.126Z",
+  "lastUpdated": "2026-02-06T04:53:22.695Z",
   "source": "胡为捏脸",
-  "totalCount": 364,
+  "totalCount": 365,
   "qrcodes": [
+    {
+      "id": "6984344e8dde0a1bc755afb0",
+      "createTime": 1770271820006,
+      "createDate": "2026-02-05",
+      "characterId": "hu-wei",
+      "characterName": "Hu Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260205_0dacd14b059b43ce176a79f973d3cbae",
+        "https://ok.166.net/reunionpub/1_kol_20260205_0adc52d49b32133051fa95f16abf0a25",
+        "https://ok.166.net/reunionpub/1_kol_20260205_bfe9ca963778259d728a165a540bb255",
+        "https://ok.166.net/reunionpub/1_kol_20260205_4f0bfaacfbf8725f27cfc277430170c1"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260205_143d60bfd0e923daf398937488d52627",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69843053745ea9544ba7a0f4"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡为捏脸x剑首】 | 无偿数据分享\n----无面纹版在图三\n观山海曾经是最喜欢的胡为皮肤\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n\n#永劫无间捏脸站# #胡为捏脸# #永劫无间#  #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "697e230407799631fd5c2d95",
       "createTime": 1769874175965,
