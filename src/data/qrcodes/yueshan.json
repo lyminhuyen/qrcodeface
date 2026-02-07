@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-02-06T04:35:02.629Z",
+  "lastUpdated": "2026-02-07T04:27:43.524Z",
   "source": "岳山捏脸",
   "totalCount": 798,
   "qrcodes": [
+    {
+      "id": "6985a808e75b565fca541fbb",
+      "createTime": 1770366980324,
+      "createDate": "2026-02-06",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260206_9141ede1dae8d5a09f8f0adf4d7503ff",
+        "https://ok.166.net/reunionpub/1_kol_20260206_53c0bc4d0d4eb2b8cf22761b14edbede",
+        "https://ok.166.net/reunionpub/1_kol_20260206_9929199c3bce9eceffdf5b48d4e77036",
+        "https://ok.166.net/reunionpub/1_kol_20260206_b269435e15b83e3136a99f2a370174bc"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260206_70d31df5522b39d7d8fc4ed62005492a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=698440da0186943fc230e809"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "岳山捏脸【双极】\n捏脸点进帖子导入 国际服最后一张~\n我们岳山宝宝也是穿上谪星了\n喜欢的宝宝别忘了三连支持哦~\n#永劫无间##永劫无间捏脸站##岳山捏脸#",
+      "userName": "纱田奈",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230819_18a0c72b161826665.jpeg"
+    },
     {
       "id": "698444dddca1b62657c3ee59",
       "createTime": 1770276058796,
@@ -16340,28 +16371,6 @@
       "text": "✨【岳山 | 血雨】记忆捏脸免费数据&新年一月捏脸碎片🤔\n——天地孤影任我行，世事苍茫成云烟，喜欢捏脸是个偶然🤔\n\n⭐【获取方式】⭐\n❤此捏脸属于「无偿」，原创不易，喜欢的小伙伴多多点赞+评论+关注支持一下❤️捏脸数据P1自取【保存图片为png格式 游戏内导入即可】，有任何导入问题【见评论区的详细导入教程】\n\n🔥捏脸数据为大神平台独发，数据受大神官方保护，未经授权不得转载任何平台，禁止任何形式的二传二改倒卖商用行为，违者追究到底，随缘更新，我们很快再见❤❤❤\n\n#永劫无间捏脸站# #永劫星计划# #岳山捏脸#",
       "userName": "就以记忆唱下去",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
-    },
-    {
-      "id": "61d15cbe880c71000108cc3a",
-      "createTime": 1641110718753,
-      "createDate": "2022-01-02",
-      "characterId": "yueshan",
-      "characterName": "Yueshan",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20220102_17e19d22c31629930.png",
-        "https://ok.166.net/reunionpub/1_20220102_17e19d22c31251750.jpeg",
-        "https://ok.166.net/reunionpub/1_20220102_17e19d22c31276031.png",
-        "https://ok.166.net/reunionpub/1_20220102_17e19d22c31935948.png",
-        "https://ok.166.net/reunionpub/1_20220102_17e19d22c31507364.png",
-        "https://ok.166.net/reunionpub/1_20220102_17e19d22c31769826.png",
-        "https://ok.166.net/reunionpub/1_20220102_17e19d22c31979223.png",
-        "https://ok.166.net/reunionpub/1_20220102_17e19d22c32364475.png",
-        "https://ok.166.net/reunionpub/1_20220102_17e19d22c32822061.png"
-      ],
-      "qrCodes": [],
-      "text": "#岳山捏脸# #永劫无间捏脸站# #永劫无间# \n狗哥原创福利🧧岳山捏脸【武义】，数据自取！\n获取方式:复制第二张二维码，换格式自行导入。\n喜欢的可以给个点赞＋评论＋关注吗😊",
-      "userName": "神秘狗剩",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20210802_17b04358bf2258764.png"
     }
   ]
 }
