@@ -1,8 +1,37 @@
 {
-  "lastUpdated": "2026-02-07T04:45:20.156Z",
+  "lastUpdated": "2026-02-08T05:08:41.009Z",
   "source": "胡为捏脸",
-  "totalCount": 365,
+  "totalCount": 366,
   "qrcodes": [
+    {
+      "id": "6986b67fe5d5451bc23b0f3e",
+      "createTime": 1770436220333,
+      "createDate": "2026-02-07",
+      "characterId": "hu-wei",
+      "characterName": "Hu Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260207_19c3638d123181252.jpeg",
+        "https://ok.166.net/reunionpub/1_20260207_19c3638d123107331.jpeg",
+        "https://ok.166.net/reunionpub/1_20260207_19c3638d123827765.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1770434940.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=697c161f745ea9544ba6e2ba",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1770434940.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=697c161f745ea9544ba6e2ba",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#胡为穿搭# #胡为捏脸# #永劫无间捏脸站#",
+      "userName": "艺van",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211225_17df07bcdd3786835.jpeg"
+    },
     {
       "id": "6984344e8dde0a1bc755afb0",
       "createTime": 1770271820006,
