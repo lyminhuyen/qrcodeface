@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-02-08T04:57:04.446Z",
+  "lastUpdated": "2026-02-09T04:51:42.787Z",
   "source": "沈妙捏脸",
   "totalCount": 658,
   "qrcodes": [
+    {
+      "id": "6987578483e13d337395d369",
+      "createTime": 1770477438409,
+      "createDate": "2026-02-07",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260207_cdcb8d971a15c301f60fe4f3ee8ec7d4",
+        "https://ok.166.net/reunionpub/1_kol_20260207_85d6fb06367679991f289d8fd2f55c66",
+        "https://ok.166.net/reunionpub/1_kol_20260207_27095c184309f242d14c853fc6941336"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260207_ead03045343a05d76ec22321ae5c9491",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69874b8a745ea9544ba7eb58"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "阿熙【沈妙】捏脸码在图三\n点击进贴下方按钮 快速导入同款数据\n‎💗‎（记得关注点赞分享哦，谢谢）‎💗（ღ( ´･ᴗ･` )比心）\n#永劫无间##永劫无间捏脸站##沈妙捏脸#",
+      "userName": "星野织呀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250904_19910dd0e22102142.jpeg"
+    },
     {
       "id": "69848d43f80f806a586b28f1",
       "createTime": 1770294592001,
@@ -13469,21 +13499,6 @@
       "text": "【聪慧少女】 | 沈妙捏脸｜如花x一人之下\n12.23🔥记忆原创/免费捏脸分享\n——其实这是沈妙的第一个捏脸，一拍即合\n\n⭐【获取和导入方法】：\n原创不易，喜欢的别忘了礼貌三连动态自取哈\n大神app扫码一键导入捏脸功能已上线：\n找到二维码的图-长按识别一键导入至游戏(游戏捏脸栏留一个空位)\n\n⭐往期福利捏脸点击主页动态或专栏，关注可以第一时间收到更新提醒⭐\n\n❗原创捏脸数据大神平台独发，禁二改/商用和任何形式未经授权的二创\n\n#永劫无间捏脸站# #沈妙捏脸# #永劫无间#",
       "userName": "就以记忆唱下去",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
-    },
-    {
-      "id": "63a4efddc470740001b6d799",
-      "createTime": 1671753693703,
-      "createDate": "2022-12-23",
-      "characterId": "feria-shen",
-      "characterName": "Feria Shen",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20221223_1853c48f7f7427840.jpeg",
-        "https://ok.166.net/reunionpub/1_20221223_1853c48f7f7584148.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#沈妙捏脸# #聪慧少女#",
-      "userName": "冬天吧Z",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260113_19bb7da5a33679217.jpeg"
     }
   ]
 }
