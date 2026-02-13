@@ -1,8 +1,37 @@
 {
-  "lastUpdated": "2026-02-12T04:47:26.287Z",
+  "lastUpdated": "2026-02-13T04:44:14.599Z",
   "source": "殷紫萍捏脸",
   "totalCount": 637,
   "qrcodes": [
+    {
+      "id": "698dcc68f53e8f3a895a9dec",
+      "createTime": 1770900580844,
+      "createDate": "2026-02-12",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260212_4f0c1fe6318d252e922dcbed68e8617c",
+        "https://ok.166.net/reunionpub/1_kol_20260212_d9f9abc40cf80d33608498aad8bf2329"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260212_65be6dd4cf4e830c92710ecf0e1a374e",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=698c9729745ea9544ba86f8c"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "殷紫萍 · 墨染千秋·青玉案「裘雅」\n#殷紫萍捏脸##永劫无间# #永劫无间捏脸站#",
+      "userName": "式丶小佑",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240311_18e2c7df76f150547.jpeg"
+    },
     {
       "id": "698bd98307d78a69d040433b",
       "createTime": 1770772771087,
@@ -14102,24 +14131,6 @@
       "text": "#大神永劫无间捏脸站##殷紫萍捏脸#\n作品名称：平平无奇小精灵\n设计理念：我那该死的白瘦幼审美…",
       "userName": "纵横万古",
       "userAvatar": "https://ok.166.net/reunionpub/3_20210818_17b57a9a504940267.jpeg"
-    },
-    {
-      "id": "6381ead3849ee20001475b88",
-      "createTime": 1669458643656,
-      "createDate": "2022-11-26",
-      "characterId": "ziping-yin",
-      "characterName": "Ziping Yin",
-      "images": [
-        "https://ok.166.net/reunionpub/ds/kol/20221126/182629-1a3eyjrv76.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20221126/182649-2av76s58d0.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20221126/182654-srj2qf1u8w.jpeg",
-        "https://ok.166.net/reunionpub/ds/kol/20221126/182728-nlemt3ayg6.png",
-        "https://ok.166.net/reunionpub/ds/kol/20221126/183033-v50fbhw8mi.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "[飞天海绵兔福利分享】爱笑的女孩-殷紫萍捏脸~听说爱笑的女孩运气都不会太差！数据自取哦！大家没事记得多笑笑呀~#永劫无间捏脸站#  #殷紫萍捏脸#",
-      "userName": "飞天海绵兔",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20220919_18354c40bef183438.jpeg"
     }
   ]
 }
