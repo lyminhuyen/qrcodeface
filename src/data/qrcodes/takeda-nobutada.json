@@ -1,8 +1,66 @@
 {
-  "lastUpdated": "2026-02-16T04:46:56.813Z",
+  "lastUpdated": "2026-02-17T04:41:31.524Z",
   "source": "武田信忠捏脸",
-  "totalCount": 508,
+  "totalCount": 510,
   "qrcodes": [
+    {
+      "id": "6991940ffb4518494cab1422",
+      "createTime": 1771148301614,
+      "createDate": "2026-02-15",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260215_19c60aa4ef8843381.jpeg",
+        "https://ok.166.net/reunionpub/1_20260215_19c60aa4ef8110421.jpeg",
+        "https://ok.166.net/reunionpub/1_20260215_19c60aa4ef8868608.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1771148298.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69917d1e82b7416f9a26b8e4",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1771148298.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69917d1e82b7416f9a26b8e4",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "源式捏脸分享\n#永劫无间捏脸站# #武田信忠穿搭# #武田信忠捏脸#",
+      "userName": "艺van",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211225_17df07bcdd3786835.jpeg"
+    },
+    {
+      "id": "699193d435cd34069d27c6d8",
+      "createTime": 1771148241511,
+      "createDate": "2026-02-15",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260215_19c60a96352933329.jpeg",
+        "https://ok.166.net/reunionpub/1_20260215_19c60a96352797402.jpeg",
+        "https://ok.166.net/reunionpub/1_20260215_19c60a96352891781.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1771148237.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69917f330186943fc23248f3",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1771148237.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69917f330186943fc23248f3",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "半藏捏脸分享\n#永劫无间捏脸站# #武田信忠穿搭# #武田信忠捏脸#",
+      "userName": "艺van",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211225_17df07bcdd3786835.jpeg"
+    },
     {
       "id": "6991705c5d10b43461cb0c7f",
       "createTime": 1771139160797,

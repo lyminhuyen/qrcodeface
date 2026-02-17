@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-02-16T05:02:36.152Z",
+  "lastUpdated": "2026-02-17T04:57:29.282Z",
   "source": "胡为捏脸",
-  "totalCount": 366,
+  "totalCount": 367,
   "qrcodes": [
+    {
+      "id": "6992812a5d10b43461cd2bbe",
+      "createTime": 1771209000103,
+      "createDate": "2026-02-16",
+      "characterId": "hu-wei",
+      "characterName": "Hu Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260215_e5916e7ba7659bd43244c9628927486b",
+        "https://ok.166.net/reunionpub/1_kol_20260215_6b770a2d65645a7b4ff6bed89dfd3ffb",
+        "https://ok.166.net/reunionpub/1_kol_20260215_4207162e45981398f1febd76d79b3460",
+        "https://ok.166.net/reunionpub/1_kol_20260215_f9724771033ae8e926fa7eed34e255a6"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260215_f7a0d5242543665f104188bfe50b148b",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6991b7e80186943fc23253fa"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡为捏脸x史莱姆】 | 无偿数据分享\n----勇者斗恶龙的小怪物 和胡为新衣服搭刚刚好\n抽象永不过时\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n\n#永劫无间捏脸站# #胡为捏脸# #永劫无间#  #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6986b67fe5d5451bc23b0f3e",
       "createTime": 1770436220333,
