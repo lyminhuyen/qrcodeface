@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-02-19T04:32:30.561Z",
+  "lastUpdated": "2026-02-20T04:27:26.968Z",
   "source": "天海捏脸",
-  "totalCount": 840,
+  "totalCount": 841,
   "qrcodes": [
+    {
+      "id": "69959a928d41f56f7bfbbd6c",
+      "createTime": 1771412110126,
+      "createDate": "2026-02-18",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260218_8d6840f0403abde21cb6a65e370fcb16",
+        "https://ok.166.net/reunionpub/1_kol_20260218_8d9be75dc2fb6262adca281783a1d006"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260218_cf6c90d2f711ac42c83555348466ae35",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69959985745ea9544ba9b6af"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260218_9516fea88f2d2b9b10b0c09c15f49ad2",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69959985745ea9544ba9b6af"
+        }
+      ],
+      "text": "比克大魔王——天海捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #比克# #天海捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "6992731a435ad533b0239b38",
       "createTime": 1771205400198,
