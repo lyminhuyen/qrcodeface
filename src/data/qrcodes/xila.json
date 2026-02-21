@@ -1,8 +1,37 @@
 {
-  "lastUpdated": "2026-02-20T04:49:13.423Z",
+  "lastUpdated": "2026-02-21T04:40:21.430Z",
   "source": "席拉捏脸",
-  "totalCount": 393,
+  "totalCount": 394,
   "qrcodes": [
+    {
+      "id": "6997303ec6b0ae301595224a",
+      "createTime": 1771515759666,
+      "createDate": "2026-02-19",
+      "characterId": "xila",
+      "characterName": "Xila",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260219_30422a40da9475a8439c24f7267c8458",
+        "https://ok.166.net/reunionpub/1_kol_20260219_e048d9be906eec8bd0080e19a00a2661"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260219_4c211bd6e84dc8a7076ba0092e930b10",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6994763d82b7416f9a273a05"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "-席拉捏脸「天使」\n-捏脸数据在动态里自取，点击图片左下角一键导入游戏（记得预留空位），评论区欢迎投稿和提出修改意见，喜欢记得给俺三连哦#永劫无间捏脸站##永劫无间# #席拉捏脸#",
+      "userName": "承枳",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250315_1959923e2a8963995.jpeg"
+    },
     {
       "id": "69951d69edab231ebd5fda5b",
       "createTime": 1771380001690,
