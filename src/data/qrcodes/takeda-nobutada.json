@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-02-25T04:41:59.180Z",
+  "lastUpdated": "2026-02-26T04:39:06.712Z",
   "source": "武田信忠捏脸",
-  "totalCount": 510,
+  "totalCount": 511,
   "qrcodes": [
+    {
+      "id": "699a98a398548121ec74a262",
+      "createTime": 1771739290307,
+      "createDate": "2026-02-22",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260222_60fffc57df77de04b76aff021073d2f8",
+        "https://ok.166.net/reunionpub/1_kol_20260222_e728c63c3cd0d2552b5f2f70aae805b4",
+        "https://ok.166.net/reunionpub/1_kol_20260222_fdd9dc6dd91300d5dc69b59f7a435521"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260222_0d03d00f543bd0970e175ce2846831c1",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=699a8867745ea9544baa7ee4"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260222_ef732a2b71ebed9c8c837cb45ba93aa7",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=699a8867745ea9544baa7ee4"
+        }
+      ],
+      "text": "武田信忠[竜]\n左下角可以直接导入哦，球球关注~\n无脸纹版的会放在评论区[表情84]\n#永劫无间##武田信忠捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "6991940ffb4518494cab1422",
       "createTime": 1771148301614,

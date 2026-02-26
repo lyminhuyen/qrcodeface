@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-02-25T04:53:40.919Z",
+  "lastUpdated": "2026-02-26T04:50:56.138Z",
   "source": "席拉捏脸",
-  "totalCount": 395,
+  "totalCount": 394,
   "qrcodes": [
     {
       "id": "699e509aedab231ebd63bbbc",
@@ -318,37 +318,6 @@
           "imgName": "上传作品同款捏脸码",
           "imgBtn": "导入同款捏脸作品",
           "imgUrl": "https://ok.166.net/reunionpub/kol_20260215_1b2732a0d86407a036bf6306109143df",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69916dad093b37370e6f292c"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "",
-          "errmsg": ""
-        }
-      ],
-      "text": "云千蝶福利捏脸来喽！席拉捏脸数据：《武神》\n喜欢的话请三连支持一下蝶蝶哦~😘😘\n#永劫无间捏脸站##席拉捏脸##永劫无间#",
-      "userName": "云千蝶",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250112_19459112ac8139372.jpeg"
-    },
-    {
-      "id": "69917250e63c8805e2e0c18a",
-      "createTime": 1771138803021,
-      "createDate": "2026-02-15",
-      "characterId": "xila",
-      "characterName": "Xila",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260215_999ee18687f1d8931df6b5ba8f8733a2",
-        "https://ok.166.net/reunionpub/1_kol_20260215_110b447a22011a53b7b93b43fce8273c",
-        "https://ok.166.net/reunionpub/1_kol_20260215_56208665ef565853074447b9305c975b",
-        "https://ok.166.net/reunionpub/1_kol_20260215_a00f92d38c2f234108bab4805ee720f1"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgBtn": "导入同款捏脸作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260215_36c965838ca347ec0b29a522bddcec47",
           "errmsg": "",
           "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69916dad093b37370e6f292c"
         },
