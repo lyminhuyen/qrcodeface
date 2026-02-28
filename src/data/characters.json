@@ -2,155 +2,130 @@
   "characters": [
     {
       "id": "tessa",
-      "name": "Tessa",
-      "nameCN": "玉玲珑",
+      "names": { "en": "Tessa", "zh": "玉玲珑", "vi": "" },
       "topicTag": "玉玲珑捏脸"
     },
     {
       "id": "temulch",
-      "name": "Temulch",
-      "nameCN": "特木尔",
+      "names": { "en": "Temulch", "zh": "特木尔", "vi": "" },
       "topicTag": "特木尔捏脸",
       "aliases": ["铁木真"]
     },
     {
       "id": "matari",
-      "name": "Matari",
-      "nameCN": "迦南",
+      "names": { "en": "Matari", "zh": "迦南", "vi": "" },
       "topicTag": "迦南捏脸"
     },
     {
       "id": "kurumi",
-      "name": "Kurumi",
-      "nameCN": "胡桃",
+      "names": { "en": "Kurumi", "zh": "胡桃", "vi": "" },
       "topicTag": "胡桃捏脸",
       "aliases": ["土御门胡桃"]
     },
     {
       "id": "tianhai",
-      "name": "Tianhai",
-      "nameCN": "天海",
+      "names": { "en": "Tianhai", "zh": "天海", "vi": "" },
       "topicTag": "天海捏脸"
     },
     {
       "id": "valda-cui",
-      "name": "Valda Cui",
-      "nameCN": "崔三娘",
+      "names": { "en": "Valda Cui", "zh": "崔三娘", "vi": "" },
       "topicTag": "崔三娘捏脸"
     },
     {
       "id": "justina-gu",
-      "name": "Justina Gu",
-      "nameCN": "顾清寒",
+      "names": { "en": "Justina Gu", "zh": "顾清寒", "vi": "" },
       "topicTag": "顾清寒捏脸",
       "aliases": ["顾倾寒"]
     },
     {
       "id": "wuchen",
-      "name": "Wuchen",
-      "nameCN": "无尘",
+      "names": { "en": "Wuchen", "zh": "无尘", "vi": "" },
       "topicTag": "无尘捏脸"
     },
     {
       "id": "yueshan",
-      "name": "Yueshan",
-      "nameCN": "岳山",
+      "names": { "en": "Yueshan", "zh": "岳山", "vi": "" },
       "topicTag": "岳山捏脸"
     },
     {
       "id": "takeda-nobutada",
-      "name": "Takeda Nobutada",
-      "nameCN": "武田信忠",
+      "names": { "en": "Takeda Nobutada", "zh": "武田信忠", "vi": "" },
       "topicTag": "武田信忠捏脸"
     },
     {
       "id": "ziping-yin",
-      "name": "Ziping Yin",
-      "nameCN": "殷紫萍",
+      "names": { "en": "Ziping Yin", "zh": "殷紫萍", "vi": "" },
       "topicTag": "殷紫萍捏脸"
     },
     {
       "id": "feria-shen",
-      "name": "Feria Shen",
-      "nameCN": "沈妙",
+      "names": { "en": "Feria Shen", "zh": "沈妙", "vi": "" },
       "topicTag": "沈妙捏脸"
     },
     {
       "id": "wei-qing",
-      "name": "Wei Qing",
-      "nameCN": "魏轻",
+      "names": { "en": "Wei Qing", "zh": "魏轻", "vi": "" },
       "topicTag": "魏轻捏脸"
     },
     {
       "id": "lan-meng",
-      "name": "Lan Meng",
-      "nameCN": "蓝梦",
+      "names": { "en": "Lan Meng", "zh": "蓝梦", "vi": "" },
       "topicTag": "蓝梦捏脸"
     },
     {
       "id": "ji-yingying",
-      "name": "Ji Yingying",
-      "nameCN": "季莹莹",
+      "names": { "en": "Ji Yingying", "zh": "季莹莹", "vi": "" },
       "topicTag": "季莹莹捏脸"
     },
     {
       "id": "xila",
-      "name": "Xila",
-      "nameCN": "席拉",
+      "names": { "en": "Xila", "zh": "席拉", "vi": "" },
       "topicTag": "席拉捏脸"
     },
     {
       "id": "ning-hongye",
-      "name": "Ning Hongye",
-      "nameCN": "宁红夜",
+      "names": { "en": "Ning Hongye", "zh": "宁红夜", "vi": "" },
       "topicTag": "宁红夜捏脸"
     },
     {
       "id": "hu-wei",
-      "name": "Hu Wei",
-      "nameCN": "胡为",
+      "names": { "en": "Hu Wei", "zh": "胡为", "vi": "" },
       "topicTag": "胡为捏脸"
     },
     {
       "id": "ji-canghai",
-      "name": "Ji Canghai",
-      "nameCN": "季沧海",
+      "names": { "en": "Ji Canghai", "zh": "季沧海", "vi": "" },
       "topicTag": "季沧海捏脸"
     },
     {
       "id": "zhang-qiling",
-      "name": "Zhang Qiling",
-      "nameCN": "张起灵",
+      "names": { "en": "Zhang Qiling", "zh": "张起灵", "vi": "" },
       "topicTag": "张起灵捏脸"
     },
     {
       "id": "liu-lian",
-      "name": "Liu Lian",
-      "nameCN": "刘炼",
+      "names": { "en": "Liu Lian", "zh": "刘炼", "vi": "" },
       "topicTag": "刘炼捏脸"
     },
     {
       "id": "wan-jun",
-      "name": "Wan Jun",
-      "nameCN": "万钧",
+      "names": { "en": "Wan Jun", "zh": "万钧", "vi": "" },
       "topicTag": "万钧捏脸"
     },
     {
       "id": "li-xunhuan",
-      "name": "Li Xunhuan",
-      "nameCN": "李寻欢",
+      "names": { "en": "Li Xunhuan", "zh": "李寻欢", "vi": "" },
       "topicTag": "李寻欢捏脸"
     },
     {
       "id": "hadi",
-      "name": "Hadi",
-      "nameCN": "哈迪",
+      "names": { "en": "Hadi", "zh": "哈迪", "vi": "" },
       "topicTag": "哈迪捏脸"
     },
     {
       "id": "untagged",
-      "name": "Chưa phân loại",
-      "nameCN": "未分类",
+      "names": { "en": "Untagged", "zh": "未分类", "vi": "Chưa phân loại" },
       "topicTag": null
     }
   ]

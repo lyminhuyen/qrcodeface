@@ -14,8 +14,7 @@ const LOG_FILE = path.join(__dirname, '../logs/crawl-all.log');
 
 interface Character {
   id: string;
-  name: string;
-  nameCN: string;
+  names: { en: string; zh: string; vi: string };
   topicTag: string | null;
 }
 
@@ -92,7 +91,7 @@ async function main() {
 
   for (let i = 0; i < toProcess.length; i++) {
     const char = toProcess[i];
-    log(`[${i + 1}/${toProcess.length}] ${char.name} (${char.topicTag})`);
+    log(`[${i + 1}/${toProcess.length}] ${char.names.en} (${char.topicTag})`);
 
     const result = await crawlTopic(char.topicTag!);
     results.push({ char, success: result.success });

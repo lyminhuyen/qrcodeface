@@ -57,7 +57,7 @@ export default function AdminPage() {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          updates: [{ qrcodeId, characterId, characterName: character.name }],
+          updates: [{ qrcodeId, characterId, characterName: character.names.en }],
         }),
       });
 
@@ -66,11 +66,11 @@ export default function AdminPage() {
         setQrcodes((prev) =>
           prev.map((qr) =>
             qr.id === qrcodeId
-              ? { ...qr, characterId, characterName: character.name }
+              ? { ...qr, characterId, characterName: character.names.en }
               : qr
           )
         );
-        setMessage(`Updated 1 item to ${character.name}`);
+        setMessage(`Updated 1 item to ${character.names.en}`);
       } else {
         setMessage('Error updating');
       }
@@ -92,7 +92,7 @@ export default function AdminPage() {
       const updates = Array.from(selectedIds).map((qrcodeId) => ({
         qrcodeId,
         characterId: bulkCharacterId,
-        characterName: character.name,
+        characterName: character.names.en,
       }));
 
       const response = await fetch('/api/tags', {
@@ -106,11 +106,11 @@ export default function AdminPage() {
         setQrcodes((prev) =>
           prev.map((qr) =>
             selectedIds.has(qr.id)
-              ? { ...qr, characterId: bulkCharacterId, characterName: character.name }
+              ? { ...qr, characterId: bulkCharacterId, characterName: character.names.en }
               : qr
           )
         );
-        setMessage(`Updated ${selectedIds.size} items to ${character.name}`);
+        setMessage(`Updated ${selectedIds.size} items to ${character.names.en}`);
         setSelectedIds(new Set());
         setBulkCharacterId('');
       } else {
@@ -193,7 +193,7 @@ export default function AdminPage() {
                     .filter((c) => c.id !== 'untagged')
                     .map((char) => (
                       <option key={char.id} value={char.id}>
-                        {char.name} ({char.nameCN})
+                        {char.names.en} ({char.names.zh})
                       </option>
                     ))}
                 </select>
@@ -274,7 +274,7 @@ export default function AdminPage() {
                     .filter((c) => c.id !== 'untagged')
                     .map((char) => (
                       <option key={char.id} value={char.id}>
-                        {char.name}
+                        {char.names.en}
                       </option>
                     ))}
                 </select>

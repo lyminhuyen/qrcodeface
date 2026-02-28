@@ -101,8 +101,7 @@ interface ParsedQRCode {
 
 interface Character {
   id: string;
-  name: string;
-  nameCN: string;
+  names: { en: string; zh: string; vi: string };
   topicTag: string | null;
 }
 
@@ -128,7 +127,7 @@ function getCharacterIdFromTopic(topicName: string, characters: Character[]): st
     }
     // Also check without 捏脸 suffix
     const charName = topicName.replace('捏脸', '');
-    if (char.nameCN === charName) {
+    if (char.names.zh === charName) {
       return char.id;
     }
   }
@@ -157,8 +156,8 @@ function fuzzyMatchCharacter(
   for (const char of characters) {
     const charWithAliases = char as CharacterWithAliases;
 
-    // Match by nameCN (exact)
-    if (char.nameCN === name) return char;
+    // Match by names.zh (exact)
+    if (char.names.zh === name) return char;
 
     // Match by aliases
     if (charWithAliases.aliases) {
@@ -169,12 +168,12 @@ function fuzzyMatchCharacter(
       }
     }
 
-    // Match by nameCN (partial - for variations)
-    if (char.nameCN && name.includes(char.nameCN)) return char;
-    if (char.nameCN && char.nameCN.includes(name)) return char;
+    // Match by names.zh (partial - for variations)
+    if (char.names.zh && name.includes(char.names.zh)) return char;
+    if (char.names.zh && char.names.zh.includes(name)) return char;
 
     // Match by English name (case insensitive)
-    if (char.name.toLowerCase() === normalizedName) return char;
+    if (char.names.en.toLowerCase() === normalizedName) return char;
 
     // Match by topicTag prefix
     if (char.topicTag) {
@@ -204,11 +203,11 @@ function extractCharacter(
       if (charName) {
         const matched = fuzzyMatchCharacter(charName, characters);
         if (matched) {
-          return { id: matched.id, name: matched.name };
+          return { id: matched.id, name: matched.names.en };
         } else {
           // Found a character topic but not in our list - track it
           unknownCharacters.add(charName);
-          return { id: 'untagged', name: 'Chưa phân loại', detectedName: charName };
+          return { id: 'untagged', name: 'Untagged', detectedName: charName };
         }
       }
     }
@@ -223,23 +222,23 @@ function extractCharacter(
         const charName = match.replace(/#/g, '').replace('捏脸', '');
         const matched = fuzzyMatchCharacter(charName, characters);
         if (matched) {
-          return { id: matched.id, name: matched.name };
+          return { id: matched.id, name: matched.names.en };
         } else {
           unknownCharacters.add(charName);
-          return { id: 'untagged', name: 'Chưa phân loại', detectedName: charName };
+          return { id: 'untagged', name: 'Untagged', detectedName: charName };
         }
       }
     }
 
     // Direct character name search in text
     for (const char of characters) {
-      if (char.nameCN && text.includes(char.nameCN)) {
-        return { id: char.id, name: char.name };
+      if (char.names.zh && text.includes(char.names.zh)) {
+        return { id: char.id, name: char.names.en };
       }
     }
   }
 
-  return { id: 'untagged', name: 'Chưa phân loại' };
+  return { id: 'untagged', name: 'Untagged' };
 }
 
 // Extract images from content

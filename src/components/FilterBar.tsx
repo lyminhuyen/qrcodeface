@@ -1,6 +1,6 @@
 'use client';
 
-import { Character } from '@/types';
+import { Character, getCharacterName } from '@/types';
 import { useLanguage } from '@/contexts/LanguageContext';
 
 interface FilterBarProps {
@@ -41,7 +41,7 @@ export default function FilterBar({
   availableYears,
   availableMonths,
 }: FilterBarProps) {
-  const { t } = useLanguage();
+  const { t, locale } = useLanguage();
 
   return (
     <div className="bg-white dark:bg-gray-900/50 border-b border-gray-200 dark:border-gray-800 py-4">
@@ -66,7 +66,7 @@ export default function FilterBar({
                 : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
                 }`}
             >
-              {char.name}
+              {getCharacterName(char, locale)}
             </button>
           ))}
         </div>

@@ -22,17 +22,16 @@ export interface QRCode {
 
 export interface Character {
   id: string;
-  name: string;
-  nameEN?: string;
-  nameVI?: string;
-  nameCN: string;
+  names: { en: string; zh: string; vi: string };
   topicTag: string | null;
+  aliases?: string[];
 }
 
 export function getCharacterName(character: Character, locale: 'vi' | 'en' | 'zh'): string {
-  if (locale === 'zh') return character.nameCN;
-  if (locale === 'vi') return character.nameVI || character.nameEN || character.name;
-  return character.nameEN || character.name;
+  const name = character.names[locale];
+  // Fallback: vi → en, zh → en, empty → en
+  if (!name) return character.names.en;
+  return name;
 }
 
 export interface QRCodesData {
