@@ -2,126 +2,131 @@
   "characters": [
     {
       "id": "tessa",
-      "names": { "en": "Tessa", "zh": "玉玲珑", "vi": "" },
+      "names": { "en": "Tessa", "zh": "玉玲珑", "vi": "Ngọc Linh Lung" },
       "topicTag": "玉玲珑捏脸"
     },
     {
       "id": "temulch",
-      "names": { "en": "Temulch", "zh": "特木尔", "vi": "" },
+      "names": { "en": "Temulch", "zh": "特木尔", "vi": "Temulch" },
       "topicTag": "特木尔捏脸",
       "aliases": ["铁木真"]
     },
     {
       "id": "matari",
-      "names": { "en": "Matari", "zh": "迦南", "vi": "" },
+      "names": { "en": "Matari", "zh": "迦南", "vi": "Matari" },
       "topicTag": "迦南捏脸"
     },
     {
       "id": "kurumi",
-      "names": { "en": "Kurumi", "zh": "胡桃", "vi": "" },
+      "names": { "en": "Kurumi Tsuchimikado", "zh": "胡桃", "vi": "Kurumi Tsuchimikado" },
       "topicTag": "胡桃捏脸",
       "aliases": ["土御门胡桃"]
     },
     {
       "id": "tianhai",
-      "names": { "en": "Tianhai", "zh": "天海", "vi": "" },
+      "names": { "en": "Tianhai", "zh": "天海", "vi": "Thiên Hải" },
       "topicTag": "天海捏脸"
     },
     {
       "id": "valda-cui",
-      "names": { "en": "Valda Cui", "zh": "崔三娘", "vi": "" },
+      "names": { "en": "Valda Cui", "zh": "崔三娘", "vi": "Thôi Tam Nương" },
       "topicTag": "崔三娘捏脸"
     },
     {
       "id": "justina-gu",
-      "names": { "en": "Justina Gu", "zh": "顾清寒", "vi": "" },
+      "names": { "en": "Justina Gu", "zh": "顾清寒", "vi": "Cố Thanh Hàn" },
       "topicTag": "顾清寒捏脸",
       "aliases": ["顾倾寒"]
     },
     {
       "id": "wuchen",
-      "names": { "en": "Wuchen", "zh": "无尘", "vi": "" },
+      "names": { "en": "Wuchen", "zh": "无尘", "vi": "Vô Trần" },
       "topicTag": "无尘捏脸"
     },
     {
       "id": "yueshan",
-      "names": { "en": "Yueshan", "zh": "岳山", "vi": "" },
+      "names": { "en": "Yueshan", "zh": "岳山", "vi": "Nhạc Sơn" },
       "topicTag": "岳山捏脸"
     },
     {
       "id": "takeda-nobutada",
-      "names": { "en": "Takeda Nobutada", "zh": "武田信忠", "vi": "" },
+      "names": { "en": "Takeda Nobutada", "zh": "武田信忠", "vi": "Takeda Nobutada" },
       "topicTag": "武田信忠捏脸"
     },
     {
       "id": "ziping-yin",
-      "names": { "en": "Ziping Yin", "zh": "殷紫萍", "vi": "" },
+      "names": { "en": "Ziping Yin", "zh": "殷紫萍", "vi": "Ân Tử Bình" },
       "topicTag": "殷紫萍捏脸"
     },
     {
       "id": "feria-shen",
-      "names": { "en": "Feria Shen", "zh": "沈妙", "vi": "" },
+      "names": { "en": "Feria Shen", "zh": "沈妙", "vi": "Thẩm Diệu" },
       "topicTag": "沈妙捏脸"
     },
     {
       "id": "wei-qing",
-      "names": { "en": "Wei Qing", "zh": "魏轻", "vi": "" },
+      "names": { "en": "Shayol Wei", "zh": "魏轻", "vi": "Nguỵ Khinh" },
       "topicTag": "魏轻捏脸"
     },
     {
       "id": "lan-meng",
-      "names": { "en": "Lan Meng", "zh": "蓝梦", "vi": "" },
+      "names": { "en": "Lannie", "zh": "蓝梦", "vi": "Lam Mộng" },
       "topicTag": "蓝梦捏脸"
     },
     {
       "id": "ji-yingying",
-      "names": { "en": "Ji Yingying", "zh": "季莹莹", "vi": "" },
+      "names": { "en": "Zai", "zh": "季莹莹", "vi": "Quý Doanh Doanh" },
       "topicTag": "季莹莹捏脸"
     },
     {
       "id": "xila",
-      "names": { "en": "Xila", "zh": "席拉", "vi": "" },
+      "names": { "en": "Cyra", "zh": "席拉", "vi": "Cyra" },
       "topicTag": "席拉捏脸"
     },
     {
       "id": "ning-hongye",
-      "names": { "en": "Ning Hongye", "zh": "宁红夜", "vi": "" },
+      "names": { "en": "Viper Ning", "zh": "宁红夜", "vi": "Ninh Hồng Dạ" },
       "topicTag": "宁红夜捏脸"
     },
     {
       "id": "hu-wei",
-      "names": { "en": "Hu Wei", "zh": "胡为", "vi": "" },
+      "names": { "en": "Akos Hu", "zh": "胡为", "vi": "Hồ Vi" },
       "topicTag": "胡为捏脸"
     },
     {
       "id": "ji-canghai",
-      "names": { "en": "Ji Canghai", "zh": "季沧海", "vi": "" },
+      "names": { "en": "Tarka Ji", "zh": "季沧海", "vi": "Quý Thương Hải" },
       "topicTag": "季沧海捏脸"
     },
     {
       "id": "zhang-qiling",
-      "names": { "en": "Zhang Qiling", "zh": "张起灵", "vi": "" },
+      "names": { "en": "Kylin Zhang", "zh": "张起灵", "vi": "Trương Khởi Linh" },
       "topicTag": "张起灵捏脸"
     },
     {
       "id": "liu-lian",
-      "names": { "en": "Liu Lian", "zh": "刘炼", "vi": "" },
+      "names": { "en": "Lyam Liu", "zh": "刘炼", "vi": "Lưu Luyện" },
       "topicTag": "刘炼捏脸"
     },
     {
       "id": "wan-jun",
-      "names": { "en": "Wan Jun", "zh": "万钧", "vi": "" },
+      "names": { "en": "Inor Wan", "zh": "万钧", "vi": "Vạn Quân" },
       "topicTag": "万钧捏脸"
     },
     {
       "id": "li-xunhuan",
-      "names": { "en": "Li Xunhuan", "zh": "李寻欢", "vi": "" },
+      "names": { "en": "Xunhuan Li", "zh": "李寻欢", "vi": "Lý Tầm Hoan" },
       "topicTag": "李寻欢捏脸"
     },
     {
       "id": "hadi",
-      "names": { "en": "Hadi", "zh": "哈迪", "vi": "" },
+      "names": { "en": "Hadi Ismail", "zh": "哈迪", "vi": "Hadi" },
       "topicTag": "哈迪捏脸"
+    },
+    {
+      "id": "wuzhen",
+      "names": { "en": "Zenda Wu", "zh": "巫真", "vi": "Vu Chân" },
+      "topicTag": "巫真捏脸"
     },
     {
       "id": "untagged",
