@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-03-04T04:45:02.314Z",
+  "lastUpdated": "2026-03-05T04:48:33.853Z",
   "source": "胡为捏脸",
-  "totalCount": 368,
+  "totalCount": 369,
   "qrcodes": [
+    {
+      "id": "69a79b825d359c637887cc2d",
+      "createTime": 1772592000047,
+      "createDate": "2026-03-04",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260304_21d4c8fe02cf91425580599c78b901c6",
+        "https://ok.166.net/reunionpub/1_kol_20260304_a58ec66f9c956cdd82ca0de1c3f9d1f1",
+        "https://ok.166.net/reunionpub/1_kol_20260304_1fe00fba4f5323bf1e8ad6e2cbccbb2d",
+        "https://ok.166.net/reunionpub/1_kol_20260304_bf239e410918e0fcf95eb35474a0de20"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260304_c5bdd5a1866d04c97febc88c832dde69",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69a72b22093b37370e7263b0"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡为捏脸x问心剑】 | 无偿数据分享\n----李信墨染江湖时装 暗形态 仿捏\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n\n#永劫无间捏脸站# #胡为捏脸# #永劫无间#  #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "69a2c8ae8daa490c5d554e40",
       "createTime": 1772275883146,
