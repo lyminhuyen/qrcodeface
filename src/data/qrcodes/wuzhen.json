@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-03-07T04:50:54.089Z",
+  "lastUpdated": "2026-03-08T05:01:03.903Z",
   "source": "巫真捏脸",
-  "totalCount": 61,
+  "totalCount": 62,
   "qrcodes": [
+    {
+      "id": "69ac031a8daa490c5d5958ef",
+      "createTime": 1772880608357,
+      "createDate": "2026-03-07",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260307_4070df253f6238d33be837fceed9b53d",
+        "https://ok.166.net/reunionpub/1_kol_20260307_a094591feb0f15c8ff29f324d40e0111",
+        "https://ok.166.net/reunionpub/1_kol_20260307_f06366ff6195c9c18690967797045b5f"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260307_66d453be90691b8bf9a15bbff2f48876",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69abfb9b0186943fc235fd06"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260307_30b4bde8d294eb4bb4c5931ffd50b7ca",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69abfb9b0186943fc235fd06"
+        }
+      ],
+      "text": "巫真[冽乌]\n左下角可以直接导入哦，球球关注~\n#永劫无间##巫真捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "69a2451a4c6c294f9991c11e",
       "createTime": 1772242200236,
