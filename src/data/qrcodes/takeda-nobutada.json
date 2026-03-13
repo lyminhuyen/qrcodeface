@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-03-12T04:34:47.431Z",
+  "lastUpdated": "2026-03-13T04:33:19.342Z",
   "source": "武田信忠捏脸",
-  "totalCount": 527,
+  "totalCount": 528,
   "qrcodes": [
+    {
+      "id": "69b17d98d21d6f779c7e3793",
+      "createTime": 1773239700456,
+      "createDate": "2026-03-11",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260311_9fd1dac13a25cc0e61e78dcda3912800",
+        "https://ok.166.net/reunionpub/1_kol_20260311_d3073d5f35ed4cecfd19c38188726e90"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260311_c075b333ca0b2017ce764fb8ebc6eb08",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69b17d10745ea9544bad4563"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260311_2e0ef7817a2cba380abb399757ed505f",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69b17d10745ea9544bad4563"
+        }
+      ],
+      "text": "阿德巴约捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #阿德巴约# #武田信忠捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "69ae642bf28e1873b1afcd61",
       "createTime": 1773036584373,
