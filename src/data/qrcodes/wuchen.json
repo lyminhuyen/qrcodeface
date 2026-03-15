@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-03-14T04:27:54.805Z",
+  "lastUpdated": "2026-03-15T04:49:20.807Z",
   "source": "无尘捏脸",
   "totalCount": 457,
   "qrcodes": [
+    {
+      "id": "69b620d61477d921af2b6a62",
+      "createTime": 1773543635824,
+      "createDate": "2026-03-15",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260315_19cef70371e948662.jpeg",
+        "https://ok.166.net/reunionpub/1_20260315_19cef70371e193830.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69b61b9482b7416f9a2b87d7"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间# #永劫无间捏脸站# #无尘捏脸#",
+      "userName": "哑巴凡",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250125_19499741290319277.jpeg"
+    },
     {
       "id": "69ad31a26a9f2a1db193dc52",
       "createTime": 1772958112443,
@@ -9955,28 +9980,6 @@
       "text": "💓免费分享一枚帅气的无尘捏脸【原创福利】\n无尘【昆仑】~\n#永劫无间# #永劫无间捏脸站##无尘捏脸#\n💓前排高亮 数据在第二张图💓\n💓捏脸数据在动态里自取，喜欢的小伙伴请点赞+评论+转发+关注💓\n💓 拿数据请给眠眠一个小小的赞哦 有你的支持 小眠才有捏更多原创捏脸的动力💓\n💓换脸方法：长按保存第二张图二维码数据图片-游戏里易容-右边导入本地图片就好啦💓",
       "userName": "小眠捏脸",
       "userAvatar": "https://ok.166.net/reunionpub/3_20200706_1732214d5ab546544.png"
-    },
-    {
-      "id": "62e8156fc3e1e50001224fe8",
-      "createTime": 1659377007299,
-      "createDate": "2022-08-01",
-      "characterId": "wuchen",
-      "characterName": "Wuchen",
-      "images": [
-        "https://ok.166.net/reunionpub/ds/kol/20220802/015447-zg2trv59al.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220802/015505-k32cihe51a.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220802/015522-q145s70if2.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220802/015537-0yvjr4s6fm.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220802/015600-e4vgsl09js.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220802/015614-tp3ius2k1j.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220802/015631-gorj9f81al.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220802/015650-1fbq6l9sa2.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220802/015709-s0no8mka7j.png"
-      ],
-      "qrCodes": [],
-      "text": "白少年无尘哥哥~\n✨捏脸数据在最后一张✨\n✨发色1：0-0-100\n✨捏脸数据在动态里自取，喜欢的小伙伴请点赞+评论+转发+关注✨\n#永劫无间捏脸站##无尘捏脸##永劫无间#\n换脸方法：长按保存第一张图二维码数据图片-游戏里易容-右边导入本地图片就好啦😊\n捏脸码不能用 以及不会换脸点这里 有详细教程→：https://ds.163.com/article/61cbcff7849ee2000137c784\n【@式丶小佑 原创】",
-      "userName": "式丶小佑",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240311_18e2c7df76f150547.jpeg"
     }
   ]
 }
