@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-03-16T05:29:21.003Z",
+  "lastUpdated": "2026-03-17T05:03:44.827Z",
   "source": "万钧捏脸",
-  "totalCount": 141,
+  "totalCount": 142,
   "qrcodes": [
+    {
+      "id": "69b778108bef153bdd6c4443",
+      "createTime": 1773631500296,
+      "createDate": "2026-03-16",
+      "characterId": "wan-jun",
+      "characterName": "Inor Wan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260316_6984d46f56890d27d1c472fa15cb31bf",
+        "https://ok.166.net/reunionpub/kol_20260316_07688ab703667af2ee2d1bfa637fa166",
+        "https://ok.166.net/reunionpub/kol_20260316_a20501771817c7e23a215f8ecdbbda60"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260316_5fab130966b50ba8d5fc136a160a64f0",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69b6bd3e0186943fc23732ce"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260316_25be3403a8d105ece748378394b2ad64",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69b6bd3e0186943fc23732ce"
+        }
+      ],
+      "text": "万钧[浅云]\n左下角可以直接导入哦，球球关注~\n#永劫无间##万钧捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "69ae87770d5a484457eb7597",
       "createTime": 1773045620678,
