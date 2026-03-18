@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-03-17T04:34:14.966Z",
+  "lastUpdated": "2026-03-18T04:39:16.511Z",
   "source": "顾清寒捏脸",
   "totalCount": 591,
   "qrcodes": [
+    {
+      "id": "69b8c86cace2807a9b431792",
+      "createTime": 1773717600030,
+      "createDate": "2026-03-17",
+      "characterId": "justina-gu",
+      "characterName": "Justina Gu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260316_a3a75717b7a07682a1625756d683b400",
+        "https://ok.166.net/reunionpub/1_kol_20260316_564050dd60a82fd1a07a82e3e81c4167",
+        "https://ok.166.net/reunionpub/1_kol_20260316_e4446464f9a3ad35cb2394caae5cc28f"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260316_13777ff4eec419452a474007996059a3",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69b80bc6093b37370e743631"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260316_e151ff9741320c4885d6d336d591871f",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69b80bc6093b37370e743631"
+        }
+      ],
+      "text": "顾清寒[灵芷]\n左下角可以直接导入哦，球球关注~\n#永劫无间##顾清寒捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "69b76f2e1516e64182d3e6e8",
       "createTime": 1773629228388,
@@ -14123,21 +14154,6 @@
       "text": "顾清寒【蝶豆】\n好消息测试服快开启了 之前的国际服数据想要的都可以补上了~\n喜欢的记得三连支持奈奈哦~\n#永劫无间捏脸站##永劫西行劫捏脸##顾清寒捏脸#",
       "userName": "纱田奈",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230819_18a0c72b161826665.jpeg"
-    },
-    {
-      "id": "64cafe2c96695c00016e1e22",
-      "createTime": 1691024940898,
-      "createDate": "2023-08-03",
-      "characterId": "justina-gu",
-      "characterName": "Justina Gu",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20230803_189b8f0d617576706.jpeg",
-        "https://ok.166.net/reunionpub/1_20230803_189b8f0d617372398.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "顾清寒免费捏脸［春光里］推荐搭配新时装\n💛长按即可导入，主页专栏解锁更多风格捏脸，发现什么问题欢迎提出！感谢你陪我成长～\n💛喜欢可以点点三连，你的喜欢就是我创作的动力！评论区也欢迎各位投稿，只做免费捏脸～\n#永劫无间# #永劫无间捏脸站# #顾清寒捏脸#",
-      "userName": "阿顾Agu",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260316_19cf5523e1e824990.jpeg"
     }
   ]
 }

@@ -1,8 +1,35 @@
 {
-  "lastUpdated": "2026-03-17T04:55:57.161Z",
+  "lastUpdated": "2026-03-18T05:00:44.893Z",
   "source": "胡为捏脸",
-  "totalCount": 370,
+  "totalCount": 371,
   "qrcodes": [
+    {
+      "id": "69b7b2c137718f13da32279c",
+      "createTime": 1773646526503,
+      "createDate": "2026-03-16",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260316_19cf5923082541293.jpeg",
+        "https://ok.166.net/reunionpub/1_20260316_19cf5923082141015.jpeg",
+        "https://ok.166.net/reunionpub/1_20260316_19cf5923082623778.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1773646513.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=698c5132745ea9544ba8668f",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "喜欢的可以点点关注和赞～点击导入同款即可使用\n#永劫无间捏脸站# #永劫无间# #胡为捏脸#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
+    },
     {
       "id": "69afdcc254b7d4429c3579e5",
       "createTime": 1773132992214,
