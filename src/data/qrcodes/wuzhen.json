@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-03-18T05:14:17.654Z",
+  "lastUpdated": "2026-03-19T05:13:48.046Z",
   "source": "巫真捏脸",
-  "totalCount": 65,
+  "totalCount": 66,
   "qrcodes": [
+    {
+      "id": "69bb4bed1c874c5d289a44cf",
+      "createTime": 1773881957250,
+      "createDate": "2026-03-19",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260319_8a1f997b69ea941adae4fde865c6154d",
+        "https://ok.166.net/reunionpub/1_kol_20260319_c20b05ba25c71b0d695b30e7626616cb",
+        "https://ok.166.net/reunionpub/1_kol_20260319_e31660a49724fb5be88f21e44dd02a6d",
+        "https://ok.166.net/reunionpub/1_kol_20260319_6c2078e4535c568c09fec2bfe1c98f6c"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260319_0456a3b3126336be16d35325b72c6e0f",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69bb478a82b7416f9a2c0f66"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【巫真·天渊】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##巫真捏脸#",
+      "userName": "怎知榆晚",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250514_196cdf649d2519725.jpeg"
+    },
     {
       "id": "69b620aebc13c8289e0d80fa",
       "createTime": 1773543594739,

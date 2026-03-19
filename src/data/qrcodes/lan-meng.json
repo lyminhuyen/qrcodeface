@@ -1,8 +1,37 @@
 {
-  "lastUpdated": "2026-03-18T04:52:56.668Z",
+  "lastUpdated": "2026-03-19T04:52:24.842Z",
   "source": "蓝梦捏脸",
-  "totalCount": 312,
+  "totalCount": 313,
   "qrcodes": [
+    {
+      "id": "69b964a737718f13da32a645",
+      "createTime": 1773757605950,
+      "createDate": "2026-03-17",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260317_fa3ba0a182cb04cee92b8d5b3bfc32c2",
+        "https://ok.166.net/reunionpub/1_kol_20260317_6fdd92694d4e1b0092980f5e1aaf3237"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260317_781c5872a747f738e1bdf9a4d02d0e87",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69b9289c0186943fc23766e8"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "-蓝梦捏脸「泡泡粉」\n-捏脸数据在动态里自取，点击图片左下角一键导入游戏（记得预留空位），评论区欢迎投稿和提出修改意见，喜欢记得给俺三连哦#永劫无间捏脸站##永劫无间# #蓝梦捏脸#",
+      "userName": "承枳",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250315_1959923e2a8963995.jpeg"
+    },
     {
       "id": "69b8ef8e9266de761d4952f6",
       "createTime": 1773727551554,
