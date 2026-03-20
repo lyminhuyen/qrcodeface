@@ -1,8 +1,37 @@
 {
-  "lastUpdated": "2026-03-19T04:52:24.842Z",
+  "lastUpdated": "2026-03-20T04:42:52.479Z",
   "source": "蓝梦捏脸",
-  "totalCount": 313,
+  "totalCount": 314,
   "qrcodes": [
+    {
+      "id": "69bba9d5819f600f839d67cd",
+      "createTime": 1773906387226,
+      "createDate": "2026-03-19",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260319_19d050f5c5a764166.jpeg",
+        "https://ok.166.net/reunionpub/1_20260319_19d050f5c5a914512.jpeg",
+        "https://ok.166.net/reunionpub/1_20260319_19d050f5c5a248107.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1773906355.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69bba4f0745ea9544bae59a7",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1773906355.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69bba4f0745ea9544bae59a7",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间# #永劫无间捏脸站# #蓝梦捏脸#",
+      "userName": "千恩",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250417_19641c88063830084.jpeg"
+    },
     {
       "id": "69b964a737718f13da32a645",
       "createTime": 1773757605950,

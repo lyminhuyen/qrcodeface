@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-03-19T05:13:48.046Z",
+  "lastUpdated": "2026-03-20T05:04:48.142Z",
   "source": "巫真捏脸",
-  "totalCount": 66,
+  "totalCount": 67,
   "qrcodes": [
+    {
+      "id": "69bc19b3b989135fccfd9a8c",
+      "createTime": 1773935024003,
+      "createDate": "2026-03-19",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260319_256906be022498074ddb384ac8e44c24",
+        "https://ok.166.net/reunionpub/1_kol_20260319_4c3b7b55ec9364703b614e8de1527154",
+        "https://ok.166.net/reunionpub/1_kol_20260319_96330d0d07b6f4b6b0d9eae6eee047db"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260319_dd3132c7de25e258bf806ce55900918e",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69bc11a9745ea9544bae6920"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "空念【巫真】捏脸码在图三\n点击进贴下方按钮 快速导入同款数据\n‎💗‎（记得关注点赞分享哦，谢谢）‎💗（ღ( ´･ᴗ･` )比心）\n#永劫无间##永劫无间捏脸站##巫真捏脸#",
+      "userName": "星野织呀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250904_19910dd0e22102142.jpeg"
+    },
     {
       "id": "69bb4bed1c874c5d289a44cf",
       "createTime": 1773881957250,
