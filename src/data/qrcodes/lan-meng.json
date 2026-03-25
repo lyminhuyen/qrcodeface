@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-03-24T04:48:46.372Z",
+  "lastUpdated": "2026-03-25T04:50:21.949Z",
   "source": "蓝梦捏脸",
-  "totalCount": 328,
+  "totalCount": 329,
   "qrcodes": [
+    {
+      "id": "69c23c09b989135fcc09d573",
+      "createTime": 1774337028480,
+      "createDate": "2026-03-24",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260324_8c358433516fffdb874e1ce7b9e029b5",
+        "https://ok.166.net/reunionpub/1_kol_20260324_3587a629947793843869caac99b941bd",
+        "https://ok.166.net/reunionpub/1_kol_20260324_3938af2b9c35f3fe66e268b5d252b52b",
+        "https://ok.166.net/reunionpub/1_kol_20260324_33dacd913706d1642e8fdcddeb9b2fa6",
+        "https://ok.166.net/reunionpub/1_kol_20260324_0b3432cc331c539944411820d22b3886",
+        "https://ok.166.net/reunionpub/1_kol_20260324_399b8e122713d2bbca2d1d85e39e389c"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260324_4531b5b7f6cd474d1dae124c2693a4a5",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69061209f4d8354ac2da3449"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "仿捏合集 · 一\n花火/敖闰/萤勾/云望舒/艾达王/尼尔2B\n#季莹莹捏脸# #土御门胡桃捏脸# #殷紫萍捏脸# #迦南捏脸# #蓝梦捏脸# #宁红夜捏脸# #永劫无间捏脸站# #永劫无间#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
+    },
     {
       "id": "69c144e75b02536f2816c9f0",
       "createTime": 1774273598757,

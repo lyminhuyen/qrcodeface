@@ -1,8 +1,97 @@
 {
-  "lastUpdated": "2026-03-24T04:50:42.430Z",
+  "lastUpdated": "2026-03-25T04:52:21.259Z",
   "source": "季莹莹捏脸",
-  "totalCount": 567,
+  "totalCount": 583,
   "qrcodes": [
+    {
+      "id": "69c23c09b989135fcc09d573",
+      "createTime": 1774337028480,
+      "createDate": "2026-03-24",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260324_8c358433516fffdb874e1ce7b9e029b5",
+        "https://ok.166.net/reunionpub/1_kol_20260324_3587a629947793843869caac99b941bd",
+        "https://ok.166.net/reunionpub/1_kol_20260324_3938af2b9c35f3fe66e268b5d252b52b",
+        "https://ok.166.net/reunionpub/1_kol_20260324_33dacd913706d1642e8fdcddeb9b2fa6",
+        "https://ok.166.net/reunionpub/1_kol_20260324_0b3432cc331c539944411820d22b3886",
+        "https://ok.166.net/reunionpub/1_kol_20260324_399b8e122713d2bbca2d1d85e39e389c"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260324_4531b5b7f6cd474d1dae124c2693a4a5",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69061209f4d8354ac2da3449"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "仿捏合集 · 一\n花火/敖闰/萤勾/云望舒/艾达王/尼尔2B\n#季莹莹捏脸# #土御门胡桃捏脸# #殷紫萍捏脸# #迦南捏脸# #蓝梦捏脸# #宁红夜捏脸# #永劫无间捏脸站# #永劫无间#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
+    },
+    {
+      "id": "69c2348d6e1494131b0afbb7",
+      "createTime": 1774334790224,
+      "createDate": "2026-03-24",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260324_19d1e984686504723.jpeg",
+        "https://ok.166.net/reunionpub/1_20260324_19d1e984686585133.jpeg",
+        "https://ok.166.net/reunionpub/1_20260324_19d1e984686599155.jpeg",
+        "https://ok.166.net/reunionpub/1_20260324_19d1e984686186365.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1774334784.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=698878a7745ea9544ba806b9",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "喜欢的可以点点关注和赞～点击导入同款即可使用#永劫无间# #永劫无间捏脸站# #玉玲珑捏脸# #迦南捏脸# #季莹莹捏脸# #顾清寒捏脸#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
+    },
+    {
+      "id": "69c2327aee28b32fcdb8ebe1",
+      "createTime": 1774334583892,
+      "createDate": "2026-03-24",
+      "characterId": "justina-gu",
+      "characterName": "Justina Gu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260324_19d1e951e7b992274.jpeg",
+        "https://ok.166.net/reunionpub/1_20260324_19d1e951e7b673011.jpeg",
+        "https://ok.166.net/reunionpub/1_20260324_19d1e951e7b581816.jpeg",
+        "https://ok.166.net/reunionpub/1_20260324_19d1e951e7b315149.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1774334579.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690c1a3f90401d221d89e173",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "喜欢的可以点点关注和赞～点击导入同款即可使用#永劫无间# #永劫无间捏脸站# #顾清寒捏脸# #季莹莹捏脸# #迦南捏脸# #玉玲珑捏脸#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
+    },
     {
       "id": "69c143e8cef5057344cb6db5",
       "createTime": 1774273508034,
@@ -14311,6 +14400,232 @@
       "text": "季莹莹捏脸【游鱼】\n国际服用第二张~新赛季捏脸~\n喜欢的宝宝记得三连支持奈奈~\n#永劫无间捏脸站##永劫无间##季莹莹捏脸#",
       "userName": "纱田奈",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230819_18a0c72b161826665.jpeg"
+    },
+    {
+      "id": "6618c53aead31269d8882bd8",
+      "createTime": 1712899386422,
+      "createDate": "2024-04-12",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240412/130821-a7djsnlyz5.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240412/130822-vghp4coes8.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240412/130824-lzjri91cb6.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#季莹莹捏脸##永劫新皮肤捏脸#好喜欢这种鬼迷ri眼的感觉~#永劫无间捏脸站#",
+      "userName": "芋圆怎么又炸了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231130_18c20969648701616.jpeg"
+    },
+    {
+      "id": "6618a2c1ead31269d887b9b9",
+      "createTime": 1712890561564,
+      "createDate": "2024-04-12",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240412_18ed03a6c34272120.jpeg",
+        "https://ok.166.net/reunionpub/1_20240412_18ed03a6c34364583.jpeg",
+        "https://ok.166.net/reunionpub/1_20240412_18ed03a6c34379328.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "-季莹莹免费捏脸「莫邪」\n-捏脸数据在动态里自取，点击图片左下角一键导入游戏（记得预留空位），评论区欢迎投稿和提出修改意见，喜欢记得给俺三连哦#永劫无间捏脸站##永劫无间# #季莹莹捏脸#",
+      "userName": "承枳",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250315_1959923e2a8963995.jpeg"
+    },
+    {
+      "id": "6617ebf3ece2df25be031b19",
+      "createTime": 1712843763774,
+      "createDate": "2024-04-11",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240411/215131-q854cdhvwi.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/215132-1w749voths.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/215134-fsqlmou5wr.png"
+      ],
+      "qrCodes": [],
+      "text": "💕无偿数据分享· 季莹莹｜蓝火「二十壹栈」 💕 \n⚡淬炼赛季S12通行证外观/干将莫邪·火妹搭配捏脸⚡ \n\n💕脸码在最后1张~💕 \n#永劫无间捏脸站# #季莹莹捏脸# #永劫无间# \n\n✨数据获取方式：麻烦能给我一个三联支持！拜托啦！✨ \n⚡以上为二十壹栈原创捏脸，大神独家免费数据分享，请勿二改二传，倒卖盗卖！⚡",
+      "userName": "二十壹栈",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240721_190d46a718d964457.jpeg"
+    },
+    {
+      "id": "661765a01088aa6b048b80cd",
+      "createTime": 1712809376789,
+      "createDate": "2024-04-11",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240411/122045-54hzypgeod.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/122049-0jsvfub3rm.png"
+      ],
+      "qrCodes": [],
+      "text": "【季莹莹捏脸】剑灵\nP2是不需要面纹的版本 泳装系列稍后安排~\n#永劫无间捏脸站##季莹莹捏脸##永劫新皮肤捏脸#",
+      "userName": "高级护甲粉末",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251210_19b05500f79348617.jpeg"
+    },
+    {
+      "id": "6617651282611b43eae1b55b",
+      "createTime": 1712809234938,
+      "createDate": "2024-04-11",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240411/121648-0timgaqs5s.png"
+      ],
+      "qrCodes": [],
+      "text": "【季莹莹捏脸】莫邪\n先捏个通行证 实装还可以接受🤧\n#永劫无间捏脸站##季莹莹捏脸##永劫新皮肤捏脸#",
+      "userName": "高级护甲粉末",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251210_19b05500f79348617.jpeg"
+    },
+    {
+      "id": "661760bf2c1642202fe4d36d",
+      "createTime": 1712808127063,
+      "createDate": "2024-04-11",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240411/115634-9n8oe6rczq.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/115652-nmhs4lqy03.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/115701-ae2czim6s9.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/115710-63g75k4szw.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/115714-v7t6agmoyw.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/115721-ezy3wjb50p.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/115725-ka3n5q7sts.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/115727-7j29qfsbc6.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "【季莹莹捏脸x缱绻】 | 大神专供\n4.11🔥记忆福利捏脸分享 \n----新的通行证来了，刘炼还会远吗\n发色：57 29 71\n\n⭐【获取和导入方法】：\n图三就是捏脸数据-大神内长按识别一键导入即可（捏脸栏留一个空位）\n原创不易，喜欢的别忘了《点赞+评论+关注》三连支持一下，评论区可以多多给我参考，提供捏脸的灵感\n\n⭐2024淬炼赛季大神专属折扣商城：https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq\n\n#永劫无间捏脸站# #季莹莹捏脸# #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "66175aa559922e220f9cd995",
+      "createTime": 1712806565722,
+      "createDate": "2024-04-11",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240411/112845-elpsgb839z.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/112853-svj1fy9ku6.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/112929-neq5sor1c4.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240411/112942-sb2eg4otc3.png"
+      ],
+      "qrCodes": [],
+      "text": "季莹莹捏脸【缱绻】\n新赛季通行证捏脸来了~\n#永劫无间捏脸站##季莹莹捏脸##永劫新皮肤捏脸#",
+      "userName": "纱田奈",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230819_18a0c72b161826665.jpeg"
+    },
+    {
+      "id": "6616595f1088aa6b04882607",
+      "createTime": 1712740703517,
+      "createDate": "2024-04-10",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240410/171519-wmtenp7flh.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240410/171523-acwb9ghsj3.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240410/171527-mvsl0oek4h.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240410/171559-ksyrnfc2z1.png"
+      ],
+      "qrCodes": [],
+      "text": "云千蝶免费数据来了！季莹莹捏脸数据：《冷珊》⚡⚡\n额头面纹饰需要幻丝兑换，名称：长歌诗韵面纹2\n希望大家给喜欢的捏脸点下赞，千蝶会多做高赞风格的捏脸😝😝\n如果都赞都很少的话，那我分享的风格就很随机啦🤪\n\n原创数据请不要商用倒卖，或发布在其他平台上，原创不易请珍惜数据哦，转发请标注出厂地址！\n\n需要其他成品或者定制的劫宝可以私信云千蝶，小蝶看到会第一时间回复\n祝各位宝子身体健康，个个无痛上修罗~ 啾咪\n#永劫无间捏脸站# #季莹莹捏脸# #永劫无间捏脸#",
+      "userName": "云千蝶",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250112_19459112ac8139372.jpeg"
+    },
+    {
+      "id": "6614e1da63681826b650237f",
+      "createTime": 1712644570640,
+      "createDate": "2024-04-09",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240409/143134-jmwhe2kfp0.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240409/143143-c5kd6hws1q.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240409/143148-ish2sak1eb.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240409/143150-gpmksyja2n.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240409/143152-lujkmy56df.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240409/143155-9trsn0o3lf.png"
+      ],
+      "qrCodes": [],
+      "text": "季莹莹捏脸【净雪之月】\n幽魂羁绊 莫甘娜仿妆！\n#永劫无间捏脸站##永劫无间##季莹莹捏脸#",
+      "userName": "纱田奈",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230819_18a0c72b161826665.jpeg"
+    },
+    {
+      "id": "6614920d356d3e09856fa3da",
+      "createTime": 1712624141388,
+      "createDate": "2024-04-09",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240409/085444-6omt2p0174.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240409/085449-7vbc4ajmi5.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240409/085508-a42dlhk31m.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240409/085514-zqkpgynfh0.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240409/085520-pl05s64hft.png"
+      ],
+      "qrCodes": [],
+      "text": "补几个【国际服】的码，给宝子们填坑啦\n对应的国服版捏脸码：\n季莹莹：https://ds.163.com/feed/65d210336132a500018cd0c0/\n三娘：https://ds.163.com/feed/660fc8dce4c73565c762655c/\n殷紫萍：https://ds.163.com/feed/66010629ba801e25fb8d7a38/\n#殷紫萍捏脸# #季莹莹捏脸# #崔三娘捏脸#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
+    },
+    {
+      "id": "660cb37463681826b62f31ea",
+      "createTime": 1712108404581,
+      "createDate": "2024-04-03",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240403/022924-g1qrojlk9v.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240403/022927-0w7kqntjsa.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240403/022934-su6iqkmje2.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240403/022937-380u1vwcs2.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240403/022941-jh6os4iq9g.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240403/022944-04o7a98rn2.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "【季莹莹捏脸x巡夜】 | 大神专供\n4.3🔥记忆福利捏脸分享 \n----一个歪嘴冷笑 莹莹\n\n⭐【获取和导入方法】：\n原创不易，喜欢的别忘了《点赞+评论+关注》三连支持一下\n图三就是捏脸数据-大神内长按识别一键导入即可（捏脸栏留一个空位）\n\n⭐2024明镜赛季大神专属折扣商城：https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq\n\n#永劫无间捏脸站# #季莹莹捏脸# #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "660a04afb19b430b9114ee73",
+      "createTime": 1711932591285,
+      "createDate": "2024-04-01",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240401/084416-481e0mcuj5.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240401/084425-2qws5dog1j.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240401/084430-h4aswi2675.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240401/084432-udqa2t9j6m.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240401/084437-f8kuvcayeh.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240401/084447-ptc01rdk6q.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240401/084451-r5eu7tb063.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240401/084454-gia83pn210.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #季莹莹捏脸#\n季莹莹捏脸：伥\n裂口加病娇，咋看咋都 马蚤 ……\n数据自取，喜欢的记得点赞评论啊👍",
+      "userName": "哈德捏特",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20210921_17c03fdb710471946.jpeg"
+    },
+    {
+      "id": "65fc51922e838a79076383d0",
+      "createTime": 1711034770228,
+      "createDate": "2024-03-21",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240321/231333-l2id1pa94q.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240321/231338-8idf3qo0ys.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240321/231342-mti3u7r5ga.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240321/231345-3qgk4ft2sn.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#季莹莹捏脸# 英雄新捏脸来咯！\n现在直接使用大神扫一扫，绑定游戏ID就可直接导入捏脸数据啦！\n每周领超多优质免费原创数据！喜欢记得三连哦～导入不了请私聊！！！\n＋禁二传、二改、商用（倒卖数据诅咒你哦）\n＋无授权禁搬运其他平台\n＋制作不易，请不要以个人名义倒卖传播，仅发布大神平台，如有违规，追究到底，多多体谅，谢谢#永劫无间捏脸站##永劫无间捏脸#",
+      "userName": "芋圆怎么又炸了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231130_18c20969648701616.jpeg"
     }
   ]
 }

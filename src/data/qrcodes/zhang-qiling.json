@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-03-24T05:00:21.535Z",
+  "lastUpdated": "2026-03-25T05:02:15.038Z",
   "source": "张起灵捏脸",
-  "totalCount": 240,
+  "totalCount": 241,
   "qrcodes": [
+    {
+      "id": "69c23310a7ad6863b7d80525",
+      "createTime": 1774334733769,
+      "createDate": "2026-03-24",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260324_19d1e97695d251837.jpeg",
+        "https://ok.166.net/reunionpub/1_20260324_19d1e97695d926755.jpeg",
+        "https://ok.166.net/reunionpub/1_20260324_19d1e97695d499335.jpeg",
+        "https://ok.166.net/reunionpub/1_20260324_19d1e97695d829581.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1774334730.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690c45b090401d221d89e4a3",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "喜欢的可以点点关注和赞～点击导入同款即可使用#永劫无间# #永劫无间捏脸站# #李寻欢捏脸# #张起灵捏脸# #武田信忠捏脸# #季沧海捏脸#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
+    },
     {
       "id": "69c0e3375b02536f281610f6",
       "createTime": 1774248755787,

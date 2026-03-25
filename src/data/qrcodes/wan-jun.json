@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-03-24T05:04:11.172Z",
+  "lastUpdated": "2026-03-25T05:06:11.201Z",
   "source": "万钧捏脸",
-  "totalCount": 147,
+  "totalCount": 148,
   "qrcodes": [
+    {
+      "id": "69c23cabd4c96e214ea52975",
+      "createTime": 1774337190588,
+      "createDate": "2026-03-24",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260324_40bf65df2885a98e29cd03a9d2d50ea3",
+        "https://ok.166.net/reunionpub/1_kol_20260324_c6ca279afe34c5335629eb6e868954b4",
+        "https://ok.166.net/reunionpub/1_kol_20260324_20a21751a832715944299cc5b204af75",
+        "https://ok.166.net/reunionpub/1_kol_20260324_aceba24f32dd87b36ebf97164f289535",
+        "https://ok.166.net/reunionpub/1_kol_20260324_bc20ee8601979cdb1c2d12fd3783f9bc",
+        "https://ok.166.net/reunionpub/1_kol_20260324_c971335dd7b1fee24c8a49ea7eeb8087"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260324_5558fbd153d51ed49211a7ba83d0d4e2",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6881c7aa68c37d55327a9e2f"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "仿捏合集 · 二\n李星云/盖聂/袁天罡/李火旺PV版/雨宫莲动漫版/尼尔nier\n#季沧海捏脸# #万钧捏脸# #无尘捏脸# #岳山捏脸#  #永劫无间捏脸站# #永劫无间#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
+    },
     {
       "id": "69c0c873cef5057344ca8b8a",
       "createTime": 1774241844766,
