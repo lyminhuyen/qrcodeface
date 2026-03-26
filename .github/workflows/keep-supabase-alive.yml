@@ -12,12 +12,19 @@ jobs:
 
     steps:
       - name: Ping Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
         run: |
+          # Remove trailing slash if any
+          URL="${SUPABASE_URL%/}"
+          echo "Pinging: ${URL}/rest/v1/"
           response=$(curl -s -o /dev/null -w "%{http_code}" \
-            "${{ secrets.SUPABASE_URL }}/rest/v1/" \
-            -H "apikey: ${{ secrets.SUPABASE_ANON_KEY }}" \
-            -H "Authorization: Bearer ${{ secrets.SUPABASE_ANON_KEY }}")
+            "${URL}/rest/v1/" \
+            -H "apikey: ${SUPABASE_ANON_KEY}" \
+            -H "Authorization: Bearer ${SUPABASE_ANON_KEY}")
           echo "Response: $response"
-          if [ "$response" -ne 200 ]; then
-            echo "::warning::Supabase ping returned $response"
+          if [ "$response" = "000" ]; then
+            echo "::error::Could not connect to Supabase - check SUPABASE_URL secret"
+            exit 1
           fi
