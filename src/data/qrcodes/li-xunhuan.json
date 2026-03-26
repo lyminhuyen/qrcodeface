@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-03-25T05:08:08.083Z",
+  "lastUpdated": "2026-03-26T05:19:41.559Z",
   "source": "李寻欢捏脸",
-  "totalCount": 76,
+  "totalCount": 77,
   "qrcodes": [
+    {
+      "id": "69c49ad709af8a6df200365d",
+      "createTime": 1774492373225,
+      "createDate": "2026-03-26",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260326_6903885e329f5205f30f7118fb17f6cd",
+        "https://ok.166.net/reunionpub/1_kol_20260326_c18491b29d015302f2d3029820bcf9a8",
+        "https://ok.166.net/reunionpub/1_kol_20260326_0a96b2ac6fa6cb549dffae145e2acc15"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260326_e3e7f79df0c61a9433588e8ca372d580",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69c4978f093b37370e759fff"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【李寻欢捏脸x点惊鸿】 | 无偿数据分享\n----水墨风可以多出点\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n\n#永劫无间捏脸站# #李寻欢捏脸# #永劫无间#  #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "69c23310a7ad6863b7d80525",
       "createTime": 1774334733769,

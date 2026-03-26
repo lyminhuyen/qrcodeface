@@ -1,8 +1,35 @@
 {
-  "lastUpdated": "2026-03-25T05:02:15.038Z",
+  "lastUpdated": "2026-03-26T05:13:49.876Z",
   "source": "张起灵捏脸",
-  "totalCount": 241,
+  "totalCount": 242,
   "qrcodes": [
+    {
+      "id": "69c38096ee1edf1b98b8b614",
+      "createTime": 1774420116716,
+      "createDate": "2026-03-25",
+      "characterId": "zhang-qiling",
+      "characterName": "Kylin Zhang",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260325_19d23ae386e203313.jpeg",
+        "https://ok.166.net/reunionpub/1_20260325_19d23ae386e999967.jpeg",
+        "https://ok.166.net/reunionpub/1_20260325_19d23ae386e421948.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1774420106.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69b26ba40186943fc2369d6d",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "⭐捏脸原帖：<tag type=\"link\" title=\"【张起灵捏脸x康巴】 | 张起灵藏袍新时装黑皮----藏袍黑皮安排⭐脸码在图三，_来自大神永劫无间端游圈子_就以记忆唱下去\">https://m.ds.163.com/user/a226aa8d72b64ffaadcbc8f85ef9b6c4/feed/69b26c1d074bdf3f01c56da3</tag>\n\n#永劫无间捏脸站#  #张起灵穿搭# #张起灵捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "69c23310a7ad6863b7d80525",
       "createTime": 1774334733769,
