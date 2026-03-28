@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-03-27T05:17:44.028Z",
+  "lastUpdated": "2026-03-28T05:04:59.906Z",
   "source": "万钧捏脸",
-  "totalCount": 148,
+  "totalCount": 149,
   "qrcodes": [
+    {
+      "id": "69c5f7e0bcc4bb50b4f0c72a",
+      "createTime": 1774581726325,
+      "createDate": "2026-03-27",
+      "characterId": "wan-jun",
+      "characterName": "Inor Wan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260327_485349b1fc636910e660d2c5624f48b2",
+        "https://ok.166.net/reunionpub/1_kol_20260327_431ea9151f89ce250fc70a2ea7bd4c17",
+        "https://ok.166.net/reunionpub/1_kol_20260327_15b46d37676ee7daf87de57d7bf402fe"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260327_2e50bdd798eb9c9f3c2bcf81506d8758",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69c5f3550186943fc238d5a0"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【万钧捏脸x雷霆贯身】 | 无偿数据分享\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n#永劫无间捏脸站# #万钧捏脸# #永劫无间#  #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "69c23cabd4c96e214ea52975",
       "createTime": 1774337190588,

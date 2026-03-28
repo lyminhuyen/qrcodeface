@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-03-27T04:58:08.938Z",
+  "lastUpdated": "2026-03-28T04:45:46.901Z",
   "source": "沈妙捏脸",
   "totalCount": 685,
   "qrcodes": [
+    {
+      "id": "69c5febf8bf0de199e67a3de",
+      "createTime": 1774583484831,
+      "createDate": "2026-03-27",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260326_d444bd5da3df8e115ac4117e2fbfa470",
+        "https://ok.166.net/reunionpub/1_kol_20260326_da2381f093dc9966e6f0d55c2b60fdff",
+        "https://ok.166.net/reunionpub/1_kol_20260326_3ea82f9e6b5b03c71de8642578feeb57"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260327_f51553eb1b163994b5c208b5b27dd989",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69c3efd6745ea9544baf64a0"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "古早日系风味沈妙喵喵❤\n沈妙捏脸丨【古早猫】\n✨免费数据 感谢喜欢～(♡>𖥦<)/♥\n#永劫无间##永劫无间捏脸站##沈妙捏脸#",
+      "userName": "Yoi悠响",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230325_18717f85aec479130.jpeg"
+    },
     {
       "id": "69c4ab1bdd003336b0e070f8",
       "createTime": 1774496534054,
@@ -14601,20 +14631,6 @@
       "text": "#永劫无间捏脸站# #沈妙捏脸# 新版捏脸来咯！月皎·沈妙。明月出天山，苍茫云海间。\n现在直接使用大神扫一扫，绑定游戏ID就可直接导入捏脸数据啦！\n每周领超多优质免费原创数据！喜欢记得三连哦～导入不了请私聊！！！ ＋禁二传、二改、商用（倒卖数据诅咒你哦） ＋无授权禁搬运其他平台 ＋制作不易，请不要以个人名义倒卖传播，仅发布大神平台，如有违规，追究到底，多多体谅，谢谢#永劫无间捏脸#",
       "userName": "芋圆怎么又炸了",
       "userAvatar": "https://ok.166.net/reunionpub/3_20231130_18c20969648701616.jpeg"
-    },
-    {
-      "id": "63a898988d5cee0001fda450",
-      "createTime": 1671993496090,
-      "createDate": "2022-12-25",
-      "characterId": "feria-shen",
-      "characterName": "Feria Shen",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20221226_1854a940f1c381732.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站# #沈妙捏脸# #永劫无间# \n沈妙（亚树）\n这两天捏新老婆真的超有手感 嘿嘿好软糯好爱（痴汉笑）\n拿图三连支持一下喔感谢～",
-      "userName": "季季和你拼了",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
     }
   ]
 }
