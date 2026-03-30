@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-03-29T05:25:17.208Z",
+  "lastUpdated": "2026-03-30T05:34:06.439Z",
   "source": "哈迪捏脸",
-  "totalCount": 265,
+  "totalCount": 266,
   "qrcodes": [
+    {
+      "id": "69c8127c20daab4ad2a1988a",
+      "createTime": 1774719607410,
+      "createDate": "2026-03-28",
+      "characterId": "hadi",
+      "characterName": "Hadi Ismail",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260329_65c3b9efd292e9d77420ebe3ddaa803c",
+        "https://ok.166.net/reunionpub/1_kol_20260329_fc95a0d8b333f2ee1f05679ac907b293",
+        "https://ok.166.net/reunionpub/1_kol_20260329_9319fdc517328cd9df293b37fa819f65",
+        "https://ok.166.net/reunionpub/1_kol_20260329_de077644f37170d7b62fcf8ebd1937c4"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260329_1e4d6f64dd358706f3e73f5f06f234a7",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69c80bda093b37370e7613a3"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "阴天 【哈迪·黑皮】捏脸码在图三\n点击进贴下方按钮 快速导入同款数据\n‎💗‎（记得关注点赞分享哦，谢谢）‎💗（ღ( ´･ᴗ･` )比心）\n#永劫无间##永劫无间捏脸站##哈迪捏脸#",
+      "userName": "星野织呀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250904_19910dd0e22102142.jpeg"
+    },
     {
       "id": "69c102c4d4c96e214ea2ede9",
       "createTime": 1774256695046,

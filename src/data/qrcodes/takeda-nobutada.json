@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-03-29T04:57:58.741Z",
+  "lastUpdated": "2026-03-30T05:06:08.011Z",
   "source": "武田信忠捏脸",
-  "totalCount": 540,
+  "totalCount": 541,
   "qrcodes": [
+    {
+      "id": "69c7d204b7486a044d0b3e36",
+      "createTime": 1774703105777,
+      "createDate": "2026-03-28",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260328_64b993d78bf6dcfd74df3d95cb1df1c0",
+        "https://ok.166.net/reunionpub/1_kol_20260328_5a9be7f848cffbe1d49d25fe87fb1c03"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260328_4ee7f3f47fbaab929527e55c7fe0f97c",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69c12eea093b37370e755490"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260328_4869c30bcc792100acbfc1c2e75831d5",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69c12eea093b37370e755490"
+        }
+      ],
+      "text": "《史莱克七怪》——不会捏蓝\n图2就是捏脸码\n喜欢的小伙伴可以点赞关注转发自取\n#永劫无间捏脸站# #不会捏蓝# #武田信忠捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "69c3824555e5367d4fab2366",
       "createTime": 1774420547208,

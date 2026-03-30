@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-03-29T05:19:31.542Z",
+  "lastUpdated": "2026-03-30T05:28:14.538Z",
   "source": "刘炼捏脸",
-  "totalCount": 219,
+  "totalCount": 220,
   "qrcodes": [
+    {
+      "id": "69c7d38a8c175226e067d245",
+      "createTime": 1774703496189,
+      "createDate": "2026-03-28",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260328_6d31f602df26f02cfaf54a5b8b00693c",
+        "https://ok.166.net/reunionpub/1_kol_20260328_3f1ae132bd262feb3654434dd5bbee1f"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260328_0dd650a2b5dd9b11757cb8535ff8ba50",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69bf79760186943fc23836e7"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260328_afad1a5740e4a381a202728301cb2486",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69bf79760186943fc23836e7"
+        }
+      ],
+      "text": "史莱克七怪——格子\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #格子# #刘炼捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "69c5ff55bcc4bb50b4f0d82f",
       "createTime": 1774583635452,
