@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-03-31T05:15:17.852Z",
+  "lastUpdated": "2026-04-01T05:25:44.391Z",
   "source": "季沧海捏脸",
-  "totalCount": 793,
+  "totalCount": 792,
   "qrcodes": [
+    {
+      "id": "69cbc3566d8d1104d7b37711",
+      "createTime": 1774961491539,
+      "createDate": "2026-03-31",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260331_66d76945fb065f8c5110060bc2437c85",
+        "https://ok.166.net/reunionpub/1_kol_20260331_53b25a671d60ddde86df9dcfb5f06b95"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260331_235071355f425be24a8bef1235e820b8",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69cbbde2093b37370e768703"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260331_bcaf643284261c5835809b1c9f33ff2c",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69cbbde2093b37370e768703"
+        }
+      ],
+      "text": "【咒术回战】天与暴君-伏黑甚尔仿捏\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #伏黑甚尔# #季沧海捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "69cb2c83d08bdd59b50ab8b4",
       "createTime": 1774922880277,
@@ -16702,39 +16732,6 @@
       "text": "#永劫无间捏脸站# #季沧海捏脸# 济沧海🔥猴子脸型。",
       "userName": "敏敏吃饱了",
       "userAvatar": "https://ok.166.net/reunionpub/3_20220407_18003eb68de572817.jpeg"
-    },
-    {
-      "id": "624eae542723790001e1ae2f",
-      "createTime": 1649323604004,
-      "createDate": "2022-04-07",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20220407_1800358f082802817.jpeg",
-        "https://ok.166.net/reunionpub/1_20220407_1800358f082146225.jpeg",
-        "https://ok.166.net/reunionpub/1_20220407_1800358f083592044.jpeg",
-        "https://ok.166.net/reunionpub/1_20220407_1800358f083123227.jpeg",
-        "https://ok.166.net/reunionpub/1_20220407_1800358f083124819.jpeg",
-        "https://ok.166.net/reunionpub/1_20220407_1800358f083748260.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站# #季沧海捏脸# \n季沧海捏脸：兰波\n第一滴血的兰波，由史泰龙主演，一代硬汉\n数据自取，喜欢的记得点赞啊👍",
-      "userName": "哈德捏特",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20210921_17c03fdb710471946.jpeg"
-    },
-    {
-      "id": "624e7184a1ca540001fd6155",
-      "createTime": 1649308036377,
-      "createDate": "2022-04-07",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20220407_180026b67cd963740.png"
-      ],
-      "qrCodes": [],
-      "text": "#季沧海捏脸# 这个又man又帅，有一种风男的感觉😁😁",
-      "userName": "天启丿凉冰微凉",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20211223_17de69b0bff423258.jpeg"
     }
   ]
 }
