@@ -2,7 +2,7 @@ name: Keep Supabase Alive
 
 on:
   schedule:
-    - cron: '0 0 */5 * *'  # Every 5 days at midnight UTC
+    - cron: '0 0 */3 * *'  # Every 3 days at midnight UTC
   workflow_dispatch:        # Manual trigger
 
 jobs:
@@ -16,15 +16,24 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
         run: |
-          # Remove trailing slash if any
           URL="${SUPABASE_URL%/}"
-          echo "Pinging: ${URL}/rest/v1/"
-          response=$(curl -s -o /dev/null -w "%{http_code}" \
-            "${URL}/rest/v1/" \
+
+          # Query user_roles table to create real DB activity
+          response=$(curl -s -w "\n%{http_code}" \
+            "${URL}/rest/v1/user_roles?select=count&limit=1" \
             -H "apikey: ${SUPABASE_ANON_KEY}" \
-            -H "Authorization: Bearer ${SUPABASE_ANON_KEY}")
-          echo "Response: $response"
-          if [ "$response" = "000" ]; then
-            echo "::error::Could not connect to Supabase - check SUPABASE_URL secret"
+            -H "Authorization: Bearer ${SUPABASE_ANON_KEY}" \
+            -H "Prefer: count=exact")
+
+          http_code=$(echo "$response" | tail -1)
+          body=$(echo "$response" | head -1)
+          echo "Response: $http_code - $body"
+
+          if [ "$http_code" = "000" ]; then
+            echo "::error::Could not connect to Supabase"
             exit 1
+          elif [ "$http_code" -ge 400 ]; then
+            echo "::warning::Supabase returned $http_code"
+          else
+            echo "Supabase is alive!"
           fi
