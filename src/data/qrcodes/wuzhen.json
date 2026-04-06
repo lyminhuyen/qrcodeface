@@ -1,8 +1,37 @@
 {
-  "lastUpdated": "2026-04-05T05:27:55.596Z",
+  "lastUpdated": "2026-04-06T05:35:22.477Z",
   "source": "巫真捏脸",
-  "totalCount": 100,
+  "totalCount": 101,
   "qrcodes": [
+    {
+      "id": "69d2145e0d3e7809f22ab65c",
+      "createTime": 1775375452684,
+      "createDate": "2026-04-05",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260405_19d5c9f865c353457.jpeg",
+        "https://ok.166.net/reunionpub/1_20260405_19d5c9f865d791234.jpeg",
+        "https://ok.166.net/reunionpub/1_20260405_19d5c9f865d603823.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1775375448.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69d20d73745ea9544bb14a28",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1775375448.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69d20d73745ea9544bb14a28",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站# #巫真捏脸# #永劫无间#",
+      "userName": "千恩",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250417_19641c88063830084.jpeg"
+    },
     {
       "id": "69d0ce8003bcc532d5f614d5",
       "createTime": 1775292028569,
