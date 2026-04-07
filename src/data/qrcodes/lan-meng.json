@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-04-06T05:13:27.988Z",
+  "lastUpdated": "2026-04-07T05:01:29.565Z",
   "source": "蓝梦捏脸",
-  "totalCount": 334,
+  "totalCount": 335,
   "qrcodes": [
+    {
+      "id": "69d352a80e046775422480ac",
+      "createTime": 1775456934324,
+      "createDate": "2026-04-06",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260406_52411e6142520831ce76a739003958a6",
+        "https://ok.166.net/reunionpub/1_kol_20260406_ec3bf2348de563f22f3a1861dfc386f3",
+        "https://ok.166.net/reunionpub/1_kol_20260406_4e6e8d4ff8256913cb39baa091d36165"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260406_5081b637da5619d22ebf240914d79023",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69d34f610186943fc23ad1a3"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【蓝梦捏脸x足 球 老 奶】 | 无偿数据分享\n----蓝梦还能再战100年\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n\n#永劫无间捏脸站# #蓝梦捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "69cbd3420e0467754216b707",
       "createTime": 1774965567899,
