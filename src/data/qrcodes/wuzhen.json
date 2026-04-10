@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-04-09T05:24:49.483Z",
+  "lastUpdated": "2026-04-10T05:38:36.002Z",
   "source": "巫真捏脸",
-  "totalCount": 103,
+  "totalCount": 104,
   "qrcodes": [
+    {
+      "id": "69d4f2b9fc7e150a459b4343",
+      "createTime": 1775563446839,
+      "createDate": "2026-04-07",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260407_4f2e0b94b0fef290280133fc801bb5e1",
+        "https://ok.166.net/reunionpub/1_kol_20260407_0b4d8530b650c1dbd1687043b07b5cfb",
+        "https://ok.166.net/reunionpub/1_kol_20260407_2a29da8b8ce8988f0062c3687210fffe"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260407_bc182d9a0096c672c0c5131ff4a7fec0",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69d3360a093b37370e77b350"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260407_13f13522b029a1da691013002be8e863",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69d3360a093b37370e77b350"
+        }
+      ],
+      "text": "🦋免费数据分享·巫真·【锦木千束】\n仿捏ps:《Lycoris Recoil》的角色(又名：莉可丽丝）\n🖤by:泡泡柚又籽\n✨喜欢的bb可以三连支持嘛(*´・ｖ・)\n#永劫无间# #永劫无间捏脸站# #巫真捏脸#",
+      "userName": "泡泡柚又籽",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250303_1955a971dfb854005.jpeg"
+    },
     {
       "id": "69d3b90fd08bdd59b51a833f",
       "createTime": 1775483149110,
