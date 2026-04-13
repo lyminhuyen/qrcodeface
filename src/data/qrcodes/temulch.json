@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-04-12T04:51:46.986Z",
+  "lastUpdated": "2026-04-13T05:18:46.944Z",
   "source": "特木尔捏脸",
   "totalCount": 762,
   "qrcodes": [
+    {
+      "id": "69d8975f0efd722a45c1e05a",
+      "createTime": 1775802204490,
+      "createDate": "2026-04-10",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260410_4ce0bd9c093c43ca2962992bffc7d7b2",
+        "https://ok.166.net/reunionpub/1_kol_20260410_f11081d21c2868baceea1cc805764790"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260410_53528828fce18c2e9dead268f8f58488",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69d8965c0186943fc23b4536"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260410_3b5ce56503bd4791c3d8426bda2ed137",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69d8965c0186943fc23b4536"
+        }
+      ],
+      "text": "比利王——特木尔捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #比利王# #特木尔捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "69d65b04fc7e150a459dc3d0",
       "createTime": 1775655681148,
@@ -13776,23 +13806,6 @@
       "text": "#特木尔捏脸#",
       "userName": "阿凡Afan",
       "userAvatar": "https://ok.166.net/reunionpub/3_20221112_1846c1dba51987705.png"
-    },
-    {
-      "id": "61488d82663cd6000119c680",
-      "createTime": 1632144770702,
-      "createDate": "2021-09-20",
-      "characterId": "temulch",
-      "characterName": "Temulch",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20210920_17c0368bd44884231.jpeg",
-        "https://ok.166.net/reunionpub/1_20210920_17c0368bd45420394.jpeg",
-        "https://ok.166.net/reunionpub/1_20210920_17c0368bd45376612.jpeg",
-        "https://ok.166.net/reunionpub/1_20210920_17c0368bd45206546.png"
-      ],
-      "qrCodes": [],
-      "text": "#特木尔捏脸#",
-      "userName": "就你也配吗",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230125_185e8b0453d953658.jpeg"
     },
     {
       "id": "61480f2a4a553400015fb69e",
