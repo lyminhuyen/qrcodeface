@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-04-14T05:30:16.148Z",
+  "lastUpdated": "2026-04-15T05:30:09.885Z",
   "source": "万钧捏脸",
-  "totalCount": 151,
+  "totalCount": 152,
   "qrcodes": [
+    {
+      "id": "69ddb1364a003b44691b93da",
+      "createTime": 1776136500308,
+      "createDate": "2026-04-14",
+      "characterId": "wan-jun",
+      "characterName": "Inor Wan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260414_c02b5f333fbe08ecd2718c50a9c971f9",
+        "https://ok.166.net/reunionpub/1_kol_20260414_447b4bc245dfa41ff0772c20125132b6",
+        "https://ok.166.net/reunionpub/1_kol_20260414_dff10cbe46dceacc8c64e48eedf0f094",
+        "https://ok.166.net/reunionpub/1_kol_20260414_27a3483b50b9145212de264500bcd9ae"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260414_f0342811e2c26bef860dc4c3947fde56",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69dd7f550186943fc23be807"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【万钧捏脸x我即是天罚】 | 表情包系列\n----万钧表情包 仿捏\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n\n#永劫无间捏脸站# #万钧捏脸# #永劫无间#  #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "69d25906b556d404071d3bac",
       "createTime": 1775393027845,

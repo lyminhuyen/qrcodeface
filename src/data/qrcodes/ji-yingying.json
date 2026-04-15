@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-04-14T05:16:17.823Z",
+  "lastUpdated": "2026-04-15T05:16:03.313Z",
   "source": "季莹莹捏脸",
   "totalCount": 585,
   "qrcodes": [
+    {
+      "id": "69ddfd134a003b44691c14f9",
+      "createTime": 1776155880970,
+      "createDate": "2026-04-14",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260414_303c429240e6d7c004a1e5e5ea601244",
+        "https://ok.166.net/reunionpub/1_kol_20260414_7b98360db7159a04d72454050315b970",
+        "https://ok.166.net/reunionpub/1_kol_20260414_088defa5e1f6593ba4dc7c7dc050d39c"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260414_612f4ec8f50608c3a2d0d6b09c3fba01",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69ddf3b0745ea9544bb29fd0"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260414_5d21cf272777db36b82bf7581740a765",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69ddf3b0745ea9544bb29fd0"
+        }
+      ],
+      "text": "季莹莹[未期]\n左下角可以直接导入哦，球球关注~\n#永劫无间##季莹莹捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "69cbd309fc7e150a458a39d6",
       "createTime": 1774965512033,
@@ -14702,23 +14733,6 @@
       "text": "【季莹莹捏脸x缱绻】 | 大神专供\n4.11🔥记忆福利捏脸分享 \n----新的通行证来了，刘炼还会远吗\n发色：57 29 71\n\n⭐【获取和导入方法】：\n图三就是捏脸数据-大神内长按识别一键导入即可（捏脸栏留一个空位）\n原创不易，喜欢的别忘了《点赞+评论+关注》三连支持一下，评论区可以多多给我参考，提供捏脸的灵感\n\n⭐2024淬炼赛季大神专属折扣商城：https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq\n\n#永劫无间捏脸站# #季莹莹捏脸# #永劫新皮肤捏脸#",
       "userName": "就以记忆唱下去",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
-    },
-    {
-      "id": "66175aa559922e220f9cd995",
-      "createTime": 1712806565722,
-      "createDate": "2024-04-11",
-      "characterId": "ji-yingying",
-      "characterName": "Zai",
-      "images": [
-        "https://ok.166.net/reunionpub/ds/kol/20240411/112845-elpsgb839z.png",
-        "https://ok.166.net/reunionpub/ds/kol/20240411/112853-svj1fy9ku6.png",
-        "https://ok.166.net/reunionpub/ds/kol/20240411/112929-neq5sor1c4.png",
-        "https://ok.166.net/reunionpub/ds/kol/20240411/112942-sb2eg4otc3.png"
-      ],
-      "qrCodes": [],
-      "text": "季莹莹捏脸【缱绻】\n新赛季通行证捏脸来了~\n#永劫无间捏脸站##季莹莹捏脸##永劫新皮肤捏脸#",
-      "userName": "纱田奈",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230819_18a0c72b161826665.jpeg"
     }
   ]
 }

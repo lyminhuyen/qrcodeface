@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-04-14T05:14:16.899Z",
+  "lastUpdated": "2026-04-15T05:14:02.405Z",
   "source": "蓝梦捏脸",
-  "totalCount": 335,
+  "totalCount": 336,
   "qrcodes": [
+    {
+      "id": "69d85b5dd419bf72c0d5785f",
+      "createTime": 1775786400340,
+      "createDate": "2026-04-10",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260409_c4ed4bb811e94334d4b4feb0afbf5fb7",
+        "https://ok.166.net/reunionpub/1_kol_20260409_2bf4f4f133f68135ab1af01fa9afce1e",
+        "https://ok.166.net/reunionpub/1_kol_20260409_9153a1c9f43bda3a0edcb713fd62825c"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260409_c539dc81d1053422a186560c1a3cc511",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69d7972b093b37370e7819ac"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260409_46707068e3e7474a895cf65f98084a23",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69d7972b093b37370e7819ac"
+        }
+      ],
+      "text": "蓝梦[玲珑]\n左下角可以直接导入哦，球球关注~\n#永劫无间##蓝梦捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "69d352a80e046775422480ac",
       "createTime": 1775456934324,
