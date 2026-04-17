@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-04-16T05:28:22.185Z",
+  "lastUpdated": "2026-04-17T05:25:29.690Z",
   "source": "胡为捏脸",
-  "totalCount": 386,
+  "totalCount": 387,
   "qrcodes": [
+    {
+      "id": "69df53834a003b44691e249f",
+      "createTime": 1776243584797,
+      "createDate": "2026-04-15",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260415_dc9033bc245cd1b1e911ab53b369390b",
+        "https://ok.166.net/reunionpub/1_kol_20260415_785cd4f5f121dd619207b4c43fbb9fc5"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260415_9e3497c2f5779c8399b1f985e8d2c68a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69ddb70c82b7416f9a305a93"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260415_1b86044738c19b5656f79da8ad6016f0",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69ddb70c82b7416f9a305a93"
+        }
+      ],
+      "text": "《日行一善》唐嘉琦捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #唐嘉琦# #胡为捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "69cb2c8300fd196d9807e7e9",
       "createTime": 1774922880285,

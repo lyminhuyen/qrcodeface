@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-04-16T05:06:09.044Z",
+  "lastUpdated": "2026-04-17T05:03:40.084Z",
   "source": "顾清寒捏脸",
-  "totalCount": 610,
+  "totalCount": 609,
   "qrcodes": [
+    {
+      "id": "69e06e61e597710e171873ad",
+      "createTime": 1776315969218,
+      "createDate": "2026-04-16",
+      "characterId": "justina-gu",
+      "characterName": "Justina Gu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260416_68020e2e7c6519fc9a4036a66a54542b",
+        "https://ok.166.net/reunionpub/1_kol_20260416_d6885946b2d2b3b15ed33a3c234c2192",
+        "https://ok.166.net/reunionpub/1_kol_20260416_6a9d225614f66f020a195822a0716513",
+        "https://ok.166.net/reunionpub/1_kol_20260416_77b1ea6c07fde43842ca0e33135e7a4e"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260416_72d6b7e419271d86215b9f72075f0528",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69e05b21093b37370e790db4"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260416_aa6af3580fb9ffde619abdda8366b307",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69e05b21093b37370e790db4"
+        }
+      ],
+      "text": "学姐味丨顾清寒捏脸+影棚分享\n太有氛围感啦！\n捏脸导入指引：捏脸码在图3，如果没有看到导入指引的图标，可以点开捏脸码大图长按保存到手机后发布在评论区点开即可识别\n影棚码导入指引：影棚码在图4，需要点开影棚码大图长按保存到手机后传到电脑上在游戏内 点击英雄-影棚，前往影棚 点击创作影棚，进入编辑后点击右下角导入，选中电脑上的影棚码识别即可。\n创作不易，请动用发财的小手帮小姜点点三连支持一下吧～\n#永劫无间捏脸站# #顾清寒捏脸# #顾清寒影棚##永劫无间#",
+      "userName": "一头阿姜姜",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
+    },
     {
       "id": "69dcfd1af31000606c068b64",
       "createTime": 1776090389769,
@@ -14799,37 +14831,6 @@
       "text": "【刺客】成熟御姐美死了这衣服必买#永劫无间# #永劫无间捏脸站# #顾清寒捏脸#",
       "userName": "肥肥仔vera",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
-    },
-    {
-      "id": "64e70f4b63de2400015f13fb",
-      "createTime": 1692864331529,
-      "createDate": "2023-08-24",
-      "characterId": "justina-gu",
-      "characterName": "Justina Gu",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20230824_18a2693b434720501.jpeg",
-        "https://ok.166.net/reunionpub/1_20230824_18a2693b434537474.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "【A2仿捏】不在家所以只能晚点去更国际服…#永劫无间捏脸站# #永劫无间# #顾清寒捏脸#",
-      "userName": "肥肥仔vera",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
-    },
-    {
-      "id": "64e70b0051a30c00019c380e",
-      "createTime": 1692863232835,
-      "createDate": "2023-08-24",
-      "characterId": "justina-gu",
-      "characterName": "Justina Gu",
-      "images": [
-        "https://ok.166.net/reunionpub/ds/kol/20230824/154624-ksus3cip8z.png",
-        "https://ok.166.net/reunionpub/ds/kol/20230824/154644-vi1f7dmpu6.png",
-        "https://ok.166.net/reunionpub/ds/kol/20230824/154705-usk26srvhp.png"
-      ],
-      "qrCodes": [],
-      "text": "💕无偿数据分享· 顾清寒 | 目白「二十壹栈」 💕 \n⚡永劫尼尔联动 清寒捏脸（不是仿捏A2哦）⚡ \n\n💕捏脸码在最后一张哦💕 \n#顾清寒捏脸# #永劫无间捏脸站# #永劫无间# \n\n✨数据获取方式：麻烦能给我一个三联支持！拜托啦！✨ \n⚡以上为二十壹栈原创捏脸，大神独家免费数据分享，请勿二改二传，倒卖盗卖！⚡",
-      "userName": "二十壹栈",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240721_190d46a718d964457.jpeg"
     }
   ]
 }

@@ -1,8 +1,35 @@
 {
-  "lastUpdated": "2026-04-16T05:30:22.343Z",
+  "lastUpdated": "2026-04-17T05:27:33.346Z",
   "source": "季沧海捏脸",
   "totalCount": 792,
   "qrcodes": [
+    {
+      "id": "69df4635c43fe47022d27094",
+      "createTime": 1776240179573,
+      "createDate": "2026-04-15",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260415_19d902a28f3240397.jpeg",
+        "https://ok.166.net/reunionpub/1_20260415_19d902a28f3465804.jpeg",
+        "https://ok.166.net/reunionpub/1_20260415_19d902a28f3462970.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1776240167.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69dec4b9093b37370e78ec70",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "⭐脸码在图三，喜欢的小伙伴点赞评论自取\n\n#永劫无间捏脸站# #永劫无间# #季沧海捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "69d8971b3738072c70ba7525",
       "createTime": 1775802135953,
@@ -16727,27 +16754,6 @@
       "text": "#永劫无间捏脸站# #季沧海捏脸# 说是用不了，现在重新发一下。",
       "userName": "敏敏吃饱了",
       "userAvatar": "https://ok.166.net/reunionpub/3_20220407_18003eb68de572817.jpeg"
-    },
-    {
-      "id": "624f8915c3e1e50001144c3b",
-      "createTime": 1649379605051,
-      "createDate": "2022-04-08",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/ds/kol/20220406/115637-gfmh6y29ob.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220406/115656-9s3wgsh7yv.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220406/115700-wtzf5s9mqo.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220406/115704-32l4r9iyt0.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220406/115707-jb76h1qyli.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220406/115711-jkd2w3tmgh.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220406/115715-knrc1d26hs.png",
-        "https://ok.166.net/reunionpub/ds/kol/20220406/115719-0r1zqc92f3.png"
-      ],
-      "qrCodes": [],
-      "text": "💓免费分享一枚帅气的季沧海捏脸【原创福利】\n季沧海【无言】发色 7 11 78\n#永劫无间# #永劫无间捏脸站##季沧海捏脸#\n💓前排高亮 数据在第一张图💓\n💓捏脸数据在动态里自取，喜欢的小伙伴请点赞+评论+转发+关注💓\n💓 拿数据请给眠眠一个小小的赞哦 有你的支持 小眠才有捏更多原创捏脸的动力💓\n💓换脸方法：长按保存第一张图二维码数据图片-游戏里易容-右边导入本地图片就好啦💓 😊\n💓捏脸码不能用 以及不会换脸点这里 有详细教程→：https://ds.163.com/article/61cbcff7849ee2000137c784/",
-      "userName": "小眠捏脸",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20200706_1732214d5ab546544.png"
     }
   ]
 }
