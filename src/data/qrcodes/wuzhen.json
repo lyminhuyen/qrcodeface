@@ -1,8 +1,37 @@
 {
-  "lastUpdated": "2026-04-17T05:39:26.924Z",
+  "lastUpdated": "2026-04-18T05:22:37.137Z",
   "source": "巫真捏脸",
-  "totalCount": 109,
+  "totalCount": 110,
   "qrcodes": [
+    {
+      "id": "69e0ed078d4c6a771f19adfa",
+      "createTime": 1776348420184,
+      "createDate": "2026-04-16",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260416_19d969dd4b6262954.jpeg",
+        "https://ok.166.net/reunionpub/1_20260416_19d969dd4b6692223.jpeg",
+        "https://ok.166.net/reunionpub/1_20260416_19d969dd4b7413053.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1776348418.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69e0e117745ea9544bb2e7b5",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1776348418.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69e0e117745ea9544bb2e7b5",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "【云缨仿捏】巫真捏脸#永劫无间# #永劫无间捏脸站# #巫真捏脸#",
+      "userName": "肥肥仔vera",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
+    },
     {
       "id": "69dc401504203d38f3a868da",
       "createTime": 1776042000743,
