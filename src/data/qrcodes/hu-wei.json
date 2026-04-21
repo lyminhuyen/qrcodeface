@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-04-20T05:49:44.618Z",
+  "lastUpdated": "2026-04-21T05:26:25.859Z",
   "source": "胡为捏脸",
-  "totalCount": 387,
+  "totalCount": 388,
   "qrcodes": [
+    {
+      "id": "69e5819a4a435f69127b789c",
+      "createTime": 1776648600346,
+      "createDate": "2026-04-20",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260420_cb74bda7deae84fef58e8663ef876466",
+        "https://ok.166.net/reunionpub/1_kol_20260420_22afe11187f03f0afd0a8f4a1aae8ff6",
+        "https://ok.166.net/reunionpub/1_kol_20260420_e0583980cc32a1bf93ef4506bf849afb"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260420_d4da1d59996038d45f3886e5a25072df",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69e57911093b37370e79ce23"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡为捏脸x形意】 | 无偿数据分享\n----胡为最近又起来了\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n\n#永劫无间捏脸站# #胡为捏脸# #永劫无间#  #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "69df53834a003b44691e249f",
       "createTime": 1776243584797,
