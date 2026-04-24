@@ -3,10 +3,9 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Sun, Moon, ChevronDown, Menu, X, User, LogIn } from 'lucide-react';
+import { Sun, Moon, ChevronDown, Menu, X } from 'lucide-react';
 import { useTheme } from '@/contexts/ThemeContext';
 import { useLanguage, Locale } from '@/contexts/LanguageContext';
-import { useAuth } from '@/contexts/AuthContext';
 
 const languages: { code: Locale; flag: string; label: string }[] = [
   { code: 'vi', flag: '🇻🇳', label: 'VI' },
@@ -18,7 +17,6 @@ export default function Menubar() {
   const pathname = usePathname();
   const { theme, toggleTheme } = useTheme();
   const { locale, setLocale, t } = useLanguage();
-  const { user, loading: authLoading } = useAuth();
   const [langOpen, setLangOpen] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
@@ -128,29 +126,6 @@ export default function Menubar() {
                 </>
               )}
             </div>
-
-            {/* Auth Button */}
-            <Link
-              href={user ? '/dashboard' : '/login'}
-              className={`flex items-center gap-1 px-3 py-2 rounded-full text-sm font-medium transition-all ${isDark
-                ? 'bg-white/10 hover:bg-white/20 text-white'
-                : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
-                }`}
-            >
-              {user ? (
-                <>
-                  <User className="w-4 h-4" />
-                  <span className="hidden sm:inline max-w-[120px] truncate">
-                    {user.user_metadata?.full_name || user.email?.split('@')[0] || 'Dashboard'}
-                  </span>
-                </>
-              ) : (
-                <>
-                  <LogIn className="w-4 h-4" />
-                  <span className="hidden sm:inline">Login</span>
-                </>
-              )}
-            </Link>
 
             {/* Theme Toggle */}
             <button
