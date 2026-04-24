@@ -44,8 +44,8 @@ export default function FilterBar({
   const { t, locale } = useLanguage();
 
   return (
-    <div className="bg-white dark:bg-gray-900/50 border-b border-gray-200 dark:border-gray-800 py-4">
-      <div className="container mx-auto px-4">
+    <div className="sticky top-0 z-40 bg-white dark:bg-gray-900/95 backdrop-blur border-b border-gray-200 dark:border-gray-800 py-4">
+      <div className="max-w-[1320px] mx-auto px-4">
         {/* Character filter - horizontal scroll */}
         <div className="flex gap-2 overflow-x-auto pb-3 scrollbar-hide">
           <button
