@@ -1,8 +1,35 @@
 {
-  "lastUpdated": "2026-04-25T05:26:10.889Z",
+  "lastUpdated": "2026-04-26T06:02:53.948Z",
   "source": "巫真捏脸",
-  "totalCount": 111,
+  "totalCount": 112,
   "qrcodes": [
+    {
+      "id": "69e9c5221e361d5c4ce14f2e",
+      "createTime": 1776927654243,
+      "createDate": "2026-04-23",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260423_19db924235c193975.jpeg",
+        "https://ok.166.net/reunionpub/1_20260423_19db924235c289220.jpeg",
+        "https://ok.166.net/reunionpub/1_20260423_19db924235c208351.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1776927634.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69d3b20182b7416f9a2f5376",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "⭐捏脸原帖：<tag type=\"link\" title=\"【巫真捏脸x恶女】 | 天工赛季巫真新时装----巫真这套是四月销冠⭐脸码在图三_来自大神永劫无间端游圈子_就以记忆唱下去\">https://m.ds.163.com/user/a226aa8d72b64ffaadcbc8f85ef9b6c4/feed/69d3b90fd08bdd59b51a833f</tag>\n\n#永劫无间捏脸站# #巫真穿搭# #巫真捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "69e4bf43c43fe47022dbc7d9",
       "createTime": 1776598849329,
