@@ -129,8 +129,13 @@
       "topicTag": "巫真捏脸"
     },
     {
-      "id": "untagged",
-      "names": { "en": "Untagged", "zh": "未分类", "vi": "Chưa phân loại" },
+      "id": "gan-xuan",
+      "names": { "en": "Tara Ga", "zh": "甘璇", "vi": "Cam Tuyền" },
+      "topicTag": "甘璇捏脸"
+    },
+    {
+      "id": "diverse",
+      "names": { "en": "Diverse", "zh": "多样", "vi": "Đa dạng" },
       "topicTag": null
     }
   ]
