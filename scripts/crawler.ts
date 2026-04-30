@@ -16,7 +16,7 @@ let CRAWL_MODE: 'user' | 'topic';
 
 if (TOPIC_NAME) {
   // Topic mode - crawl from topic page
-  TARGET_URL = `https://ds.163.com/topic/${encodeURIComponent(TOPIC_NAME)}/`;
+  TARGET_URL = `https://ds.163.com/topic/${encodeURIComponent(TOPIC_NAME)}/?tab=投稿广场`;
   CRAWL_MODE = 'topic';
 } else if (USER_ID) {
   // User mode - crawl from user profile
@@ -131,7 +131,7 @@ function getCharacterIdFromTopic(topicName: string, characters: Character[]): st
       return char.id;
     }
   }
-  return 'unknown';
+  return 'diverse';
 }
 
 // Extract character name from topic pattern "X捏脸"
@@ -196,49 +196,55 @@ function extractCharacter(
   text: string,
   characters: Character[]
 ): { id: string; name: string; detectedName?: string } {
+  const foundCharacters = new Set<string>();
+
   // 1. Check topicInfoList for "X捏脸" pattern
   if (topics) {
     for (const topic of topics) {
       const charName = extractCharNameFromTopic(topic.topicName);
       if (charName) {
         const matched = fuzzyMatchCharacter(charName, characters);
-        if (matched) {
-          return { id: matched.id, name: matched.names.en };
-        } else {
-          // Found a character topic but not in our list - track it
+        if (matched && matched.id !== 'diverse') {
+          foundCharacters.add(matched.id);
+        } else if (!matched) {
           unknownCharacters.add(charName);
-          return { id: 'untagged', name: 'Untagged', detectedName: charName };
         }
       }
     }
   }
 
-  // 2. Check text content for character names
+  // 2. Check text content for #X捏脸# pattern
   if (text) {
-    // Look for #X捏脸# pattern in text
     const hashtagMatches = text.match(/#([^#]+捏脸)#/g);
     if (hashtagMatches) {
       for (const match of hashtagMatches) {
         const charName = match.replace(/#/g, '').replace('捏脸', '');
         const matched = fuzzyMatchCharacter(charName, characters);
-        if (matched) {
-          return { id: matched.id, name: matched.names.en };
-        } else {
+        if (matched && matched.id !== 'diverse') {
+          foundCharacters.add(matched.id);
+        } else if (!matched) {
           unknownCharacters.add(charName);
-          return { id: 'untagged', name: 'Untagged', detectedName: charName };
         }
-      }
-    }
-
-    // Direct character name search in text
-    for (const char of characters) {
-      if (char.names.zh && text.includes(char.names.zh)) {
-        return { id: char.id, name: char.names.en };
       }
     }
   }
 
-  return { id: 'untagged', name: 'Untagged' };
+  // If >1 character tags → diverse
+  if (foundCharacters.size > 1) {
+    return { id: 'diverse', name: 'Diverse' };
+  }
+
+  // If exactly 1 → return that character
+  if (foundCharacters.size === 1) {
+    const charId = Array.from(foundCharacters)[0];
+    const char = characters.find(c => c.id === charId);
+    if (char) {
+      return { id: char.id, name: char.names.en };
+    }
+  }
+
+  // No character tag found
+  return { id: 'diverse', name: 'Diverse' };
 }
 
 // Extract images from content
@@ -382,12 +388,12 @@ async function crawl() {
   const stats = {
     total: imageOnlyQRCodes.length,
     byCharacter: {} as Record<string, number>,
-    untagged: 0,
+    diverse: 0,
   };
 
   imageOnlyQRCodes.forEach((qr) => {
-    if (qr.characterId === 'untagged') {
-      stats.untagged++;
+    if (qr.characterId === 'diverse') {
+      stats.diverse++;
     } else {
       stats.byCharacter[qr.characterName] =
         (stats.byCharacter[qr.characterName] || 0) + 1;
@@ -402,31 +408,63 @@ async function crawl() {
 
   log('Stats:');
   log(`  Total: ${stats.total}`);
-  log(`  Untagged: ${stats.untagged}`);
+  log(`  Diverse: ${stats.diverse}`);
   Object.entries(stats.byCharacter).forEach(([name, count]) => {
     log(`  ${name}: ${count}`);
   });
 
-  // Determine output filename
-  let outputFile: string;
+  // Split posts: diverse vs single-character
+  const diversePosts = imageOnlyQRCodes.filter(qr => qr.characterId === 'diverse');
+  const characterPosts = imageOnlyQRCodes.filter(qr => qr.characterId !== 'diverse');
+
+  // Save character posts
   if (CRAWL_MODE === 'topic') {
     const characterId = getCharacterIdFromTopic(TOPIC_NAME, characters);
-    outputFile = path.join(QRCODES_DIR, `${characterId}.json`);
+    const outputFile = path.join(QRCODES_DIR, `${characterId}.json`);
+    const output = {
+      lastUpdated: new Date().toISOString(),
+      source: TOPIC_NAME,
+      totalCount: characterPosts.length,
+      qrcodes: characterPosts,
+    };
+    fs.writeFileSync(outputFile, JSON.stringify(output, null, 2));
+    log(`Saved ${characterPosts.length} posts to ${outputFile}`);
   } else {
-    // User mode - save to user-{id}.json
-    outputFile = path.join(QRCODES_DIR, `user-${USER_ID.slice(0, 8)}.json`);
+    const outputFile = path.join(QRCODES_DIR, `user-${USER_ID.slice(0, 8)}.json`);
+    const output = {
+      lastUpdated: new Date().toISOString(),
+      source: `user:${USER_ID}`,
+      totalCount: characterPosts.length,
+      qrcodes: characterPosts,
+    };
+    fs.writeFileSync(outputFile, JSON.stringify(output, null, 2));
+    log(`Saved ${characterPosts.length} posts to ${outputFile}`);
   }
 
-  // Save to file
-  const output = {
-    lastUpdated: new Date().toISOString(),
-    source: CRAWL_MODE === 'topic' ? TOPIC_NAME : `user:${USER_ID}`,
-    totalCount: imageOnlyQRCodes.length,
-    qrcodes: imageOnlyQRCodes,
-  };
+  // Merge diverse posts into diverse.json
+  if (diversePosts.length > 0) {
+    const diverseFile = path.join(QRCODES_DIR, 'diverse.json');
+    let existingDiverse: ParsedQRCode[] = [];
+    try {
+      const data = JSON.parse(fs.readFileSync(diverseFile, 'utf-8'));
+      existingDiverse = data.qrcodes || [];
+    } catch {}
 
-  fs.writeFileSync(outputFile, JSON.stringify(output, null, 2));
-  log(`Saved to ${outputFile}`);
+    // Merge by unique ID
+    const mergedMap = new Map<string, ParsedQRCode>();
+    for (const qr of existingDiverse) mergedMap.set(qr.id, qr);
+    for (const qr of diversePosts) mergedMap.set(qr.id, qr);
+    const merged = Array.from(mergedMap.values()).sort((a, b) => b.createTime - a.createTime);
+
+    const diverseOutput = {
+      lastUpdated: new Date().toISOString(),
+      source: 'diverse',
+      totalCount: merged.length,
+      qrcodes: merged,
+    };
+    fs.writeFileSync(diverseFile, JSON.stringify(diverseOutput, null, 2));
+    log(`Merged ${diversePosts.length} diverse posts → diverse.json (total: ${merged.length})`);
+  }
 
   log('=== Crawler finished ===');
 }
