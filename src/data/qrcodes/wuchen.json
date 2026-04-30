@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-04-29T05:43:15.424Z",
+  "lastUpdated": "2026-04-30T05:46:55.306Z",
   "source": "无尘捏脸",
-  "totalCount": 831,
+  "totalCount": 832,
   "qrcodes": [
     {
       "id": "69e4804c9a576940c594252a",
@@ -16624,6 +16624,20 @@
       "text": "#无尘捏脸# 随便捏",
       "userName": "伤心的王子",
       "userAvatar": ""
+    },
+    {
+      "id": "61ee5e1cd70a9b0001d3db0e",
+      "createTime": 1643011612089,
+      "createDate": "2022-01-24",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20220124_17e8b1f9a47526116.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#无尘捏脸# 仙气",
+      "userName": "扫地僧诺羽",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230912_18a85327479739557.jpeg"
     },
     {
       "id": "61ee5d220b83600001165b57",
