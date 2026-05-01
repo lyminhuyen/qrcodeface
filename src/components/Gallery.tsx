@@ -52,7 +52,7 @@ export default function Gallery({ characters }: GalleryProps) {
     }
 
     const allQrcodes: QRCode[] = [];
-    const charsWithData = characters.filter(c => c.topicTag !== null);
+    const charsWithData = characters;
 
     // Load all character data in parallel
     const promises = charsWithData.map(async (char) => {
@@ -201,9 +201,11 @@ export default function Gallery({ characters }: GalleryProps) {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  // Sort characters by data availability (characters with data first)
+  // Sort characters - diverse at the end
   const sortedCharacters = useMemo(() => {
-    return [...characters].filter(c => c.topicTag !== null);
+    const regular = characters.filter(c => c.id !== 'diverse');
+    const diverse = characters.find(c => c.id === 'diverse');
+    return diverse ? [...regular, diverse] : regular;
   }, [characters]);
 
   return (

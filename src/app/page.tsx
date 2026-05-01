@@ -28,7 +28,7 @@ export default function Home() {
       }
 
       const allQrcodes: QRCode[] = [];
-      const charsWithData = characters.filter(c => c.topicTag !== null);
+      const charsWithData = characters;
 
       const promises = charsWithData.map(async (char) => {
         try {
@@ -87,13 +87,13 @@ export default function Home() {
         <div className="max-w-4xl mx-auto grid grid-cols-3 gap-4 text-center">
           <div className="p-4 bg-white/50 dark:bg-white/5 rounded-xl backdrop-blur">
             <p className="text-3xl font-bold text-purple-600 dark:text-purple-400">
-              {qrcodes.filter(q => q.characterId !== 'untagged').length}
+              {qrcodes.length}
             </p>
             <p className="text-sm text-gray-600 dark:text-gray-400">{t('stats.qrcodes')}</p>
           </div>
           <div className="p-4 bg-white/50 dark:bg-white/5 rounded-xl backdrop-blur">
             <p className="text-3xl font-bold text-blue-600 dark:text-blue-400">
-              {characters.filter(c => c.id !== 'untagged').length}
+              {characters.length}
             </p>
             <p className="text-sm text-gray-600 dark:text-gray-400">{t('stats.characters')}</p>
           </div>
