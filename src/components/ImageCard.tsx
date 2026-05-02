@@ -1,6 +1,7 @@
 'use client';
 
 import { QRCode } from '@/types';
+import { preloadImages } from '@/lib/imageCache';
 
 interface ImageCardProps {
   qrcode: QRCode;
@@ -11,10 +12,16 @@ export default function ImageCard({ qrcode, onClick }: ImageCardProps) {
   const thumbnailUrl = qrcode.images[0];
   const isVideo = thumbnailUrl?.includes('.mp4');
 
+  const handleMouseEnter = () => {
+    const images = qrcode.images.filter(img => !img.includes('.mp4'));
+    preloadImages(images);
+  };
+
   return (
     <div
       className="group relative bg-gray-100 dark:bg-gray-800 rounded-lg overflow-hidden cursor-pointer hover:shadow-lg transition-shadow"
       onClick={onClick}
+      onMouseEnter={handleMouseEnter}
     >
       {/* Thumbnail */}
       <div className="aspect-square relative">
