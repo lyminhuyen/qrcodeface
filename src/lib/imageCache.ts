@@ -4,8 +4,8 @@ const pending: Record<string, Promise<string>> = {};
 const listeners: Set<() => void> = new Set();
 
 export async function preloadImage(src: string): Promise<string> {
-  if (cache[src]) return cache[src];
-  if (pending[src]) return pending[src];
+  if (src in cache) return cache[src];
+  if (src in pending) return pending[src];
 
   pending[src] = fetch(src, { referrerPolicy: 'no-referrer', credentials: 'omit' })
     .then(res => res.blob())
