@@ -101,7 +101,7 @@ export default function Menubar() {
                     className="fixed inset-0 z-10"
                     onClick={() => setLangOpen(false)}
                   />
-                  <div className={`absolute right-0 mt-2 w-32 rounded-xl shadow-xl z-20 overflow-hidden ${isDark ? 'bg-gray-800' : 'bg-white'
+                  <div className={`absolute right-0 top-full mt-2 w-32 rounded-xl shadow-xl z-50 ${isDark ? 'bg-gray-800' : 'bg-white'
                     }`}>
                     {languages.map((lang) => (
                       <button
