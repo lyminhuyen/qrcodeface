@@ -31,7 +31,7 @@ export default function Menubar() {
   const isDark = theme === 'dark';
 
   return (
-    <div className="w-full p-4">
+    <div className="w-full p-4 relative z-50">
       <nav
         className={`max-w-6xl mx-auto px-6 py-3 transition-all ${isDark
             ? 'bg-white/5 backdrop-blur-lg border border-white/10 rounded-full shadow-2xl'
