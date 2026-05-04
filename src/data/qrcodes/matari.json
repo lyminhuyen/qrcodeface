@@ -1,8 +1,97 @@
 {
-  "lastUpdated": "2026-05-03T05:37:38.449Z",
+  "lastUpdated": "2026-05-04T05:42:16.679Z",
   "source": "迦南捏脸",
-  "totalCount": 616,
+  "totalCount": 630,
   "qrcodes": [
+    {
+      "id": "69f6e042bd9e673aa32f6468",
+      "createTime": 1777786944292,
+      "createDate": "2026-05-03",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260503_43e4866a5ab0de5b86a9ba5256a94dd6",
+        "https://ok.166.net/reunionpub/1_kol_20260503_d5d8a3d9c20c72b1af82330fc7163b4d",
+        "https://ok.166.net/reunionpub/1_kol_20260503_e8b3aa73c48b30143764e2c1fbe3516c",
+        "https://ok.166.net/reunionpub/1_kol_20260503_e19e1be334fe86f91793e4d7ca0d8336"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260503_280bc6fdc579c48ddfe5a28e46a16d50",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69f6db0e82b7416f9a3393a8"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【迦南捏脸x幽夜低语】 | 天工宝珠新时装捏脸分享\n----人类的语言已经无法赞叹迦南，特别是这次宝箱新时装\n\n⭐染色在图四，左下角同款捏脸自取，喜欢的小伙伴多多点赞哈\n\n#永劫无间捏脸站# #迦南捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "69dda46a79904e31ef51b6d6",
+      "createTime": 1776133200149,
+      "createDate": "2026-04-14",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260414_9ea196aada91dddb9fca221bb0b962b4",
+        "https://ok.166.net/reunionpub/1_kol_20260414_7dba71af6129d94cd7616db1a16f005b",
+        "https://ok.166.net/reunionpub/1_kol_20260414_6e462d91a0c3547c20fa45b35226bbcd",
+        "https://ok.166.net/reunionpub/1_kol_20260414_43dcfe0737b30ef68e324354ff50a6e2"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260414_97bba4116491a72ff568e3a6837def79",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69dd787c0186943fc23be7ec"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【迦南捏脸x暗夜玫瑰】 | 无偿数据分享\n----迦南还是真神\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n\n#永劫无间捏脸站# #迦南捏脸# #永劫无间#  #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "69f703e4d2a89e07f24f3f9f",
+      "createTime": 1777796065697,
+      "createDate": "2026-05-03",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260503_19dece71ef1776660.jpeg",
+        "https://ok.166.net/reunionpub/1_20260503_19dece71ef1451897.jpeg",
+        "https://ok.166.net/reunionpub/1_20260503_19dece71ef1463943.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1777796024.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69f59ff20186943fc23ede8e",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "喜欢的可以点点关注和赞～点击导入同款即可使用\n#迦南捏脸# #永劫无间# #永劫无间捏脸站#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
+    },
     {
       "id": "6953e193b5956e4a8c45c5f1",
       "createTime": 1767104913477,
@@ -227,37 +316,6 @@
       "text": "🤍幽灵公主 | 迦南 | 免费捏脸数据🤍\n#永劫无间捏脸站##迦南捏脸##永劫无间#",
       "userName": "千恩",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250417_19641c88063830084.jpeg"
-    },
-    {
-      "id": "69dda46a79904e31ef51b6d6",
-      "createTime": 1776133200149,
-      "createDate": "2026-04-14",
-      "characterId": "matari",
-      "characterName": "Matari",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260414_9ea196aada91dddb9fca221bb0b962b4",
-        "https://ok.166.net/reunionpub/1_kol_20260414_7dba71af6129d94cd7616db1a16f005b",
-        "https://ok.166.net/reunionpub/1_kol_20260414_6e462d91a0c3547c20fa45b35226bbcd",
-        "https://ok.166.net/reunionpub/1_kol_20260414_43dcfe0737b30ef68e324354ff50a6e2"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgBtn": "导入同款捏脸作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260414_97bba4116491a72ff568e3a6837def79",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69dd787c0186943fc23be7ec"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "",
-          "errmsg": ""
-        }
-      ],
-      "text": "【迦南捏脸x暗夜玫瑰】 | 无偿数据分享\n----迦南还是真神\n\n⭐脸码在图三，喜欢的小伙伴点赞评论转发自取\n\n#永劫无间捏脸站# #迦南捏脸# #永劫无间#  #永劫新皮肤捏脸#",
-      "userName": "就以记忆唱下去",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
     },
     {
       "id": "6953a528b81b7d0f17a360fe",
@@ -4100,7 +4158,7 @@
       ],
       "text": "非仿捏 参考电影灵感\n四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #迦南捏脸# #猜猜他是谁# #永手新赛季捏脸# #迦南# #乾坤坛# #僵尸新娘#",
       "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260417_19d9b8c0e84949136.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260503_19decc3625f119606.jpeg"
     },
     {
       "id": "6917e5b1b13b0e5d2386de76",
@@ -4415,7 +4473,7 @@
       ],
       "text": "四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #迦南捏脸# #通行证#",
       "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260417_19d9b8c0e84949136.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260503_19decc3625f119606.jpeg"
     },
     {
       "id": "690d7739b0ad8b680882f482",
@@ -12670,6 +12728,252 @@
       "text": "迦南捏脸【夭夭】\n没有眼影的宝宝直接点开第二扫~\n喜欢的宝宝们记得三连支持一下奈奈哦~\n#永劫无间捏脸站##迦南捏脸##永劫新皮肤捏脸#",
       "userName": "纱田奈",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230819_18a0c72b161826665.jpeg"
+    },
+    {
+      "id": "66d58cf6e176d6555c2c0a09",
+      "createTime": 1725271286331,
+      "createDate": "2024-09-02",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol_server/20240902/180102-r84923amto.png",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240902/180111-y3jrp5wszf.png"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20240902_f5538bed45ca9c2e1199e1cf8b76bd55",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=66cff9fa66b4b01ba8854e4b"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "💕无偿数据分享· 迦南｜劳拉「二十壹栈」 💕\n⚡古墓丽影联动开始了，会喜欢这样的劳拉嘛？💕\n\n#永劫无间捏脸站# #迦南捏脸# #永劫新皮肤捏脸#\n\n✨数据获取方式：麻烦能给我一个三联支持！拜托啦！✨\n⚡以上为二十壹栈原创捏脸，大神独家免费数据分享，请勿二改二传，倒卖盗卖！⚡",
+      "userName": "二十壹栈",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240721_190d46a718d964457.jpeg"
+    },
+    {
+      "id": "66d6c69752fac75df8793b39",
+      "createTime": 1725351575286,
+      "createDate": "2024-09-03",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol_server/20240903/161917-6rhs5qmlk9.png",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240903/161921-6nye2f3djr.png",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240903/161923-fy4tp2sjqk.png",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240903/161929-uwf2qcd16l.png"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20240903_cd2db05427c861cf52a61e6de95e0819",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=66d40b4566b4b01ba885a3fc"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "🌸 福利脸✨迦南：魅影\n🌸 数据发色最后一张自取，有水印是防盗图，导入没有影响～可以正常使用 \n🌸 找到二维码那张图直接扫就行 \n🌸 你的三连是我坚持的动力求随手给我点一下谢谢！ \n🌸 更多不同风格捏脸可见@好吃懒做的森仔 @莫媚儿 @森仔原创捏脸 \n#永劫无间捏脸站##迦南捏脸##永劫新皮肤捏脸#",
+      "userName": "阿橘不吃小鱼干",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221215_1851515102c987971.png"
+    },
+    {
+      "id": "66aa288064b48f5696a2db09",
+      "createTime": 1722427520121,
+      "createDate": "2024-07-31",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240731_19108ae2cbf811412.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#迦南捏脸#",
+      "userName": "李江勇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240823_1917fc2c158633556.jpeg"
+    },
+    {
+      "id": "66d7f3ff9dbf45199e22fef3",
+      "createTime": 1725428735904,
+      "createDate": "2024-09-04",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240904_191bb911772676518.jpeg",
+        "https://ok.166.net/reunionpub/1_20240904_191bb911772423352.jpeg",
+        "https://ok.166.net/reunionpub/1_20240904_191bb911772389719.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1725428731.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=66d7e9e0b37e5f74a92f2703",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "“寂”\n#迦南捏脸# #永劫无间捏脸站# #永劫活动#",
+      "userName": "我tm嘎嘎杀杀杀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240421_18eff3eca6e975471.jpeg"
+    },
+    {
+      "id": "66d66495c1beb0737faef26c",
+      "createTime": 1725326485351,
+      "createDate": "2024-09-03",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol_server/20240903/033818-8yaopshuvz.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240903/033821-rlyd8g2fci.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240903/033826-ikmu31zr02.png",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240903/033829-65vesq1n7l.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240903/033831-kn7lt5p0mb.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240903/033834-0u8ejyzskm.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "【迦南捏脸x古 墓 丽 影】\n9.3🔥记忆福利捏脸分享 \n----劳拉 的经典款出现在永劫里是真的有点恍惚了，活久见系列\n\n⭐【获取和导入方法】：\n图三就是捏脸数据-大神内长按识别一键导入即可（捏脸栏留一个空位）\n喜欢的小伙伴多多点赞，多谢支持\n\n⭐2024长生赛季大神专属折扣商城：https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq\n\n#永劫无间捏脸站# #迦南捏脸# #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "66d6d36052fac75df879563a",
+      "createTime": 1725354848840,
+      "createDate": "2024-09-03",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240903_191b729a9e6639136.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#迦南捏脸#",
+      "userName": "艾斯Qq",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240821_19174577964956254.jpeg"
+    },
+    {
+      "id": "66d69de058d16813231cdc11",
+      "createTime": 1725341152274,
+      "createDate": "2024-09-03",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240903_191b658a798118880.png",
+        "https://ok.166.net/reunionpub/1_20240903_191b658a798475867.png",
+        "https://ok.166.net/reunionpub/1_20240903_191b658a798107505.png"
+      ],
+      "qrCodes": [],
+      "text": "迦南捏脸 黯夜精灵\n劳拉套改的，觉醒了黑皮精灵xp(\n染发参数 发根H76 S1 V78  范围29\n发中90 35 98 范围52\n发梢75 74 95 范围40\n#永劫无间捏脸站# #迦南捏脸# #黑皮#",
+      "userName": "霁白子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240219_18dbf71f4dc619522.jpeg"
+    },
+    {
+      "id": "66d65fd69dbf45199e1e4a9a",
+      "createTime": 1725325270675,
+      "createDate": "2024-09-03",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol_server/20240902/225546-f72gnjtcko.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240902/225547-trsjczw8p6.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240902/225550-0uiebqa4kh.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240902/225555-bv23s7u6wa.png"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20240902_cdaaabfadfa67e288826b60ed6d4a5f1",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=66d5cf5666b4b01ba885cd38"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "云千蝶免费数据来了！迦南捏脸数据：《冒险小姐》⚡⚡\n\n希望大家给喜欢的捏脸点下赞，千蝶会多做高赞风格的捏脸😝😝\n如果都赞都很少的话，那我分享的风格就很随机啦🤪\n\n原创数据请不要商用倒卖，或发布在其他平台上，原创不易请珍惜数据哦，转发请标注出厂地址！\n\n需要其他成品或者定制的劫宝可以私信云千蝶，小蝶看到会第一时间回复\n#永劫无间捏脸站# #迦南捏脸# #永劫无间捏脸#",
+      "userName": "云千蝶",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250112_19459112ac8139372.jpeg"
+    },
+    {
+      "id": "66d0110b9dbf45199e0d005d",
+      "createTime": 1724911883728,
+      "createDate": "2024-08-29",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240829_1919cb5c047492835.jpeg",
+        "https://ok.166.net/reunionpub/1_20240829_1919cb5c048350387.jpeg",
+        "https://ok.166.net/reunionpub/1_20240829_1919cb5c048240788.png"
+      ],
+      "qrCodes": [],
+      "text": "古墓丽影联动捏脸！#永劫无间捏脸站# #迦南捏脸#",
+      "userName": "Yoi悠响",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230325_18717f85aec479130.jpeg"
+    },
+    {
+      "id": "63ce42df47f9490001df5fbf",
+      "createTime": 1674461918944,
+      "createDate": "2023-01-23",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20230123_185ddb5288e530442.jpeg",
+        "https://ok.166.net/reunionpub/1_20230123_185ddb5288e995628.png",
+        "https://ok.166.net/reunionpub/1_20230123_185ddb5288e483681.png"
+      ],
+      "qrCodes": [],
+      "text": "🌚🌝免费分享一个捏脸【大叔原创捏脸】迦南🌚🌝\n#永劫手游捏脸##永手创作团##迦南捏脸#\n🌚🌝数据在第一张图 捏脸数据自取🌚🌝\n🌚🌝一个小小的赞 更多原创捏脸的动力🌚🌝\n🌚🌝🌚🌝二维码最后一张🌚🌝🌚🌝",
+      "userName": "硬核大叔捏脸",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20220707_181d4c5f1b7683418.jpeg"
+    },
+    {
+      "id": "66d5a8c158d16813231a0768",
+      "createTime": 1725278401321,
+      "createDate": "2024-09-02",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240902_191b29a2373504410.jpeg",
+        "https://ok.166.net/reunionpub/1_20240902_191b29a2373998900.jpeg",
+        "https://ok.166.net/reunionpub/1_20240902_191b29a2373998761.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "-迦南免费捏脸\n-捏脸数据在动态里自取，点击图片左下角一键导入游戏（记得预留空位），评论区欢迎投稿和提出修改意见，喜欢记得给俺三连哦#永劫无间捏脸站##永劫无间# #迦南捏脸#",
+      "userName": "承枳",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250315_1959923e2a8963995.jpeg"
+    },
+    {
+      "id": "66d5a545e176d6555c2c4b84",
+      "createTime": 1725277509413,
+      "createDate": "2024-09-02",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240902_191b27d93aa907722.jpeg",
+        "https://ok.166.net/reunionpub/1_20240902_191b27d93aa206658.png",
+        "https://ok.166.net/reunionpub/1_20240902_191b27d93aa567100.png",
+        "https://ok.166.net/reunionpub/1_20240902_191b27d93aa886161.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##迦南捏脸#\n作品名称：迦南数据\n设计理念：女鬼剑仿捏\n                                                                       →（又逢江南小雪）",
+      "userName": "又逢江南小雪",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250201_194be9cc0a8625046.jpeg"
     }
   ]
 }
