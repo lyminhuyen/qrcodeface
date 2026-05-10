@@ -1,8 +1,65 @@
 {
-  "lastUpdated": "2026-05-09T06:10:12.811Z",
+  "lastUpdated": "2026-05-10T06:26:05.984Z",
   "source": "哈迪捏脸",
-  "totalCount": 600,
+  "totalCount": 601,
   "qrcodes": [
+    {
+      "id": "69ff5d646e6ff17722b4f9c6",
+      "createTime": 1778343263592,
+      "createDate": "2026-05-09",
+      "characterId": "hadi",
+      "characterName": "Hadi Ismail",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260510_80613e6e154397ba3816649dc4d0792e",
+        "https://ok.166.net/reunionpub/1_kol_20260510_83621220623672cba4d769cd670b8a09",
+        "https://ok.166.net/reunionpub/1_kol_20260510_8a36f70f829ccdda0bd5537abf2e6416"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260510_ef3513c9ec87542543bce87753b08a50",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69ff59f5093b37370e7d30ed"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "杀戮【哈迪】捏脸码在图三\n点击进贴下方按钮 快速导入同款数据\n‎💗‎（记得关注点赞分享哦，谢谢）‎💗（ღ( ´･ᴗ･` )比心）\n#永劫无间##永劫无间捏脸站##哈迪捏脸#",
+      "userName": "星野织呀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250904_19910dd0e22102142.jpeg"
+    },
+    {
+      "id": "69ff14e70b30e26566abb02e",
+      "createTime": 1778324708735,
+      "createDate": "2026-05-09",
+      "characterId": "hadi",
+      "characterName": "Hadi Ismail",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260509_19e0c699415384249.jpeg",
+        "https://ok.166.net/reunionpub/1_20260509_19e0c699415179527.jpeg",
+        "https://ok.166.net/reunionpub/1_20260509_19e0c699415238128.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1778324557.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69f9ad0682b7416f9a34251b",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "喜欢的可以点点关注和赞～点击导入同款即可使用\n码放评论区#永劫无间# #永劫无间捏脸站# #哈迪捏脸#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
+    },
     {
       "id": "69c8127c20daab4ad2a1988a",
       "createTime": 1774719607410,
@@ -10745,20 +10802,6 @@
       "text": "#哈迪捏脸# \n哈迪-62-梨烟落原创免费捏脸\n最后一张数据\n点赞关注🌸🌸😘😘",
       "userName": "梨烟落",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230118_185c55ba8b0312510.jpeg"
-    },
-    {
-      "id": "6586e5d8c4dd770001b7423d",
-      "createTime": 1703339480973,
-      "createDate": "2023-12-23",
-      "characterId": "hadi",
-      "characterName": "Hadi Ismail",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20231223_18c96f1cc3c768653.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#哈迪捏脸# 有没有大佬捏个强尼银手的哈迪",
-      "userName": "国服最强色篮",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20231216_18c7178cf4e259975.jpeg"
     }
   ]
 }
