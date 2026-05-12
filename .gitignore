@@ -31,16 +31,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# documentation & logs (local only)
-docs/
-journal/
-logs/
-source_web.md
-source_web2.md
-CLAUDE.md
-claude_workflow/
-README.md
-
-# claude code
-.claude/
