@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-05-13T06:03:20.875Z",
+  "lastUpdated": "2026-05-14T06:02:59.042Z",
   "source": "顾清寒捏脸",
   "totalCount": 695,
   "qrcodes": [
+    {
+      "id": "64e8bab824f515000190137f",
+      "createTime": 1692973752835,
+      "createDate": "2023-08-25",
+      "characterId": "justina-gu",
+      "characterName": "Justina Gu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20230825_18a2d195638655065.png"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##顾清寒捏脸#\n闭眼黑皮纯享版哈哈。",
+      "userName": "計惗",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260131_19c13cc9f56431692.jpeg"
+    },
     {
       "id": "683c983acb7cd21ca4fdf0da",
       "createTime": 1748801591799,
@@ -14949,20 +14963,6 @@
       "text": "#永劫无间捏脸站##顾清寒捏脸#\n作品名称：\n设计理念：\n捏脸码：",
       "userName": "优雅的魔方",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250613_197675ea114817680.png"
-    },
-    {
-      "id": "684adf5e712c313f5f0165e9",
-      "createTime": 1749737308433,
-      "createDate": "2025-06-12",
-      "characterId": "justina-gu",
-      "characterName": "Justina Gu",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20250612_19764787a38619938.png"
-      ],
-      "qrCodes": [],
-      "text": "宁姚捏脸#顾清寒捏脸#",
-      "userName": "小歪非常歪",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250513_196c5a1bb51866247.jpeg"
     }
   ]
 }
