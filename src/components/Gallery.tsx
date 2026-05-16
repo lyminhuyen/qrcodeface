@@ -21,6 +21,7 @@ export default function Gallery({ characters }: GalleryProps) {
   const [selectedCharacter, setSelectedCharacter] = useState('newest');
   const [selectedYear, setSelectedYear] = useState('all');
   const [selectedMonth, setSelectedMonth] = useState('all');
+  const [selectedAuthor, setSelectedAuthor] = useState('all');
   const [selectedQRCode, setSelectedQRCode] = useState<QRCode | null>(null);
   const [displayCount, setDisplayCount] = useState(ITEMS_PER_PAGE);
   const [showBackToTop, setShowBackToTop] = useState(false);
@@ -116,6 +117,28 @@ export default function Gallery({ characters }: GalleryProps) {
     return Array.from(months).sort();
   }, [qrcodes]);
 
+  // Get available authors from data
+  const availableAuthors = useMemo(() => {
+    const authorsMap = new Map<string, { name: string; avatar: string; count: number }>();
+    qrcodes.forEach((qr) => {
+      if (qr.userName) {
+        const existing = authorsMap.get(qr.userName);
+        if (existing) {
+          existing.count++;
+        } else {
+          authorsMap.set(qr.userName, {
+            name: qr.userName,
+            avatar: qr.userAvatar || '',
+            count: 1,
+          });
+        }
+      }
+    });
+    return Array.from(authorsMap.values())
+      .sort((a, b) => b.count - a.count)
+      .slice(0, 50);
+  }, [qrcodes]);
+
   // Filter QR codes
   const filteredQRCodes = useMemo(() => {
     let filtered = qrcodes.filter((qr) => {
@@ -136,6 +159,13 @@ export default function Gallery({ characters }: GalleryProps) {
         }
       }
 
+      // Author filter
+      if (selectedAuthor !== 'all') {
+        if (qr.userName !== selectedAuthor) {
+          return false;
+        }
+      }
+
       return true;
     });
 
@@ -143,12 +173,12 @@ export default function Gallery({ characters }: GalleryProps) {
     filtered = filtered.sort((a, b) => b.createTime - a.createTime);
 
     return filtered;
-  }, [qrcodes, selectedYear, selectedMonth]);
+  }, [qrcodes, selectedYear, selectedMonth, selectedAuthor]);
 
   // Reset display count when filter changes
   useEffect(() => {
     setDisplayCount(ITEMS_PER_PAGE);
-  }, [selectedYear, selectedMonth]);
+  }, [selectedYear, selectedMonth, selectedAuthor]);
 
   // Displayed items (infinite scroll)
   const displayedQRCodes = useMemo(() => {
@@ -216,11 +246,14 @@ export default function Gallery({ characters }: GalleryProps) {
         selectedCharacter={selectedCharacter}
         selectedYear={selectedYear}
         selectedMonth={selectedMonth}
+        selectedAuthor={selectedAuthor}
         onCharacterChange={setSelectedCharacter}
         onYearChange={setSelectedYear}
         onMonthChange={setSelectedMonth}
+        onAuthorChange={setSelectedAuthor}
         availableYears={availableYears}
         availableMonths={availableMonths}
+        availableAuthors={availableAuthors}
       />
 
       {/* Results count */}

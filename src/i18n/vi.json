@@ -30,5 +30,16 @@
   "about.description": "QRCode Face Gallery là nơi tổng hợp các Face Code cho game Naraka: Bladepoint, giúp người chơi dễ dàng tìm kiếm và sử dụng các mã QR để tạo nhân vật.",
   "loading": "Đang tải...",
   "noResults": "Không tìm thấy kết quả",
-  "endOfList": "Hết danh sách"
+  "endOfList": "Hết danh sách",
+  "converter.title": "Chuyển đổi QR",
+  "converter.subtitle": "Chuyển mã QR từ server CN sang Global",
+  "converter.uploadTitle": "Tải lên ảnh QR",
+  "converter.urlTitle": "Hoặc dán URL ảnh",
+  "converter.convert": "Chuyển đổi",
+  "converter.converting": "Đang chuyển đổi...",
+  "converter.success": "Chuyển đổi thành công!",
+  "converter.download": "Tải QR",
+  "converter.reset": "Làm mới",
+  "converter.info1": "Công cụ này chuyển đổi mã QR của Naraka: Bladepoint từ định dạng server CN sang Global.",
+  "converter.info2": "Quá trình chuyển đổi diễn ra hoàn toàn trên trình duyệt - không có dữ liệu nào được gửi đến server."
 }

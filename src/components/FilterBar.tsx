@@ -1,18 +1,28 @@
 'use client';
 
+import { useState, useRef, useEffect } from 'react';
+import { ChevronDown } from 'lucide-react';
 import { Character, getCharacterName } from '@/types';
 import { useLanguage } from '@/contexts/LanguageContext';
+
+interface Author {
+  name: string;
+  avatar: string;
+}
 
 interface FilterBarProps {
   characters: Character[];
   selectedCharacter: string;
   selectedYear: string;
   selectedMonth: string;
+  selectedAuthor: string;
   onCharacterChange: (characterId: string) => void;
   onYearChange: (year: string) => void;
   onMonthChange: (month: string) => void;
+  onAuthorChange: (author: string) => void;
   availableYears: string[];
   availableMonths: string[];
+  availableAuthors: Author[];
 }
 
 const MONTH_NAMES = [
@@ -35,13 +45,30 @@ export default function FilterBar({
   selectedCharacter,
   selectedYear,
   selectedMonth,
+  selectedAuthor,
   onCharacterChange,
   onYearChange,
   onMonthChange,
+  onAuthorChange,
   availableYears,
   availableMonths,
+  availableAuthors,
 }: FilterBarProps) {
   const { t, locale } = useLanguage();
+  const [authorDropdownOpen, setAuthorDropdownOpen] = useState(false);
+  const authorDropdownRef = useRef<HTMLDivElement>(null);
+
+  const selectedAuthorData = availableAuthors.find(a => a.name === selectedAuthor);
+
+  useEffect(() => {
+    const handleClickOutside = (e: MouseEvent) => {
+      if (authorDropdownRef.current && !authorDropdownRef.current.contains(e.target as Node)) {
+        setAuthorDropdownOpen(false);
+      }
+    };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
 
   return (
     <div className="sticky top-0 z-40 bg-white dark:bg-gray-900/95 backdrop-blur border-b border-gray-200 dark:border-gray-800 py-4">
@@ -107,16 +134,73 @@ export default function FilterBar({
             </select>
           </div>
 
+          {/* Author filter - custom dropdown */}
+          {availableAuthors.length > 0 && (
+            <div className="flex items-center gap-2">
+              <label className="text-sm text-gray-600 dark:text-gray-400">Author:</label>
+              <div ref={authorDropdownRef} className="relative">
+                <button
+                  onClick={() => setAuthorDropdownOpen(!authorDropdownOpen)}
+                  className="flex items-center gap-2 px-3 py-1.5 border border-gray-300 dark:border-gray-600 rounded-lg text-sm bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-gray-600 min-w-[160px]"
+                >
+                  {selectedAuthorData ? (
+                    <>
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src={selectedAuthorData.avatar}
+                        alt=""
+                        className="w-5 h-5 rounded-full object-cover"
+                        onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
+                      />
+                      <span className="truncate max-w-[120px]">{selectedAuthorData.name}</span>
+                    </>
+                  ) : (
+                    <span>All</span>
+                  )}
+                  <ChevronDown className="w-4 h-4 ml-auto" />
+                </button>
+
+                {authorDropdownOpen && (
+                  <div className="absolute top-full left-0 mt-1 w-64 max-h-80 overflow-y-auto bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-lg z-50">
+                    <button
+                      onClick={() => { onAuthorChange('all'); setAuthorDropdownOpen(false); }}
+                      className={`w-full px-3 py-2 text-left text-sm hover:bg-gray-100 dark:hover:bg-gray-700 ${selectedAuthor === 'all' ? 'bg-blue-50 dark:bg-blue-900/30' : ''}`}
+                    >
+                      All Authors
+                    </button>
+                    {availableAuthors.map((author) => (
+                      <button
+                        key={author.name}
+                        onClick={() => { onAuthorChange(author.name); setAuthorDropdownOpen(false); }}
+                        className={`w-full px-3 py-2 text-left text-sm hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-2 ${selectedAuthor === author.name ? 'bg-blue-50 dark:bg-blue-900/30' : ''}`}
+                      >
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img
+                          src={author.avatar}
+                          alt=""
+                          className="w-6 h-6 rounded-full object-cover bg-gray-200 dark:bg-gray-600 flex-shrink-0"
+                          onError={(e) => { (e.target as HTMLImageElement).src = 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%239ca3af"><circle cx="12" cy="8" r="4"/><path d="M12 14c-6 0-8 3-8 6v2h16v-2c0-3-2-6-8-6z"/></svg>'; }}
+                        />
+                        <span className="truncate">{author.name}</span>
+                      </button>
+                    ))}
+                  </div>
+                )}
+              </div>
+            </div>
+          )}
+
           {/* Clear filters button */}
-          {(selectedYear !== 'all' || selectedMonth !== 'all') && (
+          {(selectedYear !== 'all' || selectedMonth !== 'all' || selectedAuthor !== 'all') && (
             <button
               onClick={() => {
                 onYearChange('all');
                 onMonthChange('all');
+                onAuthorChange('all');
               }}
               className="text-sm text-blue-500 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300"
             >
-              Clear date filter
+              Clear filters
             </button>
           )}
         </div>

@@ -30,5 +30,16 @@
   "about.description": "QRCode Face Gallery is a collection of Face Codes for Naraka: Bladepoint, helping players easily find and use QR codes to create characters.",
   "loading": "Loading...",
   "noResults": "No results found",
-  "endOfList": "End of list"
+  "endOfList": "End of list",
+  "converter.title": "QR Converter",
+  "converter.subtitle": "Convert CN QR codes to Global format",
+  "converter.uploadTitle": "Upload QR Image",
+  "converter.urlTitle": "Or paste image URL",
+  "converter.convert": "Convert",
+  "converter.converting": "Converting...",
+  "converter.success": "Conversion Successful!",
+  "converter.download": "Download QR",
+  "converter.reset": "Reset",
+  "converter.info1": "This tool converts Naraka: Bladepoint QR codes from CN server format to Global format.",
+  "converter.info2": "The conversion happens entirely in your browser - no data is sent to any server."
 }

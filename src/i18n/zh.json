@@ -30,5 +30,16 @@
   "about.description": "QRCode Face Gallery 是永劫无间捏脸码的合集，帮助玩家轻松找到并使用二维码来创建角色。",
   "loading": "加载中...",
   "noResults": "未找到结果",
-  "endOfList": "列表末尾"
+  "endOfList": "列表末尾",
+  "converter.title": "二维码转换",
+  "converter.subtitle": "将国服二维码转换为国际服格式",
+  "converter.uploadTitle": "上传二维码图片",
+  "converter.urlTitle": "或粘贴图片URL",
+  "converter.convert": "转换",
+  "converter.converting": "转换中...",
+  "converter.success": "转换成功！",
+  "converter.download": "下载二维码",
+  "converter.reset": "重置",
+  "converter.info1": "此工具将永劫无间的二维码从国服格式转换为国际服格式。",
+  "converter.info2": "转换完全在您的浏览器中进行 - 不会向任何服务器发送数据。"
 }

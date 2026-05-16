@@ -19,6 +19,8 @@ interface QRCode {
   images: string[];
   qrCodes: unknown[];
   text: string;
+  userName?: string;
+  userAvatar?: string;
 }
 
 interface SourceFile {
