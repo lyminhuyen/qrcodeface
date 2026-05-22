@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-05-21T06:26:36.323Z",
+  "lastUpdated": "2026-05-22T06:24:13.168Z",
   "source": "无尘捏脸",
   "totalCount": 639,
   "qrcodes": [
+    {
+      "id": "6a0f35d9c5c9d625ae463694",
+      "createTime": 1779381718751,
+      "createDate": "2026-05-21",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260522_19e4b6a4a2b472863.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #无尘捏脸#",
+      "userName": "正在睡大觉",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230520_188399646f5617113.jpeg"
+    },
     {
       "id": "69923b717a08ab0ef31229a3",
       "createTime": 1771191151386,
@@ -12821,20 +12835,6 @@
       "text": "#无尘捏脸#",
       "userName": "游戏玩家53051442",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240408_18ebae7e5c8343610.jpeg"
-    },
-    {
-      "id": "65e55c22718cef16d5c9e98e",
-      "createTime": 1709530146629,
-      "createDate": "2024-03-04",
-      "characterId": "wuchen",
-      "characterName": "Wuchen",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20240304_18e07efdb6c867600.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#大神永劫无间捏脸站##无尘捏脸#\n作品名称：\n设计理念：",
-      "userName": "离离原火",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240304_18e07e5b120207039.png"
     }
   ]
 }
