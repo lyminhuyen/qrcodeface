@@ -1,8 +1,45 @@
 {
-  "lastUpdated": "2026-05-25T07:16:56.823Z",
+  "lastUpdated": "2026-05-26T06:47:29.643Z",
   "source": "张起灵捏脸",
-  "totalCount": 594,
+  "totalCount": 595,
   "qrcodes": [
+    {
+      "id": "6a14b3190361785696aec4ba",
+      "createTime": 1779741461952,
+      "createDate": "2026-05-25",
+      "characterId": "zhang-qiling",
+      "characterName": "Kylin Zhang",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260526_d387c68b2b873ce56f9c0a95e16f49d0",
+        "https://ok.166.net/reunionpub/1_kol_20260526_5dc549b583d2e8d10eec735b8fe971ed",
+        "https://ok.166.net/reunionpub/1_kol_20260526_df3c583fc600fcae737a37d4f048819a",
+        "https://ok.166.net/reunionpub/1_kol_20260526_3c0d39fceb431f4cb712fa976533ae22",
+        "https://ok.166.net/reunionpub/1_kol_20260526_564a6c3e31042a20481d3755a9d5aa67",
+        "https://ok.166.net/reunionpub/1_kol_20260526_c9738344322eaf3c331623099530cf1e",
+        "https://ok.166.net/reunionpub/1_kol_20260526_1cc33f9c097070b9c5c40172daacb100",
+        "https://ok.166.net/reunionpub/1_kol_20260526_07e8ed7a6edeef6c8133f3c6818d7598",
+        "https://ok.166.net/reunionpub/1_kol_20260526_1f705e7ce74514886bdf8cbc578f8aad"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260526_e127a071901a4acf8123c640124040da",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a1386be82b7416f9a3770dc"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260526_8bacaa865a49b6f3c333192afbac267d",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a1386a982b7416f9a3770da"
+        }
+      ],
+      "text": "#永劫无间 #永劫无间捏脸 #逆战暴王 #刘炼捏脸 #张起灵捏脸 #席拉捏脸 #万钧捏脸 #岳山捏脸 #崔三娘捏脸 #补档\n\n#逆战暴王\n#逆战暴王\n#逆战暴王",
+      "userName": "逆战暴王",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260422_19db213a759713091.jpeg"
+    },
     {
       "id": "69d02e213767e0671c5cccb7",
       "createTime": 1775250975536,
