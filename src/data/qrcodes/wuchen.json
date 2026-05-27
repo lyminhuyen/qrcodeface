@@ -1,8 +1,53 @@
 {
-  "lastUpdated": "2026-05-26T06:23:37.011Z",
+  "lastUpdated": "2026-05-27T06:37:42.389Z",
   "source": "无尘捏脸",
-  "totalCount": 639,
+  "totalCount": 655,
   "qrcodes": [
+    {
+      "id": "69cca7ce169c5c497bdd9771",
+      "createTime": 1775019980635,
+      "createDate": "2026-04-01",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260401_86a968fb89531c73c000cacd6b3dc41c",
+        "https://ok.166.net/reunionpub/1_kol_20260401_2a4ba12e9ec3b5d8f7ea6be35ba57370",
+        "https://ok.166.net/reunionpub/1_kol_20260401_bc3b2af5b21b0a7951906510b0d1931d",
+        "https://ok.166.net/reunionpub/1_kol_20260401_7390beba7422e985706341019da1c9c7"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260401_c9360b27ac7038bc64ea7a37a51d50db",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69cca3b20186943fc239b621"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "🩵【无偿】无尘｜南风\n开学季校园男神~\n——小桃子原创作品（更多捏脸分享请看个人主页）感谢你的喜欢！\n#永劫无间捏脸站##无尘捏脸# #永劫无间#",
+      "userName": "小桃子原创捏脸",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221229_1855a0d6e7e808395.jpeg"
+    },
+    {
+      "id": "6a15a80b1a00f0266b55f7be",
+      "createTime": 1779804169188,
+      "createDate": "2026-05-26",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260526_19e64985cc1766259.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#无尘捏脸#",
+      "userName": "游戏玩家83149779",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230125_185e8bd8abd969714.jpeg"
+    },
     {
       "id": "69fc2915396750682018d817",
       "createTime": 1778133266630,
@@ -907,37 +952,6 @@
       "text": "#无尘捏脸# #永劫无间#",
       "userName": "奈奈永劫无间",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250929_19991ca4192210484.jpeg"
-    },
-    {
-      "id": "69cca7ce169c5c497bdd9771",
-      "createTime": 1775019980635,
-      "createDate": "2026-04-01",
-      "characterId": "wuchen",
-      "characterName": "Wuchen",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260401_86a968fb89531c73c000cacd6b3dc41c",
-        "https://ok.166.net/reunionpub/1_kol_20260401_2a4ba12e9ec3b5d8f7ea6be35ba57370",
-        "https://ok.166.net/reunionpub/1_kol_20260401_bc3b2af5b21b0a7951906510b0d1931d",
-        "https://ok.166.net/reunionpub/1_kol_20260401_7390beba7422e985706341019da1c9c7"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgBtn": "导入同款捏脸作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260401_c9360b27ac7038bc64ea7a37a51d50db",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69cca3b20186943fc239b621"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "",
-          "errmsg": ""
-        }
-      ],
-      "text": "🩵【无偿】无尘｜南风\n开学季校园男神~\n——小桃子原创作品（更多捏脸分享请看个人主页）感谢你的喜欢！\n#永劫无间捏脸站##无尘捏脸# #永劫无间#",
-      "userName": "小桃子原创捏脸",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20221229_1855a0d6e7e808395.jpeg"
     },
     {
       "id": "686e62a34c4d4c4dfddb040b",
@@ -5569,7 +5583,7 @@
       ],
       "qrCodes": [],
       "text": "#永劫无间捏脸站##无尘捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "馬嘉祁狂热粉丝",
+      "userName": "馬嘉祁狂热粉丝_20260520",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240808_191306453ba368528.png"
     },
     {
@@ -12858,6 +12872,233 @@
       "text": "#无尘捏脸# 怎么点分享出来的是这个颜色？不过气质还在。",
       "userName": "Diana梦谛",
       "userAvatar": "https://ok.166.net/reunionpub/3_20200913_1748827054e942559.png"
+    },
+    {
+      "id": "6610a2538036b118d686c5e4",
+      "createTime": 1712366163468,
+      "createDate": "2024-04-06",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240406_18eb0f883ce232855.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#无尘捏脸#",
+      "userName": "游戏玩家53051442",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240408_18ebae7e5c8343610.jpeg"
+    },
+    {
+      "id": "65e55c22718cef16d5c9e98e",
+      "createTime": 1709530146629,
+      "createDate": "2024-03-04",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240304_18e07efdb6c867600.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##无尘捏脸#\n作品名称：\n设计理念：",
+      "userName": "离离原火",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240304_18e07e5b120207039.png"
+    },
+    {
+      "id": "660e34d68036b118d6813fa7",
+      "createTime": 1712207062255,
+      "createDate": "2024-04-04",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240404_18ea77e5ad3341097.jpeg",
+        "https://ok.166.net/reunionpub/1_20240404_18ea77e5ad3648576.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "无尘原皮捏脸来啦，大家有没有觉得用无尘原皮的队友都是会玩无尘的🤔🤔，喜欢捏脸的可以图二一键导入游戏里哦#永劫无间闲聊# #永劫无间捏脸站# #无尘捏脸#",
+      "userName": "布洛芬胶囊呀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250609_19752f253ce783436.jpeg"
+    },
+    {
+      "id": "660e1d79aa99fc18ecd63b0d",
+      "createTime": 1712201081510,
+      "createDate": "2024-04-04",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240404_18ea72312ca251670.png",
+        "https://ok.166.net/reunionpub/1_20240404_18ea72312ca902838.png"
+      ],
+      "qrCodes": [],
+      "text": "像吗？\n太像了！\n我就说我最像我太爷！\n无尘——明龙象\n#永劫无间捏脸站# #无尘捏脸#",
+      "userName": "惊鹬",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20210708_17a84386546122313.jpeg"
+    },
+    {
+      "id": "6358b28d880c71000120efe1",
+      "createTime": 1666757261241,
+      "createDate": "2022-10-26",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20221026_18412796ec5866416.jpeg",
+        "https://ok.166.net/reunionpub/1_20221026_18412796ec5695300.jpeg",
+        "https://ok.166.net/reunionpub/1_20221026_18412796ec5236864.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##无尘捏脸#\n作品名称：闭眼世子\n设计理念：大爱无尘 ikun绝对 送壁纸 捏脸配6号发型 发色搭幻丝衣服 嘎嘎好看👀",
+      "userName": "经历与年龄无关",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20220817_182a8fc2e8f310744.jpeg"
+    },
+    {
+      "id": "660d47adaa99fc18ecd46ab9",
+      "createTime": 1712146349847,
+      "createDate": "2024-04-03",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240403_18ea3dfe9a6485581.png",
+        "https://ok.166.net/reunionpub/1_20240403_18ea3dfe9a6951540.png"
+      ],
+      "qrCodes": [],
+      "text": "十八岁那年，第一次打自由搏击，我挨了一个阳光快乐大鼻斗，后来……#永劫无间捏脸站# #捏脸打人# #无尘捏脸#",
+      "userName": "惊鹬",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20210708_17a84386546122313.jpeg"
+    },
+    {
+      "id": "660b9d3436f343221b3a7ba0",
+      "createTime": 1712037172011,
+      "createDate": "2024-04-02",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240402_18e9d5e0a93389409.png"
+      ],
+      "qrCodes": [],
+      "text": "【无尘捏脸】\n无尘幽篁山鬼的女脸，其实老早就捏好了，但是幽篁山鬼已经绝版了就不怎么敢发，复刻了索性就发出来了。喜欢的话就点个赞吧，这会决定我的更新频率。\n#永劫无间捏脸#  #永劫无间捏脸站##无尘捏脸#",
+      "userName": "叫我小莫吧",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230814_189f3e65b3b491837.jpeg"
+    },
+    {
+      "id": "64304ce95bb1da0001d9d107",
+      "createTime": 1680887017702,
+      "createDate": "2023-04-07",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20230408_1875cac68a7790548.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #无尘捏脸#\n 凡人修仙传韩立\n或许肤色该暗一些?",
+      "userName": "chargeman研",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230408_1875cb172ba180861.jpeg"
+    },
+    {
+      "id": "6605a1ddd7b80a3cffae7547",
+      "createTime": 1711645149949,
+      "createDate": "2024-03-28",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240329_18e860038ea107444.jpeg",
+        "https://ok.166.net/reunionpub/1_20240329_18e860038ea632660.jpeg",
+        "https://ok.166.net/reunionpub/1_20240329_18e860038ea292489.jpeg",
+        "https://ok.166.net/reunionpub/1_20240329_18e860038ea464006.jpeg",
+        "https://ok.166.net/reunionpub/1_20240329_18e860038ea285424.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "黎麦麦无尘原创捏脸《小皇子》已上线，想要的宝子可私信#无尘捏脸# #永劫无间捏脸站# #永劫无间#",
+      "userName": "黎麦麦Mai",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240325_18e75aef068842354.jpeg"
+    },
+    {
+      "id": "63ee14c21c09770001177494",
+      "createTime": 1676547266662,
+      "createDate": "2023-02-16",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20230216_1865a010a75668931.jpeg",
+        "https://ok.166.net/reunionpub/1_20230216_1865a010a75803780.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "【10块钱】因为我在泰国网吧花10块钱截个图🤡#永劫无间# #永劫无间捏脸站# #无尘捏脸#",
+      "userName": "肥肥仔vera",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
+    },
+    {
+      "id": "65f25050d51eca5291c0b71b",
+      "createTime": 1710379088165,
+      "createDate": "2024-03-14",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240314/024803-jngk6048zf.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240314/024809-rhewq2vuif.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240314/024815-06qkpwsy13.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240314/024818-sl52swbize.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240314/024826-wvjgz3sdi6.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240314/024830-zyb84siwm9.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240314/024835-gcrsw6yapt.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "【无尘捏脸x风行天】 | 大神平台专供\n3.14🔥记忆福利捏脸分享 \n----很久没捏无尘了，这套朝闻道设计方面还是有可圈可点的地方\n\n⭐【获取和导入方法】：\n原创不易，喜欢的别忘了《点赞+评论+关注》三连支持一下\n第三张图就是捏脸数据-大神内长按识别一键导入即可（捏脸栏留一个空位）\n\n⭐2024明镜赛季大神专属折扣商城：https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq\n\n#永劫无间捏脸站# #无尘捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "65db1fadd7b80a3cff2618df",
+      "createTime": 1708859309783,
+      "createDate": "2024-02-25",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240225_18ddff3b0ef250246.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#无尘捏脸#",
+      "userName": "o哦哦哦惺惺惜惺惺",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250427_196730a6b6e970148.png"
+    },
+    {
+      "id": "6606f9f70e2eef035fcf1b9c",
+      "createTime": 1711733239897,
+      "createDate": "2024-03-29",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240330_18e8b403395429334.png"
+      ],
+      "qrCodes": [],
+      "text": "#无尘捏脸#",
+      "userName": "游戏玩家00657290",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231120_18bebdc6954290391.png"
+    },
+    {
+      "id": "6606687cb3f3f37d8bd139ae",
+      "createTime": 1711695996948,
+      "createDate": "2024-03-29",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240329_18e89081d3a843554.jpeg",
+        "https://ok.166.net/reunionpub/1_20240329_18e89081d3a192141.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#无尘捏脸##永劫无间捏脸站# #永劫无间#  两个叔版无尘",
+      "userName": "Jotakayuki",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20210419_178e6930647974562.png"
+    },
+    {
+      "id": "66044e5ccf6bc65a38535512",
+      "createTime": 1711558236600,
+      "createDate": "2024-03-27",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240328_18e80d20dc3263709.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#无尘捏脸# 忘了改异色瞳，这回对味了",
+      "userName": "森林兔子benerbener",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231017_18b39657ae6859195.jpeg"
     }
   ]
 }
