@@ -1,8 +1,67 @@
 {
-  "lastUpdated": "2026-05-28T06:30:54.254Z",
+  "lastUpdated": "2026-05-29T06:32:27.320Z",
   "source": "岳山捏脸",
-  "totalCount": 677,
+  "totalCount": 690,
   "qrcodes": [
+    {
+      "id": "6a1819f09c1fb63249d724da",
+      "createTime": 1779964397711,
+      "createDate": "2026-05-28",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260528_ddf37c852def0104fde28e89fd6e1a02",
+        "https://ok.166.net/reunionpub/1_kol_20260528_5610ff7668846aa9bd219902f1a1a5c1"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260528_70368c16e36257c4a8dfc6af9a195561",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a18199f82b7416f9a37d5f7"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260528_0ec3afe0e0e3a853c3456fb93dce4a00",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a18199f82b7416f9a37d5f7"
+        }
+      ],
+      "text": "生化危机——威斯克\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #岳山捏脸# #威斯克#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
+    {
+      "id": "6a0d8648485a0534a1e6d09e",
+      "createTime": 1779271235941,
+      "createDate": "2026-05-20",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260520_19e44d473b3193519.jpeg",
+        "https://ok.166.net/reunionpub/1_20260520_19e44d473b3426507.jpeg",
+        "https://ok.166.net/reunionpub/1_20260520_19e44d473b3972743.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1779271231.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0d83a782b7416f9a36867e",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1779271231.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0d83a782b7416f9a36867e",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "岳山捏脸【失真】#永劫无间捏脸站# #永劫无间# #岳山捏脸#",
+      "userName": "肥肥仔vera",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
+    },
     {
       "id": "6a0eb3dbc1bde21be0dfbef2",
       "createTime": 1779348436637,
@@ -234,35 +293,6 @@
       "text": "#永劫无间 #岳山 #岳山捏脸 #逆战暴王 #岳山捏脸-xiao #补档 #万钧捏脸 #张起灵捏脸\n#逆战暴王\n#逆战暴王\n#逆战暴王\n#逆战暴王",
       "userName": "逆战暴王",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260422_19db213a759713091.jpeg"
-    },
-    {
-      "id": "6a0d8648485a0534a1e6d09e",
-      "createTime": 1779271235941,
-      "createDate": "2026-05-20",
-      "characterId": "yueshan",
-      "characterName": "Yueshan",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260520_19e44d473b3193519.jpeg",
-        "https://ok.166.net/reunionpub/1_20260520_19e44d473b3426507.jpeg",
-        "https://ok.166.net/reunionpub/1_20260520_19e44d473b3972743.jpeg"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸/影棚码",
-          "imgLocalName": "1779271231.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0d83a782b7416f9a36867e",
-          "imgBtn": "导入同款捏脸/影棚作品"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgLocalName": "1779271231.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0d83a782b7416f9a36867e",
-          "imgBtn": "导入同款发型作品"
-        }
-      ],
-      "text": "岳山捏脸【失真】#永劫无间捏脸站# #永劫无间# #岳山捏脸#",
-      "userName": "肥肥仔vera",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
     },
     {
       "id": "6a0e0dc1c416114487fad317",
@@ -13265,6 +13295,178 @@
       "text": "#永劫无间捏脸站# 岳珊#岳山捏脸#",
       "userName": "搂嫦娥烤兔子1",
       "userAvatar": "https://ok.166.net/reunionpub/3_20241126_19367e43670945128.jpeg"
+    },
+    {
+      "id": "6750446fa7a4f6270b84b2de",
+      "createTime": 1733313645104,
+      "createDate": "2024-12-04",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241204_193918b47ce251762.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##岳山捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "橘中柚",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241024_192bba4d88e842859.jpeg"
+    },
+    {
+      "id": "674efcfe8a3f7303d39c6657",
+      "createTime": 1733229821134,
+      "createDate": "2024-12-03",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241203_1938c8c3981861339.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#岳山捏脸#",
+      "userName": "心累M",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240706_19083d1f67f385298.jpeg"
+    },
+    {
+      "id": "674ef0c8cbecca386a7f5f1e",
+      "createTime": 1733226694587,
+      "createDate": "2024-12-03",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241203_1938c5c8532477345.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##岳山捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "自闭阿鑫",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231104_18b983a7178935100.png"
+    },
+    {
+      "id": "674e3ba3a41e9f41ca149bd6",
+      "createTime": 1733180083258,
+      "createDate": "2024-12-02",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241203_193899546cf287413.jpeg",
+        "https://ok.166.net/reunionpub/1_20241203_193899546cf213034.jpeg",
+        "https://ok.166.net/reunionpub/1_20241203_193899546cf250054.jpeg",
+        "https://ok.166.net/reunionpub/1_20241203_193899546cf699778.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##岳山捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "Kelvin9活点",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20220421_1804aa2bfde110244.jpeg"
+    },
+    {
+      "id": "65af26a1301aa80001422576",
+      "createTime": 1705977505486,
+      "createDate": "2024-01-23",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240123_18d342edb02462671.png"
+      ],
+      "qrCodes": [],
+      "text": "#岳山捏脸#",
+      "userName": "时不渡我不渡她",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240110_18cf2affb45297751.png"
+    },
+    {
+      "id": "67421e65e0a9df3e45bca5dc",
+      "createTime": 1732386404046,
+      "createDate": "2024-11-23",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241124_1935a46b3f8481224.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#岳山捏脸# 有没有大佬有这个岳山的捏脸啊！",
+      "userName": "吃饱了又饿",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240701_19069ee47c3126645.jpeg"
+    },
+    {
+      "id": "674c50c16a470b4133687b01",
+      "createTime": 1733054650271,
+      "createDate": "2024-12-01",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241201_193821b54f7274571.jpeg",
+        "https://ok.166.net/reunionpub/1_20241201_193821b54f7870951.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##岳山捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "相识在回阳境",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240612_190083f3510505602.jpeg"
+    },
+    {
+      "id": "674c0839263fad4c1ad00c55",
+      "createTime": 1733035932680,
+      "createDate": "2024-12-01",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241201_19380fdb9e6253879.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#岳山捏脸#",
+      "userName": "南行鬼牧",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230910_18a7e804d84858832.jpeg"
+    },
+    {
+      "id": "674c07a86a470b4133679074",
+      "createTime": 1733035727657,
+      "createDate": "2024-12-01",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241201_19380fa959c797021.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#岳山捏脸#",
+      "userName": "南行鬼牧",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230910_18a7e804d84858832.jpeg"
+    },
+    {
+      "id": "66b36397d69b9178bedc6e4e",
+      "createTime": 1723032471036,
+      "createDate": "2024-08-07",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240807_1912cbcfdf1150330.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "关羽捏脸，霸气侧漏#岳山# #岳山捏脸# #永劫有手就行# #网易大神集劫令#",
+      "userName": "游戏玩家98135629",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240312_18e32761758843920.png"
+    },
+    {
+      "id": "6699bf4d7b33d97341192155",
+      "createTime": 1721352013575,
+      "createDate": "2024-07-19",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240719_190c8933f3c377075.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "求这个脸，家人们\n#永劫无间捏脸站# #岳山捏脸#",
+      "userName": "爠耀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230316_186eb221154318435.jpeg"
+    },
+    {
+      "id": "6749a2758a3f7303d38a1183",
+      "createTime": 1732878964098,
+      "createDate": "2024-11-29",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241129_19377a2906a668114.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#岳山捏脸# 求码😭",
+      "userName": "游戏玩家04440732",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240512_18f6b5ff296121433.png"
     }
   ]
 }
