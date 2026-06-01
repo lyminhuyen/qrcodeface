@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-05-31T06:35:34.299Z",
+  "lastUpdated": "2026-06-01T07:13:41.879Z",
   "source": "无尘捏脸",
   "totalCount": 675,
   "qrcodes": [
+    {
+      "id": "6a1c211a8df2cd29a4891773",
+      "createTime": 1780228375928,
+      "createDate": "2026-05-31",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260531_19e7de13ea8556534.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#无尘捏脸#",
+      "userName": "我让你不害怕",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231011_18b1cc56207121043.jpeg"
+    },
     {
       "id": "69cd4b48d627bb730f54bfbe",
       "createTime": 1775061828319,
@@ -13409,23 +13423,6 @@
       "text": "强行捏个金木研～#永劫无间捏脸站# #无尘捏脸#",
       "userName": "喵的發克",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250222_1952dfbfb9f624953.jpeg"
-    },
-    {
-      "id": "64245a555edf0b00015a100a",
-      "createTime": 1680104021264,
-      "createDate": "2023-03-29",
-      "characterId": "wuchen",
-      "characterName": "Wuchen",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20230329_1872e00d848568179.jpeg",
-        "https://ok.166.net/reunionpub/1_20230329_1872e00d848927081.jpeg",
-        "https://ok.166.net/reunionpub/1_20230329_1872e00d848729147.jpeg",
-        "https://ok.166.net/reunionpub/1_20230329_1872e00d848697646.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#大神永劫无间捏脸站##无尘捏脸#\n作品名称：天不胜我李淳罡 剑道万古如长夜\n设计理念：李淳罡",
-      "userName": "白云断江湖外",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230915_18a95599f43326316.jpeg"
     }
   ]
 }

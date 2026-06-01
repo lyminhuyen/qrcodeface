@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-05-31T06:55:05.374Z",
+  "lastUpdated": "2026-06-01T07:33:02.269Z",
   "source": "胡为捏脸",
-  "totalCount": 666,
+  "totalCount": 667,
   "qrcodes": [
+    {
+      "id": "6a1c6c0b479647359a5d28c8",
+      "createTime": 1780247560313,
+      "createDate": "2026-05-31",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260601_19e7f05fcb4982972.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "这个捏脸看起来可以吗[惊讶]#胡为捏脸#",
+      "userName": "予你世间春秋",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260206_19c30862ea4254968.jpeg"
+    },
     {
       "id": "6a0b420e8185b26f899852dd",
       "createTime": 1779122700752,
