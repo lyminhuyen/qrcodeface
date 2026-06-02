@@ -1,35 +1,8 @@
 {
-  "lastUpdated": "2026-06-01T07:48:58.985Z",
+  "lastUpdated": "2026-06-02T07:34:27.402Z",
   "source": "甘璇捏脸",
-  "totalCount": 71,
+  "totalCount": 72,
   "qrcodes": [
-    {
-      "id": "6a006ec0bba2582f2ac757d1",
-      "createTime": 1778413245794,
-      "createDate": "2026-05-10",
-      "characterId": "gan-xuan",
-      "characterName": "Tara Ga",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260510_19e11b08fc0379716.jpeg",
-        "https://ok.166.net/reunionpub/1_20260510_19e11b08fc0228390.jpeg",
-        "https://ok.166.net/reunionpub/1_20260510_19e11b08fc0837126.jpeg"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgLocalName": "1778413124.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69fd8b9b745ea9544bb6c6c5",
-          "imgBtn": "导入同款捏脸作品"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品"
-        }
-      ],
-      "text": "一键四联后点击导入同款即可使用\n#永劫无间# #永劫无间捏脸站# #甘璇捏脸#",
-      "userName": "恩利奇",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
-    },
     {
       "id": "6a0254a8a414c250faac3cb1",
       "createTime": 1778537622355,
@@ -57,6 +30,93 @@
       "text": "【仿cg甘璇】#永劫无间# #永劫无间捏脸站# #甘璇捏脸#",
       "userName": "肥肥仔vera",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
+    },
+    {
+      "id": "6a17bea9c173ac5107f02407",
+      "createTime": 1779941026289,
+      "createDate": "2026-05-28",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260528_1bc766f0c2876b31652e703e3d4ce502",
+        "https://ok.166.net/reunionpub/1_kol_20260528_1b4d2b85b6b0a5d8f856a527ffce0a5e"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260528_c5286c22e717a7ebc8521cd8482489a9",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a17a722093b37370e804593"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "-甘璇捏脸「云禾」\n-捏脸数据在动态里自取，点击图片左下角一键导入游戏（记得预留空位），评论区欢迎投稿和提出修改意见，喜欢记得给俺三连哦#永劫无间捏脸站##永劫无间# #甘璇捏脸#",
+      "userName": "承枳",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250315_1959923e2a8963995.jpeg"
+    },
+    {
+      "id": "6a1d6c39f55f753a78ecf351",
+      "createTime": 1780313142130,
+      "createDate": "2026-06-01",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260601_acfc31b633281bba3ce901f40737a741",
+        "https://ok.166.net/reunionpub/1_kol_20260601_9f2a9e0511c3b17633941216e5e5e34b",
+        "https://ok.166.net/reunionpub/1_kol_20260601_8eed37044510ee362840bf80d5ba27da"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260601_ccad11a264d4378265a84e3afab2b300",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a1d6680093b37370e811867"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260601_808974b1d0c95bad8eaac7e6d1333a8d",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a1d6680093b37370e811867"
+        }
+      ],
+      "text": "🟣风遇堇 | 甘璇 | 免费捏脸数据🟣\n🟣原创不易，点赞评论我争取每天更新🟣\n#永劫无间捏脸站##甘璇捏脸##永劫无间#",
+      "userName": "千恩",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250417_19641c88063830084.jpeg"
+    },
+    {
+      "id": "6a006ec0bba2582f2ac757d1",
+      "createTime": 1778413245794,
+      "createDate": "2026-05-10",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260510_19e11b08fc0379716.jpeg",
+        "https://ok.166.net/reunionpub/1_20260510_19e11b08fc0228390.jpeg",
+        "https://ok.166.net/reunionpub/1_20260510_19e11b08fc0837126.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1778413124.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69fd8b9b745ea9544bb6c6c5",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "一键四联后点击导入同款即可使用\n#永劫无间# #永劫无间捏脸站# #甘璇捏脸#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
     },
     {
       "id": "69f1b619a26023466190f416",
@@ -126,35 +186,6 @@
       "text": "#甘璇捏脸#",
       "userName": "请主人放过侯",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260518_19e3b1df00e915415.jpeg"
-    },
-    {
-      "id": "6a17bea9c173ac5107f02407",
-      "createTime": 1779941026289,
-      "createDate": "2026-05-28",
-      "characterId": "gan-xuan",
-      "characterName": "Tara Ga",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260528_1bc766f0c2876b31652e703e3d4ce502",
-        "https://ok.166.net/reunionpub/1_kol_20260528_1b4d2b85b6b0a5d8f856a527ffce0a5e"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸/影棚码",
-          "imgBtn": "导入同款捏脸/影棚作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260528_c5286c22e717a7ebc8521cd8482489a9",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a17a722093b37370e804593"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "",
-          "errmsg": ""
-        }
-      ],
-      "text": "-甘璇捏脸「云禾」\n-捏脸数据在动态里自取，点击图片左下角一键导入游戏（记得预留空位），评论区欢迎投稿和提出修改意见，喜欢记得给俺三连哦#永劫无间捏脸站##永劫无间# #甘璇捏脸#",
-      "userName": "承枳",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250315_1959923e2a8963995.jpeg"
     },
     {
       "id": "69fd5e2629aefd1ae7f2449d",
