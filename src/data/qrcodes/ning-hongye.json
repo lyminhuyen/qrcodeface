@@ -1,31 +1,38 @@
 {
-  "lastUpdated": "2026-06-02T07:16:42.025Z",
+  "lastUpdated": "2026-06-03T07:27:32.849Z",
   "source": "宁红夜捏脸",
   "totalCount": 650,
   "qrcodes": [
     {
-      "id": "69118be8bf18a17bc504bb1c",
-      "createTime": 1762757557993,
-      "createDate": "2025-11-10",
+      "id": "6a0afb4331a6212b6bb4fd3b",
+      "createTime": 1779104517304,
+      "createDate": "2026-05-18",
       "characterId": "ning-hongye",
       "characterName": "Viper Ning",
       "images": [
-        "https://ok.166.net/reunionpub/1_20251110_19a6c89b7c3102781.jpeg",
-        "https://ok.166.net/reunionpub/1_20251110_19a6c89b7c3956094.jpeg",
-        "https://ok.166.net/reunionpub/1_20251110_19a6c89b7c3311716.jpeg",
-        "https://ok.166.net/reunionpub/1_20251110_19a6c89b7c3996919.jpeg"
+        "https://ok.166.net/reunionpub/1_kol_20260518_a7bd8a9378022593928bdd9dbfc22bb1",
+        "https://ok.166.net/reunionpub/1_kol_20260518_c6ecaa79e917ea6f34f09ce1b428b39b",
+        "https://ok.166.net/reunionpub/1_kol_20260518_35038e153913f3363ee8ca32d9ac3fb8",
+        "https://ok.166.net/reunionpub/1_kol_20260518_6306167402ce1c50b3db3617d8c2007f"
       ],
       "qrCodes": [
         {
           "imgName": "上传作品同款捏脸码",
-          "imgLocalName": "1762757555.jpg",
-          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iIC8_pBbp-6-6SnPrKFvkg&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6910bc6df3bb7855d2955df79kiE8dHJ06",
-          "imgBtn": "导入同款捏脸作品"
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260518_31b2d912dbc466717d3e4e4e1f004f53",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0aecf082b7416f9a3638c5"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
         }
       ],
-      "text": "四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #宁红夜# #永手新赛季捏脸# #宁红夜捏脸#",
-      "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260510_19e0f103d3c952655.jpeg"
+      "text": "【宁红夜捏脸x无明】 | 天工赛季通行证捏脸分享\n----宁红夜还是太超模了\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴多多点赞哈\n\n#永劫无间捏脸站# #宁红夜捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
     },
     {
       "id": "6a143090f54e214b8c68aeea",
@@ -58,35 +65,28 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20250514_196cdf649d2519725.jpeg"
     },
     {
-      "id": "6a0afb4331a6212b6bb4fd3b",
-      "createTime": 1779104517304,
-      "createDate": "2026-05-18",
+      "id": "69118be8bf18a17bc504bb1c",
+      "createTime": 1762757557993,
+      "createDate": "2025-11-10",
       "characterId": "ning-hongye",
       "characterName": "Viper Ning",
       "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260518_a7bd8a9378022593928bdd9dbfc22bb1",
-        "https://ok.166.net/reunionpub/1_kol_20260518_c6ecaa79e917ea6f34f09ce1b428b39b",
-        "https://ok.166.net/reunionpub/1_kol_20260518_35038e153913f3363ee8ca32d9ac3fb8",
-        "https://ok.166.net/reunionpub/1_kol_20260518_6306167402ce1c50b3db3617d8c2007f"
+        "https://ok.166.net/reunionpub/1_20251110_19a6c89b7c3102781.jpeg",
+        "https://ok.166.net/reunionpub/1_20251110_19a6c89b7c3956094.jpeg",
+        "https://ok.166.net/reunionpub/1_20251110_19a6c89b7c3311716.jpeg",
+        "https://ok.166.net/reunionpub/1_20251110_19a6c89b7c3996919.jpeg"
       ],
       "qrCodes": [
         {
           "imgName": "上传作品同款捏脸码",
-          "imgBtn": "导入同款捏脸作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260518_31b2d912dbc466717d3e4e4e1f004f53",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0aecf082b7416f9a3638c5"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "",
-          "errmsg": ""
+          "imgLocalName": "1762757555.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iIC8_pBbp-6-6SnPrKFvkg&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6910bc6df3bb7855d2955df79kiE8dHJ06",
+          "imgBtn": "导入同款捏脸作品"
         }
       ],
-      "text": "【宁红夜捏脸x无明】 | 天工赛季通行证捏脸分享\n----宁红夜还是太超模了\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴多多点赞哈\n\n#永劫无间捏脸站# #宁红夜捏脸# #永劫无间#",
-      "userName": "就以记忆唱下去",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+      "text": "四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #宁红夜# #永手新赛季捏脸# #宁红夜捏脸#",
+      "userName": "梅子喵喵酱",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260510_19e0f103d3c952655.jpeg"
     },
     {
       "id": "69cd0697b724331591a6f046",
