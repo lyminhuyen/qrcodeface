@@ -1,8 +1,51 @@
 {
-  "lastUpdated": "2026-06-05T06:27:58.633Z",
+  "lastUpdated": "2026-06-06T05:59:02.876Z",
   "source": "特木尔捏脸",
   "totalCount": 719,
   "qrcodes": [
+    {
+      "id": "6a23a28bccb10e67874e747e",
+      "createTime": 1780720154274,
+      "createDate": "2026-06-06",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260606_19e9b313292451291.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6720c5db3ad66b35d46e1b96"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#特木尔捏脸#",
+      "userName": "草木兮CMX",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260211_19c4b93ba5a354683.png"
+    },
+    {
+      "id": "634466fe0c8dc60001e257cf",
+      "createTime": 1665427198021,
+      "createDate": "2022-10-10",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20221011/023547-dh8i19j5se.png",
+        "https://ok.166.net/reunionpub/ds/kol/20221011/023558-6j30g8zq7y.png",
+        "https://ok.166.net/reunionpub/ds/kol/20221011/023609-o53jgw9mbn.png",
+        "https://ok.166.net/reunionpub/ds/kol/20221011/023620-8l6tv4fuho.png",
+        "https://ok.166.net/reunionpub/ds/kol/20221011/023636-ejh9szmwsv.png",
+        "https://ok.166.net/reunionpub/ds/kol/20221011/023647-1due57li03.png"
+      ],
+      "qrCodes": [],
+      "text": "沙男—苍狼王！\n捏脸数据在最后一张\n发型：苍狼勇士  发色：9-67-82\n#永劫无间# #永劫无间捏脸站##特木尔捏脸#\n捏脸数据在动态里自取哦，喜欢的小伙伴请点赞+评论+转发+关注支持一下我呗！\n换脸方法：点击最后一张图片保存后单独将二维码截图出来保存然后在游戏里易容-右下角导入本地图片就好啦\n捏脸码不能用以及不会换脸点这里↓\n导入捏脸详细教程→：https://ds.163.com/article/61cbcff7849ee2000137c784/\n发布日期：10月11日\n【@式丶小佑 原创】",
+      "userName": "式丶小佑",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240311_18e2c7df76f150547.jpeg"
+    },
     {
       "id": "684c4a9b378e9113eb767a76",
       "createTime": 1749830297734,
@@ -8091,25 +8134,6 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20220917_18349ef3342921378.png"
     },
     {
-      "id": "634466fe0c8dc60001e257cf",
-      "createTime": 1665427198021,
-      "createDate": "2022-10-10",
-      "characterId": "temulch",
-      "characterName": "Temulch",
-      "images": [
-        "https://ok.166.net/reunionpub/ds/kol/20221011/023547-dh8i19j5se.png",
-        "https://ok.166.net/reunionpub/ds/kol/20221011/023558-6j30g8zq7y.png",
-        "https://ok.166.net/reunionpub/ds/kol/20221011/023609-o53jgw9mbn.png",
-        "https://ok.166.net/reunionpub/ds/kol/20221011/023620-8l6tv4fuho.png",
-        "https://ok.166.net/reunionpub/ds/kol/20221011/023636-ejh9szmwsv.png",
-        "https://ok.166.net/reunionpub/ds/kol/20221011/023647-1due57li03.png"
-      ],
-      "qrCodes": [],
-      "text": "沙男—苍狼王！\n捏脸数据在最后一张\n发型：苍狼勇士  发色：9-67-82\n#永劫无间# #永劫无间捏脸站##特木尔捏脸#\n捏脸数据在动态里自取哦，喜欢的小伙伴请点赞+评论+转发+关注支持一下我呗！\n换脸方法：点击最后一张图片保存后单独将二维码截图出来保存然后在游戏里易容-右下角导入本地图片就好啦\n捏脸码不能用以及不会换脸点这里↓\n导入捏脸详细教程→：https://ds.163.com/article/61cbcff7849ee2000137c784/\n发布日期：10月11日\n【@式丶小佑 原创】",
-      "userName": "式丶小佑",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240311_18e2c7df76f150547.jpeg"
-    },
-    {
       "id": "663e8e19d221622cd5ac96dc",
       "createTime": 1715375641760,
       "createDate": "2024-05-10",
@@ -12703,21 +12727,6 @@
       "text": "#永劫无间捏脸站# #特木尔捏脸#\n特木尔捏脸：二狗\n熊出没经典反派大马猴和二狗，我不允许永劫无间里只有光头强~\n数据自取，喜欢的记得点赞啊👍",
       "userName": "哈德捏特",
       "userAvatar": "https://ok.166.net/reunionpub/3_20210921_17c03fdb710471946.jpeg"
-    },
-    {
-      "id": "6465c9ac6d464b000168bfa9",
-      "createTime": 1684392364541,
-      "createDate": "2023-05-18",
-      "characterId": "temulch",
-      "characterName": "Temulch",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20230518_1882d9bc7cc450221.jpeg",
-        "https://ok.166.net/reunionpub/1_20230518_1882d9bc7cc803926.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "🍊特木尔捏脸「赤野」\n🔸可搭配沙男金皮银狼裘使用～\n🔸大量服装挂饰现在在大神独家限时折扣，仅限三天！！大家可以点击评论区专属链接购买哦～\n🔸捏脸免费分享，捏脸数据在动态里自取，喜欢的小伙伴请点赞+评论+转发+关注\n#永劫无间捏脸站##特木尔捏脸#",
-      "userName": "承枳",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250315_1959923e2a8963995.jpeg"
     }
   ]
 }
