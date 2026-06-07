@@ -1,8 +1,31 @@
 {
-  "lastUpdated": "2026-06-06T06:46:36.919Z",
+  "lastUpdated": "2026-06-07T07:16:49.378Z",
   "source": "diverse",
-  "totalCount": 467,
+  "totalCount": 468,
   "qrcodes": [
+    {
+      "id": "6a23c14e24449a69b074dc81",
+      "createTime": 1780728131862,
+      "createDate": "2026-06-06",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260606_f8d3d6d38a2a06bb2087451fdc6fb309",
+        "https://ok.166.net/reunionpub/1_kol_20260606_23044733e1dbfdaf0a2840fcd86db051"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260606_ed6d0494bf3d9c0afb7c1a8322802048",
+          "errmsg": "",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iSdcFKx6U3jbuGJX6xqS8P&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a2349302bd2ee6286ead2aarAjiJiai07"
+        }
+      ],
+      "text": "承武承道｜无尘捏脸\n喜欢的宝子们，取码请礼貌关注三连哈～\n#永劫手游大神创作激励# #永劫无间手游# #永手捏脸站# #永手新赛季捏脸# #无尘捏脸# #永手无尘捏脸# #永劫手游无尘# #捏脸# #今日劫点# #永手岳山捏脸# #永手李寻欢捏脸# #永手万钧捏脸# #永劫无间手游捏脸# #永劫无间手游穿云赛季#",
+      "userName": "ZMoses",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251102_19a42c4b08b745372.jpeg"
+    },
     {
       "id": "6a1e5c8bf358bd08c23d5823",
       "createTime": 1780374664884,

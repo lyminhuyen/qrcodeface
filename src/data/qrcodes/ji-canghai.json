@@ -1,8 +1,37 @@
 {
-  "lastUpdated": "2026-06-06T06:32:49.663Z",
+  "lastUpdated": "2026-06-07T07:03:14.921Z",
   "source": "季沧海捏脸",
-  "totalCount": 717,
+  "totalCount": 718,
   "qrcodes": [
+    {
+      "id": "6a24122d7cc98112b666dfad",
+      "createTime": 1780748843168,
+      "createDate": "2026-06-06",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260606_23edb57348837eae09e4665441405dd8",
+        "https://ok.166.net/reunionpub/1_kol_20260606_c1bb903356a8dbe78594eae75543a58b"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260606_3b7d01f783e23f196e2b115a74e8945d",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a240b54093b37370e819a14"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "-季沧海捏脸「火焰」\n-捏脸数据在动态里自取，点击图片左下角一键导入游戏（记得预留空位），评论区欢迎投稿和提出修改意见，喜欢记得给俺三连哦#永劫无间捏脸站##永劫无间# #季沧海捏脸#",
+      "userName": "承枳",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250315_1959923e2a8963995.jpeg"
+    },
     {
       "id": "6881b2479ffe3c575fefd1b4",
       "createTime": 1753330242971,
@@ -105,7 +134,7 @@
       ],
       "qrCodes": [],
       "text": "#季沧海捏脸#",
-      "userName": "游戏玩家75024476",
+      "userName": "541ww",
       "userAvatar": "https://ok.166.net/reunionpub/3_20251003_199aa1d3ed0559736.jpeg"
     },
     {
