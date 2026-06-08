@@ -1,8 +1,75 @@
 {
-  "lastUpdated": "2026-06-07T06:35:21.528Z",
+  "lastUpdated": "2026-06-08T06:54:32.297Z",
   "source": "天海捏脸",
   "totalCount": 663,
   "qrcodes": [
+    {
+      "id": "6975bab1ab776b3c673cbdba",
+      "createTime": 1769323182659,
+      "createDate": "2026-01-25",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260125_19bf3e1376c594021.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6975ba8482b7416f9a241f60"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6975ba8482b7416f9a241f60"
+        }
+      ],
+      "text": "#天海捏脸# #永劫无间捏脸站# #捏脸#",
+      "userName": "她和海水一様咸",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230719_1896d4c49ea291963.jpeg"
+    },
+    {
+      "id": "686e00a13db747726ce2fd75",
+      "createTime": 1752039583477,
+      "createDate": "2025-07-09",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250709_197edb269df406821.jpeg",
+        "https://ok.166.net/reunionpub/1_20250709_197edb269df212916.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1752039580.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=686d194d8ba8e30c79d5aa6e",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1752039580.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=686d194d8ba8e30c79d5aa6e",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "[送花]#永劫无间# #永劫无间捏脸站# #天海捏脸#",
+      "userName": "肥肥仔vera",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
+    },
+    {
+      "id": "6a2579b7b9c1757d66aec435",
+      "createTime": 1780840885313,
+      "createDate": "2026-06-07",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260607_19ea2636598294194.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#天海捏脸# 天海谁能捏个虾仁 虾仁动画的那个虾仁",
+      "userName": "毕见优",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1999104281c534700.jpeg"
+    },
     {
       "id": "6a13808a82902b2a541c41c8",
       "createTime": 1779662982787,
@@ -1239,34 +1306,6 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
     },
     {
-      "id": "686e00a13db747726ce2fd75",
-      "createTime": 1752039583477,
-      "createDate": "2025-07-09",
-      "characterId": "tianhai",
-      "characterName": "Tianhai",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20250709_197edb269df406821.jpeg",
-        "https://ok.166.net/reunionpub/1_20250709_197edb269df212916.jpeg"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgLocalName": "1752039580.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=686d194d8ba8e30c79d5aa6e",
-          "imgBtn": "导入同款捏脸作品"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgLocalName": "1752039580.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=686d194d8ba8e30c79d5aa6e",
-          "imgBtn": "导入同款发型作品"
-        }
-      ],
-      "text": "[送花]#永劫无间# #永劫无间捏脸站# #天海捏脸#",
-      "userName": "肥肥仔vera",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
-    },
-    {
       "id": "67f8de33ea818f2ee236b3f0",
       "createTime": 1744363058144,
       "createDate": "2025-04-11",
@@ -1391,31 +1430,6 @@
       "text": "比克大魔王——天海捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #比克# #天海捏脸#",
       "userName": "暴躁De橙子",
       "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
-    },
-    {
-      "id": "6975bab1ab776b3c673cbdba",
-      "createTime": 1769323182659,
-      "createDate": "2026-01-25",
-      "characterId": "tianhai",
-      "characterName": "Tianhai",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260125_19bf3e1376c594021.png"
-      ],
-      "qrCodes": [
-        {
-          "imgBtn": "导入同款捏脸作品",
-          "imgName": "上传作品同款捏脸码",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6975ba8482b7416f9a241f60"
-        },
-        {
-          "imgBtn": "导入同款发型作品",
-          "imgName": "上传作品同款发型码",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6975ba8482b7416f9a241f60"
-        }
-      ],
-      "text": "#天海捏脸# #永劫无间捏脸站# #捏脸#",
-      "userName": "她和海水一様咸",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230719_1896d4c49ea291963.jpeg"
     },
     {
       "id": "6992731a435ad533b0239b38",
@@ -11673,22 +11687,6 @@
       "text": "💕无偿数据分享· 天海 | 彻悟「二十壹栈」 💕 \n⚡西行劫 之天海·红夜捏脸，因为是同色系+官配我就捏了个CP捏脸（别骂）⚡ \n\n💕国际码和国服码都有哦 看清楚图上的标识【记得用大神扫码直接导入更方便】\n💕 #天海捏脸# #永劫无间捏脸站# #永劫无间# \n\n✨数据获取方式：麻烦能给我一个三联支持！拜托啦！✨ \n⚡以上为二十壹栈原创捏脸，大神独家免费数据分享，请勿二改二传，倒卖盗卖！⚡",
       "userName": "二十壹栈",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240721_190d46a718d964457.jpeg"
-    },
-    {
-      "id": "648b30a07925580001b991e0",
-      "createTime": 1686843550100,
-      "createDate": "2023-06-15",
-      "characterId": "tianhai",
-      "characterName": "Tianhai",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20230615_188bfb5e497485074.jpeg",
-        "https://ok.166.net/reunionpub/1_20230615_188bfb5e497770813.jpeg",
-        "https://ok.166.net/reunionpub/1_20230615_188bfb5e497552837.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "咦？#天海捏脸#",
-      "userName": "七雅i",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230721_189778783a1394102.jpeg"
     }
   ]
 }
