@@ -1,39 +1,8 @@
 {
-  "lastUpdated": "2026-06-09T07:01:58.086Z",
+  "lastUpdated": "2026-06-10T07:16:08.783Z",
   "source": "甘璇捏脸",
-  "totalCount": 87,
+  "totalCount": 89,
   "qrcodes": [
-    {
-      "id": "6a278fb56e24f11408a67e79",
-      "createTime": 1780977585538,
-      "createDate": "2026-06-09",
-      "characterId": "gan-xuan",
-      "characterName": "Tara Ga",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260609_21d0a59f568aa2f7231db24180fe0358",
-        "https://ok.166.net/reunionpub/1_kol_20260609_1c29446ab6c883990515a35fbe89251d",
-        "https://ok.166.net/reunionpub/1_kol_20260609_d3d175aa293c3df64fce1254a03c5613"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸/影棚码",
-          "imgBtn": "导入同款捏脸/影棚作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260609_0d25e8d0d2cf9a8324f29624bad77931",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a2785ca745ea9544bbc060d"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260609_d1485c2e6c7ec96711f4829587696a7b",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a2785ca745ea9544bbc060d"
-        }
-      ],
-      "text": "💕无偿数据分享· 甘璇｜稚夏「二十壹栈」 💕\n✨JK系列又新增一件！ ✨\n\n💕码在最后！ 也可以左下角导入💕\n#永劫无间捏脸站# #甘璇捏脸# #永劫无间#\n\n✨数据获取方式：麻烦能给我一个三联支持！拜托啦！✨\n⚡以上为二十壹栈原创捏脸，大神独家免费数据分享，请勿二改二传，倒卖盗卖！⚡",
-      "userName": "二十壹栈",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240721_190d46a718d964457.jpeg"
-    },
     {
       "id": "6a253a1cbd9cd46b72b82b1c",
       "createTime": 1780824600145,
@@ -64,6 +33,87 @@
       "text": "甘璇[序兰]\n左下角可以直接导入哦，球球关注~\n#永劫无间##甘璇捏脸##永劫无间捏脸站#",
       "userName": "考拉somnus",
       "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
+    {
+      "id": "6a288d7f68280b627b3d5cba",
+      "createTime": 1781042553228,
+      "createDate": "2026-06-09",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260610_19eae689c75881607.png",
+        "https://ok.166.net/reunionpub/1_20260610_19eae689c75276126.png",
+        "https://ok.166.net/reunionpub/1_20260610_19eae689c75812464.png"
+      ],
+      "qrCodes": [],
+      "text": "#甘璇捏脸#",
+      "userName": "鬼谷林间朝",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230120_185cdd440e5306118.jpeg"
+    },
+    {
+      "id": "6a27eb483d028c36548f2782",
+      "createTime": 1781001021214,
+      "createDate": "2026-06-09",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260609_c8bfde526d53669aa2af589c3e24898f",
+        "https://ok.166.net/reunionpub/1_kol_20260609_09a427b97539351b820d6cdbdab3f9d1",
+        "https://ok.166.net/reunionpub/1_kol_20260609_fbe16bfd23724f75b7c4220dc043021e",
+        "https://ok.166.net/reunionpub/1_kol_20260609_9e086bcf2ecb1be8edb006519ed799ac",
+        "https://ok.166.net/reunionpub/1_kol_20260609_8279f15d8c8b6b3fefbb1913014e7107",
+        "https://ok.166.net/reunionpub/1_kol_20260609_6a30a825c1085756a6fc95f182c08fca"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260609_79cb44791ade9db25531654addb9f383",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a278f62093b37370e823ae4"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260609_c30ff6e52919fef12edee22ab6068959",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a278f62093b37370e823ae4"
+        }
+      ],
+      "text": "甘璇捏脸分享丨涩谷\n涩谷辣妹风甘璇驾到！\n捏脸导入指引：捏脸码在图6 如果没有看到左下角的导入捏脸图标，可以点开捏脸码大图长按保存到手机后发布在评论区点开即可识别\n一头阿姜姜原创 - 创作不易，请动用发财的小手帮小姜点点三连支持一下吧～\n#永劫无间捏脸站# #甘璇捏脸# #永劫无间#",
+      "userName": "一头阿姜姜",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
+    },
+    {
+      "id": "6a278fb56e24f11408a67e79",
+      "createTime": 1780977585538,
+      "createDate": "2026-06-09",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260609_21d0a59f568aa2f7231db24180fe0358",
+        "https://ok.166.net/reunionpub/1_kol_20260609_1c29446ab6c883990515a35fbe89251d",
+        "https://ok.166.net/reunionpub/1_kol_20260609_d3d175aa293c3df64fce1254a03c5613"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260609_0d25e8d0d2cf9a8324f29624bad77931",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a2785ca745ea9544bbc060d"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260609_d1485c2e6c7ec96711f4829587696a7b",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a2785ca745ea9544bbc060d"
+        }
+      ],
+      "text": "💕无偿数据分享· 甘璇｜稚夏「二十壹栈」 💕\n✨JK系列又新增一件！ ✨\n\n💕码在最后！ 也可以左下角导入💕\n#永劫无间捏脸站# #甘璇捏脸# #永劫无间#\n\n✨数据获取方式：麻烦能给我一个三联支持！拜托啦！✨\n⚡以上为二十壹栈原创捏脸，大神独家免费数据分享，请勿二改二传，倒卖盗卖！⚡",
+      "userName": "二十壹栈",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240721_190d46a718d964457.jpeg"
     },
     {
       "id": "6a26f33eb9c1757d66b18f0e",

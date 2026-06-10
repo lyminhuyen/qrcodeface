@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-06-09T07:01:58.090Z",
+  "lastUpdated": "2026-06-10T07:16:08.788Z",
   "source": "diverse",
-  "totalCount": 468,
+  "totalCount": 469,
   "qrcodes": [
+    {
+      "id": "6a27ce3576a3005a6bc957c2",
+      "createTime": 1780993585636,
+      "createDate": "2026-06-09",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260609_7ff989c6e143115dbf11f2bf1ffcef14",
+        "https://ok.166.net/reunionpub/1_kol_20260609_eaf8fcbcf22dee6b077b42f2c324b21b",
+        "https://ok.166.net/reunionpub/1_kol_20260609_bdf12a8b44c1151aa3df8c0697cdeca4"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260609_2b8fa65c64c0e570e7b42a632a92a638",
+          "errmsg": "",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=inDUSwAJZvcq9mUf5dAcTx&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a277415b6e3a79ac3e85c36p296XjJc07"
+        }
+      ],
+      "text": "稚灵赤心｜蓝梦捏脸\n喜欢的宝子们，取码请礼貌关注三连哈～\n#永劫手游大神创作激励# #永劫无间手游# #永手捏脸站# #永手新赛季捏脸# #蓝梦捏脸# #永手蓝梦捏脸# #永手崔三娘# #永手崔三娘捏脸# #永手迦南捏脸# #永手南宫锦捏脸# #捏脸# #今日劫点# #永劫无间手游捏脸# #永劫无间手游穿云赛季#",
+      "userName": "ZMoses",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251102_19a42c4b08b745372.jpeg"
+    },
     {
       "id": "6a23c14e24449a69b074dc81",
       "createTime": 1780728131862,

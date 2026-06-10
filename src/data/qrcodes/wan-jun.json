@@ -1,8 +1,49 @@
 {
-  "lastUpdated": "2026-06-09T06:54:06.812Z",
+  "lastUpdated": "2026-06-10T07:08:15.606Z",
   "source": "万钧捏脸",
-  "totalCount": 308,
+  "totalCount": 309,
   "qrcodes": [
+    {
+      "id": "6a28a7c907da196df80f878d",
+      "createTime": 1781049103050,
+      "createDate": "2026-06-09",
+      "characterId": "wan-jun",
+      "characterName": "Inor Wan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260610_19eaecc5fe4572059.png",
+        "https://ok.166.net/reunionpub/1_20260610_19eaecc5fe4352618.png",
+        "https://ok.166.net/reunionpub/1_20260610_19eaecc5fe4478832.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##万钧捏脸#\n作品名称：玉面小青龙\n设计理念：白嫖的百搭高马尾发型搭配常驻红皮再加上林七夜的眼罩这套真的无解#永劫无间# #永劫无间捏脸站# #万钧# \n捏脸码：",
+      "userName": "哲的单排日记",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230610_188a3bb6801638545.jpeg"
+    },
+    {
+      "id": "6895819f148e1b41597b68ab",
+      "createTime": 1754628510295,
+      "createDate": "2025-08-08",
+      "characterId": "wan-jun",
+      "characterName": "Inor Wan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250808_19888023946106070.jpeg",
+        "https://ok.166.net/reunionpub/1_20250808_19888023946164590.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6894a6898ba8e30c79d7f087"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "万钧捏脸【电痕】\n#永劫无间捏脸站# #捏脸上大神# #万钧捏脸# #颜颜夏日##永劫无间#",
+      "userName": "哑巴凡",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250125_19499741290319277.jpeg"
+    },
     {
       "id": "695117069808107019526b29",
       "createTime": 1766921987918,
@@ -1559,31 +1600,6 @@
       "text": "#万钧捏脸# 雷电法王",
       "userName": "Ayonl",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250728_1984f2b15a0580838.jpeg"
-    },
-    {
-      "id": "6895819f148e1b41597b68ab",
-      "createTime": 1754628510295,
-      "createDate": "2025-08-08",
-      "characterId": "wan-jun",
-      "characterName": "Inor Wan",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20250808_19888023946106070.jpeg",
-        "https://ok.166.net/reunionpub/1_20250808_19888023946164590.jpeg"
-      ],
-      "qrCodes": [
-        {
-          "imgBtn": "导入同款捏脸作品",
-          "imgName": "上传作品同款捏脸码",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6894a6898ba8e30c79d7f087"
-        },
-        {
-          "imgBtn": "导入同款发型作品",
-          "imgName": "上传作品同款发型码"
-        }
-      ],
-      "text": "万钧捏脸【电痕】\n#永劫无间捏脸站# #捏脸上大神# #万钧捏脸# #颜颜夏日##永劫无间#",
-      "userName": "哑巴凡",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250125_19499741290319277.jpeg"
     },
     {
       "id": "690ca62ff6b5ed2cf1ea6a93",
