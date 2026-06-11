@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-06-10T06:32:56.345Z",
+  "lastUpdated": "2026-06-11T06:57:42.469Z",
   "source": "胡桃捏脸",
-  "totalCount": 720,
+  "totalCount": 719,
   "qrcodes": [
+    {
+      "id": "6a2a0f81a6e1e71c6b66d3e7",
+      "createTime": 1781141375158,
+      "createDate": "2026-06-11",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260611_19eb44c7da8750634.jpeg",
+        "https://ok.166.net/reunionpub/1_20260611_19eb44c7da8501246.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "球球这两个捏脸码 胡桃#永劫无间# #胡桃捏脸#",
+      "userName": "游戏玩家35001587",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250205_194d61bfbf2562418.png"
+    },
     {
       "id": "6a28fb7d56b0b600e716dd91",
       "createTime": 1781070716387,
@@ -11701,37 +11716,6 @@
       "text": "#胡桃捏脸#",
       "userName": "凉川僧侣吴语",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240609_18ffd1973a5922610.png"
-    },
-    {
-      "id": "6720fd688784be35ede23eb4",
-      "createTime": 1730215272212,
-      "createDate": "2024-10-29",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/2022-06-17/ntesgod_cms/1655456018199_zl4z0w.png"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站##胡桃捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "游戏玩家21214804",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20241029_192d7195390698448.png"
-    },
-    {
-      "id": "6720f5599be02500d3cfadda",
-      "createTime": 1730213209152,
-      "createDate": "2024-10-29",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241029_192d8be57c0787598.jpeg",
-        "https://ok.166.net/reunionpub/1_20241029_192d8be57c0757812.jpeg",
-        "https://ok.166.net/reunionpub/1_20241029_192d8be57c0764137.jpeg",
-        "https://ok.166.net/reunionpub/1_20241029_192d8be57c0315479.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#胡桃捏脸# #永劫新皮肤捏脸# 不屑的大小姐胡桃",
-      "userName": "我不是火批a",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230919_18aadecc1f3723364.jpeg"
     }
   ]
 }

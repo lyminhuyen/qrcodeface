@@ -1,21 +1,38 @@
 {
-  "lastUpdated": "2026-06-10T07:14:09.824Z",
+  "lastUpdated": "2026-06-11T07:39:05.631Z",
   "source": "巫真捏脸",
-  "totalCount": 206,
+  "totalCount": 207,
   "qrcodes": [
     {
-      "id": "6985c48850a38e72e170c182",
-      "createTime": 1770374277444,
-      "createDate": "2026-02-06",
+      "id": "69846263e91cfe0ca6ae17ab",
+      "createTime": 1770283615985,
+      "createDate": "2026-02-05",
       "characterId": "wuzhen",
       "characterName": "Zenda Wu",
       "images": [
-        "https://ok.166.net/reunionpub/1_20260206_19c3287a55f775768.jpeg"
+        "https://ok.166.net/reunionpub/1_kol_20260205_86c34bca50ed9c2b6224398d62161f98",
+        "https://ok.166.net/reunionpub/1_kol_20260205_1745de47f0f81f3f79368c6e21c4992f",
+        "https://ok.166.net/reunionpub/1_kol_20260205_dba87509621cdca63ed9edcbe47fbfaa"
       ],
-      "qrCodes": [],
-      "text": "巫真の 少萝梦#巫真捏脸#",
-      "userName": "坏酸雨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260312_19ce12bfc1e632739.jpeg"
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260205_8fd483f806cb6af6fc18b9d94414a35f",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69845fc80186943fc230ec31"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260205_c1ed9d2b8dee014f73da258303a43ebb",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69845fc80186943fc230ec31"
+        }
+      ],
+      "text": "巫真捏脸 · 令骄\n差点忘了这个测试服的捏脸~\n不带面纹的在图3\n#巫真捏脸# #永劫无间捏脸站# #永劫无间#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
     },
     {
       "id": "6a2857e1b6c38a7b0e567799",
@@ -32,6 +49,79 @@
       "text": "#永劫无间##巫真捏脸# 哇塞，这也太漂亮了吧",
       "userName": "仙儿不吃鱼",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250514_196cd2e2ab5406756.jpeg"
+    },
+    {
+      "id": "6985c48850a38e72e170c182",
+      "createTime": 1770374277444,
+      "createDate": "2026-02-06",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260206_19c3287a55f775768.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "巫真の 少萝梦#巫真捏脸#",
+      "userName": "坏酸雨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260312_19ce12bfc1e632739.jpeg"
+    },
+    {
+      "id": "6a29fc4cf36cfd100345035f",
+      "createTime": 1781136456291,
+      "createDate": "2026-06-11",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260611_19eb4017727891330.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#巫真捏脸# 喜欢自取.",
+      "userName": "保持乖乖男形象",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260611_19eb3f255a4333638.jpeg"
+    },
+    {
+      "id": "69859b6b27dd7310c1300ac6",
+      "createTime": 1770363751578,
+      "createDate": "2026-02-06",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260206_f0b307e25c43f4a1b2617a95fdd40825",
+        "https://ok.166.net/reunionpub/1_kol_20260206_4b052ec02ecbd30c548a7371e01ae935",
+        "https://ok.166.net/reunionpub/1_kol_20260206_d625834902ab348d4a06bf031b0b595c"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260206_489863c1e06d6c0ba22831537c859661",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=698456eb093b37370e6dcae6"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "巫真 · 白羽\n#巫真捏脸##永劫无间# #永劫无间捏脸站#",
+      "userName": "式丶小佑",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240311_18e2c7df76f150547.jpeg"
+    },
+    {
+      "id": "69cf2453b724331591ab3758",
+      "createTime": 1775182929527,
+      "createDate": "2026-04-03",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260403_19d5125da9c162540.jpeg",
+        "https://ok.166.net/reunionpub/1_20260403_19d5125da9c556078.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "喜欢的宝宝三件支持一下吧\n#永劫无间高燃混剪# #永劫无间# #巫真# #巫真捏脸# #巫真捏脸# #永劫无间捏脸站#",
+      "userName": "开心果茉莉椰",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250620_1978d89aa44366610.jpeg"
     },
     {
       "id": "6a1ea728c45f187333267346",
@@ -1273,21 +1363,6 @@
       "text": "💕无偿数据分享· 巫真｜须弥「二十壹栈」 💕\n\n💕码在最后 💕\n#永劫无间捏脸站# #巫真捏脸# #永劫无间#\n\n✨数据获取方式：麻烦能给我一个三联支持！拜托啦！✨\n⚡以上为二十壹栈原创捏脸，大神独家免费数据分享，请勿二改二传，倒卖盗卖！⚡",
       "userName": "二十壹栈",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240721_190d46a718d964457.jpeg"
-    },
-    {
-      "id": "69cf2453b724331591ab3758",
-      "createTime": 1775182929527,
-      "createDate": "2026-04-03",
-      "characterId": "wuzhen",
-      "characterName": "Zenda Wu",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260403_19d5125da9c162540.jpeg",
-        "https://ok.166.net/reunionpub/1_20260403_19d5125da9c556078.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "喜欢的宝宝三件支持一下吧\n#永劫无间高燃混剪# #永劫无间# #巫真# #巫真捏脸# #巫真捏脸# #永劫无间捏脸站#",
-      "userName": "开心果茉莉椰",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250620_1978d89aa44366610.jpeg"
     },
     {
       "id": "69e4ff11f31000606c142cd1",
@@ -2972,37 +3047,6 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20250514_196cdf649d2519725.jpeg"
     },
     {
-      "id": "69846263e91cfe0ca6ae17ab",
-      "createTime": 1770283615985,
-      "createDate": "2026-02-05",
-      "characterId": "wuzhen",
-      "characterName": "Zenda Wu",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260205_86c34bca50ed9c2b6224398d62161f98",
-        "https://ok.166.net/reunionpub/1_kol_20260205_1745de47f0f81f3f79368c6e21c4992f",
-        "https://ok.166.net/reunionpub/1_kol_20260205_dba87509621cdca63ed9edcbe47fbfaa"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgBtn": "导入同款捏脸作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260205_8fd483f806cb6af6fc18b9d94414a35f",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69845fc80186943fc230ec31"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260205_c1ed9d2b8dee014f73da258303a43ebb",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69845fc80186943fc230ec31"
-        }
-      ],
-      "text": "巫真捏脸 · 令骄\n差点忘了这个测试服的捏脸~\n不带面纹的在图3\n#巫真捏脸# #永劫无间捏脸站# #永劫无间#",
-      "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
-    },
-    {
       "id": "699edd14367f8578e50797c9",
       "createTime": 1772018962240,
       "createDate": "2026-02-25",
@@ -4279,36 +4323,6 @@
       "text": "#永劫无间# #巫真捏脸# 感谢网易爸爸，开年红包给了50个宝箱，宝箱没开完都出红了",
       "userName": "爷只会花钱浪",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240421_18efda7df2d918556.jpeg"
-    },
-    {
-      "id": "69859b6b27dd7310c1300ac6",
-      "createTime": 1770363751578,
-      "createDate": "2026-02-06",
-      "characterId": "wuzhen",
-      "characterName": "Zenda Wu",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260206_f0b307e25c43f4a1b2617a95fdd40825",
-        "https://ok.166.net/reunionpub/1_kol_20260206_4b052ec02ecbd30c548a7371e01ae935",
-        "https://ok.166.net/reunionpub/1_kol_20260206_d625834902ab348d4a06bf031b0b595c"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgBtn": "导入同款捏脸作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260206_489863c1e06d6c0ba22831537c859661",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=698456eb093b37370e6dcae6"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "",
-          "errmsg": ""
-        }
-      ],
-      "text": "巫真 · 白羽\n#巫真捏脸##永劫无间# #永劫无间捏脸站#",
-      "userName": "式丶小佑",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240311_18e2c7df76f150547.jpeg"
     },
     {
       "id": "6986c3bfe5e0251a40b64c1f",
