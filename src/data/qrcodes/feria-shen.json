@@ -1,8 +1,47 @@
 {
-  "lastUpdated": "2026-06-11T07:13:22.970Z",
+  "lastUpdated": "2026-06-12T07:06:33.784Z",
   "source": "沈妙捏脸",
-  "totalCount": 665,
+  "totalCount": 666,
   "qrcodes": [
+    {
+      "id": "6a2b8d589e12ef38df1ce2f0",
+      "createTime": 1781239126111,
+      "createDate": "2026-06-12",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260612_19eba200ced973774.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a2ac600093b37370e82a8e3"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a2ac600093b37370e82a8e3"
+        }
+      ],
+      "text": "#永劫无间# #沈妙泳装# #沈妙捏脸# \n今天也是成功面试到工作了，博主心情好直接发了，这个是博主自己捏的原创捏脸，严禁售卖。",
+      "userName": "愿明月无瑕",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260602_19e87af7f8c122926.jpeg"
+    },
+    {
+      "id": "6a2b11f31a0d23678a79c045",
+      "createTime": 1781207537181,
+      "createDate": "2026-06-11",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260612_19eb83e1247899190.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#沈妙捏脸# 黑皮.",
+      "userName": "保持乖乖男形象",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260611_19eb3f255a4333638.jpeg"
+    },
     {
       "id": "6a29fb38ea7f101c5101b521",
       "createTime": 1781136180855,
@@ -13916,21 +13955,6 @@
       "text": "#沈妙捏脸# 新发饰，挺配这衣服的，感觉效果还不错。",
       "userName": "阿糯米CoCo",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230201_1860ce44f25392285.jpeg"
-    },
-    {
-      "id": "660fdc5df37abe4114672738",
-      "createTime": 1712315485148,
-      "createDate": "2024-04-05",
-      "characterId": "feria-shen",
-      "characterName": "Feria Shen",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20240405_18eadf4c26c871673.jpeg",
-        "https://ok.166.net/reunionpub/1_20240405_18eadf4c26c826204.png"
-      ],
-      "qrCodes": [],
-      "text": "💕无偿数据分享· 沈妙｜火灵儿「幼青qqqq」 💕 \n⚡为什么突然捏沈妙了，是因为看完美世界火灵儿的新建模 有感⚡\n\n💕脸码在最后~💕 \n#永劫无间捏脸站# #沈妙捏脸# #完美世界# \n\n✨数据获取方式：麻烦能给我一个三联支持！拜托啦！✨ \n⚡以上为幼青qqqq原创捏脸，大神独家免费数据分享，请勿二改二传，倒卖盗卖！⚡\n\n⚡私信可以帮忙捏⚡",
-      "userName": "幼青qqqq",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240402_18e9dcbd920206576.jpeg"
     }
   ]
 }

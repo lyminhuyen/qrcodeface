@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-06-11T07:19:19.942Z",
+  "lastUpdated": "2026-06-12T07:12:28.986Z",
   "source": "季莹莹捏脸",
-  "totalCount": 677,
+  "totalCount": 676,
   "qrcodes": [
+    {
+      "id": "6a2a92a91a4f8b73b3583165",
+      "createTime": 1781174946699,
+      "createDate": "2026-06-11",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260611_ba25ca6dd983ef0b1d0e97c5b7d8bddf",
+        "https://ok.166.net/reunionpub/1_kol_20260611_f469dcefd400a3a39d8f42724fa7e991",
+        "https://ok.166.net/reunionpub/1_kol_20260611_d26e498f592191fadde12a6f9d6817c5",
+        "https://ok.166.net/reunionpub/1_kol_20260611_5ffb78d77f382ed5d8afc393ba03836c"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260611_836ea5a2918f833e7c92d0a7e09d4596",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a2a8dfb745ea9544bbc6a43"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【季莹莹捏脸x见愁】 | 武道无穷系列\n----武道无穷系列还是太顶级了\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #季莹莹捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6a1085e9a721483e329112fd",
       "createTime": 1779467751464,
@@ -1229,20 +1260,6 @@
       "text": "#永劫无间手游# #永劫手游大神创作激励# #季莹莹捏脸#",
       "userName": "粥沫小福",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg"
-    },
-    {
-      "id": "69e88b514a420d351198c41b",
-      "createTime": 1776847688986,
-      "createDate": "2026-04-22",
-      "characterId": "ji-yingying",
-      "characterName": "Zai",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260422_19db460126a459137.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站##季莹莹捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "抑郁的龙舌兰66",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20231231_18cbc19e4a5232614.jpeg"
     },
     {
       "id": "6876a3d136bb412bba3352e3",
@@ -6602,7 +6619,7 @@
       "qrCodes": [],
       "text": "#永劫无间捏脸站# #季莹莹捏脸# 这个捏脸有没有大佬有的啊，找了半天没找到[送花]",
       "userName": "拾玖黎",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260127_19bfe4092b2826460.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260612_19eba9b8b95949457.jpeg"
     },
     {
       "id": "64b0d21c88b3f900016c72fc",
@@ -14705,20 +14722,6 @@
       "text": "🟣 无偿数据分享 | 季莹莹 | 免费捏脸数据🟣\n🟣原创不易，点赞评论我争取每天更新🟣\n#永劫无间捏脸站##季莹莹捏脸##永劫无间#",
       "userName": "千恩",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250417_19641c88063830084.jpeg"
-    },
-    {
-      "id": "68208bbec28db63c604d8fa6",
-      "createTime": 1746963388044,
-      "createDate": "2025-05-11",
-      "characterId": "ji-yingying",
-      "characterName": "Zai",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20250511_196bf21d2e2999385.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#季莹莹捏脸# 谁能把这一套配给我 谢谢啦",
-      "userName": "游戏玩家60420023",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250602_1972c569b31662864.jpeg"
     }
   ]
 }
