@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-06-12T07:34:13.320Z",
+  "lastUpdated": "2026-06-13T07:09:25.859Z",
   "source": "diverse",
-  "totalCount": 470,
+  "totalCount": 471,
   "qrcodes": [
+    {
+      "id": "6a2cc65b4e8ada54d0cd5d7c",
+      "createTime": 1781319255507,
+      "createDate": "2026-06-13",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260613_03cb087ed1df3c053d58d30c13fce8f6",
+        "https://ok.166.net/reunionpub/1_kol_20260613_ffdb1b759c72c4b9e44c9b88fc8370f8",
+        "https://ok.166.net/reunionpub/1_kol_20260613_3f59fde4347d60bc075316216780cf01"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260613_674ea4d06650fdaf80c643415077a6c5",
+          "errmsg": "",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i2A8tE3GRy48aBPpNmt_GP&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a2c5ee784ce54c78c29053bbphiPZvS07"
+        }
+      ],
+      "text": "佐佐木｜胡为捏脸\n喜欢的宝子们，取码请礼貌关注三连哈～\n#永劫手游大神创作激励# #永劫无间手游# #永手捏脸站# #永手新赛季捏脸# #胡为捏脸# #岳山捏脸# #永手胡为捏脸# #永手岳山捏脸# #永手特木尔捏脸# #捏脸# #今日劫点# #永劫无间手游捏脸# #永劫无间手游穿云赛季#",
+      "userName": "ZMoses",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251102_19a42c4b08b745372.jpeg"
+    },
     {
       "id": "6a2a59d216b30250d8745f1c",
       "createTime": 1781160394178,

@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-06-12T07:22:26.257Z",
+  "lastUpdated": "2026-06-13T06:57:29.529Z",
   "source": "张起灵捏脸",
   "totalCount": 595,
   "qrcodes": [
+    {
+      "id": "6a2bd38cf36cfd100349ab75",
+      "createTime": 1781257096821,
+      "createDate": "2026-06-12",
+      "characterId": "zhang-qiling",
+      "characterName": "Kylin Zhang",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260612_7368986b216884a7025025278fa292e5",
+        "https://ok.166.net/reunionpub/1_kol_20260612_7dc7e1323f9b7c3c5c66ba63d877a918"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260612_1571333bd182910c55c44fcb5e96d54b",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a2bcefa745ea9544bbc8fbe"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260612_9a88fc1611a28cc9cb76d762d387eeec",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a2bcefa745ea9544bbc8fbe"
+        }
+      ],
+      "text": "“快对他使用怀揣吧！”阿格尼痛苦捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #阿格尼# #张起灵捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "69e6013179904e31ef5f8d6c",
       "createTime": 1776681263727,
@@ -12187,20 +12217,6 @@
       "text": "真的小哥，脸码在最后#永劫无间# #张起灵捏脸# #永劫观山海穿搭#",
       "userName": "像极了浅笑",
       "userAvatar": "https://ok.166.net/reunionpub/3_20210717_17ab3b09a1f838679.jpeg"
-    },
-    {
-      "id": "66bc74fa279f3538ba2f2903",
-      "createTime": 1723626746716,
-      "createDate": "2024-08-14",
-      "characterId": "zhang-qiling",
-      "characterName": "Kylin Zhang",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20240814_1915028e62f781256.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间# #张起灵捏脸# #永劫观山海穿搭#",
-      "userName": "守雨血之梅",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20221231_1856876264e832342.jpeg"
     }
   ]
 }
