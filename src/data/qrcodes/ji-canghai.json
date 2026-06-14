@@ -1,8 +1,78 @@
 {
-  "lastUpdated": "2026-06-13T06:55:29.138Z",
+  "lastUpdated": "2026-06-14T07:19:13.834Z",
   "source": "季沧海捏脸",
-  "totalCount": 706,
+  "totalCount": 694,
   "qrcodes": [
+    {
+      "id": "6881bd129ffe3c575ff01583",
+      "createTime": 1753333006279,
+      "createDate": "2025-07-24",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20250724_a91ec222e575cb49c811282474cc7dc6.png",
+        "https://ok.166.net/reunionpub/1_kol_20250724_5f85cb28eac304ebbe11859e28509c2f.png"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20250724_bc3a3030f24f6349946cb1991d1c01c0",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6881a7b568c37d55327a9bf7"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "不良人联动×季沧海捏脸·龙泉\n少年时期老李但同人版 总之就是非常的有少年气息~\n喜欢的观众朋友请多多三连支持~\n#永劫无间##永劫无间捏脸站##季沧海捏脸#",
+      "userName": "高级护甲粉末",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251210_19b05500f79348617.jpeg"
+    },
+    {
+      "id": "6a2dab2129b3953f4b6833d6",
+      "createTime": 1781377823870,
+      "createDate": "2026-06-13",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260614_19ec2644873664607.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#季沧海捏脸#",
+      "userName": "理智三",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230729_189a0ba23cc819290.png"
+    },
+    {
+      "id": "69df4635c43fe47022d27094",
+      "createTime": 1776240179573,
+      "createDate": "2026-04-15",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260415_19d902a28f3240397.jpeg",
+        "https://ok.166.net/reunionpub/1_20260415_19d902a28f3465804.jpeg",
+        "https://ok.166.net/reunionpub/1_20260415_19d902a28f3462970.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1776240167.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69dec4b9093b37370e78ec70",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "⭐脸码在图三，喜欢的小伙伴点赞评论自取\n\n#永劫无间捏脸站# #永劫无间# #季沧海捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6a24122d7cc98112b666dfad",
       "createTime": 1780748843168,
@@ -544,35 +614,6 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20240405_18eae58c743285358.jpeg"
     },
     {
-      "id": "6881bd129ffe3c575ff01583",
-      "createTime": 1753333006279,
-      "createDate": "2025-07-24",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20250724_a91ec222e575cb49c811282474cc7dc6.png",
-        "https://ok.166.net/reunionpub/1_kol_20250724_5f85cb28eac304ebbe11859e28509c2f.png"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgBtn": "导入同款捏脸作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20250724_bc3a3030f24f6349946cb1991d1c01c0",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6881a7b568c37d55327a9bf7"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "",
-          "errmsg": ""
-        }
-      ],
-      "text": "不良人联动×季沧海捏脸·龙泉\n少年时期老李但同人版 总之就是非常的有少年气息~\n喜欢的观众朋友请多多三连支持~\n#永劫无间##永劫无间捏脸站##季沧海捏脸#",
-      "userName": "高级护甲粉末",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251210_19b05500f79348617.jpeg"
-    },
-    {
       "id": "688754e39ffe3c575f0b5890",
       "createTime": 1753699552943,
       "createDate": "2025-07-28",
@@ -681,33 +722,6 @@
       "text": "捏了两版 封面版是有面纹的 眼神凌厉点 无面纹是少年气息拉满的李星云在图3 保存捏脸码后另外去主页扫码导入即可\n喜欢的话请多多支持！谢谢大家～\n——————————————————\n使用请注明出处禁止倒卖二改抄袭未经允许请勿搬运到其他公开平台\n#永劫无间捏脸站# #永劫无间# #季沧海捏脸#",
       "userName": "一头阿姜姜",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
-    },
-    {
-      "id": "69df4635c43fe47022d27094",
-      "createTime": 1776240179573,
-      "createDate": "2026-04-15",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260415_19d902a28f3240397.jpeg",
-        "https://ok.166.net/reunionpub/1_20260415_19d902a28f3465804.jpeg",
-        "https://ok.166.net/reunionpub/1_20260415_19d902a28f3462970.jpeg"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgLocalName": "1776240167.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69dec4b9093b37370e78ec70",
-          "imgBtn": "导入同款捏脸作品"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品"
-        }
-      ],
-      "text": "⭐脸码在图三，喜欢的小伙伴点赞评论自取\n\n#永劫无间捏脸站# #永劫无间# #季沧海捏脸#",
-      "userName": "就以记忆唱下去",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
     },
     {
       "id": "6a0ac16601176a330bb633c9",
@@ -2657,21 +2671,6 @@
       "text": "#季沧海捏脸#",
       "userName": "还得看我吧",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250917_199582b6f96379479.jpeg"
-    },
-    {
-      "id": "697f773cce88f93d4532fdfc",
-      "createTime": 1769960765303,
-      "createDate": "2026-02-01",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260201_19c19e1f371118610.jpeg",
-        "https://ok.166.net/reunionpub/1_20260201_19c19e1f372581237.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#季沧海捏脸#",
-      "userName": "墨咖灰",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240719_190c94ff61e744663.png"
     },
     {
       "id": "68e8d860a7c8be073e62c3f8",
@@ -13774,199 +13773,6 @@
       "text": "#季沧海捏脸#",
       "userName": "陈濯许",
       "userAvatar": "https://ok.166.net/reunionpub/3_20231103_18b94aec088214317.jpeg"
-    },
-    {
-      "id": "676d3317a41e9f41ca79c37e",
-      "createTime": 1735209724242,
-      "createDate": "2024-12-26",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241226_194028f18ff139651.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#季沧海捏脸# 求这个捏脸",
-      "userName": "阿水水水水鸭",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20200226_1707fcadecc152989.png"
-    },
-    {
-      "id": "6767b3cf263fad4c1a28a1b6",
-      "createTime": 1734849486035,
-      "createDate": "2024-12-22",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241222_193ed164ffd787512.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#季沧海捏脸# 求这个捏脸，大恩不言谢，求求了",
-      "userName": "6个伟人",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20231204_18c34fdeafb547578.jpeg"
-    },
-    {
-      "id": "6761878da7a4f6270bbb22b2",
-      "createTime": 1734444940652,
-      "createDate": "2024-12-17",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241217_193d4f97814272268.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#季沧海捏脸# 这捏脸数据求",
-      "userName": "李温情救救我",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240110_18cef1fd965248165.jpeg"
-    },
-    {
-      "id": "63f2689a880c71000198a4f8",
-      "createTime": 1676830873892,
-      "createDate": "2023-02-19",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20230220_1866ae89064549702.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "永劫无间x海贼王\n十字公会 鹰眼 米霍克 季沧海捏脸分享\n#永劫无间捏脸站# #季沧海捏脸#",
-      "userName": "艺van",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20211225_17df07bcdd3786835.jpeg"
-    },
-    {
-      "id": "64b60a4ec9c786000127e558",
-      "createTime": 1689651790115,
-      "createDate": "2023-07-18",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/ds/kol/20230718/114135-hbdgl4s8io.png",
-        "https://ok.166.net/reunionpub/ds/kol/20230718/114137-r610a7jo4b.png",
-        "https://ok.166.net/reunionpub/ds/kol/20230718/114228-9vpujosyqc.png",
-        "https://ok.166.net/reunionpub/ds/kol/20230718/114233-3zayu986tp.png",
-        "https://ok.166.net/reunionpub/ds/kol/20230718/114238-2jucbo4a6i.png"
-      ],
-      "qrCodes": [],
-      "text": "美食家【汉尼拔】加入永劫，很会做人，开饭时间~\n图1就是捏脸数据\n喜欢的小伙伴可以点赞评论转发自取~\n#永劫无间捏脸站# #汉尼拔# #季沧海捏脸#",
-      "userName": "暴躁De橙子",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
-    },
-    {
-      "id": "676769472f6f832645b990b8",
-      "createTime": 1734830405041,
-      "createDate": "2024-12-22",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20241222_5298bf5016f5dfbc4b512565545dafe5.jpeg",
-        "https://ok.166.net/reunionpub/1_kol_20241222_d4ed7cbfaee7b730b93532c7c9267cfa.png",
-        "https://ok.166.net/reunionpub/1_kol_20241222_ae41a27daeb3aee25414148e66ab5b10.jpeg",
-        "https://ok.166.net/reunionpub/1_kol_20241222_a5b6f12b59def8d98f4c0106ddd72e11.jpeg",
-        "https://ok.166.net/reunionpub/1_kol_20241222_dd4d37e865b4ac47a5830de260c04a25.jpeg",
-        "https://ok.166.net/reunionpub/1_kol_20241222_76c75c4af84db903b5f5bcc9181900fd.png"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgBtn": "导入同款捏脸作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20241222_aaaa1fa39a7805c1fca9e3c43242febe",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=67670a5a7486e966107c2ca0"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "",
-          "errmsg": ""
-        }
-      ],
-      "text": "【季沧海捏脸x麦肯基】 | 大神梦华赛季专供\n12.22🔥记忆福利捏脸分享 \n----来自麦肯两家梦幻联动的大自然的馈赠\n\n⭐【获取和导入方法】：\n图二就是捏脸数据-大神内长按识别一键导入即可（捏脸栏留一个空位）\n喜欢的小伙伴三连+关注，多谢支持\n\n⭐2024梦华赛季大神专属折扣商城：https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq\n\n#永劫无间捏脸站# #季沧海捏脸# #永劫新皮肤捏脸#",
-      "userName": "就以记忆唱下去",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
-    },
-    {
-      "id": "676773208a3f7303d3ea4a6d",
-      "createTime": 1734832926908,
-      "createDate": "2024-12-22",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241222_193ec19ada5885480.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "肯德基爷爷捏脸[害羞]#永手季沧海捏脸# #季沧海捏脸# #永劫有手就行# #肯德基联动#",
-      "userName": "神秘匿名用户",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230513_1881437cf8f309856.jpeg"
-    },
-    {
-      "id": "67676ca42f6f832645b99e19",
-      "createTime": 1734831264855,
-      "createDate": "2024-12-22",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241222_193ec004d12571900.png"
-      ],
-      "qrCodes": [],
-      "text": "东海三太子#季沧海捏脸# #增长天王捏脸#",
-      "userName": "游戏玩家70584598",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240726_190efa1d00a198117.png"
-    },
-    {
-      "id": "6766adaca7a4f6270bcbc6e5",
-      "createTime": 1734782378970,
-      "createDate": "2024-12-21",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241221_193e9165e6e795021.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#季沧海捏脸# 大厅看见的这个脸好好看啊，好温柔的样子，求一下❤️",
-      "userName": "和陆景",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20210619_17a2377a2f9173323.png"
-    },
-    {
-      "id": "676623f2a7a4f6270bc9b17f",
-      "createTime": 1734746679025,
-      "createDate": "2024-12-21",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241221_193e6f5a13e408021.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#季沧海捏脸# kkk",
-      "userName": "房寒予kaj",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240811_19141f191a5175669.png"
-    },
-    {
-      "id": "6765887cc6bb1a6d89590d00",
-      "createTime": 1734707323121,
-      "createDate": "2024-12-20",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241220_193e49d1b71233879.jpeg",
-        "https://ok.166.net/reunionpub/1_20241220_193e49d1b72324359.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间# #永劫无间捏脸站# #季沧海捏脸# \n火男庖丁食神套装捏脸",
-      "userName": "伯符兄",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250511_196be9504b7444028.png"
-    },
-    {
-      "id": "63607481a1ca5400016fc4da",
-      "createTime": 1667265665035,
-      "createDate": "2022-11-01",
-      "characterId": "ji-canghai",
-      "characterName": "Tarka Ji",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20221101_18430c71423267178.jpeg",
-        "https://ok.166.net/reunionpub/1_20221101_18430c71424562353.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "【heymon】你们一直想看我捏胡子人，捏了#永劫无间捏脸站# #永劫无间# #季沧海捏脸#",
-      "userName": "肥肥仔vera",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
     }
   ]
 }
