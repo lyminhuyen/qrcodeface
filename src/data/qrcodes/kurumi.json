@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-06-18T07:01:32.114Z",
+  "lastUpdated": "2026-06-19T07:14:59.016Z",
   "source": "胡桃捏脸",
-  "totalCount": 720,
+  "totalCount": 719,
   "qrcodes": [
+    {
+      "id": "695e0c824e32d25fb9312b1a",
+      "createTime": 1767771264418,
+      "createDate": "2026-01-07",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260107_19b9760cd35982929.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#胡桃捏脸# 求捏脸码",
+      "userName": "TsingSummer028",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250709_197ee2e14da965975.jpeg"
+    },
     {
       "id": "68d4e12ca9a26b41d102c9a4",
       "createTime": 1758781737507,
@@ -65,20 +79,6 @@
       "text": "赞赞自取~\n点击下方一键导入即可获得同款捏脸，不会的宝宝可以看下置顶哦🔝#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #永劫无间手游# #胡桃# #捏脸# #永手胡桃捏脸# #新皮肤# #萌# #胡桃捏脸#",
       "userName": "玫瑰凶杀案",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250925_19980080759940187.jpeg"
-    },
-    {
-      "id": "6a329a312a5f8f6430e55be4",
-      "createTime": 1781701167593,
-      "createDate": "2026-06-17",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260617_19ed5aa46fd630184.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫精选内容# #永劫无间# #谪星# #胡桃# #胡桃捏脸#",
-      "userName": "小学音且顶美",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260513_19e20493ba6136527.jpeg"
     },
     {
       "id": "6862e20d392f132d97de75a0",
@@ -1194,20 +1194,6 @@
       "text": "#胡桃捏脸# 求这个胡桃捏脸",
       "userName": "西红柿大王ovo",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250526_1970b170168326043.jpeg"
-    },
-    {
-      "id": "695e0c824e32d25fb9312b1a",
-      "createTime": 1767771264418,
-      "createDate": "2026-01-07",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260107_19b9760cd35982929.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#胡桃捏脸# 求捏脸码",
-      "userName": "TsingSummer028",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250709_197ee2e14da965975.jpeg"
     },
     {
       "id": "66e06fef9dbf45199e3f96b9",
@@ -6472,7 +6458,7 @@
       "qrCodes": [],
       "text": "#永劫无间捏脸站# #土御门胡桃# #胡桃捏脸# 权威捏脸",
       "userName": "晦涩泪滴",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260615_19ec7b5d247767250.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260619_19edeb4dcb6712207.jpeg"
     },
     {
       "id": "681c42cc497eb107533e93ad",

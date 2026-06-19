@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-06-18T07:19:33.155Z",
+  "lastUpdated": "2026-06-19T07:33:15.127Z",
   "source": "魏轻捏脸",
-  "totalCount": 628,
+  "totalCount": 635,
   "qrcodes": [
+    {
+      "id": "6a0da7834220cf4653318fd7",
+      "createTime": 1779279721244,
+      "createDate": "2026-05-20",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260520_33b21babf39291eb5b5ee4cd0ee2ba71",
+        "https://ok.166.net/reunionpub/1_kol_20260520_7706c6e41033357d11514c17b1cf599c",
+        "https://ok.166.net/reunionpub/1_kol_20260520_88fc3cfef86650121b0990afe6612e0e"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260520_03567dfefd529ee91b88d2c2c21a2b24",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0d91e0093b37370e7f02db"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260520_eb44495584dcf70984b9e5919efa1d2a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0d91e0093b37370e7f02db"
+        }
+      ],
+      "text": "🦋免费数据分享·魏轻·【幻】\n🤍by:泡泡柚又籽\n✨喜欢的bb可以三连支持嘛(*´・ｖ・)\n#永劫无间# #永劫无间捏脸站# #魏轻捏脸#",
+      "userName": "泡泡柚又籽",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250303_1955a971dfb854005.jpeg"
+    },
     {
       "id": "6a0ef4f0c5c9d625ae4588da",
       "createTime": 1779365101343,
@@ -16,6 +47,21 @@
       "text": "#魏轻捏脸# #影棚#",
       "userName": "Heizee黑泽",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260418_19d9d18f72e979379.jpeg"
+    },
+    {
+      "id": "6a33f383347b544394ee95be",
+      "createTime": 1781789569439,
+      "createDate": "2026-06-18",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260618_19edaef2dda631281.jpeg",
+        "https://ok.166.net/reunionpub/1_20260618_19edaef2dda975721.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#魏轻捏脸#",
+      "userName": "薄荷毛毛",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250710_197f3a665c3518616.jpeg"
     },
     {
       "id": "68677ecfbb4cdb790b9be573",
@@ -326,37 +372,6 @@
       "text": "【烟熏】#永劫无间捏脸站# #魏轻捏脸# #永劫无间#",
       "userName": "肥肥仔vera",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
-    },
-    {
-      "id": "6a0da7834220cf4653318fd7",
-      "createTime": 1779279721244,
-      "createDate": "2026-05-20",
-      "characterId": "wei-qing",
-      "characterName": "Shayol Wei",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260520_33b21babf39291eb5b5ee4cd0ee2ba71",
-        "https://ok.166.net/reunionpub/1_kol_20260520_7706c6e41033357d11514c17b1cf599c",
-        "https://ok.166.net/reunionpub/1_kol_20260520_88fc3cfef86650121b0990afe6612e0e"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸/影棚码",
-          "imgBtn": "导入同款捏脸/影棚作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260520_03567dfefd529ee91b88d2c2c21a2b24",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0d91e0093b37370e7f02db"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260520_eb44495584dcf70984b9e5919efa1d2a",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0d91e0093b37370e7f02db"
-        }
-      ],
-      "text": "🦋免费数据分享·魏轻·【幻】\n🤍by:泡泡柚又籽\n✨喜欢的bb可以三连支持嘛(*´・ｖ・)\n#永劫无间# #永劫无间捏脸站# #魏轻捏脸#",
-      "userName": "泡泡柚又籽",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250303_1955a971dfb854005.jpeg"
     },
     {
       "id": "6a218d5e9e57c463fb2acac0",
@@ -11912,20 +11927,6 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
     },
     {
-      "id": "677faca656215a64bee9c5a7",
-      "createTime": 1736420515917,
-      "createDate": "2025-01-09",
-      "characterId": "wei-qing",
-      "characterName": "Shayol Wei",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20250109_1944aba5d31514894.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站##魏轻捏脸#\n现在导入必须发帖？",
-      "userName": "传话太监尊尼获加",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20220820_182b70baacb433055.jpeg"
-    },
-    {
       "id": "677e2a804208f45ec554a4c5",
       "createTime": 1736321662901,
       "createDate": "2025-01-08",
@@ -13473,6 +13474,121 @@
       "text": "【国际服补码】\n长赋<tag type=\"link\" title=\"【长赋】  _来自大神永劫无间圈子_肥肥仔vera\">https://m.ds.163.com/user/abe6cbb14ebd4cba9ff2aa0c7af97734/feed/65fc26d9d51eca5291e5d4f1</tag>\n长赋二版<tag type=\"link\" title=\"【长赋二版】你们说要改一个有神的 耳朵小的，用这个版  _来自大神永劫无间圈子_肥肥仔vera\">https://m.ds.163.com/user/abe6cbb14ebd4cba9ff2aa0c7af97734/feed/65fc32dcd7b80a3cff7be7ab</tag>\n#永劫无间捏脸站# #魏轻捏脸# #永劫无间#",
       "userName": "肥肥仔vera",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
+    },
+    {
+      "id": "671f74f0deb819741114a0ca",
+      "createTime": 1730114800564,
+      "createDate": "2024-10-28",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241028_192d2e0beab794844.jpeg",
+        "https://ok.166.net/reunionpub/1_20241028_192d2e0beab965065.jpeg",
+        "https://ok.166.net/reunionpub/1_20241028_192d2e0beab734257.jpeg",
+        "https://ok.166.net/reunionpub/1_20241028_192d2e0beab979488.jpeg",
+        "https://ok.166.net/reunionpub/1_20241028_192d2e0beab995921.jpeg",
+        "https://ok.166.net/reunionpub/1_20241028_192d2e0beab963622.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "【魏轻捏脸x欢乐谷NPC】 | 大神永昼赛季专供\n10.28🔥记忆福利捏脸分享 \n----欢乐谷 的戏精npc来啦\n\n⭐【获取和导入方法】：\n图三就是捏脸数据-大神内长按识别一键导入即可（捏脸栏留一个空位）\n喜欢的小伙伴三连+关注，多谢支持\n\n⭐2024永昼赛季大神专属折扣商城：<tag type=\"link\" title=\"永劫无间充值助手-安全快捷的网易游戏充值官方平台\">https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq</tag>\n\n#永劫无间捏脸站# #魏轻捏脸# #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "6715da1fcd673425e4ab6d9b",
+      "createTime": 1729485343036,
+      "createDate": "2024-10-21",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241021_192ad5bfec1563002.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "奉旨而来#永劫无间捏脸站# #魏轻捏脸#",
+      "userName": "宇宙无敌快乐男孩",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240816_1915744b261927882.jpeg"
+    },
+    {
+      "id": "67091183ff3ab917b9e20ec7",
+      "createTime": 1728647555369,
+      "createDate": "2024-10-11",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241011_1927b6c54cd187021.jpeg",
+        "https://ok.166.net/reunionpub/1_20241011_1927b6c54cd115039.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "-魏轻免费捏脸\n-捏脸数据在动态里自取，点击图片左下角一键导入游戏（记得预留空位），评论区欢迎投稿和提出修改意见，喜欢记得给俺三连哦#永劫无间捏脸站##永劫无间# #魏轻捏脸#",
+      "userName": "承枳",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250315_1959923e2a8963995.jpeg"
+    },
+    {
+      "id": "66d9aa79146dc46bf7b7cddd",
+      "createTime": 1725540985931,
+      "createDate": "2024-09-05",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol_server/20240905/205438-g698j4mrnw.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240905/205453-h4toqc039n.png",
+        "https://ok.166.net/reunionpub/ds/kol_server/20240905/205508-pgcs053dls.png"
+      ],
+      "qrCodes": [],
+      "text": "魏轻黑皮捏脸：焦糖甜心 | 原创 by：昭和阿姨\n平替发色在脸码图上（P2）挑染发色在P3，使用的时候注意别覆盖了\n#魏轻捏脸# #永劫新皮肤捏脸# #永劫无间捏脸站#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
+    },
+    {
+      "id": "67073c2fcd673425e47665ba",
+      "createTime": 1728527407807,
+      "createDate": "2024-10-10",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol_server/20241010/033251-cylws3tq2m.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol_server/20241010/033255-tli2wej6gp.jpeg",
+        "https://ok.166.net/reunionpub/1_kol_20241010_05396d682af7c3ea788f6eb3c78a1345.png",
+        "https://ok.166.net/reunionpub/ds/kol_server/20241010/033309-ih7pgz8dkj.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol_server/20241010/033311-406s7tzjgm.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "【魏轻捏脸x茶壶太太】 | 大神永昼赛季专供\n10.10🔥记忆福利捏脸分享 \n----植物大战僵尸联动日那不得疯狂安排抽象\n\n⭐【获取和导入方法】：\n图三就是捏脸数据-大神内长按识别一键导入即可（捏脸栏留一个空位）\n喜欢的小伙伴多多点赞，多谢支持\n\n⭐2024永昼赛季大神专属折扣商城：https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq\n\n#永劫无间捏脸站# #魏轻捏脸# #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "662a067c871e940dd2eb2055",
+      "createTime": 1714030204476,
+      "createDate": "2024-04-25",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240425_18f14273b1b366171.jpeg",
+        "https://ok.166.net/reunionpub/1_20240425_18f14273b1b247045.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "【魏轻捏脸】结缨\n参考了海报图 需要解锁新的眼影 P2是无眼影版\n#魏轻捏脸# #永劫无间捏脸站#",
+      "userName": "高级护甲粉末",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251210_19b05500f79348617.jpeg"
+    },
+    {
+      "id": "67145ac790b2886a4be68f24",
+      "createTime": 1729387207937,
+      "createDate": "2024-10-20",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol_server/20241020/025925-jyhq2iuwae.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol_server/20241020/025928-2sa3wvzmqj.jpeg",
+        "https://ok.166.net/reunionpub/1_kol_20241020_061970e07ba4b5c3da7ba690f51c6a82.png",
+        "https://ok.166.net/reunionpub/ds/kol_server/20241020/025941-9jqit25erd.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol_server/20241020/025943-a3ngoh5q7p.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "【魏轻捏脸x圣诞惊魂喵】 | 大神永昼赛季专供\n10.20🔥记忆福利捏脸分享 \n----帽子歪戴，谁也不爱\n\n⭐【获取和导入方法】：\n图三就是捏脸数据-大神内长按识别一键导入即可（捏脸栏留一个空位）\n喜欢的小伙伴三连+关注，多谢支持\n\n⭐2024永昼赛季大神专属折扣商城：https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq\n\n#永劫无间捏脸站# #魏轻捏脸# #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
     }
   ]
 }
