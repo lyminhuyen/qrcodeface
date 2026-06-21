@@ -1,8 +1,45 @@
 {
-  "lastUpdated": "2026-06-20T07:03:51.152Z",
+  "lastUpdated": "2026-06-21T07:34:07.132Z",
   "source": "刘炼捏脸",
-  "totalCount": 468,
+  "totalCount": 469,
   "qrcodes": [
+    {
+      "id": "6a371c1a0a94653e634747d0",
+      "createTime": 1781996563335,
+      "createDate": "2026-06-20",
+      "characterId": "zhang-qiling",
+      "characterName": "Kylin Zhang",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260621_39985bf24851f69456dd8040eb8e4f70",
+        "https://ok.166.net/reunionpub/1_kol_20260621_802ee66c23c51811f8eb72b087a132b8",
+        "https://ok.166.net/reunionpub/1_kol_20260621_f88bcb8280e0f5e746093949d26c3e95",
+        "https://ok.166.net/reunionpub/1_kol_20260621_4bc3e43037c0701a6c85a376679a2812",
+        "https://ok.166.net/reunionpub/1_kol_20260621_0cd4dc072617453c39e9e3184155aeb3",
+        "https://ok.166.net/reunionpub/1_kol_20260621_bf05f555a73f1749cf42269fd83cb782",
+        "https://ok.166.net/reunionpub/1_kol_20260621_c6a0736475f9c829cb65cf3e12babe81",
+        "https://ok.166.net/reunionpub/1_kol_20260621_0854301b0ced7c442ac56894bee44f17",
+        "https://ok.166.net/reunionpub/1_kol_20260621_380bddf846b2bbc35bb3732a25e1a423"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260621_4045469dd6b9d856891595ffacbf74f6",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a371b29745ea9544bbe90cf"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260621_8f61bc5128e5f0989823887b0dfaeb1d",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a371b0c82b7416f9a3c5096"
+        }
+      ],
+      "text": "#永劫无间 #永劫无间捏脸 #逆战暴王 #岳山捏脸 #张起灵捏脸 #胡为捏脸 #顾清寒捏脸 #土御门胡桃捏脸 #万钧捏脸  #蓝梦捏脸 #刘炼捏脸 #补档\n\n#逆战暴王\n#逆战暴王\n#逆战暴王",
+      "userName": "逆战暴王",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260422_19db213a759713091.jpeg"
+    },
     {
       "id": "6a1469bc82c3421ecaaa18ae",
       "createTime": 1779722682503,
