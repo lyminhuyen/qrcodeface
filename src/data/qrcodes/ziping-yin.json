@@ -1,32 +1,52 @@
 {
-  "lastUpdated": "2026-06-26T06:33:34.347Z",
+  "lastUpdated": "2026-06-27T06:15:35.953Z",
   "source": "殷紫萍捏脸",
-  "totalCount": 723,
+  "totalCount": 737,
   "qrcodes": [
     {
-      "id": "6a06f9426717fa07d3ca4552",
-      "createTime": 1778841919956,
-      "createDate": "2026-05-15",
+      "id": "6a3ec0ce19419b3369139fd0",
+      "createTime": 1782497484221,
+      "createDate": "2026-06-26",
       "characterId": "ziping-yin",
       "characterName": "Ziping Yin",
       "images": [
-        "https://ok.166.net/reunionpub/1_20260515_19e2b3d9b5d490996.jpeg"
+        "https://ok.166.net/reunionpub/1_20260627_19f052115b0746991.jpeg",
+        "https://ok.166.net/reunionpub/1_20260627_19f052115b0127962.jpeg",
+        "https://ok.166.net/reunionpub/1_20260627_19f052115b0622589.jpeg"
       ],
       "qrCodes": [
         {
           "imgName": "上传作品同款捏脸码",
-          "imgLocalName": "1778841917.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69e167fd745ea9544bb2f81e",
+          "imgLocalName": "1782415622.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i9PFgjvagHifI4qnbe9QWW&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a2d24dd3485620a69855571Gp56cMP207",
           "imgBtn": "导入同款捏脸作品"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品"
         }
       ],
-      "text": "#殷紫萍捏脸#",
-      "userName": "游戏玩家50487877",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251016_199ec7cb3b7639653.jpeg"
+      "text": "赞赞自取~\n点击下方一键导入即可获得同款捏脸，不会的宝宝可以看下置顶哦🔝#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #捏脸# #殷紫萍捏脸# #永手殷紫萍# #永手殷紫萍捏脸# #永劫无间手游# #殷紫萍# #旗袍#",
+      "userName": "玫瑰凶杀案",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250925_19980080759940187.jpeg"
+    },
+    {
+      "id": "6a32babe0a94653e633e3958",
+      "createTime": 1781709307799,
+      "createDate": "2026-06-17",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260617_19ed6266b41957884.jpeg",
+        "https://ok.166.net/reunionpub/1_20260617_19ed6266b41124073.jpeg",
+        "https://ok.166.net/reunionpub/1_20260617_19ed6266b41685788.jpeg",
+        "https://ok.166.net/reunionpub/1_20260617_19ed6266b42184339.jpeg",
+        "https://ok.166.net/reunionpub/1_20260617_19ed6266b42505626.jpeg",
+        "https://ok.166.net/reunionpub/1_20260617_19ed6266b42720221.jpeg",
+        "https://ok.166.net/reunionpub/1_20260617_19ed6266b42421310.jpeg",
+        "https://ok.166.net/reunionpub/1_20260617_19ed6266b42995279.jpeg",
+        "https://ok.166.net/reunionpub/1_20260617_19ed6266b42418980.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "各个平台看到的影棚，有的改了一下，也有的差武器皮肤啥的（p2是@杏仁酥Sariel 杏仁酥老师的，没有了水扇[大哭]效果差很多），然后自己改改，\n\n【好多不知道原创老师是谁[害羞]大家知道的可以在下面@一下】\n#影棚# #殷紫萍捏脸# #永劫影棚# #殷紫萍影棚# #影棚分享#",
+      "userName": "菜奶",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20210623_17a39065176634266.jpeg"
     },
     {
       "id": "6a12818bfacbef45811d0f38",
@@ -58,6 +78,31 @@
       "text": "殷紫萍[昭月]\n左下角可以直接导入哦，球球关注~\n#永劫无间##殷紫萍捏脸##永劫无间捏脸站#",
       "userName": "考拉somnus",
       "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
+    {
+      "id": "6a06f9426717fa07d3ca4552",
+      "createTime": 1778841919956,
+      "createDate": "2026-05-15",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260515_19e2b3d9b5d490996.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1778841917.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69e167fd745ea9544bb2f81e",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#殷紫萍捏脸#",
+      "userName": "游戏玩家50487877",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251016_199ec7cb3b7639653.jpeg"
     },
     {
       "id": "6a36889a505d25471df5052c",
@@ -205,28 +250,6 @@
       "text": "#殷紫萍捏脸# #永劫无间手游# #日日劫﻿﻿#",
       "userName": "仄一寒",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260613_19ec0b6867b893928.jpeg"
-    },
-    {
-      "id": "6a32babe0a94653e633e3958",
-      "createTime": 1781709307799,
-      "createDate": "2026-06-17",
-      "characterId": "ziping-yin",
-      "characterName": "Ziping Yin",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260617_19ed6266b41957884.jpeg",
-        "https://ok.166.net/reunionpub/1_20260617_19ed6266b41124073.jpeg",
-        "https://ok.166.net/reunionpub/1_20260617_19ed6266b41685788.jpeg",
-        "https://ok.166.net/reunionpub/1_20260617_19ed6266b42184339.jpeg",
-        "https://ok.166.net/reunionpub/1_20260617_19ed6266b42505626.jpeg",
-        "https://ok.166.net/reunionpub/1_20260617_19ed6266b42720221.jpeg",
-        "https://ok.166.net/reunionpub/1_20260617_19ed6266b42421310.jpeg",
-        "https://ok.166.net/reunionpub/1_20260617_19ed6266b42995279.jpeg",
-        "https://ok.166.net/reunionpub/1_20260617_19ed6266b42418980.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "各个平台看到的影棚，有的改了一下，也有的差武器皮肤啥的（p2是@杏仁酥Sariel 杏仁酥老师的，没有了水扇[大哭]效果差很多），然后自己改改，\n\n【好多不知道原创老师是谁[害羞]大家知道的可以在下面@一下】\n#影棚# #殷紫萍捏脸# #永劫影棚# #殷紫萍影棚# #影棚分享#",
-      "userName": "菜奶",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20210623_17a39065176634266.jpeg"
     },
     {
       "id": "69cf64e82f9ff9077be1ad5b",
@@ -15558,6 +15581,244 @@
       "text": "#捏脸上大神# #殷紫萍捏脸#",
       "userName": "二十三夜mjk",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240513_18f70b870c0302079.png"
+    },
+    {
+      "id": "6827edfa0f65d90665adf677",
+      "createTime": 1747447287289,
+      "createDate": "2025-05-17",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250517_196dbf98a4e542888.png",
+        "https://ok.166.net/reunionpub/2022-06-17/ntesgod_cms/1655456018199_zl4z0w.png",
+        "https://ok.166.net/reunionpub/1_20250517_196dbf98a4e839412.png"
+      ],
+      "qrCodes": [],
+      "text": "殷紫萍无偿捏脸数据来啦～温柔委屈的的赤瞳\n导入方式  图二可直接导入游戏\n喜欢的劫友一键三连呀\n#永劫无间捏脸站# #殷紫萍捏脸# #永劫无间#",
+      "userName": "我的恶魔朋友",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250327_195d5a8cacd307751.jpeg"
+    },
+    {
+      "id": "6827ed98cb7cd21ca4ac949a",
+      "createTime": 1747447190850,
+      "createDate": "2025-05-17",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250517_196dbf81434341064.png"
+      ],
+      "qrCodes": [],
+      "text": "#捏脸上大神# \n殷紫萍无偿捏脸数据来啦～温柔委屈的的赤瞳\n导入方式  图二可直接导入游戏\n喜欢的劫友一键三连呀\n#永劫无间捏脸站# #殷紫萍捏脸#",
+      "userName": "我的恶魔朋友",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250327_195d5a8cacd307751.jpeg"
+    },
+    {
+      "id": "6826cd50d28b95240545d250",
+      "createTime": 1747373390235,
+      "createDate": "2025-05-16",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250516_196d791f835618024.jpeg",
+        "https://ok.166.net/reunionpub/1_20250516_196d791f835553622.jpeg",
+        "https://ok.166.net/reunionpub/1_20250516_196d791f835559186.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "云动#永劫无间捏脸站# #殷紫萍捏脸#",
+      "userName": "怎知榆晚",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250514_196cdf649d2519725.jpeg"
+    },
+    {
+      "id": "68268722a35d8530376c3269",
+      "createTime": 1747355071224,
+      "createDate": "2025-05-16",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250516_196d67a6dbe164717.jpeg",
+        "https://ok.166.net/reunionpub/1_20250516_196d67a6dbe642752.jpeg",
+        "https://ok.166.net/reunionpub/1_20250516_196d67a6dbe766404.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "🍀殷紫萍无偿捏脸数据来啦～\n🍀导入方式  图三可直接导入游戏\n🍀喜欢的劫友一键三连呀\n#永劫无间捏脸站# #殷紫萍捏脸# #永劫无间#",
+      "userName": "布洛芬胶囊呀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250609_19752f253ce783436.jpeg"
+    },
+    {
+      "id": "680092d982351b38bbfa057c",
+      "createTime": 1744868055921,
+      "createDate": "2025-04-17",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250417_196423d992f795587.jpeg",
+        "https://ok.166.net/reunionpub/1_20250417_196423d992f948289.jpeg",
+        "https://ok.166.net/reunionpub/1_20250417_196423d992f503873.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1744868051.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=68009003ff58110302de6af7",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1744868051.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=68009003ff58110302de6af7",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "【玉桂狗官图仿捏】#永劫无间捏脸站# #殷紫萍捏脸# #永劫无间#",
+      "userName": "肥肥仔vera",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
+    },
+    {
+      "id": "679a4bedc64ee064e8187b94",
+      "createTime": 1738165227136,
+      "createDate": "2025-01-29",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20250129_2ba968a761e5aeeda6d50fbf7dc4a3c8.png",
+        "https://ok.166.net/reunionpub/1_kol_20250129_3a5be3da7503997fb97b2f8c8b03b8c9.png",
+        "https://ok.166.net/reunionpub/1_kol_20250129_83c12a5a069b4d8fa3cba96373d06b50.png"
+      ],
+      "qrCodes": [],
+      "text": "沈妙捏脸：苹果苏打 | by 昭和阿姨\n妙妙给大家拜年啦~新外观的捏脸奉上\n脸码在图2，染发在图3\n#永劫无间捏脸站# #殷紫萍捏脸# #蛇年贺岁# #江湖启航# #捏个年味# #永劫无间#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
+    },
+    {
+      "id": "68254feb384e1930af7da3fe",
+      "createTime": 1747275753247,
+      "createDate": "2025-05-15",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250515_196d1c02194586022.png",
+        "https://ok.166.net/reunionpub/1_20250515_196d1c02194586856.png",
+        "https://ok.166.net/reunionpub/1_20250515_196d1c02194855127.png",
+        "https://ok.166.net/reunionpub/1_20250515_196d1c02194566235.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6824ac4aabf4545f271cdcfd"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "【殷紫萍捏脸-恶斗露】丨幻想系列06\n[表情18]来自《入间同学入魔了！》-凯洛莉恶斗露仿捏\n[表情18]无偿捏脸分享\n[表情18]国服一键导入\n[表情18]初出茅庐，感谢支持\n#永劫无间捏脸站# #永劫无间# #殷紫萍捏脸#",
+      "userName": "陆登登",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260206_19c3218fd8a962911.jpeg"
+    },
+    {
+      "id": "6803b389a12954674771a33e",
+      "createTime": 1745073030961,
+      "createDate": "2025-04-19",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20250419_ca314770f43a810bf1db3ecb1ac651f8.png",
+        "https://ok.166.net/reunionpub/1_kol_20250419_62962a75dd521f9a52da28391936c15f.png",
+        "https://ok.166.net/reunionpub/1_kol_20250419_9369edf9e41c8babc6fa7cd7081743f8.png"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20250419_87532886e21cb092b0f7fadaf0648db2",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6803922dff58110302deb538"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "🟣 无偿数据分享 | 殷紫萍 | 免费捏脸数据🟣\n🟣原创不易，点赞评论我争取每天更新🟣\n#永劫无间捏脸站##殷紫萍捏脸##永劫无间#",
+      "userName": "千恩",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250417_19641c88063830084.jpeg"
+    },
+    {
+      "id": "681c3b2303f65139c8b2ef50",
+      "createTime": 1746680609503,
+      "createDate": "2025-05-08",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250508_196ae46f7bb580505.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "求一下这个捏脸，有没有大佬有捏脸码或者知道出自哪里#永劫无间捏脸站# #殷紫萍# #殷紫萍捏脸#",
+      "userName": "李玥妍",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20201224_176956f4128302013.jpeg"
+    },
+    {
+      "id": "67d523576a0a4051324d2322",
+      "createTime": 1742021461862,
+      "createDate": "2025-03-15",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250315_195989201ca761981.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#殷紫萍捏脸#",
+      "userName": "温迪戈原型体",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240730_1910105fc9b462381.jpeg"
+    },
+    {
+      "id": "669a7104a831891fedbc957f",
+      "createTime": 1721397508558,
+      "createDate": "2024-07-19",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240719_190cb496ce9215747.png",
+        "https://ok.166.net/reunionpub/1_20240719_190cb496ce9473953.png",
+        "https://ok.166.net/reunionpub/1_20240719_190cb496ce9795590.png"
+      ],
+      "qrCodes": [],
+      "text": "喜欢的宝宝自取 求留赞吱一声[送花]#永劫无间捏脸站# #殷紫萍捏脸# #殷紫萍#",
+      "userName": "布鲁斯考的c1",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240614_1901518bb45252613.jpeg"
+    },
+    {
+      "id": "67261208cd673425e4e6d4be",
+      "createTime": 1730548232807,
+      "createDate": "2024-11-02",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20241102_b38cd17e005a73eb31f2469d375628c8.jpeg",
+        "https://ok.166.net/reunionpub/1_kol_20241102_ca66bc0abae3b39e2bf8c84d3cc54d4a.png"
+      ],
+      "qrCodes": [],
+      "text": "殷紫萍谪星捏脸：云禾 | by 昭和阿姨\n网红脸太多了，来点东方审美调和一下~\n#殷紫萍捏脸# #永劫新皮肤捏脸# #永劫无间捏脸站#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
+    },
+    {
+      "id": "67f10f4f4f6c1f4833060282",
+      "createTime": 1743851340687,
+      "createDate": "2025-04-05",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250405_19605a3beb7922710.jpeg",
+        "https://ok.166.net/reunionpub/1_20250405_19605a3beb7412020.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #殷紫萍捏脸#",
+      "userName": "Xiny128",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250402_195f4f1b329841743.jpeg"
     }
   ]
 }
