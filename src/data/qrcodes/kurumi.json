@@ -1,8 +1,64 @@
 {
-  "lastUpdated": "2026-06-27T06:01:53.288Z",
+  "lastUpdated": "2026-06-28T06:26:42.691Z",
   "source": "胡桃捏脸",
-  "totalCount": 720,
+  "totalCount": 706,
   "qrcodes": [
+    {
+      "id": "69180ad22c36bd7c83231660",
+      "createTime": 1763183311865,
+      "createDate": "2025-11-15",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251115_19a85ea3639391004.jpeg",
+        "https://ok.166.net/reunionpub/1_20251115_19a85ea3639595086.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1763183269.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=691700184bb4c4320c4e1529",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1763183269.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=691700184bb4c4320c4e1529",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "捏了一个很帅的胡桃捏脸\n导入指引:捏脸码图片在图2，没有看到导入图标的\n可以将捏脸码图片打开大图 长按保存到手机 在发布到评论区点开 即可识别捏脸码\n喜欢请点个免费的三连和关注支持小姜谢谢!\n发色参考@肥肥仔vera\n#永劫无间捏脸站##永劫无间##土御门胡桃捏脸# #胡桃捏脸#",
+      "userName": "一头阿姜姜",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
+    },
+    {
+      "id": "69b2c0521c874c5d28974ff1",
+      "createTime": 1773322135904,
+      "createDate": "2026-03-12",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260312_19ce23c6720615628.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#胡桃捏脸#",
+      "userName": "壹十七6",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230403_18745babc59568477.png"
+    },
+    {
+      "id": "6a0c498ad414ad7bf730ff53",
+      "createTime": 1779190152677,
+      "createDate": "2026-05-19",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260519_19e3fff3bcd757625.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #永劫无间# #胡桃# #胡桃捏脸#",
+      "userName": "小染啊啊啊啊",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31913a6a574113.png"
+    },
     {
       "id": "65cdf72c5492c80001e0c28a",
       "createTime": 1707996972205,
@@ -94,20 +150,6 @@
       "text": "#土御门胡桃捏脸# #永劫无间# #永劫无间捏脸站# #胡桃捏脸#",
       "userName": "世界第一宅神",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260404_19d54816cba636570.jpeg"
-    },
-    {
-      "id": "6a0c498ad414ad7bf730ff53",
-      "createTime": 1779190152677,
-      "createDate": "2026-05-19",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260519_19e3fff3bcd757625.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站# #永劫无间# #胡桃# #胡桃捏脸#",
-      "userName": "小染啊啊啊啊",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31913a6a574113.png"
     },
     {
       "id": "68d6140b35a4421f030bc127",
@@ -504,34 +546,6 @@
       "text": "#永劫无间# #胡桃捏脸#",
       "userName": "宫内神之樱",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240627_1905a546dee864776.jpeg"
-    },
-    {
-      "id": "69180ad22c36bd7c83231660",
-      "createTime": 1763183311865,
-      "createDate": "2025-11-15",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20251115_19a85ea3639391004.jpeg",
-        "https://ok.166.net/reunionpub/1_20251115_19a85ea3639595086.jpeg"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgLocalName": "1763183269.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=691700184bb4c4320c4e1529",
-          "imgBtn": "导入同款捏脸作品"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgLocalName": "1763183269.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=691700184bb4c4320c4e1529",
-          "imgBtn": "导入同款发型作品"
-        }
-      ],
-      "text": "捏了一个很帅的胡桃捏脸\n导入指引:捏脸码图片在图2，没有看到导入图标的\n可以将捏脸码图片打开大图 长按保存到手机 在发布到评论区点开 即可识别捏脸码\n喜欢请点个免费的三连和关注支持小姜谢谢!\n发色参考@肥肥仔vera\n#永劫无间捏脸站##永劫无间##土御门胡桃捏脸# #胡桃捏脸#",
-      "userName": "一头阿姜姜",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
     },
     {
       "id": "68f9c00c0e4ab65e406ae979",
@@ -1708,20 +1722,6 @@
       "text": "#胡桃捏脸# #永劫无间捏脸站# #捏脸#",
       "userName": "她和海水一様咸",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230719_1896d4c49ea291963.jpeg"
-    },
-    {
-      "id": "69b2c0521c874c5d28974ff1",
-      "createTime": 1773322135904,
-      "createDate": "2026-03-12",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260312_19ce23c6720615628.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#胡桃捏脸#",
-      "userName": "壹十七6",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230403_18745babc59568477.png"
     },
     {
       "id": "69b168b0298901581797cfde",
@@ -11546,222 +11546,6 @@
       "text": "谁有胡桃的这个捏脸，真的很喜欢😭#永劫无间捏脸站# #胡桃捏脸#",
       "userName": "东门纲棠",
       "userAvatar": "https://ok.166.net/reunionpub/3_20231115_18bcec58096562321.png"
-    },
-    {
-      "id": "66bc5b97279f3538ba2ed1dc",
-      "createTime": 1723620247123,
-      "createDate": "2024-08-14",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20240814_1914fc35ec4455118.png"
-      ],
-      "qrCodes": [],
-      "text": "求这个桃的捏脸 谢谢[哇]#胡桃# #胡桃捏脸# #胡桃捏脸码#",
-      "userName": "答糕手",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230715_18957505e1e259388.jpeg"
-    },
-    {
-      "id": "6729a426c855e040b2b6bd48",
-      "createTime": 1730782246430,
-      "createDate": "2024-11-05",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241105_192faa92df3733114.png"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站##胡桃捏脸#\n作品名称：桃心小猫\n设计理念：\n捏脸码：",
-      "userName": "月夜神山",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251005_199b357aa09862460.jpeg"
-    },
-    {
-      "id": "663fa417b345677073b442d3",
-      "createTime": 1715446807198,
-      "createDate": "2024-05-11",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20240512_18f68971878787410.png"
-      ],
-      "qrCodes": [],
-      "text": "求求这个胡桃的捏脸#胡桃捏脸# #胡桃红皮# #永劫无间#",
-      "userName": "沐子染雪",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230608_1889a3d1854789452.jpeg"
-    },
-    {
-      "id": "67239f5f5aaebc5c8bca2c44",
-      "createTime": 1730387807075,
-      "createDate": "2024-10-31",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241031_192e32683e9640037.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "绒绒兔 | 胡桃捏脸分享\n点击左下角识别即可导入[送花]\n#永劫无间# #永劫无间捏脸站# #胡桃捏脸#",
-      "userName": "白桃sy",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240814_1914fef9623628347.jpeg"
-    },
-    {
-      "id": "67284c9ed45bcf3345a0aee7",
-      "createTime": 1730694302583,
-      "createDate": "2024-11-04",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241104_192f56b15ad746226.jpeg",
-        "https://ok.166.net/reunionpub/1_20241104_192f56b15ae428222.jpeg",
-        "https://ok.166.net/reunionpub/1_20241104_192f56b15ae134994.jpeg",
-        "https://ok.166.net/reunionpub/1_20241104_192f56b15ae419332.jpeg",
-        "https://ok.166.net/reunionpub/1_20241104_192f56b15ae390776.jpeg",
-        "https://ok.166.net/reunionpub/1_20241104_192f56b15ae924135.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "胡桃挑染樱舞发色分享\n#胡桃捏脸# #永劫无间大神活动# #永劫无间捏脸站# #渐变染发#",
-      "userName": "小米辣0212",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20231101_18b89d92b1a791445.jpeg"
-    },
-    {
-      "id": "6727b54276e6895ab5c9214b",
-      "createTime": 1730655554664,
-      "createDate": "2024-11-03",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241104_192f31c0491454371.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站##胡桃捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "黑色的凤梨1",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250505_1969f57f296140961.jpeg"
-    },
-    {
-      "id": "6725c9b08784be35edf3d99d",
-      "createTime": 1730529712059,
-      "createDate": "2024-11-02",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241102_192eb9bd052191920.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站##胡桃捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "小鱼不吃鱼饼干",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240228_18dedbbc993835729.jpeg"
-    },
-    {
-      "id": "66ed14614d5bed4245acdade",
-      "createTime": 1726813281470,
-      "createDate": "2024-09-20",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20240920_1920e17924c843503.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "求这个胡桃捏脸#胡桃捏脸#",
-      "userName": "宇曦丶耶格尔",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240310_18e29031466494203.jpeg"
-    },
-    {
-      "id": "6724e39e9be02500d3dd97c9",
-      "createTime": 1730470814935,
-      "createDate": "2024-11-01",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241101_192e818c60a556489.png"
-      ],
-      "qrCodes": [],
-      "text": "有没有大佬有这个的捏脸啊[哭泣]#胡桃# #捏脸# #胡桃捏脸#",
-      "userName": "又挨振了",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251230_19b6fd7c28d305684.jpeg"
-    },
-    {
-      "id": "66e5c02c2faeb119e0e3947c",
-      "createTime": 1726332972274,
-      "createDate": "2024-09-14",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20240915_191f1769d97547109.png",
-        "https://ok.166.net/reunionpub/1_20240915_191f1769d97532193.png"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站# #胡桃捏脸# #胡桃yyds# 拿走记得点个牛逼👍",
-      "userName": "youyou7700",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230918_18aa776a1c0137741.png"
-    },
-    {
-      "id": "66f772f776e6895ab51d1737",
-      "createTime": 1727492855658,
-      "createDate": "2024-09-28",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20240928_1923697aa7d778284.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站# #胡桃捏脸# 求捏脸[飞吻][飞吻][飞吻]",
-      "userName": "是马先生啊",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230930_18ae569e4cc652555.jpeg"
-    },
-    {
-      "id": "67242ecadeb819741125723d",
-      "createTime": 1730424522439,
-      "createDate": "2024-11-01",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241101_192e556bc3e299679.png",
-        "https://ok.166.net/reunionpub/1_20241101_192e556bc3e950818.png",
-        "https://ok.166.net/reunionpub/1_20241101_192e556bc3e188916.png",
-        "https://ok.166.net/reunionpub/1_20241101_192e556bc3e705195.png",
-        "https://ok.166.net/reunionpub/1_20241101_192e556bc3e267418.png"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站# #胡桃捏脸# \n不要打胡桃可以嘛？",
-      "userName": "古韵仲夏",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20220419_1803f239930883334.png"
-    },
-    {
-      "id": "6723a83bd45bcf33459054ef",
-      "createTime": 1730390075207,
-      "createDate": "2024-10-31",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20241031_192e3491dac896604.jpeg",
-        "https://ok.166.net/reunionpub/1_20241031_192e3491dac881630.jpeg",
-        "https://ok.166.net/reunionpub/1_20241031_192e3491dac132418.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫新皮肤捏脸# 纯***，胡桃青蛙捏脸，给我白嫖出红#胡桃捏脸#",
-      "userName": "鬼相竹新",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230118_185c2ebd53b889384.png"
-    },
-    {
-      "id": "66cb3d7cc1beb0737f8ef442",
-      "createTime": 1724595580397,
-      "createDate": "2024-08-25",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20240825_19189e81a70787385.png",
-        "https://ok.166.net/reunionpub/1_20240825_19189e81a70608267.png",
-        "https://ok.166.net/reunionpub/1_20240825_19189e81a70366221.png",
-        "https://ok.166.net/reunionpub/1_20240825_19189e81a70630268.png",
-        "https://ok.166.net/reunionpub/1_20240825_19189e81a70875986.png",
-        "https://ok.166.net/reunionpub/1_20240825_19189e81a70188555.png",
-        "https://ok.166.net/reunionpub/1_20240825_19189e81a70715257.png",
-        "https://ok.166.net/reunionpub/1_20240825_19189e81a70952980.png",
-        "https://ok.166.net/reunionpub/1_20240825_19189e81a70676521.png"
-      ],
-      "qrCodes": [],
-      "text": "-分享胡桃染发蓝橘粉渐变色\n-粉蓝配色yyds❄️🌸\n#永劫无间捏脸站# #永劫无间大神活动# #胡桃捏脸# #夏日派对# #劫友休闲活动处# #永劫活动#",
-      "userName": "三筱筱筱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240709_190934e27c5393191.jpeg"
     }
   ]
 }
