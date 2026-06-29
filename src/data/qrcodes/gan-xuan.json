@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-06-28T07:10:03.270Z",
+  "lastUpdated": "2026-06-29T07:39:39.861Z",
   "source": "甘璇捏脸",
-  "totalCount": 111,
+  "totalCount": 110,
   "qrcodes": [
+    {
+      "id": "6a0254a8a414c250faac3cb1",
+      "createTime": 1778537622355,
+      "createDate": "2026-05-11",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260512_19e191a6453411829.jpeg",
+        "https://ok.166.net/reunionpub/1_20260512_19e191a6453898743.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1778537619.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0206b9745ea9544bb7519e",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1778537619.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0206b9745ea9544bb7519e",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "【仿cg甘璇】#永劫无间# #永劫无间捏脸站# #甘璇捏脸#",
+      "userName": "肥肥仔vera",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
+    },
     {
       "id": "6a296c736564803a4e27d366",
       "createTime": 1781099632202,
@@ -172,34 +200,6 @@
       "text": "#甘璇捏脸#",
       "userName": "w1nteRx",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260516_19e2fcef19a419912.jpeg"
-    },
-    {
-      "id": "6a0254a8a414c250faac3cb1",
-      "createTime": 1778537622355,
-      "createDate": "2026-05-11",
-      "characterId": "gan-xuan",
-      "characterName": "Tara Ga",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260512_19e191a6453411829.jpeg",
-        "https://ok.166.net/reunionpub/1_20260512_19e191a6453898743.jpeg"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgLocalName": "1778537619.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0206b9745ea9544bb7519e",
-          "imgBtn": "导入同款捏脸作品"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgLocalName": "1778537619.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0206b9745ea9544bb7519e",
-          "imgBtn": "导入同款发型作品"
-        }
-      ],
-      "text": "【仿cg甘璇】#永劫无间# #永劫无间捏脸站# #甘璇捏脸#",
-      "userName": "肥肥仔vera",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
     },
     {
       "id": "6a26bda3b1f0530d4e32f92a",
@@ -395,20 +395,6 @@
       "characterName": "Tara Ga",
       "images": [
         "https://ok.166.net/reunionpub/1_20260619_19edf72037b202177.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#甘璇捏脸#",
-      "userName": "Rikka0621",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251125_19aba4c8f90376701.jpeg"
-    },
-    {
-      "id": "6a351abb5218b1102fe95a73",
-      "createTime": 1781865138654,
-      "createDate": "2026-06-19",
-      "characterId": "gan-xuan",
-      "characterName": "Tara Ga",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260619_19edf704584740766.jpeg"
       ],
       "qrCodes": [],
       "text": "#甘璇捏脸#",
