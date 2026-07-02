@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-07-01T07:09:13.333Z",
+  "lastUpdated": "2026-07-02T06:41:25.054Z",
   "source": "刘炼捏脸",
-  "totalCount": 470,
+  "totalCount": 471,
   "qrcodes": [
+    {
+      "id": "6a45ff569e6c957fc5d14995",
+      "createTime": 1782972243732,
+      "createDate": "2026-07-02",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260702_19f216d58be574136.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#刘炼捏脸# 牛牛同款",
+      "userName": "夏夜山",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260702_19f1e763ad4483480.jpeg"
+    },
     {
       "id": "6a040f691a82bb29466e292d",
       "createTime": 1778650982203,
