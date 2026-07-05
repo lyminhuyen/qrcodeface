@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-07-04T06:38:16.835Z",
+  "lastUpdated": "2026-07-05T06:57:07.480Z",
   "source": "diverse",
-  "totalCount": 481,
+  "totalCount": 482,
   "qrcodes": [
+    {
+      "id": "6a48d66e1d36ca567022f8b3",
+      "createTime": 1783158379079,
+      "createDate": "2026-07-04",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260704_1a45cc0159fba000560ab2746561a1d3",
+        "https://ok.166.net/reunionpub/1_kol_20260704_14cce2d6844a0a103f151e9df2690888",
+        "https://ok.166.net/reunionpub/1_kol_20260704_8cd0f554dc52d0c72d4a532df10f3256",
+        "https://ok.166.net/reunionpub/1_kol_20260704_57ac73adf1159686e4ee6130f8a635ce"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260704_66bec7e6a3801f791f217cf7569dc9a0",
+          "errmsg": "",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i2OATzEuPriFw91AB8Nuk6&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a48b32096f92021029f9eb1uCYZhM1707"
+        }
+      ],
+      "text": "西行志瀛洲仙｜李寻欢捏脸\n喜欢的宝子们，取码请礼貌关注三连哈～\n#永劫手游大神创作激励# #永劫无间手游# #永手捏脸站# #永手新赛季捏脸# #李寻欢捏脸# #永手李寻欢捏脸# #永手岳山捏脸# #永手万钧捏脸# #永手季沧海# #捏脸# #今日劫点# #永劫无间手游千机赛季# #永劫无间手游捏脸#",
+      "userName": "ZMoses",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251102_19a42c4b08b745372.jpeg"
+    },
     {
       "id": "6a473a0a24ac520a81538d03",
       "createTime": 1783052801551,
