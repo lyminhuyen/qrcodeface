@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-07-07T06:17:12.053Z",
+  "lastUpdated": "2026-07-08T05:29:36.088Z",
   "source": "胡桃捏脸",
   "totalCount": 707,
   "qrcodes": [
+    {
+      "id": "6a4d444ca1afe0107cc61dc6",
+      "createTime": 1783448649684,
+      "createDate": "2026-07-07",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260708_19f3dd2ba87538524.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#胡桃捏脸#",
+      "userName": "忧郁在雨季",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260630_19f17f7eb49235333.jpeg"
+    },
     {
       "id": "68732b0aecc61c7e3911f883",
       "createTime": 1752378023306,
@@ -5211,20 +5225,6 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20250315_195990cbb9d881807.jpeg"
     },
     {
-      "id": "6889e135c662d16862bddaf2",
-      "createTime": 1753866546370,
-      "createDate": "2025-07-30",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20250730_1985a97a8ae708258.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "求这个胡桃的捏脸#永劫无间# #永劫无间捏脸站# #胡桃捏脸#",
-      "userName": "嗜睡羊",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230324_1871118562e118163.jpeg"
-    },
-    {
       "id": "68888c4e42615779a9fc19b8",
       "createTime": 1753779275390,
       "createDate": "2025-07-29",
@@ -6618,7 +6618,7 @@
       "qrCodes": [],
       "text": "#胡桃捏脸# 求求这个胡桃捏脸",
       "userName": "雨不淋",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20241114_19328cea3e2809097.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260707_19f3ccd2aea956592.jpeg"
     },
     {
       "id": "673f6b14319f88431915b2eb",
