@@ -1,8 +1,99 @@
 {
-  "lastUpdated": "2026-07-09T06:56:19.579Z",
+  "lastUpdated": "2026-07-10T06:54:53.048Z",
   "source": "甘璇捏脸",
-  "totalCount": 132,
+  "totalCount": 133,
   "qrcodes": [
+    {
+      "id": "6a507d0b105eae5bb364eb56",
+      "createTime": 1783659777700,
+      "createDate": "2026-07-10",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260710_19f4a68383e557404.jpeg",
+        "https://ok.166.net/reunionpub/1_20260710_19f4a68383e318578.jpeg",
+        "https://ok.166.net/reunionpub/1_20260710_19f4a68383e833214.jpeg",
+        "https://ok.166.net/reunionpub/1_20260710_19f4a68383e271033.jpeg",
+        "https://ok.166.net/reunionpub/1_20260710_19f4a68383e264699.jpeg",
+        "https://ok.166.net/reunionpub/1_20260710_19f4a68383e999898.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1783659729.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a4dd3570186943fc24b3311",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##甘璇捏脸#\n作品名称：毛利兰\n设计理念：有没有喜欢的姐妹可以点点赞点点热度[送花]\n捏脸码：",
+      "userName": "湖南三笠",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251225_19b549ba6d4450800.jpeg"
+    },
+    {
+      "id": "6a472cc7bb48da1d6290a3ac",
+      "createTime": 1783049400104,
+      "createDate": "2026-07-03",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/kol_20260702_105a69d299dccfacbabdc13c534cbcc2",
+        "https://ok.166.net/reunionpub/kol_20260702_edeb78bccba92282bca1e2e0c8d5a339",
+        "https://ok.166.net/reunionpub/kol_20260702_8628497a9bed750b3f664c56525c9af2"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260702_145a9cea05c55a3df1d998add0a51ca9",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a465be282b7416f9a3e5e33"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260702_bff0bc41b7900f04fcd15f0f1d576485",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a465be282b7416f9a3e5e33"
+        }
+      ],
+      "text": "甘璇[眠星]\n左下角可以直接导入哦，球球关注~\n#永劫无间##甘璇捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
+    {
+      "id": "69fc4075396750682018f7dc",
+      "createTime": 1778139250854,
+      "createDate": "2026-05-07",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260507_72ef542d68add5844da83e75d2e7a345",
+        "https://ok.166.net/reunionpub/1_kol_20260507_a672be7ecb467519069a88ea20c5feb0"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260507_3afe695ba03a742252f8473e604bf9e2",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69faf7c782b7416f9a344543"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260507_78a9838fa823e756e60e92bd6da49b8a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69faf7c782b7416f9a344543"
+        }
+      ],
+      "text": "甘璇红皮捏脸 · 玄玥\n是谁12抽出红！原来是我~\n#甘璇捏脸# #永劫无间捏脸站# #永劫无间#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
+    },
     {
       "id": "6a3bddbac7a1b94d75e879d5",
       "createTime": 1782308034287,
@@ -187,37 +278,6 @@
       "text": "💕无偿数据分享· 甘璇｜稚夏「二十壹栈」 💕\n✨JK系列又新增一件！ ✨\n\n💕码在最后！ 也可以左下角导入💕\n#永劫无间捏脸站# #甘璇捏脸# #永劫无间#\n\n✨数据获取方式：麻烦能给我一个三联支持！拜托啦！✨\n⚡以上为二十壹栈原创捏脸，大神独家免费数据分享，请勿二改二传，倒卖盗卖！⚡",
       "userName": "二十壹栈",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240721_190d46a718d964457.jpeg"
-    },
-    {
-      "id": "6a472cc7bb48da1d6290a3ac",
-      "createTime": 1783049400104,
-      "createDate": "2026-07-03",
-      "characterId": "gan-xuan",
-      "characterName": "Tara Ga",
-      "images": [
-        "https://ok.166.net/reunionpub/kol_20260702_105a69d299dccfacbabdc13c534cbcc2",
-        "https://ok.166.net/reunionpub/kol_20260702_edeb78bccba92282bca1e2e0c8d5a339",
-        "https://ok.166.net/reunionpub/kol_20260702_8628497a9bed750b3f664c56525c9af2"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸/影棚码",
-          "imgBtn": "导入同款捏脸/影棚作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260702_145a9cea05c55a3df1d998add0a51ca9",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a465be282b7416f9a3e5e33"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260702_bff0bc41b7900f04fcd15f0f1d576485",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a465be282b7416f9a3e5e33"
-        }
-      ],
-      "text": "甘璇[眠星]\n左下角可以直接导入哦，球球关注~\n#永劫无间##甘璇捏脸##永劫无间捏脸站#",
-      "userName": "考拉somnus",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
     },
     {
       "id": "6a476af850e7b16ee8971bc5",
@@ -587,37 +647,7 @@
       ],
       "text": "【甘璇·清婉】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##甘璇捏脸#",
       "userName": "怎知榆晚",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250514_196cdf649d2519725.jpeg"
-    },
-    {
-      "id": "69fc4075396750682018f7dc",
-      "createTime": 1778139250854,
-      "createDate": "2026-05-07",
-      "characterId": "gan-xuan",
-      "characterName": "Tara Ga",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260507_72ef542d68add5844da83e75d2e7a345",
-        "https://ok.166.net/reunionpub/1_kol_20260507_a672be7ecb467519069a88ea20c5feb0"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgBtn": "导入同款捏脸作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260507_3afe695ba03a742252f8473e604bf9e2",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69faf7c782b7416f9a344543"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260507_78a9838fa823e756e60e92bd6da49b8a",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69faf7c782b7416f9a344543"
-        }
-      ],
-      "text": "甘璇红皮捏脸 · 玄玥\n是谁12抽出红！原来是我~\n#甘璇捏脸# #永劫无间捏脸站# #永劫无间#",
-      "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg"
     },
     {
       "id": "69f2cb3e1759f73c3dbbf175",
@@ -814,7 +844,7 @@
       ],
       "text": "【甘璇·亮片】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##甘璇捏脸#",
       "userName": "怎知榆晚",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250514_196cdf649d2519725.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg"
     },
     {
       "id": "6a488c509e6c957fc5d6a91d",
@@ -1669,7 +1699,7 @@
       ],
       "qrCodes": [],
       "text": "#甘璇捏脸#",
-      "userName": "黄学森真帅",
+      "userName": "刘培勇",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240806_191251f97f1674018.png"
     },
     {
@@ -2293,7 +2323,7 @@
       ],
       "text": "【甘璇·窥天】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##甘璇捏脸#",
       "userName": "怎知榆晚",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250514_196cdf649d2519725.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg"
     },
     {
       "id": "6a01b5d29094bf23e701155d",
@@ -2497,7 +2527,7 @@
       ],
       "text": "【甘璇·我的一个道姑朋友】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##甘璇捏脸#",
       "userName": "怎知榆晚",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250514_196cdf649d2519725.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg"
     },
     {
       "id": "69f1a1aec1a4bd21dbde659a",
@@ -2681,7 +2711,7 @@
       ],
       "text": "【甘璇·嫦娥】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##甘璇捏脸#",
       "userName": "怎知榆晚",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250514_196cdf649d2519725.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg"
     },
     {
       "id": "69f5ef81b1983028a83595e7",

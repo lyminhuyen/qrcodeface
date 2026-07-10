@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-07-09T06:13:42.152Z",
+  "lastUpdated": "2026-07-10T06:12:21.744Z",
   "source": "胡桃捏脸",
-  "totalCount": 719,
+  "totalCount": 718,
   "qrcodes": [
+    {
+      "id": "68732b0aecc61c7e3911f883",
+      "createTime": 1752378023306,
+      "createDate": "2025-07-13",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250713_19801de9a6b593609.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "有没有小宝有这个胡桃捏脸#胡桃捏脸# #永劫无间捏脸站#",
+      "userName": "西红柿大王ovo",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250526_1970b170168326043.jpeg"
+    },
     {
       "id": "6a1b2a7f9c1fb63249dd4be5",
       "createTime": 1780165245961,
@@ -92,20 +106,6 @@
       "text": "#胡桃捏脸#",
       "userName": "忧郁在雨季",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260630_19f17f7eb49235333.jpeg"
-    },
-    {
-      "id": "68732b0aecc61c7e3911f883",
-      "createTime": 1752378023306,
-      "createDate": "2025-07-13",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20250713_19801de9a6b593609.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "有没有小宝有这个胡桃捏脸#胡桃捏脸# #永劫无间捏脸站#",
-      "userName": "西红柿大王ovo",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250526_1970b170168326043.jpeg"
     },
     {
       "id": "6883b6a09ffe3c575ffab9fb",
@@ -6002,7 +6002,7 @@
       "qrCodes": [],
       "text": "胡桃x芳泽霞仿捏#永劫无间捏脸站# #永劫无间# #胡桃捏脸#",
       "userName": "怎知榆晚",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250514_196cdf649d2519725.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg"
     },
     {
       "id": "685416cbe33adf6a33634346",
@@ -11727,20 +11727,6 @@
       "text": "#永劫无间捏脸站# #胡桃捏脸# #胡桃yyds# 拿走记得点个牛逼👍",
       "userName": "youyou7700",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230918_18aa776a1c0137741.png"
-    },
-    {
-      "id": "66f772f776e6895ab51d1737",
-      "createTime": 1727492855658,
-      "createDate": "2024-09-28",
-      "characterId": "kurumi",
-      "characterName": "Kurumi Tsuchimikado",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20240928_1923697aa7d778284.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站# #胡桃捏脸# 求捏脸[飞吻][飞吻][飞吻]",
-      "userName": "是马先生啊",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230930_18ae569e4cc652555.jpeg"
     }
   ]
 }
