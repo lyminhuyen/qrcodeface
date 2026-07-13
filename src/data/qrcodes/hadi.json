@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-07-12T06:15:49.640Z",
+  "lastUpdated": "2026-07-13T06:24:43.074Z",
   "source": "哈迪捏脸",
-  "totalCount": 614,
+  "totalCount": 613,
   "qrcodes": [
+    {
+      "id": "6a5451bf180a0f28e9a9eb40",
+      "createTime": 1783910844792,
+      "createDate": "2026-07-13",
+      "characterId": "hadi",
+      "characterName": "Hadi Ismail",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260713_9f477cdd68229d1e49ead61cccd79820",
+        "https://ok.166.net/reunionpub/1_kol_20260713_91d01303c22479e2f51bc3dec33e87a9",
+        "https://ok.166.net/reunionpub/1_kol_20260713_5812bf95a9cca7230dfe05ddf94eec5b",
+        "https://ok.166.net/reunionpub/1_kol_20260713_c711360df2a2c886b1c84308ccf64f48"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260713_b626908b8a470d272635712aa6e9e712",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a544ca60186943fc24c636b"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【哈迪捏脸x赤枭】 | 千机赛季哈迪新时装\n----迷人的反派\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #哈迪捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6923bc28ca1ec03b35dfe311",
       "createTime": 1763949605199,
@@ -6685,7 +6716,7 @@
       "qrCodes": [],
       "text": "胡为【妖】\n自用的一款捏脸 分享给大家玩啦👌\n\n#哈迪捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "Miss柒捏脸",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250106_1943c281a3c993956.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260713_19f597400dd736831.jpeg"
     },
     {
       "id": "663a480bfbafe20d20a7cf18",
@@ -8862,7 +8893,7 @@
       "qrCodes": [],
       "text": "哈迪捏脸【槿】 喜欢自取👌\n\n#哈迪捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "Miss柒捏脸",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250106_1943c281a3c993956.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260713_19f597400dd736831.jpeg"
     },
     {
       "id": "660ded89aa99fc18ecd5be5d",
@@ -8876,7 +8907,7 @@
       "qrCodes": [],
       "text": "久等了 你们的【哈迪】黑皮\n喜欢的宝子们自取👌\n发色：0.0.62\n#哈迪捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "Miss柒捏脸",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250106_1943c281a3c993956.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260713_19f597400dd736831.jpeg"
     },
     {
       "id": "660967deb19b430b91149289",
@@ -11092,34 +11123,6 @@
       "text": "#哈迪捏脸# 有没有大佬捏个强尼银手的哈迪",
       "userName": "国服最强色篮",
       "userAvatar": "https://ok.166.net/reunionpub/3_20231216_18c7178cf4e259975.jpeg"
-    },
-    {
-      "id": "656c93870b589e00019a4794",
-      "createTime": 1701614471400,
-      "createDate": "2023-12-03",
-      "characterId": "hadi",
-      "characterName": "Hadi Ismail",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20231203_18c30204243466908.png"
-      ],
-      "qrCodes": [],
-      "text": "#哈迪捏脸#\n世界第一狂酷拽魅哈迪\n霸气登场\n请礼貌取脸码给个赞赞[表情18]",
-      "userName": "百鬼御红子",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230706_1892b6026c6627000.jpeg"
-    },
-    {
-      "id": "655c3734329bcc0001b6f287",
-      "createTime": 1700542260120,
-      "createDate": "2023-11-21",
-      "characterId": "hadi",
-      "characterName": "Hadi Ismail",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20231121_18bf0379739474339.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#哈迪捏脸#",
-      "userName": "令狐玄源",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230403_1874790d558624843.jpeg"
     }
   ]
 }
