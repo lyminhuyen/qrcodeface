@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-07-18T05:36:23.146Z",
+  "lastUpdated": "2026-07-19T06:10:22.558Z",
   "source": "哈迪捏脸",
   "totalCount": 602,
   "qrcodes": [
+    {
+      "id": "6a5b45f920356f5d9795ac96",
+      "createTime": 1784366581035,
+      "createDate": "2026-07-18",
+      "characterId": "hadi",
+      "characterName": "Hadi Ismail",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260718_56e629a8fe885cf452cb9d83f4d96e84",
+        "https://ok.166.net/reunionpub/1_kol_20260718_11b9f08a171d376b39684d215e17bd10"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260718_83f2a980dfd75e6881f7aeab5dd300e6",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a5b069d0186943fc24dab09"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260718_9d824cfb739d44918ae920e22d7d44ef",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a5b069d0186943fc24dab09"
+        }
+      ],
+      "text": "克烈捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #克烈# #哈迪捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "697c7405d6538936d5b54afd",
       "createTime": 1769763841203,
@@ -10932,20 +10962,6 @@
       "text": "#哈迪捏脸# 来个响指",
       "userName": "游戏玩家76985721",
       "userAvatar": "https://ok.166.net/reunionpub/3_20231228_18cb0f2ece7479201.jpeg"
-    },
-    {
-      "id": "658dc4c8357dd400019d72bc",
-      "createTime": 1703789768137,
-      "createDate": "2023-12-28",
-      "characterId": "hadi",
-      "characterName": "Hadi Ismail",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20231229_18cb194e50b810464.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#哈迪捏脸#",
-      "userName": "Ma1y",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240402_18e9d944f19791873.jpeg"
     }
   ]
 }
