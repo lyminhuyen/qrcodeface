@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-07-21T05:42:48.655Z",
+  "lastUpdated": "2026-07-22T05:42:07.327Z",
   "source": "殷紫萍捏脸",
-  "totalCount": 740,
+  "totalCount": 738,
   "qrcodes": [
+    {
+      "id": "6a5f783d3eeae9212c509d9a",
+      "createTime": 1784641379065,
+      "createDate": "2026-07-21",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260721_19f84ea53e9986086.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#影棚# #殷紫萍捏脸#",
+      "userName": "游戏玩家65186995",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241212_193b8236d65922438.png"
+    },
     {
       "id": "6904fca3b3bf7e633f6c36e7",
       "createTime": 1761934497183,
@@ -15989,49 +16003,6 @@
       "text": "【絮絮念】#永劫无间捏脸站# #永劫无间# #殷紫萍捏脸#",
       "userName": "肥肥仔vera",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
-    },
-    {
-      "id": "686aca504c4d4c4dfdca099b",
-      "createTime": 1751829070443,
-      "createDate": "2025-07-06",
-      "characterId": "ziping-yin",
-      "characterName": "Ziping Yin",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20250707_197e126171d295291.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#殷紫萍捏脸#",
-      "userName": "姚酒泊",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20220131_17ead93236c101241.jpeg"
-    },
-    {
-      "id": "686a9b9748b6045dc877e3e6",
-      "createTime": 1751817108525,
-      "createDate": "2025-07-06",
-      "characterId": "ziping-yin",
-      "characterName": "Ziping Yin",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20250706_197e06fb978690568.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#殷紫萍捏脸#",
-      "userName": "夜寄语端",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240929_19239e1da05400031.jpeg"
-    },
-    {
-      "id": "62ff7114d70a9b000180f824",
-      "createTime": 1660907796640,
-      "createDate": "2022-08-19",
-      "characterId": "ziping-yin",
-      "characterName": "Ziping Yin",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20220819_182b5d1b543208899.jpeg",
-        "https://ok.166.net/reunionpub/1_20220819_182b5d1b543145760.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#殷紫萍捏脸#",
-      "userName": "你的安眠夜",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20220724_18230de0396396836.jpeg"
     }
   ]
 }
