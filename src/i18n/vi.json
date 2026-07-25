@@ -24,6 +24,9 @@
   "lightbox.download": "Tải xuống",
   "lightbox.qrcodes": "Mã QR",
   "lightbox.images": "ảnh",
+  "share.button": "Chia sẻ",
+  "share.copyLink": "Sao chép link",
+  "share.copied": "Đã sao chép!",
   "footer.copyright": "QRCode Face Gallery",
   "footer.description": "Bộ sưu tập Face Code cho Naraka: Bladepoint",
   "about.title": "Giới thiệu",
@@ -41,5 +44,5 @@
   "converter.download": "Tải QR",
   "converter.reset": "Làm mới",
   "converter.info1": "Công cụ này chuyển đổi mã QR của Naraka: Bladepoint từ định dạng server CN sang Global.",
-  "converter.info2": "Quá trình chuyển đổi diễn ra hoàn toàn trên trình duyệt - không có dữ liệu nào được gửi đến server."
+  "converter.info2": "Ảnh được quét và chuyển đổi trong trình duyệt. Link chia sẻ CN có thể được resolve qua server của ứng dụng."
 }

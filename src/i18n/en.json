@@ -24,6 +24,9 @@
   "lightbox.download": "Download",
   "lightbox.qrcodes": "QR Codes",
   "lightbox.images": "images",
+  "share.button": "Share",
+  "share.copyLink": "Copy link",
+  "share.copied": "Copied!",
   "footer.copyright": "QRCode Face Gallery",
   "footer.description": "Face Code Collection for Naraka: Bladepoint",
   "about.title": "About",
@@ -41,5 +44,5 @@
   "converter.download": "Download QR",
   "converter.reset": "Reset",
   "converter.info1": "This tool converts Naraka: Bladepoint QR codes from CN server format to Global format.",
-  "converter.info2": "The conversion happens entirely in your browser - no data is sent to any server."
+  "converter.info2": "Image scanning and conversion run in your browser. CN share links may be resolved through our server."
 }

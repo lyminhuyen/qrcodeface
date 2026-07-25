@@ -1,7 +1,7 @@
 'use client';
 
-import Menubar from '@/components/Menubar';
-import Footer from '@/components/Footer';
+import Menubar from '@/components/layout/Menubar';
+import Footer from '@/components/layout/Footer';
 import { useLanguage } from '@/contexts/LanguageContext';
 
 export default function AboutPage() {

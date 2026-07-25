@@ -1,53 +1,39 @@
 import { NextRequest, NextResponse } from 'next/server';
-import * as fs from 'fs';
-import * as path from 'path';
+import { isLocalToolRuntime } from '@/lib/local-runtime.server';
+import { updateQRCodeCharacters, type CharacterUpdate } from '@/lib/qrcodes/data.server';
 
-interface UpdateItem {
-  qrcodeId: string;
-  characterId: string;
-  characterName: string;
-}
+const MAX_UPDATES_PER_REQUEST = 500;
 
 export async function POST(request: NextRequest) {
-  try {
-    const { updates } = (await request.json()) as { updates: UpdateItem[] };
+  if (!isLocalToolRuntime()) {
+    return NextResponse.json({ error: 'Not found' }, { status: 404 });
+  }
 
-    if (!updates || updates.length === 0) {
+  try {
+    const { updates } = (await request.json()) as { updates?: CharacterUpdate[] };
+
+    if (!Array.isArray(updates) || updates.length === 0) {
       return NextResponse.json({ error: 'No updates provided' }, { status: 400 });
     }
+    if (updates.length > MAX_UPDATES_PER_REQUEST) {
+      return NextResponse.json({ error: 'Too many updates' }, { status: 400 });
+    }
 
-    // Read current data
-    const dataPath = path.join(process.cwd(), 'src/data/qrcodes/index.json');
-    const rawData = fs.readFileSync(dataPath, 'utf-8');
-    const data = JSON.parse(rawData);
-
-    // Create update map for faster lookup
-    const updateMap = new Map(
-      updates.map((u) => [u.qrcodeId, { characterId: u.characterId, characterName: u.characterName }])
+    const validUpdates = updates.every(
+      (update) =>
+        update &&
+        typeof update.qrcodeId === 'string' &&
+        typeof update.characterId === 'string'
     );
+    if (!validUpdates) {
+      return NextResponse.json({ error: 'Invalid updates' }, { status: 400 });
+    }
 
-    // Update qrcodes
-    data.qrcodes = data.qrcodes.map((qr: { id: string; characterId: string; characterName: string }) => {
-      const update = updateMap.get(qr.id);
-      if (update) {
-        return {
-          ...qr,
-          characterId: update.characterId,
-          characterName: update.characterName,
-        };
-      }
-      return qr;
-    });
-
-    // Update timestamp
-    data.lastUpdated = new Date().toISOString();
-
-    // Write back
-    fs.writeFileSync(dataPath, JSON.stringify(data, null, 2));
+    const updated = await updateQRCodeCharacters(updates);
 
     return NextResponse.json({
       success: true,
-      updated: updates.length,
+      updated,
     });
   } catch (error) {
     console.error('Error updating tags:', error);

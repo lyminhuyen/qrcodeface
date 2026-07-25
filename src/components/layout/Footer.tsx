@@ -2,7 +2,7 @@
 
 import { useLanguage } from '@/contexts/LanguageContext';
 
-export default function Footer() {
+export default function SiteFooter() {
   const { t } = useLanguage();
   const year = new Date().getFullYear();
 

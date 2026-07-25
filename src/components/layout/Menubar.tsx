@@ -5,7 +5,8 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Sun, Moon, ChevronDown, Menu, X } from 'lucide-react';
 import { useTheme } from '@/contexts/ThemeContext';
-import { useLanguage, Locale } from '@/contexts/LanguageContext';
+import { useLanguage } from '@/contexts/LanguageContext';
+import type { Locale } from '@/contexts/LanguageContext';
 
 const languages: { code: Locale; flag: string; label: string }[] = [
   { code: 'vi', flag: '🇻🇳', label: 'VI' },

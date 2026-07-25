@@ -1,8 +1,3 @@
-/**
- * QR Converter Types
- * Naraka: Bladepoint face data format
- */
-
 export interface HairParamData {
   [key: string]: {
     [key: string]: number[];
@@ -18,12 +13,12 @@ export interface HairData {
 }
 
 export interface RawNarakaData {
-  faceData: number[];  // 658 facial parameters
+  faceData: number[];
   hairData: HairData;
 }
 
 export interface ConvertResult {
   success: boolean;
-  qrDataUrl?: string;  // base64 data URL for download
+  qrDataUrl?: string;
   error?: string;
 }

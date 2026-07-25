@@ -31,11 +31,12 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    setMounted(true);
-    const saved = localStorage.getItem('locale') as Locale;
-    if (saved && translations[saved]) {
-      setLocaleState(saved);
-    }
+    const frame = requestAnimationFrame(() => {
+      setMounted(true);
+      const saved = localStorage.getItem('locale') as Locale;
+      if (saved && translations[saved]) setLocaleState(saved);
+    });
+    return () => cancelAnimationFrame(frame);
   }, []);
 
   const setLocale = (newLocale: Locale) => {

@@ -24,6 +24,9 @@
   "lightbox.download": "下载",
   "lightbox.qrcodes": "二维码",
   "lightbox.images": "张图片",
+  "share.button": "分享",
+  "share.copyLink": "复制链接",
+  "share.copied": "已复制！",
   "footer.copyright": "QRCode Face Gallery",
   "footer.description": "永劫无间捏脸码合集",
   "about.title": "关于",
@@ -41,5 +44,5 @@
   "converter.download": "下载二维码",
   "converter.reset": "重置",
   "converter.info1": "此工具将永劫无间的二维码从国服格式转换为国际服格式。",
-  "converter.info2": "转换完全在您的浏览器中进行 - 不会向任何服务器发送数据。"
+  "converter.info2": "图片扫描和转换在浏览器中完成；国服分享链接可能会通过应用服务器解析。"
 }
