@@ -1,8 +1,83 @@
 {
-  "lastUpdated": "2026-07-25T05:54:37.482Z",
+  "lastUpdated": "2026-07-26T06:11:47.200Z",
   "source": "张起灵捏脸",
   "totalCount": 608,
   "qrcodes": [
+    {
+      "id": "6a54f24c97000d71e68fc9d2",
+      "createTime": 1783951945079,
+      "createDate": "2026-07-13",
+      "characterId": "zhang-qiling",
+      "characterName": "Kylin Zhang",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260713_50a7f65d2c8dbf3ef6996248a5f26ed8",
+        "https://ok.166.net/reunionpub/1_kol_20260713_25463ea5cf0b980df02949715db0bb3a",
+        "https://ok.166.net/reunionpub/1_kol_20260713_a0edc01cffd103a3738e0b8fe14bc0d7"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260713_e2a08334c2832432200f50a624a84556",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a547e8d745ea9544bc31c09"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260713_0e1aaf40d854317df2a83df294af1900",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a547e8d745ea9544bc31c09"
+        }
+      ],
+      "text": "草帽来的正是时候，刘海柱完全体\n图2和图3就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #刘海柱# #张起灵捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
+    {
+      "id": "6a567d663eeae9212c417d9a",
+      "createTime": 1784053092452,
+      "createDate": "2026-07-14",
+      "characterId": "zhang-qiling",
+      "characterName": "Kylin Zhang",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260715_19f61d9cb90381699.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#张起灵捏脸#",
+      "userName": "Xvvv7",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240505_18f495c7639107648.jpeg"
+    },
+    {
+      "id": "690d1b7db3fffe38a33eef7a",
+      "createTime": 1762466683698,
+      "createDate": "2025-11-06",
+      "characterId": "zhang-qiling",
+      "characterName": "Kylin Zhang",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251107_19a5b33524f953090.jpeg",
+        "https://ok.166.net/reunionpub/1_20251107_19a5b33524f718590.jpeg",
+        "https://ok.166.net/reunionpub/1_20251107_19a5b33524f819085.jpeg",
+        "https://ok.166.net/reunionpub/1_20251107_19a5b33524f945571.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1762466639.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690d11145123803a99ea66e3",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1762466639.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690d11145123803a99ea66e3",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "捏脸导入指引：捏脸码在图34，图3是面纹版，图4是无面纹版。点开你所需要导入的捏脸码图片长按保存后发布在评论区点开图片即可识别。\n如果想要购入面纹的也可在评论置顶的视频内左下角橱窗点击购买惊魂索命面纹包即可。\n请多多三连关注支持姜姜，宝宝们的支持就是我最大的创作动力！谢谢！\n一头阿姜姜原创捏脸作品，请勿倒卖二改抄袭，未经允许请勿搬运到公开平台进行牟利。谢谢！\n#张起灵捏脸##永劫无间捏脸站##永劫无间#",
+      "userName": "一头阿姜姜",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
+    },
     {
       "id": "66b3803fc3e1f5244611f946",
       "createTime": 1723039807575,
@@ -140,51 +215,6 @@
       "text": "#张起灵捏脸#",
       "userName": "潘北海4158",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250216_1950f21638b408520.png"
-    },
-    {
-      "id": "6a567d663eeae9212c417d9a",
-      "createTime": 1784053092452,
-      "createDate": "2026-07-14",
-      "characterId": "zhang-qiling",
-      "characterName": "Kylin Zhang",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260715_19f61d9cb90381699.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#张起灵捏脸#",
-      "userName": "Xvvv7",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240505_18f495c7639107648.jpeg"
-    },
-    {
-      "id": "6a54f24c97000d71e68fc9d2",
-      "createTime": 1783951945079,
-      "createDate": "2026-07-13",
-      "characterId": "zhang-qiling",
-      "characterName": "Kylin Zhang",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260713_50a7f65d2c8dbf3ef6996248a5f26ed8",
-        "https://ok.166.net/reunionpub/1_kol_20260713_25463ea5cf0b980df02949715db0bb3a",
-        "https://ok.166.net/reunionpub/1_kol_20260713_a0edc01cffd103a3738e0b8fe14bc0d7"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸/影棚码",
-          "imgBtn": "导入同款捏脸/影棚作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260713_e2a08334c2832432200f50a624a84556",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a547e8d745ea9544bc31c09"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260713_0e1aaf40d854317df2a83df294af1900",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a547e8d745ea9544bc31c09"
-        }
-      ],
-      "text": "草帽来的正是时候，刘海柱完全体\n图2和图3就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #刘海柱# #张起灵捏脸#",
-      "userName": "暴躁De橙子",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
     },
     {
       "id": "68864c1b918c5c68461709ce",
@@ -2584,36 +2614,6 @@
       "text": "[ 张起灵捏脸·藏海花 ]\n永劫无间最成功的联动迎来了他的超长售后🤤\n#永劫无间##张起灵捏脸##永劫无间捏脸站#",
       "userName": "高级护甲粉末",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260621_19eeabb13dc871443.jpeg"
-    },
-    {
-      "id": "690d1b7db3fffe38a33eef7a",
-      "createTime": 1762466683698,
-      "createDate": "2025-11-06",
-      "characterId": "zhang-qiling",
-      "characterName": "Kylin Zhang",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20251107_19a5b33524f953090.jpeg",
-        "https://ok.166.net/reunionpub/1_20251107_19a5b33524f718590.jpeg",
-        "https://ok.166.net/reunionpub/1_20251107_19a5b33524f819085.jpeg",
-        "https://ok.166.net/reunionpub/1_20251107_19a5b33524f945571.jpeg"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgLocalName": "1762466639.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690d11145123803a99ea66e3",
-          "imgBtn": "导入同款捏脸作品"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgLocalName": "1762466639.jpg",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690d11145123803a99ea66e3",
-          "imgBtn": "导入同款发型作品"
-        }
-      ],
-      "text": "捏脸导入指引：捏脸码在图34，图3是面纹版，图4是无面纹版。点开你所需要导入的捏脸码图片长按保存后发布在评论区点开图片即可识别。\n如果想要购入面纹的也可在评论置顶的视频内左下角橱窗点击购买惊魂索命面纹包即可。\n请多多三连关注支持姜姜，宝宝们的支持就是我最大的创作动力！谢谢！\n一头阿姜姜原创捏脸作品，请勿倒卖二改抄袭，未经允许请勿搬运到公开平台进行牟利。谢谢！\n#张起灵捏脸##永劫无间捏脸站##永劫无间#",
-      "userName": "一头阿姜姜",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
     },
     {
       "id": "689d957ccf3a1258ffcf8d55",
@@ -10775,8 +10775,8 @@
       ],
       "qrCodes": [],
       "text": "不是，这染膏是什么东西，图12染的时候的效果，图3456游戏里的效果，这什么辣鸡？没有游戏内效果预览吗？昂？？？不满意出来又得重新花400金砖，网易你是懂赚钱的#永劫无间捏脸站# #永劫无间# #张起灵捏脸# #永劫观山海穿搭#",
-      "userName": "丷咕叽鸭丷",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230527_1885d678beb466501.jpeg"
+      "userName": "无情肉肉手",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260726_19f9c27972f712532.jpeg"
     },
     {
       "id": "66b21823d69b9178bed816f6",
