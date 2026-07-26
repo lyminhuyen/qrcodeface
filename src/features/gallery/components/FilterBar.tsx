@@ -2,27 +2,24 @@
 
 import { useState, useRef, useEffect } from 'react';
 import { ChevronDown } from 'lucide-react';
-import { Character, getCharacterName } from '@/types';
+import { getCharacterName } from '@/types';
+import type { Character } from '@/types';
+import type { GalleryAuthor } from '@/lib/qrcodes/author-identity';
 import { useLanguage } from '@/contexts/LanguageContext';
-
-interface Author {
-  name: string;
-  avatar: string;
-}
 
 interface FilterBarProps {
   characters: Character[];
   selectedCharacter: string;
   selectedYear: string;
   selectedMonth: string;
-  selectedAuthor: string;
+  selectedAuthorKey: string;
   onCharacterChange: (characterId: string) => void;
   onYearChange: (year: string) => void;
   onMonthChange: (month: string) => void;
-  onAuthorChange: (author: string) => void;
+  onAuthorKeyChange: (authorKey: string) => void;
   availableYears: string[];
   availableMonths: string[];
-  availableAuthors: Author[];
+  availableAuthors: GalleryAuthor[];
 }
 
 const MONTH_NAMES = [
@@ -45,11 +42,11 @@ export default function FilterBar({
   selectedCharacter,
   selectedYear,
   selectedMonth,
-  selectedAuthor,
+  selectedAuthorKey,
   onCharacterChange,
   onYearChange,
   onMonthChange,
-  onAuthorChange,
+  onAuthorKeyChange,
   availableYears,
   availableMonths,
   availableAuthors,
@@ -58,7 +55,7 @@ export default function FilterBar({
   const [authorDropdownOpen, setAuthorDropdownOpen] = useState(false);
   const authorDropdownRef = useRef<HTMLDivElement>(null);
 
-  const selectedAuthorData = availableAuthors.find(a => a.name === selectedAuthor);
+  const selectedAuthorData = availableAuthors.find((author) => author.key === selectedAuthorKey);
 
   useEffect(() => {
     const handleClickOutside = (e: MouseEvent) => {
@@ -163,16 +160,16 @@ export default function FilterBar({
                 {authorDropdownOpen && (
                   <div className="absolute top-full left-0 mt-1 w-64 max-h-80 overflow-y-auto bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-lg z-50">
                     <button
-                      onClick={() => { onAuthorChange('all'); setAuthorDropdownOpen(false); }}
-                      className={`w-full px-3 py-2 text-left text-sm hover:bg-gray-100 dark:hover:bg-gray-700 ${selectedAuthor === 'all' ? 'bg-blue-50 dark:bg-blue-900/30' : ''}`}
+                      onClick={() => { onAuthorKeyChange('all'); setAuthorDropdownOpen(false); }}
+                      className={`w-full px-3 py-2 text-left text-sm hover:bg-gray-100 dark:hover:bg-gray-700 ${selectedAuthorKey === 'all' ? 'bg-blue-50 dark:bg-blue-900/30' : ''}`}
                     >
                       All Authors
                     </button>
                     {availableAuthors.map((author) => (
                       <button
-                        key={author.name}
-                        onClick={() => { onAuthorChange(author.name); setAuthorDropdownOpen(false); }}
-                        className={`w-full px-3 py-2 text-left text-sm hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-2 ${selectedAuthor === author.name ? 'bg-blue-50 dark:bg-blue-900/30' : ''}`}
+                        key={author.key}
+                        onClick={() => { onAuthorKeyChange(author.key); setAuthorDropdownOpen(false); }}
+                        className={`w-full px-3 py-2 text-left text-sm hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-2 ${selectedAuthorKey === author.key ? 'bg-blue-50 dark:bg-blue-900/30' : ''}`}
                       >
                         {/* eslint-disable-next-line @next/next/no-img-element */}
                         <img
@@ -191,12 +188,12 @@ export default function FilterBar({
           )}
 
           {/* Clear filters button */}
-          {(selectedYear !== 'all' || selectedMonth !== 'all' || selectedAuthor !== 'all') && (
+          {(selectedYear !== 'all' || selectedMonth !== 'all' || selectedAuthorKey !== 'all') && (
             <button
               onClick={() => {
                 onYearChange('all');
                 onMonthChange('all');
-                onAuthorChange('all');
+                onAuthorKeyChange('all');
               }}
               className="text-sm text-blue-500 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300"
             >

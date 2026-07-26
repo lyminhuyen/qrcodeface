@@ -1,7 +1,8 @@
 'use client';
 
 import { useState, useMemo, useEffect } from 'react';
-import { QRCode, Character, getCharacterName } from '@/types';
+import { getCharacterName } from '@/types';
+import type { QRCode, Character } from '@/types';
 import { useLanguage } from '@/contexts/LanguageContext';
 import Lightbox from './Lightbox';
 

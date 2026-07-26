@@ -1,7 +1,8 @@
 'use client';
 
-import { QRCode } from '@/types';
-import { preloadImages } from '@/lib/imageCache';
+import type { QRCode } from '@/types';
+import { getGalleryImages } from '@/features/gallery/lib/galleryImages';
+import { preloadImages } from '@/features/gallery/lib/imageCache';
 
 interface ImageCardProps {
   qrcode: QRCode;
@@ -9,12 +10,14 @@ interface ImageCardProps {
 }
 
 export default function ImageCard({ qrcode, onClick }: ImageCardProps) {
-  const thumbnailUrl = qrcode.images[0];
-  const isVideo = thumbnailUrl?.includes('.mp4');
+  const displayImages = getGalleryImages(qrcode);
+  const thumbnailUrl = displayImages[0]?.url;
+  const commentQRCodeCount = displayImages.filter(
+    (image) => image.source === 'author-comment'
+  ).length;
 
   const handleMouseEnter = () => {
-    const images = qrcode.images.filter(img => !img.includes('.mp4'));
-    preloadImages(images);
+    preloadImages(displayImages.map((image) => image.url));
   };
 
   return (
@@ -25,17 +28,7 @@ export default function ImageCard({ qrcode, onClick }: ImageCardProps) {
     >
       {/* Thumbnail */}
       <div className="aspect-square relative">
-        {isVideo ? (
-          <div className="w-full h-full flex items-center justify-center bg-gray-200 dark:bg-gray-700">
-            <svg
-              className="w-12 h-12 text-gray-400 dark:text-gray-500"
-              fill="currentColor"
-              viewBox="0 0 24 24"
-            >
-              <path d="M8 5v14l11-7z" />
-            </svg>
-          </div>
-        ) : thumbnailUrl ? (
+        {thumbnailUrl ? (
           /* eslint-disable-next-line @next/next/no-img-element */
           <img
             src={thumbnailUrl}
@@ -73,11 +66,19 @@ export default function ImageCard({ qrcode, onClick }: ImageCardProps) {
         </span>
       </div>
 
+      {commentQRCodeCount > 0 && (
+        <div className="absolute bottom-2 left-2">
+          <span className="px-2 py-1 text-xs font-medium bg-amber-500 text-black rounded">
+            Comment QR
+          </span>
+        </div>
+      )}
+
       {/* Image count */}
-      {qrcode.images.length > 1 && (
+      {displayImages.length > 1 && (
         <div className="absolute top-2 right-2">
           <span className="px-2 py-1 text-xs bg-black/50 text-white rounded">
-            +{qrcode.images.length - 1}
+            +{displayImages.length - 1}
           </span>
         </div>
       )}

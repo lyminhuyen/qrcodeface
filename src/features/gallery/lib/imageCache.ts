@@ -1,4 +1,4 @@
-// Global image cache - stores blob URLs
+// Gallery image cache - stores blob URLs for cards and the lightbox.
 const cache: Record<string, string> = {};
 const pending: Record<string, Promise<string>> = {};
 const listeners: Set<() => void> = new Set();

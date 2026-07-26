@@ -1,56 +1,20 @@
 'use client';
 
-import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import Menubar from '@/components/Menubar';
-import FeaturedCard from '@/components/FeaturedCard';
-import Footer from '@/components/Footer';
+import Menubar from '@/components/layout/Menubar';
+import FeaturedCard from '@/features/gallery/components/FeaturedCard';
+import Footer from '@/components/layout/Footer';
 import charactersData from '@/data/characters.json';
-import { QRCode, QRCodesData, CharactersData } from '@/types';
+import newestData from '@/data/generated/newest.json';
+import statsData from '@/data/generated/stats.json';
+import { QRCodesData, CharactersData } from '@/types';
 import { useLanguage } from '@/contexts/LanguageContext';
-
-// Cache for loaded data
-const dataCache: Record<string, QRCode[]> = {};
 
 export default function Home() {
   const { t } = useLanguage();
   const characters = (charactersData as CharactersData).characters;
-  const [qrcodes, setQrcodes] = useState<QRCode[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
-
-  // Load newest data from all characters
-  useEffect(() => {
-    const loadData = async () => {
-      if (dataCache['__home__']) {
-        setQrcodes(dataCache['__home__']);
-        setIsLoading(false);
-        return;
-      }
-
-      const allQrcodes: QRCode[] = [];
-      const charsWithData = characters;
-
-      const promises = charsWithData.map(async (char) => {
-        try {
-          const data: QRCodesData = await import(`@/data/qrcodes/${char.id}.json`);
-          return data.qrcodes || [];
-        } catch {
-          return [];
-        }
-      });
-
-      const results = await Promise.all(promises);
-      results.forEach(data => allQrcodes.push(...data));
-
-      // Sort by createTime DESC
-      const sorted = allQrcodes.sort((a, b) => b.createTime - a.createTime);
-      dataCache['__home__'] = sorted;
-      setQrcodes(sorted);
-      setIsLoading(false);
-    };
-
-    loadData();
-  }, [characters]);
+  const qrcodes = (newestData as QRCodesData).qrcodes;
+  const stats = statsData as { totalCount: number; dayCount: number };
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-50 via-white to-blue-50 dark:from-gray-950 dark:via-gray-950 dark:to-gray-900">
@@ -87,7 +51,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto grid grid-cols-3 gap-4 text-center">
           <div className="p-4 bg-white/50 dark:bg-white/5 rounded-xl backdrop-blur">
             <p className="text-3xl font-bold text-purple-600 dark:text-purple-400">
-              {qrcodes.length}
+              {stats.totalCount}
             </p>
             <p className="text-sm text-gray-600 dark:text-gray-400">{t('stats.qrcodes')}</p>
           </div>
@@ -99,7 +63,7 @@ export default function Home() {
           </div>
           <div className="p-4 bg-white/50 dark:bg-white/5 rounded-xl backdrop-blur">
             <p className="text-3xl font-bold text-green-600 dark:text-green-400">
-              {new Set(qrcodes.map(q => q.createDate)).size}
+              {stats.dayCount}
             </p>
             <p className="text-sm text-gray-600 dark:text-gray-400">{t('stats.days')}</p>
           </div>
@@ -108,19 +72,7 @@ export default function Home() {
 
       {/* Featured */}
       <section className="py-12 px-4">
-        {isLoading ? (
-          <div className="w-full max-w-4xl mx-auto px-4 text-center py-12">
-            <div className="inline-flex items-center gap-2 text-gray-500 dark:text-gray-400">
-              <svg className="w-6 h-6 animate-spin" fill="none" viewBox="0 0 24 24">
-                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
-                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z" />
-              </svg>
-              Loading...
-            </div>
-          </div>
-        ) : (
-          <FeaturedCard qrcodes={qrcodes} characters={characters} />
-        )}
+        <FeaturedCard qrcodes={qrcodes} characters={characters} />
       </section>
 
       <Footer />
