@@ -1,8 +1,76 @@
 {
-  "lastUpdated": "2026-07-27T06:01:30.327Z",
+  "lastUpdated": "2026-07-28T05:25:22.256Z",
   "source": "天海捏脸",
-  "totalCount": 617,
+  "totalCount": 658,
   "qrcodes": [
+    {
+      "id": "69a921f9644126621b5056fa",
+      "createTime": 1772691957615,
+      "createDate": "2026-03-05",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260305_a3ba79bfb22a20b8ee7f3c2704a273cf",
+        "https://ok.166.net/reunionpub/1_kol_20260305_b006983f2569651be4d0c2414d0b59f3",
+        "https://ok.166.net/reunionpub/1_kol_20260305_1c1601f20aaed345bdba6f6e859239d7"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260305_27243da73633d8b754a34f186347a509",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69a91f440186943fc235a642"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260305_f81252f72db05d2b6202ca6e4cdc40dd",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69a91f440186943fc235a642"
+        }
+      ],
+      "text": "💕无偿数据分享· 天海｜效应「二十壹栈」 💕\n✨捏一点不一样的海学长~！✨\n\n💕码在最后 💕\n#永劫无间捏脸站# #天海捏脸# #永劫无间#\n\n✨数据获取方式：麻烦能给我一个三联支持！拜托啦！✨\n⚡以上为二十壹栈原创捏脸，大神独家免费数据分享，请勿二改二传，倒卖盗卖！⚡",
+      "userName": "二十壹栈",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240721_190d46a718d964457.jpeg"
+    },
+    {
+      "id": "6a13830d1c8e94302d92ca35",
+      "createTime": 1779663623337,
+      "createDate": "2026-05-24",
+      "characterId": "ning-hongye",
+      "characterName": "Viper Ning",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260525_a8b5a4cbd7d84cb648ee5fb24af0d4da",
+        "https://ok.166.net/reunionpub/1_kol_20260525_a1346569e0b7cf4f41a7d67c48420e3b",
+        "https://ok.166.net/reunionpub/1_kol_20260525_26017a94f5a3880fa3411a020b50ee0d",
+        "https://ok.166.net/reunionpub/1_kol_20260525_53a09de9f2f41bf54162364454577f55",
+        "https://ok.166.net/reunionpub/1_kol_20260525_e4defdb8811c4baf781c27b6fe8dbed5",
+        "https://ok.166.net/reunionpub/1_kol_20260525_bb6fcca4790ea4729a63c9fe7ee60c85",
+        "https://ok.166.net/reunionpub/1_kol_20260525_f250f26189fed0a8d312c65ba30099d3",
+        "https://ok.166.net/reunionpub/1_kol_20260525_18cdf9fa1f1448d9a1f37e537d2062ba",
+        "https://ok.166.net/reunionpub/1_kol_20260525_15e048e7c693314f539f0d1d5eb0a376"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260525_24c49e7544968fe69f88f29c0f62b66a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a1381f0745ea9544bb9b659"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260525_8d5396bb5643f3b4ddc284e74a0cf751",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a1381af0186943fc2430427"
+        }
+      ],
+      "text": "#永劫无间 #永劫无间捏脸 #逆战暴王 #张起灵捏脸 #宁红夜捏脸 #沈妙捏脸 #天海捏脸 #特木尔捏脸 #季沧海捏脸  #土御门胡桃捏脸  #崔三娘捏脸 #补档\n\n#逆战暴王\n#逆战暴王\n#逆战暴王",
+      "userName": "逆战暴王",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260422_19db213a759713091.jpeg"
+    },
     {
       "id": "6a65aee42e3acd5e8e1f6944",
       "createTime": 1785048800966,
@@ -46,37 +114,6 @@
       "text": "#天海捏脸#",
       "userName": "小豫我们走",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240921_192131a89bd541930.jpeg"
-    },
-    {
-      "id": "69a921f9644126621b5056fa",
-      "createTime": 1772691957615,
-      "createDate": "2026-03-05",
-      "characterId": "tianhai",
-      "characterName": "Tianhai",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260305_a3ba79bfb22a20b8ee7f3c2704a273cf",
-        "https://ok.166.net/reunionpub/1_kol_20260305_b006983f2569651be4d0c2414d0b59f3",
-        "https://ok.166.net/reunionpub/1_kol_20260305_1c1601f20aaed345bdba6f6e859239d7"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸码",
-          "imgBtn": "导入同款捏脸作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260305_27243da73633d8b754a34f186347a509",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69a91f440186943fc235a642"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260305_f81252f72db05d2b6202ca6e4cdc40dd",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69a91f440186943fc235a642"
-        }
-      ],
-      "text": "💕无偿数据分享· 天海｜效应「二十壹栈」 💕\n✨捏一点不一样的海学长~！✨\n\n💕码在最后 💕\n#永劫无间捏脸站# #天海捏脸# #永劫无间#\n\n✨数据获取方式：麻烦能给我一个三联支持！拜托啦！✨\n⚡以上为二十壹栈原创捏脸，大神独家免费数据分享，请勿二改二传，倒卖盗卖！⚡",
-      "userName": "二十壹栈",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240721_190d46a718d964457.jpeg"
     },
     {
       "id": "69ccac38b556d4040712967b",
@@ -502,43 +539,6 @@
       "text": "#永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：\n捏脸码：",
       "userName": "依董液雨",
       "userAvatar": "https://ok.166.net/reunionpub/3_20211023_17ca9989e5d807134.jpeg"
-    },
-    {
-      "id": "6a13830d1c8e94302d92ca35",
-      "createTime": 1779663623337,
-      "createDate": "2026-05-24",
-      "characterId": "ning-hongye",
-      "characterName": "Viper Ning",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260525_a8b5a4cbd7d84cb648ee5fb24af0d4da",
-        "https://ok.166.net/reunionpub/1_kol_20260525_a1346569e0b7cf4f41a7d67c48420e3b",
-        "https://ok.166.net/reunionpub/1_kol_20260525_26017a94f5a3880fa3411a020b50ee0d",
-        "https://ok.166.net/reunionpub/1_kol_20260525_53a09de9f2f41bf54162364454577f55",
-        "https://ok.166.net/reunionpub/1_kol_20260525_e4defdb8811c4baf781c27b6fe8dbed5",
-        "https://ok.166.net/reunionpub/1_kol_20260525_bb6fcca4790ea4729a63c9fe7ee60c85",
-        "https://ok.166.net/reunionpub/1_kol_20260525_f250f26189fed0a8d312c65ba30099d3",
-        "https://ok.166.net/reunionpub/1_kol_20260525_18cdf9fa1f1448d9a1f37e537d2062ba",
-        "https://ok.166.net/reunionpub/1_kol_20260525_15e048e7c693314f539f0d1d5eb0a376"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸/影棚码",
-          "imgBtn": "导入同款捏脸/影棚作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260525_24c49e7544968fe69f88f29c0f62b66a",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a1381f0745ea9544bb9b659"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260525_8d5396bb5643f3b4ddc284e74a0cf751",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a1381af0186943fc2430427"
-        }
-      ],
-      "text": "#永劫无间 #永劫无间捏脸 #逆战暴王 #张起灵捏脸 #宁红夜捏脸 #沈妙捏脸 #天海捏脸 #特木尔捏脸 #季沧海捏脸  #土御门胡桃捏脸  #崔三娘捏脸 #补档\n\n#逆战暴王\n#逆战暴王\n#逆战暴王",
-      "userName": "逆战暴王",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260422_19db213a759713091.jpeg"
     },
     {
       "id": "6a137deb94aa4132004f9a54",
@@ -5290,7 +5290,7 @@
       "qrCodes": [],
       "text": "#天海捏脸#",
       "userName": "于娇然",
-      "userAvatar": ""
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260727_19fa3a46465772562.jpeg"
     },
     {
       "id": "67994413e0ff6c386f56b555",
@@ -5304,7 +5304,7 @@
       "qrCodes": [],
       "text": "#永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：\n捏脸码：",
       "userName": "于娇然",
-      "userAvatar": ""
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260727_19fa3a46465772562.jpeg"
     },
     {
       "id": "67994286036b4d2c8d1a7d1a",
@@ -5319,7 +5319,7 @@
       "qrCodes": [],
       "text": "#永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：\n捏脸码：",
       "userName": "于娇然",
-      "userAvatar": ""
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260727_19fa3a46465772562.jpeg"
     },
     {
       "id": "67994108c64ee064e813412d",
@@ -5334,7 +5334,7 @@
       "qrCodes": [],
       "text": "#天海捏脸#",
       "userName": "于娇然",
-      "userAvatar": ""
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260727_19fa3a46465772562.jpeg"
     },
     {
       "id": "679940df02975a21313b702e",
@@ -5349,7 +5349,7 @@
       "qrCodes": [],
       "text": "#天海捏脸# fccjxxjxjjz",
       "userName": "于娇然",
-      "userAvatar": ""
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260727_19fa3a46465772562.jpeg"
     },
     {
       "id": "66221e05650b812eff2542c8",
@@ -8830,21 +8830,6 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20240307_18e18c0cac9201002.jpeg"
     },
     {
-      "id": "6637b409649d252eb32a7a53",
-      "createTime": 1714926601333,
-      "createDate": "2024-05-05",
-      "characterId": "tianhai",
-      "characterName": "Tianhai",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20240506_18f49954d01905795.png",
-        "https://ok.166.net/reunionpub/1_20240506_18f49954d01344802.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站# #永劫无间新皮肤捏脸# #天海捏脸# 配发型14  特别好看   😁",
-      "userName": "九夜有点困",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20220421_18047eb02a0212810.png"
-    },
-    {
       "id": "667d34ad180caf014486ea96",
       "createTime": 1719481517468,
       "createDate": "2024-06-27",
@@ -11011,6 +10996,649 @@
       "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：怪怪鱼\n设计理念：",
       "userName": "取一叶扁舟",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230423_187aa573928200308.jpeg"
+    },
+    {
+      "id": "65fdbf0e73e9c97bcd420fe0",
+      "createTime": 1711128334508,
+      "createDate": "2024-03-22",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240323_18e67324229593862.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "师  大佛实在是太师了[表情97]#天海捏脸#",
+      "userName": "小婚大王",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251214_19b1c9bf099850272.jpeg"
+    },
+    {
+      "id": "660942b69c7ecc1358e1610e",
+      "createTime": 1711882934334,
+      "createDate": "2024-03-31",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240331_18e942ad9a6844032.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：",
+      "userName": "悲喜oh",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240408_18ebb91566a435110.jpeg"
+    },
+    {
+      "id": "6609063f9c7ecc1358e00cf5",
+      "createTime": 1711867455013,
+      "createDate": "2024-03-31",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240331_18e933d2793115605.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：光明圣王",
+      "userName": "东乄君",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240330_18e8f77bf8b422028.jpeg"
+    },
+    {
+      "id": "6608d171dd428b369b828756",
+      "createTime": 1711853937213,
+      "createDate": "2024-03-31",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240331_18e927217f1691515.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#天海捏脸#",
+      "userName": "游戏玩家93352718_20260626",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240310_18e265d4564717054.jpeg"
+    },
+    {
+      "id": "66082a61e7e7ae0f7fa8c889",
+      "createTime": 1711811169351,
+      "createDate": "2024-03-30",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240330_18e8fe58122420036.png"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：神威\n设计理念：以观摩而创作",
+      "userName": "游戏玩家68969952",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240704_1907be2bcad330591.jpeg"
+    },
+    {
+      "id": "6607ffb3e7e7ae0f7fa8a0a6",
+      "createTime": 1711800243460,
+      "createDate": "2024-03-30",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240330_18e8f350409286162.jpeg",
+        "https://ok.166.net/reunionpub/1_20240330_18e8f350409116154.png",
+        "https://ok.166.net/reunionpub/1_20240330_18e8f350409428945.png"
+      ],
+      "qrCodes": [],
+      "text": "我看天海大师也是风韵犹存呐\n\n#天海捏脸# #永劫无间捏脸站# #永劫无间#",
+      "userName": "小予oxo",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231102_18b901b44b2676846.png"
+    },
+    {
+      "id": "65ddea5cb74ac563b44927a4",
+      "createTime": 1709042268911,
+      "createDate": "2024-02-27",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240227_18deadb6f61109482.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：",
+      "userName": "游戏玩家32406003",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240118_18d1c5de014746239.jpeg"
+    },
+    {
+      "id": "6607a792b3f3f37d8bd22d66",
+      "createTime": 1711777682484,
+      "createDate": "2024-03-30",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240330_18e8de3257f188108.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：",
+      "userName": "贾一亿i",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231222_18c90a18847515219.jpeg"
+    },
+    {
+      "id": "65296895348c4b0001152d3f",
+      "createTime": 1697212565633,
+      "createDate": "2023-10-13",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20231013/235512-cy2qspa1r4.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231013/235515-rjv0dphtzi.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231013/235519-qh89goep47.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231013/235523-asfsu7lt58.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231013/235526-pdsn56hc81.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231013/235530-ga6vftyw9n.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231013/235532-qh0lk36ntd.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "记忆原创 | 【天海捏脸｜呆贼】\n10.13🔥大神福利捏脸专享 \n----MT里的小呆贼，居然想起了这个\n\n⭐【获取和导入方法】：\n原创不易，喜欢的别忘了【点赞+评论+关注】自取\n大神app扫码一键导入查询UP主精神状态：\n找到捏脸数据图-长按识别一键导入至游戏(游戏捏脸栏留一个空位）\n\n⭐大神周年庆专属折扣商城（周年庆商城更新）：https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq\n\n#永劫无间捏脸站# #天海捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "65ff10992e838a790765c869",
+      "createTime": 1711214745286,
+      "createDate": "2024-03-23",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240324_18e6c58ce8b283223.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：社会大哥\n设计理念：",
+      "userName": "时舒翔111",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240131_18d5f9ddba6263988.jpeg"
+    },
+    {
+      "id": "660703c09c7ecc1358d550be",
+      "createTime": 1711735744067,
+      "createDate": "2024-03-29",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240330_18e8b669338272067.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：",
+      "userName": "邬唯宇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230601_18874fba60f767641.jpeg"
+    },
+    {
+      "id": "6606f493b3f3f37d8bd1b4e0",
+      "createTime": 1711731859237,
+      "createDate": "2024-03-29",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240330_18e8b2b3fe1120179.jpeg",
+        "https://ok.166.net/reunionpub/1_20240330_18e8b2b3fe1167366.jpeg",
+        "https://ok.166.net/reunionpub/1_20240330_18e8b2b3fe1840168.jpeg",
+        "https://ok.166.net/reunionpub/1_20240330_18e8b2b3fe1303585.jpeg",
+        "https://ok.166.net/reunionpub/1_20240330_18e8b2b3fe1912776.jpeg",
+        "https://ok.166.net/reunionpub/1_20240330_18e8b2b3fe1478172.jpeg",
+        "https://ok.166.net/reunionpub/1_20240330_18e8b2b3fe1674547.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：",
+      "userName": "绯弹圣地亚哥",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241005_1925bdf67da418050.jpeg"
+    },
+    {
+      "id": "6605c5b3d4ecb0767aaf0c7b",
+      "createTime": 1711654323457,
+      "createDate": "2024-03-28",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240329_18e867b69ff658649.jpeg",
+        "https://ok.166.net/reunionpub/1_20240329_18e867b69ff524773.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站# #法海捏脸# #天海捏脸#",
+      "userName": "孙阳Sunny_20260605",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240201_18d6123218b409471.jpeg"
+    },
+    {
+      "id": "660594d463468c09e1cd8eee",
+      "createTime": 1711641812077,
+      "createDate": "2024-03-28",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240329_18e85cd509d560055.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "豆丁专属捏脸#天海捏脸#",
+      "userName": "豆丁玩游戏",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240329_18e85e001b7158610.jpeg"
+    },
+    {
+      "id": "65ec0b4d25e21f6ae3ba6ce8",
+      "createTime": 1709968205825,
+      "createDate": "2024-03-09",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240309_18e220304f8155652.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：",
+      "userName": "彭先高",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230828_18a38df01a7211868.jpeg"
+    },
+    {
+      "id": "64b7b128089c3c00011737ce",
+      "createTime": 1689760040012,
+      "createDate": "2023-07-19",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20230719_1896d8bf6b3684648.png"
+      ],
+      "qrCodes": [],
+      "text": "#天海捏脸# 谁知道这个捏脸鸭",
+      "userName": "顺顺的幸运机制",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230709_189391a3e32610037.png"
+    },
+    {
+      "id": "6600c94f2e838a790766ddc6",
+      "createTime": 1711327567531,
+      "createDate": "2024-03-25",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240325_18e72d6e8e5392773.png"
+      ],
+      "qrCodes": [],
+      "text": "#天海捏脸#",
+      "userName": "游戏玩家22832500",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240129_18d5409cc4b615121.png"
+    },
+    {
+      "id": "64dd4c670973550001dfa275",
+      "createTime": 1692224615762,
+      "createDate": "2023-08-16",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20230817_18a00726993707850.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "谁看了我的天海不夸一句可爱呢？#永劫无间捏脸站# #观山海捏脸# #天海捏脸#",
+      "userName": "森林兔子benerbener",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231017_18b39657ae6859195.jpeg"
+    },
+    {
+      "id": "612d1cf2663cd60001b167b8",
+      "createTime": 1630346482541,
+      "createDate": "2021-08-30",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20210831_17b98390ca2104726.jpeg",
+        "https://ok.166.net/reunionpub/1_20210831_17b98390ca2273221.jpeg",
+        "https://ok.166.net/reunionpub/1_20210831_17b98390ca3604002.jpeg",
+        "https://ok.166.net/reunionpub/1_20210831_17b98390ca3844407.jpeg",
+        "https://ok.166.net/reunionpub/1_20210831_17b98390ca3805222.jpeg",
+        "https://ok.166.net/reunionpub/1_20210831_17b98390ca3915838.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #天海捏脸# #天海# 少年歌行，无心，仿脸，大神分享的，太帅了",
+      "userName": "百禾利谷",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20210826_17b7e61e85c330237.jpeg"
+    },
+    {
+      "id": "63282c64b3801c0001e560d7",
+      "createTime": 1663577188404,
+      "createDate": "2022-09-19",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20220919_18354ed615d442689.png",
+        "https://ok.166.net/reunionpub/1_20220919_18354ed615e675824.png",
+        "https://ok.166.net/reunionpub/1_20220919_18354ed615e990376.png"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：无心\n设计理念：少年歌行无心小和尚",
+      "userName": "蒋小卿",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230225_186876ae656974921.jpeg"
+    },
+    {
+      "id": "65ffc04063468c09e1c9d15a",
+      "createTime": 1711259712299,
+      "createDate": "2024-03-24",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240324_18e6f06ee91463141.png"
+      ],
+      "qrCodes": [],
+      "text": "天海小猪脸#天海捏脸#",
+      "userName": "豆丁玩游戏",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240329_18e85e001b7158610.jpeg"
+    },
+    {
+      "id": "6540da0fef709400018eb82f",
+      "createTime": 1698748943504,
+      "createDate": "2023-10-31",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20231031_18b8553bfb2152118.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#天海捏脸# 求一下这个捏脸，太帅了，真佛",
+      "userName": "谷吉千玉",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250705_197db50bba0565497.png"
+    },
+    {
+      "id": "65fe7674d7b80a3cff8835ab",
+      "createTime": 1711175284345,
+      "createDate": "2024-03-23",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240323_18e69fe8230447481.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：",
+      "userName": "荆州征东军",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241004_192533a3a8c339494.jpeg"
+    },
+    {
+      "id": "624a5f35849ee20001752a44",
+      "createTime": 1649041205041,
+      "createDate": "2022-04-04",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20220404/100153-k3f05qgdby.png",
+        "https://ok.166.net/reunionpub/ds/kol/20220404/100155-25aon9vp8z.png",
+        "https://ok.166.net/reunionpub/ds/kol/20220404/100210-4ceyls2gkd.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20220404/100222-6ds7nvkpe8.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20220404/100226-qf97n08kp2.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20220404/100227-gmy6s3qo84.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20220404/100333-1urn83svw6.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20220404/100334-3folqg6dzr.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20220404/100334-gs1rm7ijat.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "【今日🌹免费福利】天海-乾\n你们要的美人儿... 咳咳.. 她.. 他来了............🤦😂\n🙋请点个赞+个关注吧~💓\n💓不定时更新有偿和无偿捏脸，全部都能在专栏查看哦😘\n~*~*~*~*~*~~*~*~*~*~*~*~\n\n✨图1/2自取即可，识别不到的小伙伴把原图二维码放大120-150%再另行截图存为png格式就好（手机容易压缩画质）\n✨推荐发色号码在图上已标~\n\n🔥捏脸数据为大神平台独发，数据受大神官方保护，未经授权不得转载任何平台，原创不易，禁止任何形式的二传二改倒卖商用行为，违者追究到底。\n\n#永劫无间捏脸站##天海捏脸##永劫无间双马尾#",
+      "userName": "一隻哒哒捏脸",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20220902_182fba562a5105514.png"
+    },
+    {
+      "id": "6395efe7c5a3250001d089c5",
+      "createTime": 1670770663587,
+      "createDate": "2022-12-11",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20221211/225551-5wcstkyl0r.png",
+        "https://ok.166.net/reunionpub/ds/kol/20221211/225559-5gp612mceq.png",
+        "https://ok.166.net/reunionpub/ds/kol/20221211/225611-k9wz2psej3.png",
+        "https://ok.166.net/reunionpub/ds/kol/20221211/225636-sdw427oafy.png",
+        "https://ok.166.net/reunionpub/ds/kol/20221211/225652-fbewou2qs7.png",
+        "https://ok.166.net/reunionpub/ds/kol/20221211/225707-3rqds501p8.png"
+      ],
+      "qrCodes": [],
+      "text": "天海黑皮《金莲》！\n✨捏脸数据在最后一张✨\n哈哈哈，有点小懒没写什么文案，如果刚好这个捏脸能戳到你的心巴，就送我个三连吧！感谢！\n#永劫无间# #永劫无间捏脸站##天海捏脸#\n捏脸数据在动态里自取哦，喜欢的小伙伴请点赞+评论+转发+关注支持一下我呗！\n换脸方法：点击最后一张图片保存后单独将二维码截图出来保存然后在游戏里易容-右下角导入本地图片就好啦😊\n捏脸码不能用以及不会换脸点这里↓\n导入捏脸详细教程→：https://ds.163.com/article/635622840c8dc60001e632d7/\n发布日期：12月11日【@式丶小佑 原创】",
+      "userName": "式丶小佑",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240311_18e2c7df76f150547.jpeg"
+    },
+    {
+      "id": "652e85932d41e600013132cc",
+      "createTime": 1697547667157,
+      "createDate": "2023-10-17",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20231017/205637-b4olu23zpj.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231017/205642-2nicbhvrk0.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231017/205646-ksaf96byj5.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231017/205657-0oyd7mnwbz.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231017/205703-npt6z29yc4.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231017/205705-iw1pfa8osz.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231017/205714-soeumifda6.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20231017/205717-c7tgmfoybk.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "记忆原创 | 【天海捏脸｜酒肉和尚】\n10.17🔥大神福利捏脸专享 \n----这就是捏脸的快乐\n\n⭐【获取和导入方法】：\n原创不易，喜欢的别忘了【点赞+评论+关注】自取\n大神app扫码一键导入查询UP主精神状态：\n找到捏脸数据图-长按识别一键导入至游戏(游戏捏脸栏留一个空位）\n\n⭐大神周年庆专属折扣商城（周年庆商城更新）：https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq\n\n#永劫无间捏脸站# #天海捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "6597e74c46172f0001d4ee78",
+      "createTime": 1704453964756,
+      "createDate": "2024-01-05",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240105/185029-wilefmsvos.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240105/185031-mtsfn79vu0.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240105/185053-sfhvjgd9wm.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240105/185057-kqpr3j9v60.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240105/185103-wrpeuv9ifk.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240105/185104-2y8nr5cdam.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240105/185112-src7v1i3s0.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "记忆无偿捏脸 | 天海x神掌八打\n1.5🔥大神福利捏脸专享 \n----天海和季莹莹的武术动作太酷了\n\n⭐【获取和导入方法】：\n原创不易，喜欢的别忘了《点赞+评论+关注》自取\n第三张图就是捏脸数据-长按识别一键导入即可\n\n⭐大神专属折扣商城：https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq\n\n#永劫无间捏脸站# #天海捏脸# #永劫新皮肤捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "65fbd8b473e9c97bcd38320a",
+      "createTime": 1711003828540,
+      "createDate": "2024-03-21",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240321_18e5fc67176164103.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：",
+      "userName": "小斌很忙哦",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240320_18e5b6b89ba857647.png"
+    },
+    {
+      "id": "65fac90bd4ecb0767a75a0e5",
+      "createTime": 1710934283817,
+      "createDate": "2024-03-20",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240320_18e5ba14de6431146.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：",
+      "userName": "为情所困123444",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240312_18e3258d1c3664085.jpeg"
+    },
+    {
+      "id": "65f5b58425e21f6ae3bfe228",
+      "createTime": 1710601604355,
+      "createDate": "2024-03-16",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240316_18e47ccff02378394.jpeg",
+        "https://ok.166.net/reunionpub/1_20240316_18e47ccff02626920.jpeg",
+        "https://ok.166.net/reunionpub/1_20240316_18e47ccff03875004.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：哥布林大师",
+      "userName": "时山倾城樱",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231127_18c0f63c3c2675305.png"
+    },
+    {
+      "id": "65ede259d7b80a3cff49f6eb",
+      "createTime": 1710088793157,
+      "createDate": "2024-03-10",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240311_18e293c2214257224.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#天海捏脸# 季莹莹",
+      "userName": "起跳滞空给火球",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240222_18dd12eb172721658.jpeg"
+    },
+    {
+      "id": "65f592405cf3f23611bff059",
+      "createTime": 1710592576989,
+      "createDate": "2024-03-16",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240316_18e47433be9659532.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：",
+      "userName": "中原小巷",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240207_18d83fe31ad980592.png"
+    },
+    {
+      "id": "657c531d6864d1000175d75c",
+      "createTime": 1702646557291,
+      "createDate": "2023-12-15",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20231215_18c6da4a2f1628143.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：天海侧颜\n设计理念：帅就完事了",
+      "userName": "光I耀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20190908_16d11567a38549559.png"
+    },
+    {
+      "id": "65ede243d51eca5291b41f4a",
+      "createTime": 1710088771595,
+      "createDate": "2024-03-10",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240311_18e293bcb89260313.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#天海捏脸# 狐狸",
+      "userName": "起跳滞空给火球",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240222_18dd12eb172721658.jpeg"
+    },
+    {
+      "id": "65f7e8d72e838a7907617d51",
+      "createTime": 1710745815225,
+      "createDate": "2024-03-18",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240318_18e506577ea464679.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#天海捏脸#",
+      "userName": "游戏玩家00749478",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240118_18d1cc57e36520009.png"
+    },
+    {
+      "id": "64c27ed196695c000160559d",
+      "createTime": 1690468049834,
+      "createDate": "2023-07-27",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20230727_18997bf5ba8626623.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#天海捏脸#",
+      "userName": "LgLin",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221210_184fa3ecba7385632.jpeg"
+    },
+    {
+      "id": "65f5b5682e838a7907603eda",
+      "createTime": 1710601576170,
+      "createDate": "2024-03-16",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240316_18e47cc8fe4629326.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：邪魅\n设计理念：感觉更加容易挨揍了",
+      "userName": "Ang丿星辰彡",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240217_18db68ab5c0857490.png"
+    },
+    {
+      "id": "65f598cb2e838a7907602920",
+      "createTime": 1710594251969,
+      "createDate": "2024-03-16",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240316_18e4757c991323614.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：",
+      "userName": "神明赴东山",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240214_18da4e09ca6838704.png"
+    },
+    {
+      "id": "65d8814f25e21f6ae39d4401",
+      "createTime": 1708687695886,
+      "createDate": "2024-02-23",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/ds/kol/20240223/192611-i5k8tj2mup.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240223/192614-37w6tlu251.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240223/192621-budmqrc1i4.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240223/192626-8ssqyzvd9h.jpeg",
+        "https://ok.166.net/reunionpub/ds/kol/20240223/192630-c4a01if7er.png",
+        "https://ok.166.net/reunionpub/ds/kol/20240223/192630-i53cmrk9yp.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "【天海捏脸x雪魔】 | 大神新春活动专供\n2.23🔥记忆福利捏脸分享 \n----天海大师：珥冰是吧，我可以是任何形态\n发色:56 58 82\n\n⭐【获取和导入方法】：\n原创不易，喜欢的别忘了《点赞+评论+关注》三连支持一下\n第三张图就是捏脸数据-大神内长按识别一键导入即可\n\n⭐2024明镜赛季大神专属折扣商城：https://pay.ds.163.com/game/d90?channel=yydc_cps3.jyjycxq\n\n#永劫无间捏脸站# #天海捏脸# #捏个年味#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "65f55b5bb74ac563b480d2e6",
+      "createTime": 1710578523454,
+      "createDate": "2024-03-16",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240316_18e466ccc98340698.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：兄弟们，这个怎么能捏，帮帮忙🙏",
+      "userName": "游戏玩家56903863",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231009_18b146e1cd4341351.png"
+    },
+    {
+      "id": "65ab9c24bf6c970001482a7b",
+      "createTime": 1705745444813,
+      "createDate": "2024-01-20",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240120_18d2659dde1157710.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：魔悟空\n设计理念：天海",
+      "userName": "城夏生死灵",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240509_18f5e04d574939081.png"
+    },
+    {
+      "id": "65f45bf6d51eca5291c7ed75",
+      "createTime": 1710513142828,
+      "createDate": "2024-03-15",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240315_18e42872e70499628.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：",
+      "userName": "倪危航",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20220516_180ca7fab10399294.jpeg"
     }
   ]
 }
