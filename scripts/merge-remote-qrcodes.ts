@@ -2,26 +2,15 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { execSync } from 'child_process';
 import { fileURLToPath } from 'url';
+import { mergeQRCodeImages } from './crawler/qr-code-merge';
+import type { QRCode, QRCodesData } from '../src/types/index';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const QRCODES_DIR = path.join(__dirname, '../src/data/qrcodes');
 
-interface QRCode {
-  id: string;
-  createTime: number;
-  [key: string]: unknown;
-}
-
-interface QRCodesData {
-  lastUpdated: string;
-  source: string;
-  totalCount: number;
-  qrcodes: QRCode[];
-}
-
-async function merge() {
+async function mergeRemoteQRCodes() {
   console.log('=== Merging local and remote data ===');
 
   // Get list of JSON files
@@ -57,9 +46,17 @@ async function merge() {
       mergedMap.set(qr.id, qr);
     }
 
-    // Add/override with local (local is newer)
+    // Add local fields while preserving comment enrichment from either side.
     for (const qr of localData.qrcodes) {
-      mergedMap.set(qr.id, qr);
+      const remote = mergedMap.get(qr.id);
+      mergedMap.set(qr.id, {
+        ...remote,
+        ...qr,
+        userId: qr.userId || remote?.userId,
+        userName: qr.userName || remote?.userName,
+        userAvatar: qr.userAvatar || remote?.userAvatar,
+        qrCodes: mergeQRCodeImages(remote?.qrCodes ?? [], qr.qrCodes, false),
+      });
     }
 
     // Sort by createTime DESC
@@ -67,7 +64,7 @@ async function merge() {
 
     const output: QRCodesData = {
       lastUpdated: new Date().toISOString(),
-      source: localData.source,
+      source: localData.source ?? file.replace(/\.json$/, ''),
       totalCount: merged.length,
       qrcodes: merged,
     };
@@ -79,4 +76,4 @@ async function merge() {
   console.log('=== Merge complete ===');
 }
 
-merge().catch(console.error);
+mergeRemoteQRCodes().catch(console.error);

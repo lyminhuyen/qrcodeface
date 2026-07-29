@@ -1,33 +1,13 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
+import type { Character, QRCode, QRCodesData } from '../src/types/index';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const QRCODES_DIR = path.join(__dirname, '../src/data/qrcodes');
 const CHARACTERS_FILE = path.join(__dirname, '../src/data/characters.json');
-
-interface QRCode {
-  id: string;
-  characterId: string;
-  characterName: string;
-  text: string;
-  [key: string]: unknown;
-}
-
-interface QRCodesData {
-  lastUpdated: string;
-  source: string;
-  totalCount: number;
-  qrcodes: QRCode[];
-}
-
-interface Character {
-  id: string;
-  names: { en: string; zh: string; vi: string };
-  topicTag: string | null;
-}
 
 // Load characters
 const characters: Character[] = JSON.parse(fs.readFileSync(CHARACTERS_FILE, 'utf-8')).characters;
@@ -117,9 +97,7 @@ async function reprocess() {
     for (const qr of existingDiverse) mergedMap.set(qr.id, qr);
     for (const qr of diverseQrcodes) mergedMap.set(qr.id, qr);
 
-    const merged = Array.from(mergedMap.values()).sort((a, b) =>
-      (b as any).createTime - (a as any).createTime
-    );
+    const merged = Array.from(mergedMap.values()).sort((a, b) => b.createTime - a.createTime);
 
     const diverseData: QRCodesData = {
       lastUpdated: new Date().toISOString(),
