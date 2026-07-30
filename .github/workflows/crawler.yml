@@ -1,9 +1,31 @@
-name: Auto Crawl QRCodes
+name: Background QRCode Crawler
 
 on:
   schedule:
     - cron: '0 2 * * *'  # 2:00 AM UTC daily (9:00 AM Vietnam)
-  workflow_dispatch:      # Manual trigger
+  workflow_dispatch:
+    inputs:
+      profile:
+        description: Auto uses monthly mode on day 1; otherwise daily
+        required: false
+        default: auto
+        type: choice
+        options:
+          - auto
+          - daily
+          - monthly
+      feed_id:
+        description: Optional DS163 feed ID; runs only single-feed recovery
+        required: false
+        type: string
+      user_id:
+        description: Optional DS163 user ID; runs only single-author refresh
+        required: false
+        type: string
+
+concurrency:
+  group: qrcode-background-crawler
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -27,16 +49,34 @@ jobs:
       - name: Create logs directory
         run: mkdir -p logs
 
-      - name: Run crawler
-        run: npm run crawl:all
+      - name: Run background crawler
+        run: npm run crawl:background
         env:
+          CRAWL_PROFILE: ${{ inputs.profile }}
+          DS163_FEED_ID: ${{ inputs.feed_id }}
+          DS163_USER_ID: ${{ inputs.user_id }}
           MAX_SCROLL: '50'
           CRAWL_DELAY: '10000'
+          AUTHOR_BATCH_SIZE: '10'
+          AUTHOR_MAX_SCROLL: '15'
+          AUTHOR_CRAWL_DELAY: '5000'
+          AUTHOR_LOOKBACK_DAYS: '180'
+          COMMENT_LOOKBACK_DAYS: '45'
+          COMMENT_MAX_POSTS: '5'
+
+      - name: Upload crawler logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: crawler-logs-${{ github.run_id }}
+          path: logs/
+          if-no-files-found: warn
+          retention-days: 7
 
       - name: Check for changes
         id: changes
         run: |
-          git add src/data/qrcodes/
+          git add src/data/qrcodes/ src/data/generated/
           if git diff --staged --quiet; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
@@ -48,6 +88,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: Auto-update QRCode data [skip ci]"
+          git commit -m "chore: Update background crawler data [skip ci]"
           git pull --rebase origin main
           git push
