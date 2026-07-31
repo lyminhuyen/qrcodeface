@@ -10,6 +10,67 @@ const __dirname = path.dirname(__filename);
 
 const QRCODES_DIR = path.join(__dirname, '../src/data/qrcodes');
 
+interface QRCodeOccurrence {
+  file: string;
+  qrcode: QRCode;
+}
+
+function mergeDuplicateRecords(occurrences: QRCodeOccurrence[], keeper: QRCodeOccurrence): QRCode {
+  return occurrences.reduce<QRCode>((merged, occurrence) => ({
+    ...occurrence.qrcode,
+    ...merged,
+    userId: merged.userId || occurrence.qrcode.userId,
+    userName: merged.userName || occurrence.qrcode.userName,
+    userAvatar: merged.userAvatar || occurrence.qrcode.userAvatar,
+    qrCodes: mergeQRCodeImages(occurrence.qrcode.qrCodes, merged.qrCodes, false),
+  }), keeper.qrcode);
+}
+
+function deduplicateAcrossShards(files: string[]): number {
+  const shards = new Map(
+    files.map((file) => [
+      file,
+      JSON.parse(fs.readFileSync(path.join(QRCODES_DIR, file), 'utf8')) as QRCodesData,
+    ])
+  );
+  const occurrencesById = new Map<string, QRCodeOccurrence[]>();
+
+  for (const [file, shard] of shards) {
+    for (const qrcode of shard.qrcodes) {
+      const occurrences = occurrencesById.get(qrcode.id) ?? [];
+      occurrences.push({ file, qrcode });
+      occurrencesById.set(qrcode.id, occurrences);
+    }
+  }
+
+  const keepers = new Map<string, QRCodeOccurrence>();
+  for (const [id, occurrences] of occurrencesById) {
+    if (occurrences.length < 2) continue;
+    const keeper =
+      occurrences.find(({ file, qrcode }) => file === `${qrcode.characterId}.json`) ??
+      occurrences.find(({ file }) => file === 'diverse.json') ??
+      occurrences[0];
+    keepers.set(id, { ...keeper, qrcode: mergeDuplicateRecords(occurrences, keeper) });
+  }
+
+  if (keepers.size === 0) return 0;
+  const now = new Date().toISOString();
+  for (const [file, shard] of shards) {
+    const qrcodes = shard.qrcodes
+      .filter((qrcode) => !keepers.has(qrcode.id) || keepers.get(qrcode.id)!.file === file)
+      .map((qrcode) => keepers.get(qrcode.id)?.qrcode ?? qrcode)
+      .sort((a, b) => b.createTime - a.createTime);
+    if (qrcodes.length === shard.qrcodes.length && JSON.stringify(qrcodes) === JSON.stringify(shard.qrcodes)) {
+      continue;
+    }
+    fs.writeFileSync(
+      path.join(QRCODES_DIR, file),
+      JSON.stringify({ ...shard, lastUpdated: now, totalCount: qrcodes.length, qrcodes }, null, 2)
+    );
+  }
+  return keepers.size;
+}
+
 async function mergeRemoteQRCodes() {
   console.log('=== Merging local and remote data ===');
 
@@ -72,6 +133,9 @@ async function mergeRemoteQRCodes() {
     fs.writeFileSync(filePath, JSON.stringify(output, null, 2));
     console.log(`${file}: ${remoteData!.qrcodes.length} remote + ${localData.qrcodes.length} local → ${merged.length} merged`);
   }
+
+  const deduplicated = deduplicateAcrossShards(files);
+  console.log(`Removed cross-shard duplicates for ${deduplicated} QRCode IDs`);
 
   console.log('=== Merge complete ===');
 }

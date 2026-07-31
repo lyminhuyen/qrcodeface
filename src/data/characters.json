@@ -134,6 +134,11 @@
       "topicTag": "甘璇捏脸"
     },
     {
+      "id": "ye-xiu",
+      "names": { "en": "Ye Xiu", "zh": "叶修", "vi": "Diệp Tu" },
+      "topicTag": "叶修捏脸"
+    },
+    {
       "id": "diverse",
       "names": { "en": "Diverse", "zh": "多样", "vi": "Đa dạng" },
       "topicTag": null

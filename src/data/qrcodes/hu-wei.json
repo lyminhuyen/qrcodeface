@@ -1,8 +1,551 @@
 {
-  "lastUpdated": "2026-07-16T15:53:24.617Z",
+  "lastUpdated": "2026-08-01T01:09:22.925Z",
   "source": "胡为捏脸",
-  "totalCount": 654,
+  "totalCount": 681,
   "qrcodes": [
+    {
+      "id": "6a65e9ec73afc131b7298fac",
+      "createTime": 1785063914678,
+      "createDate": "2026-07-26",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260726_19f9e19bae6527215.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=68a82166abf4545f27231c6a"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#胡为捏脸#",
+      "userName": "莆桃",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250120_194841169b4532287.jpeg"
+    },
+    {
+      "id": "6a65e96a0e171b2e0fa05690",
+      "createTime": 1785063784562,
+      "createDate": "2026-07-26",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260726_19f9e17be65582868.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=695fbff782b7416f9a22716e"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#胡为捏脸#",
+      "userName": "莆桃",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250120_194841169b4532287.jpeg"
+    },
+    {
+      "id": "6a606a63b605aa707c8ac683",
+      "createTime": 1784703582572,
+      "createDate": "2026-07-22",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260722_dac09a2c36212b1a397936f22e29020b",
+        "https://ok.166.net/reunionpub/1_kol_20260722_0bf5d2eb905615c6854bde2506504145"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260722_5d7497385a151b7f755dc94dc40365fb",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a6069ff0186943fc24eb7ea"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260722_96c0ef5e6a68233f59d17222e97720ef",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a6069ff0186943fc24eb7ea"
+        }
+      ],
+      "text": "后室（永劫版）海盗克拉克来袭！\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #后室# #胡为捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
+    {
+      "id": "6a5dcea124ac520a817cabb3",
+      "createTime": 1784532639384,
+      "createDate": "2026-07-20",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260720_19f7e6f1d6c599821.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#胡为捏脸#",
+      "userName": "集梦诗",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260121_19bdf7a4f03333096.jpeg"
+    },
+    {
+      "id": "6a5dce8e88914632e08b84e6",
+      "createTime": 1784532619798,
+      "createDate": "2026-07-20",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260720_19f7e6ed015961405.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#胡为捏脸#",
+      "userName": "集梦诗",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260121_19bdf7a4f03333096.jpeg"
+    },
+    {
+      "id": "6a5a8295923dd0287cf06370",
+      "createTime": 1784316563780,
+      "createDate": "2026-07-17",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260718_19f718e0c01254671.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1784316561.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=672d8eb03ad66b35d4714915",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#胡为捏脸#",
+      "userName": "I跳跳虎u",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240722_190da12cad6505239.jpeg"
+    },
+    {
+      "id": "6a5a827bbb48da1d62b3c9fd",
+      "createTime": 1784316537884,
+      "createDate": "2026-07-17",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260718_19f718da7b4133560.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1784316535.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6916c4f84bb4c4320c4e1160",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#胡为捏脸#",
+      "userName": "I跳跳虎u",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240722_190da12cad6505239.jpeg"
+    },
+    {
+      "id": "6a52474020356f5d97868a72",
+      "createTime": 1783777086446,
+      "createDate": "2026-07-11",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260711_19f51664474861574.jpeg",
+        "https://ok.166.net/reunionpub/1_20260711_19f51664474532695.png",
+        "https://ok.166.net/reunionpub/1_20260711_19f51664474235505.png"
+      ],
+      "qrCodes": [],
+      "text": "附赠二维码#永劫无间捏脸站# #胡为捏脸# #捏脸上大神# #永劫无间四周年#",
+      "userName": "COT老虎",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231218_18c7d765d81748647.jpeg"
+    },
+    {
+      "id": "6a4dd61580016425a0f09770",
+      "createTime": 1783485972176,
+      "createDate": "2026-07-08",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260708_19f400c3d0b703869.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "lkinsjns",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250920_19962f2e505101802.jpeg"
+    },
+    {
+      "id": "6a4b198d4fc2346c4b1a9472",
+      "createTime": 1783306635796,
+      "createDate": "2026-07-06",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260706_19f355bc744915024.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家77297656",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250509_196b5a48856604302.jpeg"
+    },
+    {
+      "id": "6a4a8235b605aa707c64ed02",
+      "createTime": 1783267889404,
+      "createDate": "2026-07-05",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260706_19f330c877c150746.jpeg",
+        "https://ok.166.net/reunionpub/1_20260706_19f330c877c521619.jpeg",
+        "https://ok.166.net/reunionpub/1_20260706_19f330c877c625793.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1783267885.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a4a7edf093b37370e8791a1",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#胡为捏脸#",
+      "userName": "謝諔",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20220827_182de606986529109.png"
+    },
+    {
+      "id": "6a46727320356f5d976f9a03",
+      "createTime": 1783001369376,
+      "createDate": "2026-07-02",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260702_19f2329c5b4522469.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "江南恋爱女",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230714_18954c74e25795709.png"
+    },
+    {
+      "id": "6a459c7f180a0f28e98dc5de",
+      "createTime": 1782946941502,
+      "createDate": "2026-07-01",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260702_19f1feb48e0336568.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=689ef42a55087510afe18024"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=689ef42a55087510afe18024"
+        }
+      ],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家46220920",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250213_194fb62e1d2544149.jpeg"
+    },
+    {
+      "id": "6a459c359e6c957fc5d073e0",
+      "createTime": 1782946867885,
+      "createDate": "2026-07-01",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260702_19f1fea28ba501871.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家46220920",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250213_194fb62e1d2544149.jpeg"
+    },
+    {
+      "id": "6a42a081b605aa707c555fb8",
+      "createTime": 1782751359239,
+      "createDate": "2026-06-29",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260630_19f1442e45e395453.png",
+        "https://ok.166.net/reunionpub/1_20260630_19f1442e45e494168.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a429d3082b7416f9a3dd293"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#胡为捏脸#耄耋呲牙和严肃脸",
+      "userName": "游戏玩家09905983",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240929_1923e5bca12214041.png"
+    },
+    {
+      "id": "6a4108cf7ff78022bae0aab8",
+      "createTime": 1782646989580,
+      "createDate": "2026-06-28",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260628_19f0e0a5c50441202.png",
+        "https://ok.166.net/reunionpub/1_20260628_19f0e0a5c50754866.png",
+        "https://ok.166.net/reunionpub/1_20260628_19f0e0a5c50866695.png"
+      ],
+      "qrCodes": [],
+      "text": "猴王悟空在花果山竖起“齐天大圣”旗帜，惊动天庭。玉帝派哪吒率天兵捉拿，大圣舞动金箍棒，打得天兵丢盔弃甲。二郎神放出天狗，悟空拔毫毛变出千百分身，反将天狗团团围住。大圣又潜入蟠桃园，偷桃戏仙女，闹得王母宴席狼藉。玉帝无奈，只得封他“齐天大圣”虚衔。悟空回山，群猴欢腾，水帘洞前大摆宴席，自此逍遥自在，威震三界。\n永劫无间：（聚义厅）鬼组武术之乡\n#胡为捏脸# #永劫无间# #影棚# #永劫无间捏脸站#",
+      "userName": "鬼组荷兰鼠",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241226_19403a9188b153117.jpeg"
+    },
+    {
+      "id": "6a40e57b73432e3dbd0914d9",
+      "createTime": 1782637944904,
+      "createDate": "2026-06-28",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260628_0d9cfefac7b44ac6fc60770fe236795b",
+        "https://ok.166.net/reunionpub/1_kol_20260628_bb343f0f52d419c55c358e87a6a83922",
+        "https://ok.166.net/reunionpub/1_kol_20260628_f0cdec122d74fb320add03628269751a",
+        "https://ok.166.net/reunionpub/1_kol_20260628_93554a2458f2f6c24293c09e02a25e75",
+        "https://ok.166.net/reunionpub/1_kol_20260628_fbf1629c11d872c6786209086fc5836e"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260628_4a11f59165ca41164b18b6c52e861b56",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a3d85f1093b37370e85a8e8"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡为捏脸x狼梦】 | 无偿数据分享\n----胡为的这套逆水寒联动还是夯爆\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #胡为捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "6a3bce919419b72610ff70cc",
+      "createTime": 1782304399206,
+      "createDate": "2026-06-24",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260624_f66b714a9a95b862ddf733c75c59384a",
+        "https://ok.166.net/reunionpub/1_kol_20260624_13620275b76d17f94732665dd8a62254",
+        "https://ok.166.net/reunionpub/1_kol_20260624_933f3bb53c5d863e23f6502e7a1bcfc9",
+        "https://ok.166.net/reunionpub/1_kol_20260624_5dcf08e9cc68c79b0b3a4f16ee7899f1"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260624_cc1463db65ea6f3ec7b7576ce3488974",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a3bcb91745ea9544bbf313b"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡为捏脸x纵横江湖】 | 无偿数据分享\n----秦时明月联动终于进入倒计时了\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #胡为捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "6a37d6fa5b5f0d2346f56128",
+      "createTime": 1782044408073,
+      "createDate": "2026-06-21",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260621_19eea1fb5fd388207.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#胡为捏脸#",
+      "userName": "小猫蛋挞ouo",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260227_19c9f6b6af2578174.jpeg"
+    },
+    {
+      "id": "6a2e95a49e12ef38df24a338",
+      "createTime": 1781437858637,
+      "createDate": "2026-06-14",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260614_19ec5f88166365577.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "龙龙llmm",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241013_1928382fc1a129132.jpeg"
+    },
+    {
+      "id": "6a2e18c4f36cfd10034f9728",
+      "createTime": 1781405889613,
+      "createDate": "2026-06-14",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260614_19ec410acf9723549.png"
+      ],
+      "qrCodes": [],
+      "text": "#胡为捏脸# 花果山齐天大圣\n\n猴王悟空在花果山竖起“齐天大圣”旗帜，惊动天庭。玉帝派哪吒率天兵捉拿，大圣舞动金箍棒，打得天兵丢盔弃甲。二郎神放出天狗，悟空拔毫毛变出千百分身，反将天狗团团围住。大圣又潜入蟠桃园，偷桃戏仙女，闹得王母宴席狼藉。玉帝无奈，只得封他“齐天大圣”虚衔。悟空回山，群猴欢腾，水帘洞前大摆宴席，自此逍遥自在，威震三界。\n永劫无间聚义厅：鬼组武术之乡\nID:鬼组荷兰鼠#永劫无间# #影棚# #永劫无间捏脸站# #评分榜#",
+      "userName": "鬼组荷兰鼠",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241226_19403a9188b153117.jpeg"
+    },
+    {
+      "id": "6a258852bdde6c3692394417",
+      "createTime": 1780844623816,
+      "createDate": "2026-06-07",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260607_19ea29c6637838847.png",
+        "https://ok.166.net/reunionpub/1_20260607_19ea29c6637227719.png",
+        "https://ok.166.net/reunionpub/1_20260607_19ea29c6637300336.png"
+      ],
+      "qrCodes": [],
+      "text": "用八神捏脸改的#胡为捏脸#",
+      "userName": "老狼来辣",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250312_19588039cb7375826.png"
+    },
+    {
+      "id": "6a1fd2dad6d9e773c761329e",
+      "createTime": 1780470488611,
+      "createDate": "2026-06-03",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260603_19e8c4f98b1340221.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "春野十鬼画好",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250203_194cac10e3e971760.jpeg"
+    },
+    {
+      "id": "6a1c6c0b479647359a5d28c8",
+      "createTime": 1780247560313,
+      "createDate": "2026-05-31",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260601_19e7f05fcb4982972.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "这个捏脸看起来可以吗[惊讶]#胡为捏脸#",
+      "userName": "予你世间春秋",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260206_19c30862ea4254968.jpeg"
+    },
+    {
+      "id": "6a14b38594aa41320051bacd",
+      "createTime": 1779741569129,
+      "createDate": "2026-05-25",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260526_61a524620477e340d53fb99f24949035",
+        "https://ok.166.net/reunionpub/1_kol_20260526_29ac948041a6040c1265a645a7ca9a6a",
+        "https://ok.166.net/reunionpub/1_kol_20260526_8152d1acbb0508895e46324866aa81cc",
+        "https://ok.166.net/reunionpub/1_kol_20260526_a5a5d8aed0ac07ea26e5b57506eae83c",
+        "https://ok.166.net/reunionpub/1_kol_20260526_b2388531de40e1ffacd84b9dcdf33a2e",
+        "https://ok.166.net/reunionpub/1_kol_20260526_55e3964a6dc66a4d15e0ab892dd178c9",
+        "https://ok.166.net/reunionpub/1_kol_20260526_80057d1772bfe3a6d7feec3ac6be18f2"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间 #永劫无间捏脸 #逆战暴王 #无尘捏脸 #胡为捏脸 #魏轻捏脸 #刘炼捏脸 #席拉捏脸 #蓝梦捏脸   #顾清寒捏脸 #补档\n\n#逆战暴王\n#逆战暴王\n#逆战暴王",
+      "userName": "逆战暴王",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260422_19db213a759713091.jpeg"
+    },
+    {
+      "id": "6a0b420e8185b26f899852dd",
+      "createTime": 1779122700752,
+      "createDate": "2026-05-18",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260519_19e3bf9f81d352870.jpeg",
+        "https://ok.166.net/reunionpub/1_20260519_19e3bf9f81d388027.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1779122690.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0b3bb2093b37370e7ebee4",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1779122690.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a0b3bb2093b37370e7ebee4",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "【眼下痣】#永劫无间# #永劫无间捏脸站# #胡为捏脸#",
+      "userName": "肥肥仔vera",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
+    },
+    {
+      "id": "6a0ad80af6170d2c60cf18e0",
+      "createTime": 1779095559299,
+      "createDate": "2026-05-18",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260518_19e3a5bd90d233405.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=67c6db087486e9661084f652"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=67c6db087486e9661084f652"
+        }
+      ],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "不拘小节张大少_20260605",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240617_19026b68c66765387.png"
+    },
     {
       "id": "69f1a8d4c89b076f78fa2bef",
       "createTime": 1777445074441,
