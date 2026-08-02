@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-01T06:27:46.531Z",
+  "lastUpdated": "2026-08-02T06:31:36.433Z",
   "source": "胡桃捏脸",
-  "totalCount": 924,
+  "totalCount": 942,
   "qrcodes": [
     {
       "id": "6a6cfdc161872c6ef9b1f1ba",
@@ -337,7 +337,7 @@
       ],
       "qrCodes": [],
       "text": "#胡桃捏脸#",
-      "userName": "忧郁在雨季",
+      "userName": "泪在雨季",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260630_19f17f7eb49235333.jpeg",
       "userId": "b57f8ca5c52047dca17c07f419d86d54"
     },
@@ -670,6 +670,21 @@
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
     },
     {
+      "id": "69f58efccf13d7018664ab26",
+      "userId": "ea1bc5aee3554b50918dd5a61559ce76",
+      "createTime": 1777700602088,
+      "createDate": "2026-05-02",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260502_19de7367dca645851.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#土御门胡桃捏脸#",
+      "userName": "游戏玩家17269547",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260520_19e4457b732947911.jpeg"
+    },
+    {
       "id": "69f2f6af1759f73c3dbc3931",
       "createTime": 1777530540871,
       "createDate": "2026-04-30",
@@ -916,6 +931,78 @@
       "userName": "粥沫小福",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg",
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
+    },
+    {
+      "id": "69b9811d9f93987d0cbc73d7",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1773764890023,
+      "createDate": "2026-03-17",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260318_19cfca04a2d229183.jpeg",
+        "https://ok.166.net/reunionpub/1_20260318_19cfca04a2d915748.jpeg",
+        "https://ok.166.net/reunionpub/1_20260318_19cfca04a2d991300.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1773764887.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69ad8a3282b7416f9a2aac7d",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站# #晒联动穿搭！# #永劫无间# #土御门胡桃捏脸#",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
+      "id": "69b980cee3b1df6855917be5",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1773764812333,
+      "createDate": "2026-03-17",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260318_19cfc9f1a1c250667.jpeg",
+        "https://ok.166.net/reunionpub/1_20260318_19cfc9f1a1c639359.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1773764780.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69b252ab745ea9544bad534e",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1773764780.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69b252ab745ea9544bad534e",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "礼貌三🪷宝宝们\n#永劫无间捏脸站# #永劫无间# #土御门胡桃捏脸# #晒联动穿搭！#",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
+      "id": "69b83eb59f93987d0cbc31d9",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1773682354912,
+      "createDate": "2026-03-16",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260317_19cf7b4e614321649.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #晒联动穿搭！# #土御门胡桃捏脸#",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
     },
     {
       "id": "69b5d33d19940f4de632d419",
@@ -2995,6 +3082,23 @@
       "userId": "d84cf82e6f1f420ea63b32fff28105ad"
     },
     {
+      "id": "68f1c6f5f2b52709b643a210",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1760675531425,
+      "createDate": "2025-10-17",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251017_199f0708679285885.jpeg",
+        "https://ok.166.net/reunionpub/1_20251017_199f0708679247257.jpeg",
+        "https://ok.166.net/reunionpub/1_20251017_199f0708679345706.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "钢管战神\n#永劫无间捏脸站# #永劫无间# #土御门胡桃捏脸#",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
       "id": "68f125dcba95db5a8eac30f7",
       "createTime": 1760634224546,
       "createDate": "2025-10-16",
@@ -3749,6 +3853,23 @@
       "userId": "d84cf82e6f1f420ea63b32fff28105ad"
     },
     {
+      "id": "68d523d835a4421f0307feaa",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1758798805975,
+      "createDate": "2025-09-25",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250925_1998093f7ec528899.jpeg",
+        "https://ok.166.net/reunionpub/1_20250925_1998093f7ec954259.jpeg",
+        "https://ok.166.net/reunionpub/1_20250925_1998093f7ec510290.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#土御门胡桃捏脸# #永劫无间捏脸站#",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
       "id": "68d4f89b2d07e635d9532281",
       "createTime": 1758787737688,
       "createDate": "2025-09-25",
@@ -4035,7 +4156,7 @@
       "qrCodes": [],
       "text": "#胡桃捏脸# 鸣潮角色费洛洛捏脸，侵权可删",
       "userName": "名字重复太多无奈了",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260624_19ef747b5e9419970.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260801_19fbe0630c9208384.jpeg",
       "userId": "b6ea2a293f564e569a600756942b1f63"
     },
     {
@@ -9695,6 +9816,21 @@
       "userId": "c332a7057dae4a3c809eecdfc63996e1"
     },
     {
+      "id": "677b8cb89c4a86654551b369",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1736150198615,
+      "createDate": "2025-01-06",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250106_1943a9da5bd361241.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "『桃夭』\n分享一个之前的捏脸\n#永劫无间捏脸站# #土御门胡桃捏脸#",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
       "id": "67797ae356215a64bed36118",
       "createTime": 1736014562385,
       "createDate": "2025-01-04",
@@ -13409,6 +13545,24 @@
       "userId": "d7c64ac6ea3c4a95aeef6841de8c71d3"
     },
     {
+      "id": "667815581925776b1af8dcbb",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1719145816661,
+      "createDate": "2024-06-23",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240623_19045134398678744.jpeg",
+        "https://ok.166.net/reunionpub/1_20240623_19045134398422257.jpeg",
+        "https://ok.166.net/reunionpub/1_20240623_19045134398707255.jpeg",
+        "https://ok.166.net/reunionpub/1_20240623_19045134398817872.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##胡桃捏脸#\n作品名称：『魔灵』\n#永劫无间视频征集#",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
       "id": "667564b408c1fa1a3f64190b",
       "createTime": 1718969524481,
       "createDate": "2024-06-21",
@@ -13436,6 +13590,25 @@
       "text": "【巫女喵】#永劫无间捏脸站# #永劫无间# #土御门胡桃捏脸# #永劫无间视频征集#"
     },
     {
+      "id": "667263d5473ab9649f846d51",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1718772693730,
+      "createDate": "2024-06-19",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240619_1902ed5e738366636.jpeg",
+        "https://ok.166.net/reunionpub/1_20240619_1902ed5e738735383.jpeg",
+        "https://ok.166.net/reunionpub/1_20240619_1902ed5e739748509.jpeg",
+        "https://ok.166.net/reunionpub/1_20240619_1902ed5e739925316.jpeg",
+        "https://ok.166.net/reunionpub/1_20240619_1902ed5e739169949.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##胡桃捏脸#\n作品名称：『白月光』#永劫无间视频征集#",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
       "id": "665ac3d5d523b71918cf6595",
       "createTime": 1717224405413,
       "createDate": "2024-06-01",
@@ -13449,6 +13622,24 @@
       "userName": "朝泽鑫",
       "userAvatar": "https://ok.166.net/reunionpub/3_20231122_18bf519d95a653698.jpeg",
       "userId": "2951d07ca3054a90b1568739053e969d"
+    },
+    {
+      "id": "665ab5a9628e0a0698e95c8f",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1717220777162,
+      "createDate": "2024-06-01",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240601_18fd2556c50690848.jpeg",
+        "https://ok.166.net/reunionpub/1_20240601_18fd2556c50457069.jpeg",
+        "https://ok.166.net/reunionpub/1_20240601_18fd2556c50356513.jpeg",
+        "https://ok.166.net/reunionpub/1_20240601_18fd2556c50752896.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "胡桃『芝士葡萄』\n#大神永劫无间捏脸站##胡桃捏脸##永劫新皮肤捏脸#",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
     },
     {
       "id": "66599a6fd523b71918cc0bdd",
@@ -13574,6 +13765,41 @@
       "text": "求求这个胡桃的捏脸#胡桃捏脸# #胡桃红皮# #永劫无间#",
       "userName": "沐子染雪",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230608_1889a3d1854789452.jpeg"
+    },
+    {
+      "id": "663e00a8f3ddd833a2ffeaef",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1715339432723,
+      "createDate": "2024-05-10",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240510_18f6232841a965584.jpeg",
+        "https://ok.166.net/reunionpub/1_20240510_18f6232841a695962.jpeg",
+        "https://ok.166.net/reunionpub/1_20240510_18f6232841a822114.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "作品名称：『樱云』\n#大神永劫无间捏脸站##胡桃捏脸##永劫新皮肤捏脸#",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
+      "id": "663e0015312a7c453d91a385",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1715339285440,
+      "createDate": "2024-05-10",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240510_18f62303c77235817.jpeg",
+        "https://ok.166.net/reunionpub/1_20240510_18f62303c77877472.jpeg",
+        "https://ok.166.net/reunionpub/1_20240510_18f62303c78750355.jpeg",
+        "https://ok.166.net/reunionpub/1_20240510_18f62303c78765194.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "作品名称：『流樱』\n#大神永劫无间捏脸站##胡桃捏脸##永劫新皮肤捏脸#",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
     },
     {
       "id": "663c6e6076a7cf379c941a37",
@@ -13703,6 +13929,43 @@
       "text": "张元英转圈都有了我不允许没有张元英仿捏！\n小圆的脸太牛了只能做到神态相似🥲\n#永劫无间捏脸站# #土御门胡桃捏脸#",
       "userName": "Yoi悠响",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230325_18717f85aec479130.jpeg"
+    },
+    {
+      "id": "6611234559f8c745f59c3a0b",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1712399173048,
+      "createDate": "2024-04-06",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240406_18eb2f1b998107544.jpeg",
+        "https://ok.166.net/reunionpub/1_20240406_18eb2f1b998299983.jpeg",
+        "https://ok.166.net/reunionpub/1_20240406_18eb2f1b998525530.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##胡桃捏脸#\n作品名称：『黑道千金』\n看起来是高手桃桃，很聪明的一个脸😽",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
+      "id": "6610eb59e4c73565c764e3dc",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1712384857418,
+      "createDate": "2024-04-06",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240406_18eb21743cc387153.jpeg",
+        "https://ok.166.net/reunionpub/1_20240406_18eb21743cd267240.jpeg",
+        "https://ok.166.net/reunionpub/1_20240406_18eb21743cd596307.jpeg",
+        "https://ok.166.net/reunionpub/1_20240406_18eb21743cd701961.jpeg",
+        "https://ok.166.net/reunionpub/1_20240406_18eb21743cd943276.jpeg",
+        "https://ok.166.net/reunionpub/1_20240406_18eb21743cd335366.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##胡桃捏脸#\n作品名称：『涩谷甜妹』\n最近最爱的一个捏脸🤩",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
     },
     {
       "id": "660ced925839f23d24b845cb",
@@ -13904,6 +14167,40 @@
       "text": "【半熟芝士】#捏个年味# #永劫无间捏脸站# #土御门胡桃捏脸#"
     },
     {
+      "id": "65e82eb4d4ecb0767a3a0046",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1709715124675,
+      "createDate": "2024-03-06",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240306_18e12f3e00e708139.jpeg",
+        "https://ok.166.net/reunionpub/1_20240306_18e12f3e00e403932.jpeg",
+        "https://ok.166.net/reunionpub/1_20240306_18e12f3e00e732225.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##胡桃捏脸#\n作品名称：『小舞』二改\n设计理念：调整了之前的捏脸『小舞』",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
+      "id": "65e6cc0763468c09e1b84560",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1709624327686,
+      "createDate": "2024-03-05",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240305_18e0d8cee33281694.jpeg",
+        "https://ok.166.net/reunionpub/1_20240305_18e0d8cee33958686.jpeg",
+        "https://ok.166.net/reunionpub/1_20240305_18e0d8cee33789667.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##胡桃捏脸#\n作品名称：『微醺』🍸\n设计理念：其实是个迦南的『烟熏玫瑰』一个系列的🧚🏻‍♀️游戏内也很好看🥺",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
       "id": "65da06d2b74ac563b44334c9",
       "createTime": 1708787410573,
       "createDate": "2024-02-24",
@@ -13998,6 +14295,27 @@
       "userId": "2c207a6fb6d947b589939e27b4f24f79"
     },
     {
+      "id": "65abd03ec4b3630001b6189d",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1705758782206,
+      "createDate": "2024-01-20",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240120_18d271327cf857533.jpeg",
+        "https://ok.166.net/reunionpub/1_20240120_18d271327cf501625.jpeg",
+        "https://ok.166.net/reunionpub/1_20240120_18d271327cf409544.jpeg",
+        "https://ok.166.net/reunionpub/1_20240120_18d271327d0151898.jpeg",
+        "https://ok.166.net/reunionpub/1_20240120_18d271327d0994044.jpeg",
+        "https://ok.166.net/reunionpub/1_20240120_18d271327d0549800.jpeg",
+        "https://ok.166.net/reunionpub/1_20240120_18d271327d0262216.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##胡桃捏脸#\n作品名称：『小舞』\n设计理念：属于胡桃玩家自己的冲冠🥰拥有了小舞之后再也不想穿别的衣服，用别的头发了🥲这个裙裙配jk的公主切也好看🥹",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
       "id": "65ab1de2cb59580001077bd4",
       "userId": "6f97e929885e4eafbfcad22702843c75",
       "createTime": 1705713122310,
@@ -14064,6 +14382,24 @@
       "userName": "昭和阿姨",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
+    },
+    {
+      "id": "65a0de4a1cdb340001fcc81c",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1705041482448,
+      "createDate": "2024-01-12",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240112_18cfc436334739903.jpeg",
+        "https://ok.166.net/reunionpub/1_20240112_18cfc436334778031.jpeg",
+        "https://ok.166.net/reunionpub/1_20240112_18cfc436334869503.jpeg",
+        "https://ok.166.net/reunionpub/1_20240112_18cfc436334695429.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#大神永劫无间捏脸站##胡桃捏脸#\n作品名称：『水色の天使』\n设计理念：有点忧郁的胡桃宝宝",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
     },
     {
       "id": "65a0180dc8bccc0001cbe92d",

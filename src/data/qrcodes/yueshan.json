@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-01T06:27:46.668Z",
+  "lastUpdated": "2026-08-02T06:28:40.901Z",
   "source": "岳山捏脸",
-  "totalCount": 729,
+  "totalCount": 731,
   "qrcodes": [
     {
       "id": "6a6c470c72753a259000ce94",
@@ -12635,6 +12635,21 @@
       "userId": "7913a29a9d6b4c06aa08a9ebae6dc12c"
     },
     {
+      "id": "66bf248b03a73e37fa6cf213",
+      "userId": "ed211816c45f4a4fb6781695acb18f42",
+      "createTime": 1723802763237,
+      "createDate": "2024-08-16",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240816_1915aa47bde944915.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##岳山捏脸#\n作品名称：荒天帝\n设计理念：\n捏脸码：",
+      "userName": "1岚彩1",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260127_19bfd7ac9f0403056.jpeg"
+    },
+    {
       "id": "66b36353ece8f52c187b19c1",
       "createTime": 1723032403325,
       "createDate": "2024-08-07",
@@ -12807,6 +12822,24 @@
       "userName": "Q1ing空",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240725_190e9a738e4506773.jpeg",
       "userId": "58f38b25593443688c8a8c9a89cf5d15"
+    },
+    {
+      "id": "66a00172de2d704f87477b3f",
+      "userId": "cf20ca7d341d4e02a4de95d030970804",
+      "createTime": 1721762162134,
+      "createDate": "2024-07-23",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240724_190e08c5e43801849.jpeg",
+        "https://ok.166.net/reunionpub/1_20240724_190e08c5e43689930.jpeg",
+        "https://ok.166.net/reunionpub/1_20240724_190e08c5e43722540.jpeg",
+        "https://ok.166.net/reunionpub/1_20240724_190e08c5e43489931.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "『小狼』\n#永劫无间捏脸站# #岳山捏脸# #永劫新皮肤捏脸#",
+      "userName": "Cabriel加百列",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
     },
     {
       "id": "669c51ddde250b38ac543a64",
