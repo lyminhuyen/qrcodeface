@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-02T06:13:18.195Z",
+  "lastUpdated": "2026-08-04T05:56:43.726Z",
   "source": "刘炼捏脸",
-  "totalCount": 482,
+  "totalCount": 483,
   "qrcodes": [
+    {
+      "id": "6a708dcdd5bffd17c1e3958c",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1785760826074,
+      "createDate": "2026-08-03",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260803_af01debf891a3dfcc3adc9ce59678358",
+        "https://ok.166.net/reunionpub/1_kol_20260803_5d7f0b1ab72085324f90b392b483b335",
+        "https://ok.166.net/reunionpub/1_kol_20260803_2d64836a860ac02b49470e7fe88f3601",
+        "https://ok.166.net/reunionpub/1_kol_20260803_8d66d3895fa9038d2dcdfac7ea987fa9"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260803_331d425107cefff9ca52a862848d5bbe",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a708879093b37370e8f1b62"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【刘炼捏脸x李信问心剑 光信 仿捏】 | 无偿数据分享\n----你们要的刘炼新皮肤 李信问心剑 仿捏来了！\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #刘炼捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6a6df9d53302102ff88b7ecb",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",

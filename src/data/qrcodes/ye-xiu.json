@@ -1,8 +1,100 @@
 {
-  "lastUpdated": "2026-08-03T06:36:10.284Z",
+  "lastUpdated": "2026-08-04T06:08:34.134Z",
   "source": "叶修捏脸",
-  "totalCount": 72,
+  "totalCount": 76,
   "qrcodes": [
+    {
+      "id": "6a713c2e16069318030dd1ee",
+      "userId": "e7d946e1f2b142fab0c69a6d0356a317",
+      "createTime": 1785805866605,
+      "createDate": "2026-08-04",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260804_19fca52fd72688473.jpeg",
+        "https://ok.166.net/reunionpub/1_20260804_19fca52fd72953402.jpeg",
+        "https://ok.166.net/reunionpub/1_20260804_19fca52fd72486866.jpeg",
+        "https://ok.166.net/reunionpub/1_20260804_19fca52fd72411864.jpeg",
+        "https://ok.166.net/reunionpub/1_20260804_19fca52fd72237831.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1785805839.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a712494093b37370e8f3bff",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1785805839.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a712494093b37370e8f3bff",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "礼貌三连，叶修染发影棚奉上#永劫无间# #永劫无间捏脸站# #影棚# #叶修捏脸#",
+      "userName": "King无忌",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230708_18934a2d55a394558.jpeg"
+    },
+    {
+      "id": "6a70d1a016069318030d7067",
+      "userId": "09cdaf4774a24bf3aeda4ba27ecad3ef",
+      "createTime": 1785778589978,
+      "createDate": "2026-08-03",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260804_19fc8b2ca38319894.jpeg",
+        "https://ok.166.net/reunionpub/1_20260804_19fc8b2ca38443117.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1785778546.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a70cf72745ea9544bc90077",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1785778546.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a70cf72745ea9544bc90077",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "为了杰大的配音去玩叶修，然后捏成白起[耍酷]\n发色是调整了很久点三色渐变，虽然不太明显\n#永劫无间# #永劫无间捏脸站# #叶修捏脸#",
+      "userName": "九尾西西子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250717_19816a50311953875.jpeg"
+    },
+    {
+      "id": "6a70ad0350c8bb3e2fcf0331",
+      "userId": "201ce1a08ded4ec79396b3c2e0c64aa1",
+      "createTime": 1785768812752,
+      "createDate": "2026-08-03",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260803_19fc81d9b53135263.jpeg",
+        "https://ok.166.net/reunionpub/1_20260803_19fc81d9b54887070.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##叶修捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "Yummiowo",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250929_19995a3600d756755.jpeg"
+    },
+    {
+      "id": "6a70a35c50c8bb3e2fcef077",
+      "userId": "b84fd679617646cf80825c12687faa82",
+      "createTime": 1785766745944,
+      "createDate": "2026-08-03",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260803_19fc7fe11e9954450.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##叶修捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "新凉相星樱",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231015_18b32f2ca42409305.jpeg"
+    },
     {
       "id": "6a70324916069318030c49eb",
       "userId": "9fc5c34d4eee44f3a093ab3cf331e51b",

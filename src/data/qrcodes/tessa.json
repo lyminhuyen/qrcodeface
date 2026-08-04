@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-02T06:26:31.298Z",
+  "lastUpdated": "2026-08-04T06:14:59.723Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 858,
+  "totalCount": 870,
   "qrcodes": [
+    {
+      "id": "6a7086acde4568288f667c61",
+      "userId": "09240252501f4fb1949ab98c8c5fda65",
+      "createTime": 1785759195141,
+      "createDate": "2026-08-03",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260803_9350cf2390bc6137ae7a87b18cdc66e5",
+        "https://ok.166.net/reunionpub/1_kol_20260803_ea86784542bc15b6ab0ae9b7e55bdaad",
+        "https://ok.166.net/reunionpub/1_kol_20260803_e4dc577c0b4166895973a775bad29b3c"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260803_274811b638563d63928328115dc707d9",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a707325093b37370e8f1649"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260803_d514cd91c54c0b5f00ca86338bf06f9f",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a707325093b37370e8f1649"
+        }
+      ],
+      "text": "玉玲珑[树莓]\n左下角可以直接导入哦，球球关注~\n#永劫无间##玉玲珑捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "6a6c85b00592910ea397237d",
       "userId": "3a80768bd7a542ba861cc7973d2c016f",
@@ -685,6 +717,30 @@
       "userName": "怎知榆晚",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg",
       "userId": "9fc5c34d4eee44f3a093ab3cf331e51b"
+    },
+    {
+      "id": "6a59e9c09e6c957fc5f593f4",
+      "userId": "6c90db25dceb40babbc7e5e221c9b247",
+      "createTime": 1784277199372,
+      "createDate": "2026-07-17",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260717_19f6f356537901894.jpeg",
+        "https://ok.166.net/reunionpub/1_20260717_19f6f356537669617.jpeg",
+        "https://ok.166.net/reunionpub/1_20260717_19f6f356537380386.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1784277197.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iGNbESVXpa2zUNFiUU2xSk&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a59bd4b27791ec74b1ea1046dWRNd3W07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永劫无间手游# #玉玲珑捏脸#",
+      "userName": "粥沫小福",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg"
     },
     {
       "id": "6a59d15a3eeae9212c4692e8",
@@ -4160,7 +4216,8 @@
       "qrCodes": [],
       "text": "#永劫无间捏脸站##玉玲珑捏脸#\n作品名称：\n设计理念：\n捏脸码：",
       "userName": "zhizhizhizzz",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240905_191c2d659f2529990.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240905_191c2d659f2529990.jpeg",
+      "userId": "5732f0bc07fa4e00a5aba64e66dcf256"
     },
     {
       "id": "69980cf2b587071e7b8145ae",
@@ -16362,7 +16419,8 @@
       "qrCodes": [],
       "text": "席拉•天狐•国服数据\n两版妆容#永劫无间捏脸站# #永劫无间# #玉玲珑捏脸#",
       "userName": "季季和你拼了",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg",
+      "userId": "fbfae4ede34c444ab2e17af15c70fe2a"
     },
     {
       "id": "682dcaa7b00811576854fbdb",
@@ -17490,6 +17548,23 @@
       "userId": "98f2835181db4f3394b813d661cd44ea"
     },
     {
+      "id": "67ec27f54f6c1f4833eb5af2",
+      "userId": "fbfae4ede34c444ab2e17af15c70fe2a",
+      "createTime": 1743529032363,
+      "createDate": "2025-04-01",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250402_195f26db65c296630.jpeg",
+        "https://ok.166.net/reunionpub/1_20250402_195f26db65c416832.jpeg",
+        "https://ok.166.net/reunionpub/1_20250402_195f26db65c291888.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "玉玲珑•库洛米•国服数据\n库存两版瞳色#永劫无间捏脸站# #玉玲珑捏脸# #永劫无间#",
+      "userName": "季季和你拼了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
+    },
+    {
       "id": "67ebef054f6c1f4833e963c3",
       "createTime": 1743515389860,
       "createDate": "2025-04-01",
@@ -18355,6 +18430,59 @@
       "userId": "ae9a074679604619b5ef0cddaeb7a120"
     },
     {
+      "id": "6764c6dac20bb83926a423f6",
+      "userId": "fbfae4ede34c444ab2e17af15c70fe2a",
+      "createTime": 1734657700860,
+      "createDate": "2024-12-20",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241220_193e1a7eb18833629.jpeg",
+        "https://ok.166.net/reunionpub/1_20241220_193e1a7eb18122671.jpeg",
+        "https://ok.166.net/reunionpub/1_20241220_193e1a7eb18237796.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "玉玲珑•水晶•发色数据\n目前先调这一版发色配水晶这张脸\n谪星的大家可以自己改瞳色#永劫无间捏脸站# #玉玲珑捏脸# #永劫新皮肤捏脸#",
+      "userName": "季季和你拼了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
+    },
+    {
+      "id": "6764c60a2f6f832645b08eec",
+      "userId": "fbfae4ede34c444ab2e17af15c70fe2a",
+      "createTime": 1734657519034,
+      "createDate": "2024-12-20",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241220_193e1a4a873217652.jpeg",
+        "https://ok.166.net/reunionpub/1_20241220_193e1a4a873284367.jpeg",
+        "https://ok.166.net/reunionpub/1_20241220_193e1a4a873627149.jpeg",
+        "https://ok.166.net/reunionpub/1_20241220_193e1a4a873524764.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "玉玲珑•水晶•国服数据\n来啦来啦 老样子两版妆容 \n肤色偏粉白 只推荐搭亮色挑染哈\n喜欢的友友三连支持喔～ #永劫无间捏脸站# #玉玲珑捏脸# #永劫新皮肤捏脸#",
+      "userName": "季季和你拼了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
+    },
+    {
+      "id": "67566231a41e9f41ca328606",
+      "userId": "fbfae4ede34c444ab2e17af15c70fe2a",
+      "createTime": 1733714478719,
+      "createDate": "2024-12-09",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241209_193a96f716b300082.jpeg",
+        "https://ok.166.net/reunionpub/1_20241209_193a96f716b842552.jpeg",
+        "https://ok.166.net/reunionpub/1_20241209_193a96f716b553635.jpeg",
+        "https://ok.166.net/reunionpub/1_20241209_193a96f716b612638.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "玉玲珑•绮罗•国服数据\n这版妆比较浓只建议搭这一身衣服哈 \np2发色晚点发评论区\n喜欢的友友三连支持喔～#永劫无间捏脸站# #永劫新皮肤捏脸# #玉玲珑捏脸#",
+      "userName": "季季和你拼了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
+    },
+    {
       "id": "6752dfb580aaa3365bce3de8",
       "createTime": 1733484467528,
       "createDate": "2024-12-06",
@@ -18588,6 +18716,39 @@
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
+      "id": "6743ceda23e08a6da06b4e4f",
+      "userId": "fbfae4ede34c444ab2e17af15c70fe2a",
+      "createTime": 1732497112459,
+      "createDate": "2024-11-25",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20241125_19360dfed54136424.jpeg",
+        "https://ok.166.net/reunionpub/1_20241125_19360dfed54897886.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "玉玲珑•娇俏•国服数据\n又囤了很多最近新捏的并且非常喜欢用的脸～\n喜欢的友友三连支持喔～#永劫无间捏脸站# #永劫无间# #玉玲珑捏脸#",
+      "userName": "季季和你拼了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
+    },
+    {
+      "id": "66f902388784be35ed525de5",
+      "userId": "fbfae4ede34c444ab2e17af15c70fe2a",
+      "createTime": 1727595064696,
+      "createDate": "2024-09-29",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240929_1923cafd429117359.jpeg",
+        "https://ok.166.net/reunionpub/1_20240929_1923cafd429162404.jpeg",
+        "https://ok.166.net/reunionpub/1_20240929_1923cafd429801231.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "玉玲珑•加州落日•国服数据\n整理了很多直播没发布的捏脸 \n这张是加州热情小狐狸～\n喜欢的友友三连支持喔～#永劫无间捏脸站# #永劫新皮肤捏脸# #玉玲珑捏脸#",
+      "userName": "季季和你拼了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
+    },
+    {
       "id": "66f2da1cd45bcf3345e3bb0d",
       "createTime": 1727191580000,
       "createDate": "2024-09-24",
@@ -18650,6 +18811,23 @@
       "text": "#永劫无间捏脸站# #玉玲珑捏脸#狐狸捏脸 二改的！",
       "userName": "Morpho0O",
       "userAvatar": "https://ok.166.net/reunionpub/3_20241212_193ba8d400d729952.jpeg"
+    },
+    {
+      "id": "66e3a25b9dbf45199e4a7f64",
+      "userId": "fbfae4ede34c444ab2e17af15c70fe2a",
+      "createTime": 1726194267022,
+      "createDate": "2024-09-13",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240913_191e9320c6d692751.jpeg",
+        "https://ok.166.net/reunionpub/1_20240913_191e9320c6d336457.jpeg",
+        "https://ok.166.net/reunionpub/1_20240913_191e9320c6d898171.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "玉玲珑•赤夏耀阳•国服数据\n狐狸泳装真眼前一亮了 关键这头发也挺姐的\n喜欢的友友三连支持喔～#永劫无间捏脸站# #永劫新皮肤捏脸# #玉玲珑捏脸#",
+      "userName": "季季和你拼了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
     },
     {
       "id": "66e2d8ee68f4e502a3ca4bb8",
@@ -18847,7 +19025,8 @@
       "qrCodes": [],
       "text": "玉玲珑•牡丹亭•国服数据\n老样子还是两版～\n喜欢的友友三连支持喔～#玉玲珑捏脸##永劫新皮肤捏脸##永劫无间捏脸站#",
       "userName": "季季和你拼了",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg",
+      "userId": "fbfae4ede34c444ab2e17af15c70fe2a"
     },
     {
       "id": "66aca88ac68d6f3157cd276c",
@@ -19025,6 +19204,26 @@
       "userId": "609ac465e1f44fba81fdae62df8b0e03"
     },
     {
+      "id": "668cb825b46bed5b6299c9af",
+      "userId": "fbfae4ede34c444ab2e17af15c70fe2a",
+      "createTime": 1720498213872,
+      "createDate": "2024-07-09",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240709_19095a8a186698613.jpeg",
+        "https://ok.166.net/reunionpub/1_20240709_19095a8a187697845.jpeg",
+        "https://ok.166.net/reunionpub/1_20240709_19095a8a187173352.jpeg",
+        "https://ok.166.net/reunionpub/1_20240709_19095a8a187993680.jpeg",
+        "https://ok.166.net/reunionpub/1_20240709_19095a8a187378907.jpeg",
+        "https://ok.166.net/reunionpub/1_20240709_19095a8a187789629.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "玉玲珑•浮华一梦•国服数据\n拖了好几天忘了发色是哪个了…晚点补评论区吧\n两版妆容感觉 喜欢的友友三连支持喔～#永劫无间捏脸站# #永劫新皮肤捏脸# #玉玲珑捏脸#",
+      "userName": "季季和你拼了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
+    },
+    {
       "id": "6689fe254115de5713cc47fd",
       "userId": "6f97e929885e4eafbfcad22702843c75",
       "createTime": 1720319525105,
@@ -19104,6 +19303,26 @@
       "text": "【茉莉】#永劫无间捏脸站# #永劫无间# #玉玲珑捏脸#"
     },
     {
+      "id": "6662ece152c0c417a3f87857",
+      "userId": "fbfae4ede34c444ab2e17af15c70fe2a",
+      "createTime": 1717759201325,
+      "createDate": "2024-06-07",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240607_18ff2689549224691.jpeg",
+        "https://ok.166.net/reunionpub/1_20240607_18ff2689549371161.jpeg",
+        "https://ok.166.net/reunionpub/1_20240607_18ff2689549341984.jpeg",
+        "https://ok.166.net/reunionpub/1_20240607_18ff2689549194413.jpeg",
+        "https://ok.166.net/reunionpub/1_20240607_18ff2689549888227.jpeg",
+        "https://ok.166.net/reunionpub/1_20240607_18ff2689549150085.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "玉玲珑•宝葫芦•国服数据\n发色默认黑 或者0 0 82（默认白）\n葫芦娃拟人化捏脸～两版妆容感觉～\n喜欢的友友三连支持喔～#永劫无间捏脸站# #永劫新皮肤捏脸# #玉玲珑捏脸#",
+      "userName": "季季和你拼了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
+    },
+    {
       "id": "666162ad0bba836801ea123a",
       "createTime": 1717658285277,
       "createDate": "2024-06-06",
@@ -19115,6 +19334,26 @@
       ],
       "qrCodes": [],
       "text": "【学姐】#永劫无间捏脸站# #永劫无间# #玉玲珑捏脸#"
+    },
+    {
+      "id": "665d3b11408e7138b7d8ccc7",
+      "userId": "fbfae4ede34c444ab2e17af15c70fe2a",
+      "createTime": 1717386001876,
+      "createDate": "2024-06-03",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240603_18fdc24188a129193.jpeg",
+        "https://ok.166.net/reunionpub/1_20240603_18fdc24188a269179.jpeg",
+        "https://ok.166.net/reunionpub/1_20240603_18fdc24188a329509.jpeg",
+        "https://ok.166.net/reunionpub/1_20240603_18fdc24188a441698.jpeg",
+        "https://ok.166.net/reunionpub/1_20240603_18fdc24188a288561.jpeg",
+        "https://ok.166.net/reunionpub/1_20240603_18fdc24188a853877.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "玉玲珑•花栗•国服数据\n古灵精怪俏皮风小狐狸 两版妆容感觉 \n方便你们搭配不同色系衣服 或者修改瞳色～\n喜欢的友友三连支持喔～#永劫无间捏脸站# #玉玲珑捏脸##永劫新皮肤捏脸#",
+      "userName": "季季和你拼了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221108_184534eb887920121.jpeg"
     },
     {
       "id": "665aae3f1540786412370b6e",
