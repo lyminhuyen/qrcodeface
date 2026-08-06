@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-08-04T06:14:59.713Z",
+  "lastUpdated": "2026-08-06T05:45:17.161Z",
   "source": "蓝梦捏脸",
-  "totalCount": 751,
+  "totalCount": 752,
   "qrcodes": [
+    {
+      "id": "6a7306544ddfa11f6ce2bbaf",
+      "userId": "6f97e929885e4eafbfcad22702843c75",
+      "createTime": 1785922917389,
+      "createDate": "2026-08-05",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260805_e0442aa7c1b21f118157fc9eed5a2e5f",
+        "https://ok.166.net/reunionpub/1_kol_20260805_bdf030ce3245b3ad518f5537b44c52ef",
+        "https://ok.166.net/reunionpub/1_kol_20260805_0d29416e2b7432579722cb27e8eddbf3"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260805_409fbc8a02716c2c4edde4c72f3aa9bd",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a72fa63093b37370e8fa077"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "蓝梦捏脸分享丨【白日梦】\n🩵忧郁大王来了\n✨免费数据 感谢喜欢～(♡>𖥦<)/♥\n#永劫无间##永劫无间捏脸站##蓝梦捏脸#",
+      "userName": "Yoi悠响",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230325_18717f85aec479130.jpeg"
+    },
     {
       "id": "6a70ad954616c2055881773e",
       "userId": "44911948a1a0490db0a6f1c54e98cf60",
