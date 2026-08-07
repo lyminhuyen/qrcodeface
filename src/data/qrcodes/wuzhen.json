@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-01T06:21:53.889Z",
+  "lastUpdated": "2026-08-07T05:26:24.912Z",
   "source": "巫真捏脸",
-  "totalCount": 254,
+  "totalCount": 256,
   "qrcodes": [
     {
       "id": "6a6b56cc0592910ea3952502",
@@ -859,6 +859,29 @@
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
     },
     {
+      "id": "6a46485e3eeae9212c231820",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1782990940368,
+      "createDate": "2026-07-02",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260702_19f228aa6c2650159.jpeg",
+        "https://ok.166.net/reunionpub/1_20260702_19f228aa6c3371800.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1782990862.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ij-8yRNpQYV_mEJfz-KwSk&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a4647f9970838661661610cD0S7Y2Ag07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "巫真/姐感捏脸  喜欢的宝子点击下方导入即可#永劫手游大神创作激励# #今日劫点# #永手新赛季捏脸# #永手捏脸站# #永手巫真捏脸#",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
+    },
+    {
       "id": "6a4646e8180a0f28e98f1c1d",
       "createTime": 1782990556231,
       "createDate": "2026-07-02",
@@ -1395,6 +1418,30 @@
       "userName": "粥沫小福",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg",
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
+    },
+    {
+      "id": "6a011322a9d0452127cab2ea",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1778454892744,
+      "createDate": "2026-05-10",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260511_19e142c0694486691.jpeg",
+        "https://ok.166.net/reunionpub/1_20260511_19e142c0694364680.jpeg",
+        "https://ok.166.net/reunionpub/1_20260511_19e142c0694116113.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1778454837.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i4Yp4C_tFnwcEc8ckg09cf&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a010eb33b81559e3bcf782f9iIG4J0T07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "巫真/神品时装捏脸 喜欢下方导入即可入\n#永劫手游大神创作激励# #永手捏脸站# #今日劫点# #永手新赛季捏脸# #永手巫真捏脸#",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
     },
     {
       "id": "69fde857e774e10bd4eed0c2",

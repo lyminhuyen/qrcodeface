@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-06T05:19:19.199Z",
+  "lastUpdated": "2026-08-07T05:26:24.970Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 872,
+  "totalCount": 875,
   "qrcodes": [
+    {
+      "id": "6a74582f84a4e41957f3933d",
+      "userId": "db6dcba5820e4fb89f2e89b21c6a1c53",
+      "createTime": 1786009632849,
+      "createDate": "2026-08-06",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260806_19fd6783ebb636940.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##玉玲珑捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "深夜大王666",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250116_1946b356a51539521.jpeg"
+    },
     {
       "id": "6a7247176b15c45c1d3ad5da",
       "userId": "b2589f27ed6c4a628428e9fa0aec5ec9",
@@ -2499,6 +2514,30 @@
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
     },
     {
+      "id": "6a04755cc6eca1566344a088",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1778677082393,
+      "createDate": "2026-05-13",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260513_19e216a6165231820.jpeg",
+        "https://ok.166.net/reunionpub/1_20260513_19e216a6165849816.jpeg",
+        "https://ok.166.net/reunionpub/1_20260513_19e216a6165894173.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1778677012.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=itmtZUu7iycegivWVF9b5y&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a047232cece57f5044635d3MP9qUQdQ07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "玉玲珑/魅狐   宝箱皮捏脸 喜欢的宝宝下方导入即可#永劫手游大神创作激励# #永手捏脸站# #今日劫点# #永手新赛季捏脸# #永手玉玲珑捏脸#",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
+    },
+    {
       "id": "69fc292feef69e280687b5c6",
       "createTime": 1778133293145,
       "createDate": "2026-05-07",
@@ -3520,6 +3559,30 @@
       "userName": "玫瑰凶杀案",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250925_19980080759940187.jpeg",
       "userId": "2ec925a539774c849081030e6d39fdc2"
+    },
+    {
+      "id": "69c4c2b9ee28b32fcdbdad5a",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1774502470418,
+      "createDate": "2026-03-26",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260326_19d2896ded1744081.jpeg",
+        "https://ok.166.net/reunionpub/1_20260326_19d2896ded1242960.jpeg",
+        "https://ok.166.net/reunionpub/1_20260326_19d2896ded1811199.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1774502390.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i9AM_RviqqH9XgrJWmmW9-&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/69c4bb0a670466939804eab3e3uSmzjv07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "玉玲珑/暖馨   下方导入捏脸自取#永劫手游大神创作激励# #永手新赛季捏脸# #永手玉玲珑捏脸# #今日劫点#",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
     },
     {
       "id": "69c360442f7a452cb5105594",

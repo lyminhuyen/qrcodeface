@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-04T05:56:43.726Z",
+  "lastUpdated": "2026-08-07T05:26:24.978Z",
   "source": "刘炼捏脸",
-  "totalCount": 483,
+  "totalCount": 484,
   "qrcodes": [
     {
       "id": "6a708dcdd5bffd17c1e3958c",
@@ -666,6 +666,29 @@
       "userName": "星野织呀",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250904_19910dd0e22102142.jpeg",
       "userId": "1dd7f94448564419bddcef24e57bb78c"
+    },
+    {
+      "id": "69ffd0a4e3d7b2442fbd2011",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1778372770568,
+      "createDate": "2026-05-10",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260510_19e0f46f374583738.jpeg",
+        "https://ok.166.net/reunionpub/1_20260510_19e0f46f374152518.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1778372697.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iSlkfOzFSzgAuX2o4y1-jq&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/69ffcf3c04685592954c23d42DL69CF807",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "刘练/都市阴湿男  喜欢下方导入即可#永劫手游大神创作激励# #永手捏脸站# #今日劫点# #永手新赛季捏脸# #永手刘炼捏脸#",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
     },
     {
       "id": "69fc475d0f9c0e45d4768a78",

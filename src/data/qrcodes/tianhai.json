@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-04T05:25:13.036Z",
+  "lastUpdated": "2026-08-07T05:26:25.012Z",
   "source": "天海捏脸",
-  "totalCount": 672,
+  "totalCount": 674,
   "qrcodes": [
     {
       "id": "6a65aee42e3acd5e8e1f6944",
@@ -910,6 +910,52 @@
       "userName": "昭和阿姨",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
+    },
+    {
+      "id": "69a916b60d5a484457e91437",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1772689076434,
+      "createDate": "2026-03-05",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260305_19cbc80ae0c516086.jpeg",
+        "https://ok.166.net/reunionpub/1_20260305_19cbc80ae0c425730.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1772689072.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iSsq7Af2gF1i_hS8myASKG&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/69a914afdf038ede71da192cdl3jwhGb07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "天海/永劫红衣捏脸#永手天海捏脸# #永手新赛季捏脸# #永劫手游大神创作激励# #永手捏脸站#",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
+    },
+    {
+      "id": "69a9107fefdc0005b0129aba",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1772687484670,
+      "createDate": "2026-03-05",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260305_19cbc6863b6552414.jpeg",
+        "https://ok.166.net/reunionpub/1_20260305_19cbc6863b6291193.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1772687395.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ikcgnj43ZPiUJua0152LRX&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/69a90f24d8334530ada40397ayvhWXjt07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "天海/青铜校霸捏脸#永手捏脸站# #永劫手游大神创作激励# #永手新赛季捏脸# #永手天海捏脸#",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
     },
     {
       "id": "69a90fd4f28e1873b1ad70dc",

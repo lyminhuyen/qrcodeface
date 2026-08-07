@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-05T05:41:47.178Z",
+  "lastUpdated": "2026-08-07T05:26:25.031Z",
   "source": "魏轻捏脸",
-  "totalCount": 709,
+  "totalCount": 711,
   "qrcodes": [
     {
       "id": "6a71aba69789036c525b3333",
@@ -3144,6 +3144,30 @@
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4"
     },
     {
+      "id": "6969c52445b88d0a33cf9940",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1768539425690,
+      "createDate": "2026-01-16",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260116_19bc52a05ee340432.jpeg",
+        "https://ok.166.net/reunionpub/1_20260116_19bc52a05ef839004.jpeg",
+        "https://ok.166.net/reunionpub/1_20260116_19bc52a05ef692738.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1768539423.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ieGReZSpOHDhyeZ833x0bt&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6969c3d96e8aa07da315be55XvSzmxIi07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #永手魏轻捏脸# \n魏轻/正法袍捏脸   喜欢下方导入",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
+    },
+    {
       "id": "69670206b81b7d0f17e3fcea",
       "createTime": 1768358405159,
       "createDate": "2026-01-14",
@@ -5104,6 +5128,30 @@
       "userName": "刈gfdd",
       "userAvatar": "https://ok.166.net/reunionpub/3_20231017_18b3be12fca472023.png",
       "userId": "ef0ff8ffccb547a69870b9de6ad2e009"
+    },
+    {
+      "id": "68eb4d2f1149f95a4e805d11",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1760251120883,
+      "createDate": "2025-10-12",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251012_199d7248861890134.jpeg",
+        "https://ok.166.net/reunionpub/1_20251012_199d7248861625685.jpeg",
+        "https://ok.166.net/reunionpub/1_20251012_199d7248861167581.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1760251118.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i0glC8ozXpI2f2DBXR7KTt&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/68eb4bb26b6b6a9331ac3b0br6eIwm2t06",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #永劫手游魏轻捏脸# 唯一捏得最好看的 妈妈级别好酷  喜欢的宝宝四连下方导入",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
     },
     {
       "id": "68e47b2fb91bc35961e66afe",

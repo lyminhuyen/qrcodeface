@@ -1,8 +1,31 @@
 {
-  "lastUpdated": "2026-08-06T05:45:17.161Z",
+  "lastUpdated": "2026-08-07T05:26:24.958Z",
   "source": "蓝梦捏脸",
-  "totalCount": 752,
+  "totalCount": 756,
   "qrcodes": [
+    {
+      "id": "6a746d15a5496458fd3b8809",
+      "userId": "8a8a2c8446b34200ada7db4edd29ab57",
+      "createTime": 1786014994346,
+      "createDate": "2026-08-06",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260806_19fd6ca081a407344.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6ca081a666211.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6ca081a773067.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6ca081a366774.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6ca081a485471.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6ca081a912970.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6ca081a897618.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6ca081a384593.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6ca081a807749.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "栗子小饼",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240804_1911924239f805247.jpeg"
+    },
     {
       "id": "6a7306544ddfa11f6ce2bbaf",
       "userId": "6f97e929885e4eafbfcad22702843c75",
@@ -1436,6 +1459,29 @@
       "userId": "2efa65e53b454c4fa66e7c70b12c0f5d"
     },
     {
+      "id": "6a29b1131a0d23678a767b19",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1781117201729,
+      "createDate": "2026-06-10",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260611_19eb2dba702185580.jpeg",
+        "https://ok.166.net/reunionpub/1_20260611_19eb2dba702162280.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1781117146.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i0wRYBGL4lHm_W8VTRdFjC&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a29af08c83ff2555cfdd7ed5pMtSIAw07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "蓝梦/稚灵   捏脸下方导入自取哦#永劫手游大神创作激励# #永手捏脸站# #今日劫点# #永手新赛季捏脸# #永手蓝梦捏脸#",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
+    },
+    {
       "id": "6a29660bc91e5f521756c3a7",
       "userId": "6c90db25dceb40babbc7e5e221c9b247",
       "createTime": 1781097993283,
@@ -2376,6 +2422,29 @@
       "userName": "kkkkkkkkwwww守宸",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240722_190da024217933575.jpeg",
       "userId": "51fd3182ce114ee19347f668e9d11f75"
+    },
+    {
+      "id": "69df31ed4a435f691270def5",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1776234987659,
+      "createDate": "2026-04-15",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260415_19d8fdafe00362163.jpeg",
+        "https://ok.166.net/reunionpub/1_20260415_19d8fdafe00876337.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1776234946.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ibxQLfBDx3652eMAbpFaS7&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/69dd98a150190d8c37065367gyw8OuBf07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "蓝梦/菊香   下方导入捏脸#永劫手游大神创作激励# #今日劫点# #永劫手游热点玩法# #永手捏脸站# #永手蓝梦捏脸#",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
     },
     {
       "id": "69dd58f71e361d5c4cccc7ce",
@@ -4094,6 +4163,29 @@
       "userName": "小驴宝宝宝",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260205_19c2d4b329e446574.jpeg",
       "userId": "1ea5ddc4aa1c439d9bef4acaee9b022f"
+    },
+    {
+      "id": "69892e3b3dcf0e40263821ce",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1770597944523,
+      "createDate": "2026-02-09",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260209_19c3fdc863d992151.jpeg",
+        "https://ok.166.net/reunionpub/1_20260209_19c3fdc863d899761.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1770597917.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iQLlw44CLIC5WQu2LY3U36&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6989297a1663a32dc8c8f0c9aYyuvLkC07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "蓝梦/福娃捏脸 下方导入自取#永劫手游大神创作激励# #永手新赛季捏脸# #永手捏脸站# #永手蓝梦捏脸#",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
     },
     {
       "id": "69882e6c86c8be3b2af31931",

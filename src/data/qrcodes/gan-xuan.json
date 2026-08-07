@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-08-03T06:33:50.578Z",
+  "lastUpdated": "2026-08-07T05:17:58.358Z",
   "source": "甘璇捏脸",
-  "totalCount": 155,
+  "totalCount": 156,
   "qrcodes": [
+    {
+      "id": "6a749d39f480b8601b0e5e9e",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1786027095434,
+      "createDate": "2026-08-06",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260806_cb6d6531b77f27479598752c2157eb20",
+        "https://ok.166.net/reunionpub/1_kol_20260806_4b841fbb33a26d919ae340fba265b132",
+        "https://ok.166.net/reunionpub/1_kol_20260806_f629289fc8bbcafb6b8059d1f8d772fd"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260806_1af8f6644d076afc0b75b14c5995f166",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a7496a6093b37370e8ff8a8"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【甘璇捏脸x璃梦】 | 无偿数据分享\n----甘璇是真仙女来的\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #甘璇捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6a6fcf9939ba034a44ba4bd6",
       "userId": "9efd4a06769043e49473131fa3ab403c",

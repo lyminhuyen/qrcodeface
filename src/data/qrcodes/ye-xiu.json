@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-04T06:08:34.134Z",
+  "lastUpdated": "2026-08-07T05:19:57.451Z",
   "source": "叶修捏脸",
-  "totalCount": 76,
+  "totalCount": 77,
   "qrcodes": [
+    {
+      "id": "6a748f1b4ddfa11f6ce536ac",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1786023704921,
+      "createDate": "2026-08-06",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260806_e0c548fc2376fe57b03f2f07005f9f43",
+        "https://ok.166.net/reunionpub/1_kol_20260806_5e915e2f99718211915c6f9e9e213c32",
+        "https://ok.166.net/reunionpub/1_kol_20260806_f875037e31ef8712bb38e5a51686aad5",
+        "https://ok.166.net/reunionpub/1_kol_20260806_f9c98f02bd2ef4f033683e013c6c27a8"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260806_202ce5c3ab455d37eac20193bcc0cb98",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a748abf093b37370e8ff5ef"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【叶修捏脸x伏龙天翔】 | 无偿数据分享\n----神品皮肤越看越顺眼了\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #叶修捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6a713c2e16069318030dd1ee",
       "userId": "e7d946e1f2b142fab0c69a6d0356a317",

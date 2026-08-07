@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-06T05:21:18.833Z",
+  "lastUpdated": "2026-08-07T05:26:25.044Z",
   "source": "特木尔捏脸",
-  "totalCount": 763,
+  "totalCount": 764,
   "qrcodes": [
     {
       "id": "6a66065417996e571964e9da",
@@ -2102,6 +2102,30 @@
       "userName": "暴躁De橙子",
       "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg",
       "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae"
+    },
+    {
+      "id": "68db830735a4421f0322ab04",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1759216389603,
+      "createDate": "2025-09-30",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250930_1999977ca1c459032.jpeg",
+        "https://ok.166.net/reunionpub/1_20250930_1999977ca1c595897.jpeg",
+        "https://ok.166.net/reunionpub/1_20250930_1999977ca1c592240.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1759216367.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iiXfoeNvL0v3-Wmz2duNQR&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/68db7ec65aa10b6cbf12d19b6APgvjzz06",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #永手特木尔捏脸# 奶呼呼的狼狗[哇]",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
     },
     {
       "id": "68d602f84d87352f52f0eb54",
