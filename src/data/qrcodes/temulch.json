@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-07T05:26:25.044Z",
+  "lastUpdated": "2026-08-08T03:30:01.641Z",
   "source": "特木尔捏脸",
-  "totalCount": 764,
+  "totalCount": 765,
   "qrcodes": [
+    {
+      "id": "6a75b9164ddfa11f6ce823ca",
+      "userId": "ab819392a19c4a9ca18fdf6520084790",
+      "createTime": 1786099988747,
+      "createDate": "2026-08-07",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260807_19fdbdaf7b4614893.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##特木尔捏脸#\n排行榜看到的这个捏脸，真的巨喜欢，但是一直找不到，求求求出处",
+      "userName": "煎饼大王2778",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260331_19d43b8beaa902164.jpeg"
+    },
     {
       "id": "6a66065417996e571964e9da",
       "createTime": 1785071184689,

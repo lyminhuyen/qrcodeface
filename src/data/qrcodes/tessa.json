@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-08-07T05:26:24.970Z",
+  "lastUpdated": "2026-08-08T03:28:01.201Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 875,
+  "totalCount": 876,
   "qrcodes": [
+    {
+      "id": "6a75c184a5496458fd3ebb92",
+      "userId": "44911948a1a0490db0a6f1c54e98cf60",
+      "createTime": 1786100811773,
+      "createDate": "2026-08-07",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260807_19fdbe784b0903353.jpeg",
+        "https://ok.166.net/reunionpub/1_20260807_19fdbe784b0506677.jpeg",
+        "https://ok.166.net/reunionpub/1_20260807_19fdbe784b0846612.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1786100803.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a74464c0186943fc252faa0",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "喜欢的可以点点关注和赞～点击导入同款即可使用\n#永劫无间捏脸站# #永劫无间# #玉玲珑捏脸#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
+    },
     {
       "id": "6a74582f84a4e41957f3933d",
       "userId": "db6dcba5820e4fb89f2e89b21c6a1c53",

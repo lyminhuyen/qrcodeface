@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-08-01T06:27:46.675Z",
+  "lastUpdated": "2026-08-08T04:14:09.210Z",
   "source": "哈迪捏脸",
-  "totalCount": 626,
+  "totalCount": 627,
   "qrcodes": [
+    {
+      "id": "6a762d2ad4ea7237c6edfb37",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
+      "createTime": 1786129702101,
+      "createDate": "2026-08-07",
+      "characterId": "hadi",
+      "characterName": "Hadi Ismail",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260808_21010227a44e7fe3927e5e4479f773d7",
+        "https://ok.166.net/reunionpub/1_kol_20260808_87b24a910e79c3f0fedbd95ea71cbe25"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260808_e2fcb5140e28c5e019448f88148e3188",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a762c45093b37370e903c10"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260808_b640817fbd87e1b9efe9f9bde1a4e49d",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a762c45093b37370e903c10"
+        }
+      ],
+      "text": "哈迪：我是中国人能飞，揽佬捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #哈迪捏脸# #揽佬#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "6a6b16941aadcd19f6eb3caa",
       "createTime": 1785403024968,

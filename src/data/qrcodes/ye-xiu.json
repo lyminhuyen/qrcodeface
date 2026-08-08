@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-08-07T05:19:57.451Z",
+  "lastUpdated": "2026-08-08T04:20:06.012Z",
   "source": "叶修捏脸",
-  "totalCount": 77,
+  "totalCount": 80,
   "qrcodes": [
+    {
+      "id": "6a765137ed602c039ed4be5c",
+      "userId": "c7e590328d464f3d8f4172573454308f",
+      "createTime": 1786138930740,
+      "createDate": "2026-08-07",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260808_e207146bc85f80b985e4b59fc98ef883",
+        "https://ok.166.net/reunionpub/1_kol_20260808_7d13ef5a63fdd9982a859fb5d59d16cd",
+        "https://ok.166.net/reunionpub/1_kol_20260808_0e28ec5ae7391c6fa703d7e4c387ca7c",
+        "https://ok.166.net/reunionpub/1_kol_20260808_86e0acc8159b72788a44c3fcb29caf95",
+        "https://ok.166.net/reunionpub/1_kol_20260808_1cb83d95fadcf700f91fc60fdd489b50",
+        "https://ok.166.net/reunionpub/1_kol_20260808_7954a2e94b3de50a230a44c8f7b52f3b",
+        "https://ok.166.net/reunionpub/1_kol_20260808_36e1b2ac89bc224d6d0c7cdbf45d43ee"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260808_236274e9324f8ec5926dad36fb98dece",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a764f5d093b37370e90401e"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260808_b2ae780eac868c1b6612ed6057ab7454",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a764fe1093b37370e904028"
+        }
+      ],
+      "text": "#永劫无间 #永劫无间捏脸 #逆战暴王  #岳山捏脸  #叶修捏脸  #补档\n\n#逆战暴王\n#逆战暴王\n#逆战暴王",
+      "userName": "逆战暴王",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260422_19db213a759713091.jpeg"
+    },
+    {
+      "id": "6a76336c7d8452326aa4bd8c",
+      "userId": "d3405b0ece4a4b7a942f03c7231d5b50",
+      "createTime": 1786131306518,
+      "createDate": "2026-08-07",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260808_19fddb8d1a1432405.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##叶修捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "倪川丰",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230212_186425f13f2220519.png"
+    },
+    {
+      "id": "6a762457d4ea7237c6edf35c",
+      "userId": "59bfce249f9046678281cccb4121de63",
+      "createTime": 1786127445272,
+      "createDate": "2026-08-07",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260808_19fdd7dead4228052.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "出的报数量#永劫无间# #叶修捏脸#",
+      "userName": "冬雪离人愁",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250706_197dbabe777709621.jpeg"
+    },
     {
       "id": "6a748f1b4ddfa11f6ce536ac",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",

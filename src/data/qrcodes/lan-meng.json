@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-07T05:26:24.958Z",
+  "lastUpdated": "2026-08-08T03:54:08.516Z",
   "source": "蓝梦捏脸",
-  "totalCount": 756,
+  "totalCount": 757,
   "qrcodes": [
+    {
+      "id": "6a764b8bfb210923c30937ab",
+      "userId": "7e3efaca287c4b06aa373353cec56b72",
+      "createTime": 1786137481821,
+      "createDate": "2026-08-07",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260808_19fde170f63962503.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：生锈流星\n设计理念：冷脸丧你崛起吧\n捏脸码：",
+      "userName": "想当爱梅的苟",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231024_18b5f8f6968889613.jpeg"
+    },
     {
       "id": "6a746d15a5496458fd3b8809",
       "userId": "8a8a2c8446b34200ada7db4edd29ab57",
@@ -3715,7 +3730,7 @@
       ],
       "qrCodes": [],
       "text": "#蓝梦捏脸#",
-      "userName": "小猫蛋挞ouo",
+      "userName": "郁闷的虾仁",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260227_19c9f6b6af2578174.jpeg",
       "userId": "50a8211a0cd648a29dacd97539e3c892"
     },

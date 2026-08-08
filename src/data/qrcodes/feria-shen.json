@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-07T05:26:24.930Z",
+  "lastUpdated": "2026-08-08T03:50:08.627Z",
   "source": "沈妙捏脸",
-  "totalCount": 760,
+  "totalCount": 761,
   "qrcodes": [
+    {
+      "id": "6a75829400769865bc5c8668",
+      "userId": "12d52d227b784c5aa7dc9e3399bab2b4",
+      "createTime": 1786085716189,
+      "createDate": "2026-08-07",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260807_19fdb012eb0537989.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##沈妙捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "紫罗兰的阿明",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a7fe8652141878.jpeg"
+    },
     {
       "id": "6a6fd25aa21798412888070b",
       "userId": "9efd4a06769043e49473131fa3ab403c",
@@ -2286,7 +2301,7 @@
       ],
       "qrCodes": [],
       "text": "#沈妙捏脸#",
-      "userName": "小猫蛋挞ouo",
+      "userName": "郁闷的虾仁",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260227_19c9f6b6af2578174.jpeg",
       "userId": "50a8211a0cd648a29dacd97539e3c892"
     },
@@ -7420,7 +7435,7 @@
       "qrCodes": [],
       "text": "沈妙爆炸头#沈妙捏脸#",
       "userName": "猪猪大王打死你",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260805_19fcf17c173634831.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260808_19fddb06a8c912485.jpeg",
       "userId": "8b8080acb933494d874ba80f7be7e05e"
     },
     {
