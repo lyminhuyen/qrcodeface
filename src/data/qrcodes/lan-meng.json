@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-08T03:54:08.516Z",
+  "lastUpdated": "2026-08-09T04:11:14.635Z",
   "source": "蓝梦捏脸",
-  "totalCount": 757,
+  "totalCount": 758,
   "qrcodes": [
+    {
+      "id": "6a773a7bed602c039ed67801",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1786198649186,
+      "createDate": "2026-08-08",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260808_bdecf6995565ad496a15523c03f4f6a5",
+        "https://ok.166.net/reunionpub/1_kol_20260808_dc792339b62cc352b7324780c40aa737",
+        "https://ok.166.net/reunionpub/1_kol_20260808_1055b55bc15217699c2f2dcdb457202a",
+        "https://ok.166.net/reunionpub/1_kol_20260808_a3ccadae6b55067acc2023f324963fd9"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260808_b6667886ed03b78cad9018e3d5657842",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a773378745ea9544bca3e03"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【蓝梦捏脸x蝶梦】 | 无偿数据分享\n----蓝梦成了真正的蝶梦\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #蓝梦捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6a764b8bfb210923c30937ab",
       "userId": "7e3efaca287c4b06aa373353cec56b72",

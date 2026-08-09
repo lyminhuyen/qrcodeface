@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-08-04T06:14:16.218Z",
+  "lastUpdated": "2026-08-09T04:29:07.084Z",
   "source": "李寻欢捏脸",
-  "totalCount": 110,
+  "totalCount": 111,
   "qrcodes": [
+    {
+      "id": "6a76d428db980e682ebc7fab",
+      "userId": "6c90db25dceb40babbc7e5e221c9b247",
+      "createTime": 1786172454114,
+      "createDate": "2026-08-08",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260808_19fe02cae5c374092.jpeg",
+        "https://ok.166.net/reunionpub/1_20260808_19fe02cae5c904580.jpeg",
+        "https://ok.166.net/reunionpub/1_20260808_19fe02cae5c292576.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1786172437.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ijivobKheCis1XHDPU09gA&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a7457084e47e687cfc5837fNfWwXULd07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "仿捏ooc致歉#永劫无间手游# #永劫手游大神创作激励# #八仙# #李寻欢捏脸#",
+      "userName": "粥沫小福",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg"
+    },
     {
       "id": "6a6ac951103e0100cccd1e8c",
       "createTime": 1785383247756,

@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-08T03:28:01.201Z",
+  "lastUpdated": "2026-08-09T03:44:45.978Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 876,
+  "totalCount": 877,
   "qrcodes": [
+    {
+      "id": "6a7716b123fee73ea72f02a8",
+      "userId": "0353a224be144d41b9f405b84452d4d8",
+      "createTime": 1786189256219,
+      "createDate": "2026-08-08",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260808_19fe12d12b2699882.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##玉玲珑捏脸#\n作品名称：玉玲珑还原\n设计理念：还原的玉玲珑立绘捏脸\n捏脸码：",
+      "userName": "泻药手被振断",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230716_1895e117b8f186701.png"
+    },
     {
       "id": "6a75c184a5496458fd3ebb92",
       "userId": "44911948a1a0490db0a6f1c54e98cf60",

@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-08T04:10:10.092Z",
+  "lastUpdated": "2026-08-09T04:27:08.490Z",
   "source": "万钧捏脸",
-  "totalCount": 336,
+  "totalCount": 337,
   "qrcodes": [
+    {
+      "id": "6a772ff323fee73ea72f3217",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1786195952055,
+      "createDate": "2026-08-08",
+      "characterId": "wan-jun",
+      "characterName": "Inor Wan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260808_32179301258f8a366eba98f5c8b226bc",
+        "https://ok.166.net/reunionpub/1_kol_20260808_6b1ffef5c5b0b426a67bd68b27d31e36",
+        "https://ok.166.net/reunionpub/1_kol_20260808_797d82d390f23120c6cd1b082513759b",
+        "https://ok.166.net/reunionpub/1_kol_20260808_a3ba44fb8eda08b899358a5e5a1e1a41",
+        "https://ok.166.net/reunionpub/1_kol_20260808_eba75388f6ad87012bad0f3f0ae1933d"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260808_cb6a4770b89f4cb3ce4c84cf1a9eeaa2",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a772850745ea9544bca3c33"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【万钧捏脸x量子行动】 | 无偿数据分享\n----斩神联动的含金量还在上升\n未解锁新眼珠 幻媚的用图四\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #万钧捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6a76857a00769865bc5ed2b5",
       "userId": "13a2c8b892b94745b6dc312777740297",

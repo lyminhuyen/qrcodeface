@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-08-07T05:17:58.358Z",
+  "lastUpdated": "2026-08-09T04:35:03.835Z",
   "source": "甘璇捏脸",
-  "totalCount": 156,
+  "totalCount": 157,
   "qrcodes": [
+    {
+      "id": "6a76c4a7dae8e149a84b70e3",
+      "userId": "44911948a1a0490db0a6f1c54e98cf60",
+      "createTime": 1786168484794,
+      "createDate": "2026-08-08",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260808_19fdff01db6578337.jpeg",
+        "https://ok.166.net/reunionpub/1_20260808_19fdff01db6726464.jpeg",
+        "https://ok.166.net/reunionpub/1_20260808_19fdff01db6804826.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1786168481.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a72f1680186943fc252b4b4",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "喜欢的可以点点关注和赞～点击导入同款即可使用\n#永劫无间# #永劫无间捏脸站# #甘璇捏脸#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
+    },
     {
       "id": "6a749d39f480b8601b0e5e9e",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
