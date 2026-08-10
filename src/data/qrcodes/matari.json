@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-07T05:26:25.004Z",
+  "lastUpdated": "2026-08-10T04:01:41.598Z",
   "source": "迦南捏脸",
-  "totalCount": 716,
+  "totalCount": 717,
   "qrcodes": [
+    {
+      "id": "6a78ac0423fee73ea731c687",
+      "userId": "89a5b58f4952443a98a4a509a0bc2057",
+      "createTime": 1786293248782,
+      "createDate": "2026-08-09",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260810_19fe75fdea1464658.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##迦南捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "终残花落",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240531_18fcde2fa90932325.jpeg"
+    },
     {
       "id": "6a70a9b08121a6370b2f6ea7",
       "userId": "ee6b876034264f14a326c302f79e68b8",

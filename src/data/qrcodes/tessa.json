@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-09T03:44:45.978Z",
+  "lastUpdated": "2026-08-10T03:57:41.367Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 877,
+  "totalCount": 878,
   "qrcodes": [
+    {
+      "id": "6a78a241fb210923c30d44fc",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1786290751736,
+      "createDate": "2026-08-09",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260809_4a8c6021e9223b7fd239d6832166f22b",
+        "https://ok.166.net/reunionpub/1_kol_20260809_95fabd111c538864050a6ea5295f7278",
+        "https://ok.166.net/reunionpub/1_kol_20260809_cdc2e4c2817b7590fec814f548d3db4b",
+        "https://ok.166.net/reunionpub/1_kol_20260809_c2e10e86894e47b73730db2f2e948124"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260809_55ea20e0e141efe8e2f115d8052db6be",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a789e6582b7416f9a484177"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【玉玲珑捏脸x伞蛛道人 仿捏】 | 无偿数据分享\n----诡影藏锋的伞蛛道人 仿捏，需要解锁疤痕09\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #玉玲珑捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6a7716b123fee73ea72f02a8",
       "userId": "0353a224be144d41b9f405b84452d4d8",
@@ -10823,7 +10855,7 @@
       "qrCodes": [],
       "text": "#玉玲珑捏脸#",
       "userName": "今天不上班2",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20211025_17cb743104f192594.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260810_19fe85bb25b402478.jpeg",
       "userId": "08c02d2da98c40aea51eb853bac1066e"
     },
     {
