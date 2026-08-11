@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-08T04:02:09.669Z",
+  "lastUpdated": "2026-08-11T04:20:18.047Z",
   "source": "胡为捏脸",
-  "totalCount": 684,
+  "totalCount": 685,
   "qrcodes": [
+    {
+      "id": "6a79bcb9adfd6a1b10d88bbc",
+      "userId": "9efd4a06769043e49473131fa3ab403c",
+      "createTime": 1786363063621,
+      "createDate": "2026-08-10",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260810_19feb891294705250.png",
+        "https://ok.166.net/reunionpub/1_20260810_19feb891294499066.png",
+        "https://ok.166.net/reunionpub/1_20260810_19feb891294131805.png",
+        "https://ok.166.net/reunionpub/1_20260810_19feb891294228291.png",
+        "https://ok.166.net/reunionpub/1_20260810_19feb891294902312.png",
+        "https://ok.166.net/reunionpub/1_20260810_19feb891294363616.png",
+        "https://ok.166.net/reunionpub/1_20260810_19feb891294817702.png",
+        "https://ok.166.net/reunionpub/1_20260810_19feb891294566102.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a79b9de82b7416f9a487523"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n胡为捏脸分享\n作者：换个晚饭\n无需多言，所有人感受",
+      "userName": "换个晚饭",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260727_19fa2f4d94a968074.jpeg"
+    },
     {
       "id": "6a65e9ec73afc131b7298fac",
       "createTime": 1785063914678,

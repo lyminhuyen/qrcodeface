@@ -1,8 +1,47 @@
 {
-  "lastUpdated": "2026-08-08T04:20:06.012Z",
+  "lastUpdated": "2026-08-11T04:38:21.480Z",
   "source": "叶修捏脸",
-  "totalCount": 80,
+  "totalCount": 82,
   "qrcodes": [
+    {
+      "id": "6a7a7e68ed602c039edc3bf9",
+      "userId": "913271f66f0f47b2af9d9db78a545ad1",
+      "createTime": 1786412646712,
+      "createDate": "2026-08-11",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260811_19fee7dbdca961275.jpeg",
+        "https://ok.166.net/reunionpub/1_20260811_19fee7dbdcb299905.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1786412597.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ij22mNOF8ETOeZJw-qdBze&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a7a7a44acf1c8fc7ede26aboI8KwcAu07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "叶修/一叶知秋  喜欢捏脸的宝子点击下方导入按钮 导入即可#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #叶修捏脸# #今日劫点#",
+      "userName": "陆梓念",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg"
+    },
+    {
+      "id": "6a7996fe00769865bc647386",
+      "userId": "f818774f93e84c4b8afa95d3924ffde7",
+      "createTime": 1786353404032,
+      "createDate": "2026-08-10",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260810_19feaf5c429454626.jpeg",
+        "https://ok.166.net/reunionpub/1_20260810_19feaf5c429968061.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#叶修捏脸#",
+      "userName": "胖10公斤",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221218_18525de83ac554281.jpeg"
+    },
     {
       "id": "6a765137ed602c039ed4be5c",
       "userId": "c7e590328d464f3d8f4172573454308f",

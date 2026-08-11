@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-09T04:11:14.635Z",
+  "lastUpdated": "2026-08-11T04:12:12.439Z",
   "source": "蓝梦捏脸",
-  "totalCount": 758,
+  "totalCount": 759,
   "qrcodes": [
+    {
+      "id": "6a797508cdc99b56b80ca413",
+      "userId": "4c87ea2a9f6b48b4b8f94a9f5852b2cb",
+      "createTime": 1786344710950,
+      "createDate": "2026-08-10",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260810_19fea70f8e7608589.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "求这个蓝梦的捏脸#蓝梦捏脸#",
+      "userName": "千岁长安",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231201_18c22d1c75f898884.jpeg"
+    },
     {
       "id": "6a773a7bed602c039ed67801",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",

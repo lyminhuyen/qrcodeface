@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-08T04:08:10.290Z",
+  "lastUpdated": "2026-08-11T04:26:22.734Z",
   "source": "刘炼捏脸",
-  "totalCount": 485,
+  "totalCount": 486,
   "qrcodes": [
+    {
+      "id": "6a79c854f480b8601b18f5ee",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1786366034089,
+      "createDate": "2026-08-10",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260810_88ef7fa8282448d4cfda7a8ceb6d3356",
+        "https://ok.166.net/reunionpub/1_kol_20260810_5c42a9d03ce86d659bfd8118139ba1e2",
+        "https://ok.166.net/reunionpub/1_kol_20260810_b637c26ae2ed41a74b781077b9a59ce6",
+        "https://ok.166.net/reunionpub/1_kol_20260810_44d5fab80459bc43b2f210335c91603c"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260810_924fbcaaad80e19c8d23248a42eefeba",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a79c5e1093b37370e90eb89"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【刘炼捏脸x帝俊】 | 无偿数据分享\n----刘炼吃的真好，又是阎王又是帝俊的\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #刘炼捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6a75896c00769865bc5c9ab4",
       "userId": "d4ad7e30102f41a9957c91074c52305e",
