@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-08-11T04:38:21.480Z",
+  "lastUpdated": "2026-08-12T05:01:52.802Z",
   "source": "叶修捏脸",
-  "totalCount": 82,
+  "totalCount": 83,
   "qrcodes": [
+    {
+      "id": "6a7abb6523fee73ea7359e53",
+      "userId": "d84cf82e6f1f420ea63b32fff28105ad",
+      "createTime": 1786428257385,
+      "createDate": "2026-08-11",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260811_7bd3f625b4267ae4c8b5d6ceade84882",
+        "https://ok.166.net/reunionpub/1_kol_20260811_7ef8223e614d451b223e0a459605bb68",
+        "https://ok.166.net/reunionpub/1_kol_20260811_3bfc0200b761ab1ed16d820b490a51a1"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260811_39354099318e42776aa164d3bdd57f33",
+          "errmsg": "",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i6BdFVLJsnWwo0C44zfYEf&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a7aa0ae755a1fc245b12ea7VlhMNQXg07"
+        }
+      ],
+      "text": "我的刀盾｜叶修捏脸\n喜欢的劫友们，取码请礼貌关注三连哈～\n#永劫手游大神创作激励# #永劫无间手游# #永手捏脸站# #永手新赛季捏脸# #叶修捏脸# #永手叶修捏脸# #刀盾狗捏脸# #捏脸# #永劫无间手游捏脸# #永劫无间手游穿云赛季#",
+      "userName": "ZMoses",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251102_19a42c4b08b745372.jpeg"
+    },
     {
       "id": "6a7a7e68ed602c039edc3bf9",
       "userId": "913271f66f0f47b2af9d9db78a545ad1",
