@@ -1,8 +1,26 @@
 {
-  "lastUpdated": "2026-08-12T05:01:52.802Z",
+  "lastUpdated": "2026-08-13T05:04:48.801Z",
   "source": "叶修捏脸",
-  "totalCount": 83,
+  "totalCount": 84,
   "qrcodes": [
+    {
+      "id": "6a7ca9f984a4e4195703d362",
+      "userId": "1e928d2bcb7941289adc6950793e120f",
+      "createTime": 1786554871310,
+      "createDate": "2026-08-12",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260813_19ff6f7d1c1223028.jpeg",
+        "https://ok.166.net/reunionpub/1_20260813_19ff6f7d1c1366630.jpeg",
+        "https://ok.166.net/reunionpub/1_20260813_19ff6f7d1c1282358.jpeg",
+        "https://ok.166.net/reunionpub/1_20260813_19ff6f7d1c1848769.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##叶修捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "喜欢雨后漫步",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240529_18fc340a5c8811977.jpeg"
+    },
     {
       "id": "6a7abb6523fee73ea7359e53",
       "userId": "d84cf82e6f1f420ea63b32fff28105ad",

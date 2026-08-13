@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-12T04:16:16.274Z",
+  "lastUpdated": "2026-08-13T05:08:12.643Z",
   "source": "胡桃捏脸",
-  "totalCount": 977,
+  "totalCount": 979,
   "qrcodes": [
+    {
+      "id": "6a7c344f4ddfa11f6cf40eec",
+      "userId": "40a731e5bd3a438f8bae94f5e84a93b6",
+      "createTime": 1786524748551,
+      "createDate": "2026-08-12",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260812_19ff52c46ce458614.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#土御门胡桃捏脸# 之前不小心覆盖掉了，找了好几个捏脸大博主的主页都没找到，有没有大佬有这个捏脸#永劫无间捏脸站# #胡桃捏脸#",
+      "userName": "年轻人要热爱祖国",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230904_18a5dfbe9f5926232.jpeg"
+    },
     {
       "id": "6a74cc09dae8e149a846ded3",
       "userId": "83c152712bf94ad1a2003691e62973df",
@@ -736,6 +751,23 @@
       "userName": "玫瑰凶杀案",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250925_19980080759940187.jpeg",
       "userId": "2ec925a539774c849081030e6d39fdc2"
+    },
+    {
+      "id": "6a128232bd7c6f4bc5b44e91",
+      "userId": "bd4fa39cfd5c4355a3e35d7a4557c51e",
+      "createTime": 1779597869607,
+      "createDate": "2026-05-24",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260524_19e584c79ef547639.jpeg",
+        "https://ok.166.net/reunionpub/1_20260524_19e584c79f0920332.png",
+        "https://ok.166.net/reunionpub/1_20260524_19e584c79f0391063.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#土御门胡桃捏脸#",
+      "userName": "游戏玩家207136502",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260222_19c84938490116131.png"
     },
     {
       "id": "6a11cd2ac5c9d625ae4b22c2",

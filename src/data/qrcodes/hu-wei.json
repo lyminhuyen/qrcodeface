@@ -1,8 +1,96 @@
 {
-  "lastUpdated": "2026-08-12T04:43:54.334Z",
+  "lastUpdated": "2026-08-13T04:47:18.464Z",
   "source": "胡为捏脸",
-  "totalCount": 685,
+  "totalCount": 688,
   "qrcodes": [
+    {
+      "id": "6a7d4938ed602c039ee1116c",
+      "userId": "e25cac97852d47ddb4b16db220de7053",
+      "createTime": 1786595637798,
+      "createDate": "2026-08-13",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260813_19ff965ecf9298112.jpeg",
+        "https://ok.166.net/reunionpub/1_20260813_19ff965ecf9139058.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a7d474382b7416f9a492e67"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：齐天大圣孙悟空\n设计理念：还原大圣英姿\n捏脸码：见图一",
+      "userName": "俗山生",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230805_189c55f6e2e926162.jpeg"
+    },
+    {
+      "id": "6a7d42fd00769865bc6ae347",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1786594037914,
+      "createDate": "2026-08-13",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260813_d18199223338cf68a8f448dffaf72696",
+        "https://ok.166.net/reunionpub/1_kol_20260813_acd7468c4826e65857c39ba130bf76f5",
+        "https://ok.166.net/reunionpub/1_kol_20260813_b93e92c77cd04052226092571af1040d",
+        "https://ok.166.net/reunionpub/1_kol_20260813_08f075a2949159bb0eda71c7a94a54f4"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260813_6148461b68e7b1debfe819c9747b1ce5",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a7d3f81093b37370e91a1c4"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡为捏脸x大闹天宫】 | 无偿数据分享\n----五年了，梦想照进现实！\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #胡为捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "6a7d389f7d8452326ab119fc",
+      "userId": "609ac465e1f44fba81fdae62df8b0e03",
+      "createTime": 1786591388020,
+      "createDate": "2026-08-13",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260813_74e67161ce462d8fd4598eaf3bf7679c",
+        "https://ok.166.net/reunionpub/1_kol_20260813_95bca3f7d134fb74f62f80c3526bda7d"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260813_be0819dd84b488024ea0ba2066d93980",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a7d36a0745ea9544bcb6f44"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "胡为捏脸【美猴】\n同款捏脸点进帖子导入哦~\n喜欢的宝宝别忘了三连支持哦~\n#永劫无间##永劫无间捏脸站##胡为捏脸#",
+      "userName": "纱田奈",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230819_18a0c72b161826665.jpeg"
+    },
     {
       "id": "6a79bcb9adfd6a1b10d88bbc",
       "userId": "9efd4a06769043e49473131fa3ab403c",

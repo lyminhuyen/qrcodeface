@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-11T04:40:26.844Z",
+  "lastUpdated": "2026-08-13T05:09:32.547Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 879,
+  "totalCount": 880,
   "qrcodes": [
     {
       "id": "6a78a241fb210923c30d44fc",
@@ -1539,6 +1539,26 @@
       "userName": "泡泡柚又籽",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260703_19f2399fd0f687943.jpeg",
       "userId": "79540e2f4a8c48dbb3a48bce26a0d85c"
+    },
+    {
+      "id": "6a3ac746c291677d5a856023",
+      "userId": "5e20ba7a402f4d2b9d447f3a2cf00159",
+      "createTime": 1782236995856,
+      "createDate": "2026-06-23",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260624_19ef59a50ab283376.jpeg",
+        "https://ok.166.net/reunionpub/1_20260624_19ef59a50ab749464.jpeg",
+        "https://ok.166.net/reunionpub/1_20260624_19ef59a50ab699124.jpeg",
+        "https://ok.166.net/reunionpub/1_20260624_19ef59a50ab744833.jpeg",
+        "https://ok.166.net/reunionpub/1_20260624_19ef59a50ab170299.jpeg",
+        "https://ok.166.net/reunionpub/1_20260624_19ef59a50ab639010.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永手玉玲珑捏脸#",
+      "userName": "Lucky小乐cc",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250825_198e09c8543931069.jpeg"
     },
     {
       "id": "6a389bf336dcb82323a28a0a",
