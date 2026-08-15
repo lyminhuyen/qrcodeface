@@ -1,8 +1,53 @@
 {
-  "lastUpdated": "2026-08-14T04:44:17.641Z",
+  "lastUpdated": "2026-08-15T03:26:52.771Z",
   "source": "胡为捏脸",
-  "totalCount": 703,
+  "totalCount": 705,
   "qrcodes": [
+    {
+      "id": "6a7ed10e4ddfa11f6cf89d17",
+      "userId": "059d980048654f568d79ac62a83e6ba2",
+      "createTime": 1786695672867,
+      "createDate": "2026-08-14",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260814_19fff5c6113841357.jpeg",
+        "https://ok.166.net/reunionpub/1_20260814_19fff5c6113631244.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：大圣捏脸\n设计理念：\n捏脸码：\n二传标注出处",
+      "userName": "墨染秋鸿",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250612_19762dc1e0a706205.jpeg"
+    },
+    {
+      "id": "6a7eb9edfb210923c318276c",
+      "userId": "cc3ced9f0f0b42548eaf9235a0a53f83",
+      "createTime": 1786689849206,
+      "createDate": "2026-08-14",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260814_19fff0382ad990860.jpeg",
+        "https://ok.166.net/reunionpub/1_20260814_19fff0382ad667250.jpeg",
+        "https://ok.166.net/reunionpub/1_20260814_19fff0382ad406491.jpeg",
+        "https://ok.166.net/reunionpub/1_20260814_19fff0382ad849311.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1786689842.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a7d4dae745ea9544bcb73ef",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "胡为捏脸分享 喜欢的宝宝给我点点赞哦[送花]#永劫无间捏脸站##胡为捏脸##永劫无间#",
+      "userName": "又又丸",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20210713_17a9f63e185416640.jpeg"
+    },
     {
       "id": "6a7e9acc84a4e4195706ed8b",
       "userId": "efc1292182bf4150ab4c18f9aaabbbae",
@@ -4141,7 +4186,7 @@
       ],
       "qrCodes": [],
       "text": "#胡为捏脸# 本人捏脸[旺柴]",
-      "userName": "我的人生比中药苦",
+      "userName": "泽珂珂珂珂珂",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250119_1947e8d8056252663.jpeg",
       "userId": "10533372366140b5a5b1471768d2c448"
     },
@@ -4156,7 +4201,7 @@
       ],
       "qrCodes": [],
       "text": "#胡为捏脸#",
-      "userName": "我的人生比中药苦",
+      "userName": "泽珂珂珂珂珂",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250119_1947e8d8056252663.jpeg",
       "userId": "10533372366140b5a5b1471768d2c448"
     },
