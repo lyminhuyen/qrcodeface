@@ -33,6 +33,10 @@ password reset fail closed until these are also set:
 Add the deployed hostname to the Turnstile widget's allowed hostnames. Add the
 same deployed origin to Supabase Auth redirect URLs before testing email flows.
 
+For an isolated Vercel Preview only, `TURNSTILE_TEST_MODE=true` enables
+Cloudflare's official always-pass test keys. The code requires
+`VERCEL_ENV=preview`, so this flag cannot activate test mode on Production.
+
 ## Security boundary
 
 - The publishable key may be used by the auth client.

@@ -1,11 +1,10 @@
 import Link from 'next/link';
 import { passwordResetAction } from '@/app/actions';
 import { AuthForm } from '@/components/AuthForm';
-
-const TEST_SITE_KEY = '1x00000000000000000000AA';
+import { turnstileSiteKey } from '@/lib/turnstile';
 
 export default function ForgotPasswordPage() {
-  const siteKey = process.env.TURNSTILE_SITE_KEY || (process.env.NODE_ENV === 'development' ? TEST_SITE_KEY : undefined);
+  const siteKey = turnstileSiteKey();
   return (
     <section className="auth-page">
       <div className="auth-shell">

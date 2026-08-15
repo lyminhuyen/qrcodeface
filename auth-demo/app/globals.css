@@ -244,11 +244,26 @@ body:has(.auth-page) main.shell {
   display: flex;
   justify-content: center;
 }
-.auth-form .message,
-.auth-form > .danger {
+.auth-feedback {
   margin: 0;
-  border-radius: 6px;
   font-size: 12px;
+  line-height: 1.45;
+}
+.auth-feedback.error {
+  color: #ff7474;
+}
+.auth-feedback.success {
+  color: #85cf92;
+}
+.auth-field input[aria-invalid="true"] {
+  border-color: #b9535b;
+  box-shadow: 0 0 0 3px #b9535b22;
+}
+.auth-field-error {
+  margin: -1px 0 0;
+  color: #ff7474;
+  font-size: 11px;
+  line-height: 1.35;
 }
 .auth-switch {
   margin: 22px 0 0;

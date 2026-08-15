@@ -91,7 +91,9 @@ export function createSupabaseAdapter(): AuthEvaluationAdapter {
         const { error } = await client.auth.signInWithPassword(input);
         if (error) throw error;
         return { ok: true, message: 'Signed in.' };
-      } catch (error) { return failure(error, 'Sign-in failed.'); }
+      } catch {
+        return { ok: false, message: 'Email or password is incorrect.' };
+      }
     },
     async signOut() {
       try {
