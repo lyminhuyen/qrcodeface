@@ -18,8 +18,10 @@ export async function signInAction(_previous: ActionResult | null, formData: For
 
 export async function signUpAction(_previous: ActionResult | null, formData: FormData): Promise<ActionResult> {
   const password = String(formData.get('password') ?? '');
+  const passwordConfirmation = String(formData.get('passwordConfirmation') ?? '');
   const invalidPassword = validatePassword(password);
   if (invalidPassword) return { ok: false, message: invalidPassword };
+  if (password !== passwordConfirmation) return { ok: false, message: 'Passwords do not match.' };
   const adapter = await getAdapter();
   return adapter.signUp({
     email: String(formData.get('email') ?? ''),

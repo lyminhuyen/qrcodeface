@@ -10,7 +10,9 @@ test('return path rejects absolute and protocol-relative URLs', () => {
 
 test('password boundary is enforced', () => {
   assert.match(validatePassword('too-short') ?? '', /at least 12/);
-  assert.equal(validatePassword('long-enough-password'), null);
+  assert.match(validatePassword('letters-only-password') ?? '', /number/);
+  assert.match(validatePassword('Password123456') ?? '', /symbol/);
+  assert.equal(validatePassword('Long-enough-password1'), null);
   assert.match(validatePassword('x'.repeat(129)) ?? '', /at most 128/);
 });
 

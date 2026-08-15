@@ -82,5 +82,8 @@ export function isSafeReturnTo(value: string | null): boolean {
 export function validatePassword(password: string): string | null {
   if (password.length < 12) return 'Password must contain at least 12 characters.';
   if (password.length > 128) return 'Password must contain at most 128 characters.';
+  if (!/[A-Za-z]/.test(password)) return 'Password must contain a letter.';
+  if (!/\d/.test(password)) return 'Password must contain a number.';
+  if (!/[^A-Za-z0-9]/.test(password)) return 'Password must contain a symbol.';
   return null;
 }
