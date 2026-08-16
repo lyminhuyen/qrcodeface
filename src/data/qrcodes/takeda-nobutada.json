@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-08-15T03:11:14.769Z",
+  "lastUpdated": "2026-08-16T03:19:33.669Z",
   "source": "武田信忠捏脸",
-  "totalCount": 766,
+  "totalCount": 767,
   "qrcodes": [
+    {
+      "id": "6a807b477cbb9b1a3d8a4f63",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1786805062066,
+      "createDate": "2026-08-15",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260815_1a005e18287631024.jpeg",
+        "https://ok.166.net/reunionpub/1_20260815_1a005e18287178245.jpeg",
+        "https://ok.166.net/reunionpub/1_20260815_1a005e18287358504.jpeg",
+        "https://ok.166.net/reunionpub/1_20260815_1a005e18287614208.jpeg",
+        "https://ok.166.net/reunionpub/1_20260815_1a005e18287518752.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1786805047.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a807687745ea9544bcc21d6",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "懂得都懂！\n#永劫无间捏脸站# #武田信忠穿搭# #武田信忠捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6a745de2ed602c039ed021aa",
       "userId": "402192bda13d4fd4ac464a51664bc825",

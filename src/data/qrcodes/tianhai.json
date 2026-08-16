@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-14T05:06:37.655Z",
+  "lastUpdated": "2026-08-16T03:09:34.624Z",
   "source": "天海捏脸",
-  "totalCount": 680,
+  "totalCount": 681,
   "qrcodes": [
+    {
+      "id": "6a80b729cdc99b56b819abe0",
+      "userId": "99d2c0ee962d41a08d8313029ab2cf49",
+      "createTime": 1786820392125,
+      "createDate": "2026-08-15",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260816_1a006cb706c778926.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##天海捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "略感疲惫ow",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240325_18e760e44ed941577.jpeg"
+    },
     {
       "id": "6a7db2d9bae47c42883fedef",
       "userId": "6c90db25dceb40babbc7e5e221c9b247",
