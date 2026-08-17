@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-16T03:23:30.301Z",
+  "lastUpdated": "2026-08-17T03:55:48.928Z",
   "source": "沈妙捏脸",
-  "totalCount": 782,
+  "totalCount": 783,
   "qrcodes": [
+    {
+      "id": "6a819864d4ea7237c602633c",
+      "userId": "09240252501f4fb1949ab98c8c5fda65",
+      "createTime": 1786877800680,
+      "createDate": "2026-08-16",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260816_6273fc5ee586667e315fd1978aba2e83",
+        "https://ok.166.net/reunionpub/1_kol_20260816_e13df30aa04eb68279d34029b32150d0",
+        "https://ok.166.net/reunionpub/1_kol_20260816_5fbdc59c620743d4b84ebb11b64b0ebb"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260816_beb10f6223cd472cf333e807ca7c7976",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a818cbd82b7416f9a4a1815"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260816_f37f25b4d26902f223619b14826a7aba",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a818cbd82b7416f9a4a1815"
+        }
+      ],
+      "text": "沈妙[未玫]\n左下角可以直接导入哦，球球关注~\n#永劫无间##沈妙捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "6a80681784a4e419570a4a20",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
@@ -198,7 +230,7 @@
       ],
       "text": "#永劫无间捏脸站##沈妙捏脸#\n作品名称：\n设计理念：\n捏脸码：",
       "userName": "粉红小萌萌",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20220519_180d867b88f851525.png"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260816_1a00acd9b80110340.jpeg"
     },
     {
       "id": "6a7f06fd6f0fb44f82a85ffa",
