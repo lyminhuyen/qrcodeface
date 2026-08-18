@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-08-17T03:29:19.549Z",
+  "lastUpdated": "2026-08-18T03:29:23.010Z",
   "source": "季莹莹捏脸",
-  "totalCount": 903,
+  "totalCount": 904,
   "qrcodes": [
+    {
+      "id": "6a83cc1b0d8b3c1be7f1ef31",
+      "userId": "ea6f642eb7754b909001b81e56b04a4c",
+      "createTime": 1787022320961,
+      "createDate": "2026-08-18",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260818_1a012d49fb3448866.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a7dfeaf82b7416f9a49630b"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "鼠鼠最爱的捏脸\n#永劫无间# #永劫无间捏脸站# #季莹莹捏脸#",
+      "userName": "你的V10冰老公",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260523_19e53d26433309124.jpeg"
+    },
     {
       "id": "6a81609e6f0fb44f82acdacf",
       "userId": "a6eeca5b8d8a4fb8909a2c8223a15552",
@@ -9110,7 +9135,7 @@
       "qrCodes": [],
       "text": "#永劫无间捏脸站# #季莹莹捏脸# 这个捏脸有没有大佬有的啊，找了半天没找到[送花]",
       "userName": "拾玖黎",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260627_19f08b6f013547194.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260818_1a012c87a32407834.jpeg",
       "userId": "47039b4435604ab1b267038381ebcc3c"
     },
     {

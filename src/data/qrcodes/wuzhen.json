@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-14T04:57:49.630Z",
+  "lastUpdated": "2026-08-18T03:49:03.988Z",
   "source": "巫真捏脸",
-  "totalCount": 256,
+  "totalCount": 257,
   "qrcodes": [
+    {
+      "id": "6a82ee8c1cd8532aae986bbb",
+      "userId": "09240252501f4fb1949ab98c8c5fda65",
+      "createTime": 1786965639207,
+      "createDate": "2026-08-17",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260817_c3f233e6e9f38b60ee85ed9c9e78b4f8",
+        "https://ok.166.net/reunionpub/1_kol_20260817_24a656a4cb59d8cad0dae60e52164baf",
+        "https://ok.166.net/reunionpub/1_kol_20260817_0a0131a60b670bc4fc73b89fed115c9c"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260817_22be67b150315246ecfc91b9c24f5028",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a82e6d4093b37370e92ceab"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260817_28f49af36f09e5cb18e34f0b150b7dc0",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a82e6d4093b37370e92ceab"
+        }
+      ],
+      "text": "巫真[箭羽]\n左下角可以直接导入哦，球球关注~\n#永劫无间##巫真捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "6a6b56cc0592910ea3952502",
       "createTime": 1785419266350,

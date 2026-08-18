@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-17T03:55:48.928Z",
+  "lastUpdated": "2026-08-18T03:23:28.579Z",
   "source": "沈妙捏脸",
-  "totalCount": 783,
+  "totalCount": 784,
   "qrcodes": [
+    {
+      "id": "6a8313e8a7bb2e4de4a921ff",
+      "userId": "9efd4a06769043e49473131fa3ab403c",
+      "createTime": 1786975016401,
+      "createDate": "2026-08-17",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260817_1a01002b279443306.png",
+        "https://ok.166.net/reunionpub/1_20260817_1a01002b279657938.png",
+        "https://ok.166.net/reunionpub/1_20260817_1a01002b279237568.png",
+        "https://ok.166.net/reunionpub/1_20260817_1a01002b279295175.png",
+        "https://ok.166.net/reunionpub/1_20260817_1a01002b279719659.png",
+        "https://ok.166.net/reunionpub/1_20260817_1a01002b27a509688.png",
+        "https://ok.166.net/reunionpub/1_20260817_1a01002b27a444186.png",
+        "https://ok.166.net/reunionpub/1_20260817_1a01002b27a512117.png",
+        "https://ok.166.net/reunionpub/1_20260817_1a01002b27a237375.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a83101e0186943fc255ee72"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站##沈妙捏脸#\n沈妙捏脸分享\n汉堡王联动的这个高马尾感觉还挺好看的\n作者：换个晚饭",
+      "userName": "换个晚饭",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260727_19fa2f4d94a968074.jpeg"
+    },
     {
       "id": "6a819864d4ea7237c602633c",
       "userId": "09240252501f4fb1949ab98c8c5fda65",
