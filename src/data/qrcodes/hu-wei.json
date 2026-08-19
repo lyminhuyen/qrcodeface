@@ -1,8 +1,95 @@
 {
-  "lastUpdated": "2026-08-18T03:35:17.270Z",
+  "lastUpdated": "2026-08-19T03:32:24.128Z",
   "source": "胡为捏脸",
-  "totalCount": 722,
+  "totalCount": 726,
   "qrcodes": [
+    {
+      "id": "6a84c30cc758eb7b9948b65d",
+      "userId": "a888710750eb4f4cbe38bfa29b111f1c",
+      "createTime": 1787085579182,
+      "createDate": "2026-08-18",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260819_1a01699ded3597052.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "苍元一",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250817_198b4075b46744993.jpeg"
+    },
+    {
+      "id": "6a8411230c508f20f7daf788",
+      "userId": "e8631ebc3d214b98af5a9e0f6130c26a",
+      "createTime": 1787040033359,
+      "createDate": "2026-08-18",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260818_1a013e2e446144033.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1787040002.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a8410da82b7416f9a4a91a5",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "纳兰若侲",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20210120_1771db4ca67674453.jpeg"
+    },
+    {
+      "id": "6a8403701cd8532aae9a334e",
+      "userId": "bcd3be18020c4be3a55a36164b71f374",
+      "createTime": 1787036525931,
+      "createDate": "2026-08-18",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260818_1a013ad51c7860326.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#胡为捏脸# 有没有大佬  懂的捏一张张卫健孙悟空的捏脸  搞半天弄不来  谢谢大佬",
+      "userName": "阿桃快跑吖",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250703_197d0a668bb945746.jpeg"
+    },
+    {
+      "id": "6a83eb66abcadf6a20c1a5a0",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
+      "createTime": 1787030370823,
+      "createDate": "2026-08-18",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260818_2d53792bc1d3dea95d9f2a366c9efbaf",
+        "https://ok.166.net/reunionpub/1_kol_20260818_a7ac1c78f8bd0fd895b229eeed73ac54"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260818_1d1cf591e0dc136270eaa64332268a9a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a83e9de745ea9544bccca12"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260818_76c3f71a8c2a7424de74691ef306f4cb",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a83e9de745ea9544bccca12"
+        }
+      ],
+      "text": "黑神话：悟空 最终版捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #胡为捏脸# #黑神话悟空#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "6a8360b3a000117a9f77aebe",
       "userId": "de440deaace4494dbbc445c92b3f5de6",
@@ -929,7 +1016,7 @@
       ],
       "text": "#永劫无间捏脸站##胡为捏脸#\n胡为捏脸分享\n作者：换个晚饭\n无需多言，所有人感受",
       "userName": "换个晚饭",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260727_19fa2f4d94a968074.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260818_1a0145284fb142633.jpeg"
     },
     {
       "id": "6a65e9ec73afc131b7298fac",
