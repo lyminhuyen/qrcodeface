@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-08-19T03:32:24.128Z",
+  "lastUpdated": "2026-08-20T03:34:23.643Z",
   "source": "胡为捏脸",
-  "totalCount": 726,
+  "totalCount": 727,
   "qrcodes": [
+    {
+      "id": "6a8587e9a2d7a65cd9ab24ee",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
+      "createTime": 1787135974696,
+      "createDate": "2026-08-19",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260819_139ade1558026e8c684a1cd11e0a8618",
+        "https://ok.166.net/reunionpub/1_kol_20260819_76f78f6f628c0ceacfe85100f630534f"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260819_f5b66f581b15917ca79ab12a72b7d085",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a858729093b37370e934d9d"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260819_15149d512340cc3db1db707914dd3e7a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a858729093b37370e934d9d"
+        }
+      ],
+      "text": "打架看到 奶蛙 捏脸能绷住的可以确诊抑郁症了\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #胡为捏脸# #奶蛙#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "6a84c30cc758eb7b9948b65d",
       "userId": "a888710750eb4f4cbe38bfa29b111f1c",

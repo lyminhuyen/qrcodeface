@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-19T03:12:53.532Z",
+  "lastUpdated": "2026-08-20T03:14:38.480Z",
   "source": "无尘捏脸",
-  "totalCount": 694,
+  "totalCount": 695,
   "qrcodes": [
+    {
+      "id": "6a85361c3d46fd4c9489af31",
+      "userId": "9841ad5892754d74937b4d9a896d143c",
+      "createTime": 1787115033647,
+      "createDate": "2026-08-19",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260819_1a0185b5182163320.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##无尘捏脸#\n作品名称：哦比头\n设计理念：带土\n捏脸码：瞎捏的 到家喜欢可以告诉我 我把码分享出来",
+      "userName": "飞霜月白",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260210_19c46f46e63733065.jpeg"
+    },
     {
       "id": "6a84261e2fcb2e612176f6ca",
       "userId": "9efd4a06769043e49473131fa3ab403c",

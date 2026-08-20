@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-08-19T03:20:40.948Z",
+  "lastUpdated": "2026-08-20T03:22:38.455Z",
   "source": "沈妙捏脸",
-  "totalCount": 787,
+  "totalCount": 788,
   "qrcodes": [
+    {
+      "id": "6a859cc3a2f2513c11adc37f",
+      "userId": "78d17f5f78244c58adce188bd1d1cdd0",
+      "createTime": 1787141312912,
+      "createDate": "2026-08-19",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260819_1a019ec4c6f344843.jpeg",
+        "https://ok.166.net/reunionpub/1_20260819_1a019ec4c70413596.png",
+        "https://ok.166.net/reunionpub/1_20260819_1a019ec4c70410118.png",
+        "https://ok.166.net/reunionpub/1_20260819_1a019ec4c70208783.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a855e9f745ea9544bcd112d"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "妙妙百搭发型+1\n喜欢请多多点赞关注支持[哇]\n#永劫无间# #永劫无间捏脸站# #沈妙捏脸#",
+      "userName": "Miumiiu",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260722_19f8a270fc4441795.jpeg"
+    },
     {
       "id": "6a84460bb1e5691fdd832658",
       "userId": "b549bd0254904bf4bf5e01c34b26c60f",
@@ -1383,7 +1411,7 @@
       ],
       "text": "#永劫无间捏脸站##沈妙捏脸#\n作品名称：无瑕",
       "userName": "愿明月无瑕",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260613_19ec1005cec822747.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260820_1a01be12888352015.jpeg",
       "userId": "11e3ca16ba554d06b93276958bc6790b"
     },
     {

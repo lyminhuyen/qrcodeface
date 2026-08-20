@@ -1,7 +1,169 @@
 {
-  "lastUpdated": "2026-08-19T03:56:46.135Z",
+  "lastUpdated": "2026-08-20T03:59:08.616Z",
   "totalCount": 100,
   "qrcodes": [
+    {
+      "id": "6a865b20a2f2513c11aee214",
+      "userId": "1a2125d589474cb4b7b5d11068687a1e",
+      "createTime": 1787190046009,
+      "createDate": "2026-08-20",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260820_1a01cd3e99f119924.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a79b55882b7416f9a487414"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站##季莹莹捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "千叶铃音",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20200612_172a75d1c14180144.jpeg"
+    },
+    {
+      "id": "6a859cc3a2f2513c11adc37f",
+      "userId": "78d17f5f78244c58adce188bd1d1cdd0",
+      "createTime": 1787141312912,
+      "createDate": "2026-08-19",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260819_1a019ec4c6f344843.jpeg",
+        "https://ok.166.net/reunionpub/1_20260819_1a019ec4c70413596.png",
+        "https://ok.166.net/reunionpub/1_20260819_1a019ec4c70410118.png",
+        "https://ok.166.net/reunionpub/1_20260819_1a019ec4c70208783.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a855e9f745ea9544bcd112d"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "妙妙百搭发型+1\n喜欢请多多点赞关注支持[哇]\n#永劫无间# #永劫无间捏脸站# #沈妙捏脸#",
+      "userName": "Miumiiu",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260722_19f8a270fc4441795.jpeg"
+    },
+    {
+      "id": "6a8595b049dfbf49adf0eb88",
+      "userId": "d1d7df1b3fad4268b9726ab0d969aa49",
+      "createTime": 1787139501699,
+      "createDate": "2026-08-19",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260819_1a019d0ac28325869.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##季莹莹捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家75246572",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250202_194c458e7ac872335.png"
+    },
+    {
+      "id": "6a8591a1c1d2f3184efb31b2",
+      "userId": "54c816acf75f49beb51686b691e7ccba",
+      "createTime": 1787137689753,
+      "createDate": "2026-08-19",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260819_1a019b4ff39326121.jpeg",
+        "https://ok.166.net/reunionpub/1_20260819_1a019b4ff39415840.jpeg",
+        "https://ok.166.net/reunionpub/1_20260819_1a019b4ff39789004.jpeg",
+        "https://ok.166.net/reunionpub/1_20260819_1a019b4ff39888525.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间# #永劫无间捏脸站# #蓝梦捏脸# #季莹莹捏脸# #胡桃捏脸#",
+      "userName": "世界第一宅神",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260404_19d54816cba636570.jpeg"
+    },
+    {
+      "id": "6a8587e9a2d7a65cd9ab24ee",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
+      "createTime": 1787135974696,
+      "createDate": "2026-08-19",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260819_139ade1558026e8c684a1cd11e0a8618",
+        "https://ok.166.net/reunionpub/1_kol_20260819_76f78f6f628c0ceacfe85100f630534f"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260819_f5b66f581b15917ca79ab12a72b7d085",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a858729093b37370e934d9d"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260819_15149d512340cc3db1db707914dd3e7a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a858729093b37370e934d9d"
+        }
+      ],
+      "text": "打架看到 奶蛙 捏脸能绷住的可以确诊抑郁症了\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #胡为捏脸# #奶蛙#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
+    {
+      "id": "6a857aec54d93569ee98c59e",
+      "userId": "726257b76abc4c67b44ef8860fa00efc",
+      "createTime": 1787132649863,
+      "createDate": "2026-08-19",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260819_1a019681d20763884.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##叶修捏脸#\n作品名称：叶修福瑞捏脸\n设计理念：\n捏脸码：",
+      "userName": "锺出的女大",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260701_19f1b9164e1112242.jpeg"
+    },
+    {
+      "id": "6a85420754d93569ee9867fb",
+      "userId": "9594e31e90b34fd3a513fe320c39021e",
+      "createTime": 1787118084393,
+      "createDate": "2026-08-19",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260819_1a01889ded2961451.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##季莹莹捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "也似沤珠槿艳",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250729_19856af4f96127624.jpeg"
+    },
+    {
+      "id": "6a85361c3d46fd4c9489af31",
+      "userId": "9841ad5892754d74937b4d9a896d143c",
+      "createTime": 1787115033647,
+      "createDate": "2026-08-19",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260819_1a0185b5182163320.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##无尘捏脸#\n作品名称：哦比头\n设计理念：带土\n捏脸码：瞎捏的 到家喜欢可以告诉我 我把码分享出来",
+      "userName": "飞霜月白",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260210_19c46f46e63733065.jpeg"
+    },
     {
       "id": "6a84f1cda2f2513c11ac8af4",
       "userId": "2a259e1832e448c9b40fec3fbe81502a",
@@ -1395,7 +1557,7 @@
       "qrCodes": [],
       "text": "#永劫无间# #季莹莹捏脸#",
       "userName": "允许o",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240214_18da804237b288741.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260820_1a01b33d3fd323263.jpeg"
     },
     {
       "id": "6a8042adfb210923c31b04c0",
@@ -2078,173 +2240,6 @@
       "text": "玄奘金蝉子｜天海捏脸\n喜欢的劫友们，取码请礼貌关注三连哈～\n#永劫手游大神创作激励# #永劫无间手游# #永手捏脸站# #永手新赛季捏脸# #天海捏脸# #永手天海捏脸# #永手岳山捏脸# #永手刘炼捏脸# #捏脸# #永劫无间手游捏脸# #永劫无间手游千机赛季# #天海新外观金蝉子#",
       "userName": "ZMoses",
       "userAvatar": "https://ok.166.net/reunionpub/3_20251102_19a42c4b08b745372.jpeg"
-    },
-    {
-      "id": "6a7eaec356af1328abdd364d",
-      "userId": "1285dc44989a434c8e282836b244e676",
-      "createTime": 1786687167854,
-      "createDate": "2026-08-14",
-      "characterId": "feria-shen",
-      "characterName": "Feria Shen",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260814_673f6b7fa923bbeb4c19b342b7d4d9e7",
-        "https://ok.166.net/reunionpub/1_kol_20260814_58f88914133c2732e0e815077f588d8d",
-        "https://ok.166.net/reunionpub/1_kol_20260814_53dc9337940ee834e622ab8ad6590831"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸/影棚码",
-          "imgBtn": "导入同款捏脸/影棚作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260814_30ef753a680b01c8b5e2e101f162cd52",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a7eade282b7416f9a4975bb"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260814_63d7426f9b247f748cd2c6e39988a062",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a7eade282b7416f9a4975bb"
-        }
-      ],
-      "text": "沈妙联动外观捏脸 · 焦糖布丁\n#沈妙捏脸# #永劫无间捏脸站# #永劫无间#",
-      "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
-    },
-    {
-      "id": "6a7ea35e416a0d25f32a83ff",
-      "userId": "de440deaace4494dbbc445c92b3f5de6",
-      "createTime": 1786684248852,
-      "createDate": "2026-08-14",
-      "characterId": "feria-shen",
-      "characterName": "Feria Shen",
-      "images": [
-        "https://ok.166.net/reunionpub/1_kol_20260814_e2ed31a250b75889696ea50ee0367c17",
-        "https://ok.166.net/reunionpub/1_kol_20260814_725913f0656f8a49cbfbaa84d0d41255",
-        "https://ok.166.net/reunionpub/1_kol_20260814_87260a04618f07ef6acae0c1fced855e",
-        "https://ok.166.net/reunionpub/1_kol_20260814_cdb1453f593edf19c357a48a4b2eca49"
-      ],
-      "qrCodes": [
-        {
-          "imgName": "上传作品同款捏脸/影棚码",
-          "imgBtn": "导入同款捏脸/影棚作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260814_1c7eba3350f836049652c314a0012e58",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a7ea2ab745ea9544bcbb6ae"
-        },
-        {
-          "imgName": "上传作品同款发型码",
-          "imgBtn": "导入同款发型作品",
-          "imgUrl": "https://ok.166.net/reunionpub/kol_20260814_a5f3e79862eee5aed466981baaeb51d3",
-          "errmsg": "",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a7ea2ab745ea9544bcbb6ae"
-        }
-      ],
-      "text": "沈妙捏脸分享丨堡宝\n汉堡王还蛮好吃的勒\n捏脸导入指引：捏脸码在图4 染发和捏脸码同码\n如左下角没有看到导入图标 请点开需要使用的捏脸码大图长按保存到手机后发布在评论区点开即可识别\n一头阿姜姜原创 - 创作不易，请动用发财的小手帮小姜点点三连支持一下吧～\n#永劫无间捏脸站# #沈妙捏脸# #永劫无间#",
-      "userName": "一头阿姜姜",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
-    },
-    {
-      "id": "6a7ea07556af1328abdd1b9d",
-      "userId": "3040cf14e41f4e39a33dd86870bc016a",
-      "createTime": 1786683507194,
-      "createDate": "2026-08-14",
-      "characterId": "feria-shen",
-      "characterName": "Feria Shen",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260814_19ffea2c084429415.png"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站##沈妙捏脸#嘎嘎嘎嘎",
-      "userName": "摸大鱼EE",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260709_19f4631c475529360.jpeg"
-    },
-    {
-      "id": "6a7e9acc84a4e4195706ed8b",
-      "userId": "efc1292182bf4150ab4c18f9aaabbbae",
-      "createTime": 1786682057962,
-      "createDate": "2026-08-14",
-      "characterId": "hu-wei",
-      "characterName": "Akos Hu",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260814_19ffe8c98b0306796.jpeg",
-        "https://ok.166.net/reunionpub/1_20260814_19ffe8c98b1374786.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "殆尽樱之焱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251223_19b4a51cab0458296.jpeg"
-    },
-    {
-      "id": "6a7e98c3bae47c4288417f23",
-      "userId": "494ff7d157084dd081455abe73d9891a",
-      "createTime": 1786681537665,
-      "createDate": "2026-08-14",
-      "characterId": "hu-wei",
-      "characterName": "Akos Hu",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260814_19ffe84af41735943.png"
-      ],
-      "qrCodes": [
-        {
-          "imgBtn": "导入同款捏脸/影棚作品",
-          "imgName": "上传作品同款捏脸/影棚码",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a7d657a745ea9544bcb7a90"
-        },
-        {
-          "imgBtn": "导入同款发型作品",
-          "imgName": "上传作品同款发型码",
-          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a7d657a745ea9544bcb7a90"
-        }
-      ],
-      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "龙雨之夜",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260425_19dc096601e573333.jpeg"
-    },
-    {
-      "id": "6a7e699200769865bc6cbfee",
-      "userId": "feaec37ff51c4676a8bf28e7e2560e70",
-      "createTime": 1786669456640,
-      "createDate": "2026-08-14",
-      "characterId": "ziping-yin",
-      "characterName": "Ziping Yin",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260814_19ffdcc58dd841297.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "有没有大佬把殷紫萍金谪星的官方海报捏脸做出来了，真的很喜欢[呲牙]#永劫无间# #殷紫萍捏脸# #永劫无间捏脸站#",
-      "userName": "珍惜梦霜5110",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251021_19a06b36a80110275.png"
-    },
-    {
-      "id": "6a7dfa0723fee73ea73b531b",
-      "userId": "8b0cd97b1ae3498abac3a6acbfea4d48",
-      "createTime": 1786640616059,
-      "createDate": "2026-08-13",
-      "characterId": "ning-hongye",
-      "characterName": "Viper Ning",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260814_19ffc144477524192.jpeg"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站##宁红夜捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "坏小孩又怎眻",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20220523_180ee122d7e538945.jpeg"
-    },
-    {
-      "id": "6a7df9d323fee73ea73b529b",
-      "userId": "6b7ee4a164f14605832dd072c0ebed35",
-      "createTime": 1786640553369,
-      "createDate": "2026-08-13",
-      "characterId": "hu-wei",
-      "characterName": "Akos Hu",
-      "images": [
-        "https://ok.166.net/reunionpub/1_20260814_19ffc135349453928.png"
-      ],
-      "qrCodes": [],
-      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "冲锋的兔头",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251205_19aeeb7031e514757.jpeg"
     }
   ]
 }

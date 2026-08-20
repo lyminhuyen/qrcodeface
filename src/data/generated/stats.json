@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-19T03:56:46.135Z",
-  "totalCount": 18817,
+  "lastUpdated": "2026-08-20T03:59:08.616Z",
+  "totalCount": 18833,
   "characterCounts": {
     "tessa": 882,
     "temulch": 766,
@@ -9,17 +9,17 @@
     "tianhai": 683,
     "valda-cui": 725,
     "justina-gu": 857,
-    "wuchen": 694,
+    "wuchen": 695,
     "yueshan": 740,
     "takeda-nobutada": 767,
     "ziping-yin": 987,
-    "feria-shen": 787,
+    "feria-shen": 788,
     "wei-qing": 711,
     "lan-meng": 761,
-    "ji-yingying": 904,
+    "ji-yingying": 907,
     "xila": 727,
     "ning-hongye": 706,
-    "hu-wei": 726,
+    "hu-wei": 727,
     "ji-canghai": 784,
     "zhang-qiling": 630,
     "liu-lian": 486,
@@ -28,9 +28,9 @@
     "hadi": 627,
     "wuzhen": 257,
     "gan-xuan": 159,
-    "ye-xiu": 85,
-    "diverse": 1189
+    "ye-xiu": 86,
+    "diverse": 1198
   },
-  "authorCount": 6856,
-  "dayCount": 1699
+  "authorCount": 6861,
+  "dayCount": 1701
 }
