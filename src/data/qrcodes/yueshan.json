@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-18T03:17:26.314Z",
+  "lastUpdated": "2026-08-21T03:20:33.119Z",
   "source": "岳山捏脸",
-  "totalCount": 740,
+  "totalCount": 741,
   "qrcodes": [
+    {
+      "id": "6a86889fa7bb2e4de4aeb9e9",
+      "userId": "ec5fe3fd6bd64b8faebae0e1cae0c0cd",
+      "createTime": 1787201693181,
+      "createDate": "2026-08-20",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260820_1a01d8598f9436236.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##岳山捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "游戏如人生8",
+      "userAvatar": "https://img.166.net/reunionpub/100_20230110_1859a54b3d3314958.jpg"
+    },
     {
       "id": "6a82c27444fc02161514b5fa",
       "userId": "f4c9643c90154ffbb3bbb52714546f6a",

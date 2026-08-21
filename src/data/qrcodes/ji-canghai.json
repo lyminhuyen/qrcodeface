@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-20T03:36:21.460Z",
+  "lastUpdated": "2026-08-21T03:57:56.563Z",
   "source": "季沧海捏脸",
-  "totalCount": 784,
+  "totalCount": 785,
   "qrcodes": [
     {
       "id": "6a847fd21cd8532aae9b039b",
@@ -3145,6 +3145,37 @@
       "userName": "其实就是想看看",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260101_19b75705ef6185668.jpeg",
       "userId": "5692f0172de345ba83dbc5aca426f1fb"
+    },
+    {
+      "id": "695b3dc767b5a3770058f027",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
+      "createTime": 1767587268341,
+      "createDate": "2026-01-05",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260105_e4e169bfe1b5822637519e21ca8e0fcb",
+        "https://ok.166.net/reunionpub/1_kol_20260105_1dbb93e6c8a0448cd667654fe1910426"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260105_d5b0a676293e0168f5f57077f70954ab",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6957c99e745ea9544ba43290"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260105_62ba9d295f7958f4f9a0e9977291a3df",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6957c99e745ea9544ba43290"
+        }
+      ],
+      "text": "天龙八部——乔峰捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞关注转发自取~\n#永劫无间捏脸站# #乔峰# #季沧海捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
     },
     {
       "id": "695a0bb467b5a3770054c488",
@@ -15361,7 +15392,8 @@
       "qrCodes": [],
       "text": "美食家【汉尼拔】加入永劫，很会做人，开饭时间~\n图1就是捏脸数据\n喜欢的小伙伴可以点赞评论转发自取~\n#永劫无间捏脸站# #汉尼拔# #季沧海捏脸#",
       "userName": "暴躁De橙子",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae"
     },
     {
       "id": "6481fce6f2ffa10001a14631",
