@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-08-18T03:49:03.988Z",
+  "lastUpdated": "2026-08-22T03:42:21.810Z",
   "source": "巫真捏脸",
-  "totalCount": 257,
+  "totalCount": 258,
   "qrcodes": [
+    {
+      "id": "6a884f0bfd46e9211613cdc6",
+      "userId": "5242c297792a4e57903e045124e7912e",
+      "createTime": 1787317631887,
+      "createDate": "2026-08-21",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260821_1a0246eb5de878948.jpeg",
+        "https://ok.166.net/reunionpub/1_20260821_1a0246eb5de316101.jpeg",
+        "https://ok.166.net/reunionpub/1_20260821_1a0246eb5de785275.jpeg",
+        "https://ok.166.net/reunionpub/1_20260821_1a0246eb5de936498.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iqTxa_3FwfPgvu_QfCmBRp&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a884ccd7716db825bf7a043iCZQgDPk07"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #巫真捏脸# \n原创与通行证海报相对一样的捏脸。",
+      "userName": "清弦翎",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260624_19efa58bbda964031.png"
+    },
     {
       "id": "6a82ee8c1cd8532aae986bbb",
       "userId": "09240252501f4fb1949ab98c8c5fda65",
@@ -48,7 +72,7 @@
       "qrCodes": [],
       "text": "#永劫无间捏脸站# #永劫无间# #巫真捏脸# #巫真#",
       "userName": "世界第一宅神",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260404_19d54816cba636570.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260821_1a02357f99e506200.jpeg",
       "userId": "54c816acf75f49beb51686b691e7ccba"
     },
     {
@@ -1021,7 +1045,7 @@
       "qrCodes": [],
       "text": "#永劫无间捏脸站# #永劫无间# #巫真捏脸# #巫真捏脸#",
       "userName": "世界第一宅神",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260404_19d54816cba636570.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260821_1a02357f99e506200.jpeg",
       "userId": "54c816acf75f49beb51686b691e7ccba"
     },
     {

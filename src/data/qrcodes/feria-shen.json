@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-21T03:57:56.549Z",
+  "lastUpdated": "2026-08-22T03:17:02.448Z",
   "source": "沈妙捏脸",
-  "totalCount": 788,
+  "totalCount": 789,
   "qrcodes": [
+    {
+      "id": "6a885c72fd46e9211613e4ce",
+      "userId": "008e5dc4ecdb44119dc6ed79ba54e2be",
+      "createTime": 1787321456328,
+      "createDate": "2026-08-21",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260821_1a024a914c3479413.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##沈妙捏脸#\n作品名称：求沈妙这个捏脸，谁有啊，太好看了\n设计理念：\n捏脸码：",
+      "userName": "村里最强的厨子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260227_19c9d3ca4a2841903.jpeg"
+    },
     {
       "id": "6a859cc3a2f2513c11adc37f",
       "userId": "78d17f5f78244c58adce188bd1d1cdd0",
