@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-21T03:20:33.119Z",
+  "lastUpdated": "2026-08-23T03:20:08.592Z",
   "source": "岳山捏脸",
-  "totalCount": 741,
+  "totalCount": 742,
   "qrcodes": [
+    {
+      "id": "6a89d248c758eb7b995092db",
+      "userId": "f544d2ccc3e04ce3b59e25a30f154e2f",
+      "createTime": 1787417158128,
+      "createDate": "2026-08-22",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260823_1a02a5d5d26212964.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "全网寻找这个脸的捏脸码#永劫无间# #永劫无间捏脸站# #岳山捏脸#",
+      "userName": "南生木品",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260723_19f8aa7769e976316.png"
+    },
     {
       "id": "6a86889fa7bb2e4de4aeb9e9",
       "userId": "ec5fe3fd6bd64b8faebae0e1cae0c0cd",

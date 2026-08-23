@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-22T03:17:02.448Z",
+  "lastUpdated": "2026-08-23T03:26:03.184Z",
   "source": "沈妙捏脸",
-  "totalCount": 789,
+  "totalCount": 790,
   "qrcodes": [
+    {
+      "id": "6a8a2c0dfd46e9211616895b",
+      "userId": "de440deaace4494dbbc445c92b3f5de6",
+      "createTime": 1787440134569,
+      "createDate": "2026-08-22",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260823_ad0b01aa63d162a25810ba46dfcfb1d0",
+        "https://ok.166.net/reunionpub/1_kol_20260823_59279dec2958a35b87f254fb541e18fc",
+        "https://ok.166.net/reunionpub/1_kol_20260823_9252b4d92b9fe7a48f889b7db8f47fdc"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260823_f1952c69bde778099a40969e28ea833d",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a8a2b4f82b7416f9a4ba9e8"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260823_be54638b4cce4bcac969092fdcb9dc63",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a8a2b4f82b7416f9a4ba9e8"
+        }
+      ],
+      "text": "沈妙捏脸分享丨puppy\n捏脸导入指引：捏脸码在图3 染发和捏脸码同码\n如左下角没有看到导入图标 请点开需要使用的捏脸码大图长按保存到手机后发布在评论区点开即可识别\n一头阿姜姜原创 - 创作不易，请动用发财的小手帮小姜点点三连支持一下吧～\n#永劫无间捏脸站# #沈妙捏脸# #永劫无间#",
+      "userName": "一头阿姜姜",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
+    },
     {
       "id": "6a885c72fd46e9211613e4ce",
       "userId": "008e5dc4ecdb44119dc6ed79ba54e2be",
@@ -2987,7 +3019,7 @@
       "qrCodes": [],
       "text": "#沈妙捏脸#",
       "userName": "郁闷的虾仁",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260227_19c9f6b6af2578174.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260822_1a0291d26f5756561.jpeg",
       "userId": "50a8211a0cd648a29dacd97539e3c892"
     },
     {
