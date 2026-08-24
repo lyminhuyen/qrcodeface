@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-23T03:26:03.184Z",
+  "lastUpdated": "2026-08-24T03:26:59.910Z",
   "source": "沈妙捏脸",
-  "totalCount": 790,
+  "totalCount": 791,
   "qrcodes": [
+    {
+      "id": "6a8ad2d244fc0216152135ca",
+      "userId": "ffb114098aac4133969ab1aa4640bf6d",
+      "createTime": 1787482828594,
+      "createDate": "2026-08-23",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260823_e3dbeb35467c2cb283064fb95e591fed",
+        "https://ok.166.net/reunionpub/1_kol_20260823_7a4064026d828cd5bcafa982757ce683",
+        "https://ok.166.net/reunionpub/1_kol_20260823_f6bf604634b7b9ce1924e291fea37b0f",
+        "https://ok.166.net/reunionpub/1_kol_20260823_0ff99d79887f4db46213eacbfaed5179"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260823_013c33502c6c506971fd4ad6cd269752",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a8a8f8f82b7416f9a4bba5c"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "[ 沈妙捏脸·妙脆角 ]\n主包休假回来了 先发一个高马尾妙妙\n导入后会变成默认眼影 需要手动改成D.va眼影!!\n导入后会变成默认眼影 需要手动改成D.va眼影!!\n导入后会变成默认眼影 需要手动改成D.va眼影!!\n#永劫无间捏脸站# #沈妙捏脸# #永劫无间#",
+      "userName": "高级护甲粉末",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260621_19eeabb13dc871443.jpeg"
+    },
     {
       "id": "6a8a2c0dfd46e9211616895b",
       "userId": "de440deaace4494dbbc445c92b3f5de6",
@@ -7696,7 +7728,7 @@
       "qrCodes": [],
       "text": "#沈妙捏脸# 求一下这个捏脸",
       "userName": "如故k",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251211_19b0b2e1912641772.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260824_1a02fd57261273693.jpeg",
       "userId": "97d61efc7a574c94bbdf8fa4a649e943"
     },
     {
