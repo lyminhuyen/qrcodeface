@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-16T03:19:33.669Z",
+  "lastUpdated": "2026-08-25T03:55:51.303Z",
   "source": "武田信忠捏脸",
-  "totalCount": 767,
+  "totalCount": 768,
   "qrcodes": [
     {
       "id": "6a807b477cbb9b1a3d8a4f63",
@@ -13732,6 +13732,21 @@
       "userName": "酒逢丨",
       "userAvatar": "https://ok.166.net/reunionpub/3_20190727_16c2f5ad44a284375.jpeg",
       "userId": "7301737723b647c1bd9530a393a52c80"
+    },
+    {
+      "id": "628e6e87c470740001e80b1b",
+      "userId": "37796c5edc554c76af00dcde801869e8",
+      "createTime": 1653501575081,
+      "createDate": "2022-05-25",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20220526_180fc5fbafb674857.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#武田信忠捏脸#",
+      "userName": "奶龙大王350234",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260627_19f08bdf023739777.jpeg"
     },
     {
       "id": "628db65bc470740001e6cf09",

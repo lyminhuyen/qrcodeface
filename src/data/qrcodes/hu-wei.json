@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-23T03:37:52.555Z",
+  "lastUpdated": "2026-08-25T03:33:56.280Z",
   "source": "胡为捏脸",
-  "totalCount": 728,
+  "totalCount": 729,
   "qrcodes": [
+    {
+      "id": "6a8c90ba24f1087b9f309ba7",
+      "userId": "15104a49f2c746db80c40ae255eb16e3",
+      "createTime": 1787596983869,
+      "createDate": "2026-08-24",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260825_1a035154c89244179.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：胡为捏脸\n设计理念：free\n捏脸码：如上",
+      "userName": "游戏玩家54617273",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240726_190eac7e6ca731405.png"
+    },
     {
       "id": "6a8713defe8037430622786e",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",

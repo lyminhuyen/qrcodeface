@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-08-24T03:26:59.910Z",
+  "lastUpdated": "2026-08-25T03:22:08.823Z",
   "source": "沈妙捏脸",
-  "totalCount": 791,
+  "totalCount": 792,
   "qrcodes": [
+    {
+      "id": "6a8c347c0c508f20f7e6c16b",
+      "userId": "2ec925a539774c849081030e6d39fdc2",
+      "createTime": 1787572984303,
+      "createDate": "2026-08-24",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260824_1a033a7147c868042.jpeg",
+        "https://ok.166.net/reunionpub/1_20260824_1a033a7147d889557.jpeg",
+        "https://ok.166.net/reunionpub/1_20260824_1a033a7147d122183.jpeg",
+        "https://ok.166.net/reunionpub/1_20260824_1a033a7147d448506.jpeg",
+        "https://ok.166.net/reunionpub/1_20260824_1a033a7147d812495.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1787572977.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iSuInEfaJvg7CjjnGSCFv8&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a82a43a0026daeeecd75e3cPMmI5mCw07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "赞赞自取~\n点击下方一键导入即可获得同款捏脸，不会的宝宝可以看下置顶哦🔝#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #永手沈妙捏脸# #沈妙捏脸# #汉堡王联动永劫无间# #永劫无间手游#",
+      "userName": "玫瑰凶杀案",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250925_19980080759940187.jpeg"
+    },
     {
       "id": "6a8ad2d244fc0216152135ca",
       "userId": "ffb114098aac4133969ab1aa4640bf6d",
