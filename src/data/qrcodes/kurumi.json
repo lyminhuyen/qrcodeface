@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-25T03:06:25.899Z",
+  "lastUpdated": "2026-08-26T04:01:05.961Z",
   "source": "胡桃捏脸",
-  "totalCount": 1017,
+  "totalCount": 1018,
   "qrcodes": [
     {
       "id": "6a89a7d9a7bb2e4de4b35a72",
@@ -938,6 +938,21 @@
       "userName": "玫瑰凶杀案",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250925_19980080759940187.jpeg",
       "userId": "2ec925a539774c849081030e6d39fdc2"
+    },
+    {
+      "id": "6a18f1b2e89a7e2331d219ce",
+      "userId": "66bd2302d04d470fbf9a740b845e12d9",
+      "createTime": 1780019631921,
+      "createDate": "2026-05-29",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260529_19e71701197284506.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#土御门胡桃捏脸#",
+      "userName": "蕾克斯lex",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260702_19f21bc53bf160732.jpeg"
     },
     {
       "id": "6a12d72cf54e214b8c663d96",
