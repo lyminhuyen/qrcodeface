@@ -1,8 +1,77 @@
 {
-  "lastUpdated": "2026-08-26T03:39:49.379Z",
+  "lastUpdated": "2026-08-27T12:59:21.396Z",
   "source": "胡为捏脸",
-  "totalCount": 732,
+  "totalCount": 735,
   "qrcodes": [
+    {
+      "id": "6a8f9d4a65a4891d609132fd",
+      "userId": "2c51acda14584c9ab7e3ed1ac76157f6",
+      "createTime": 1787796808324,
+      "createDate": "2026-08-27",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260827_1a040fe5ee2858742.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "晴羽百鬼弓",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241019_192a106cbdd546658.png"
+    },
+    {
+      "id": "6a8f0e145a8495784116f415",
+      "userId": "d0a25692a62d4f7baa5962cb9c9ab724",
+      "createTime": 1787760146624,
+      "createDate": "2026-08-26",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260827_1a03ecef33a860159.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1787760141.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a8f0d46093b37370e952458",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1787760141.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a8f0df4745ea9544bcef16f",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "黑神话悟空捏脸#永劫无间# #胡为捏脸# #永劫无间捏脸站#",
+      "userName": "a李四",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250716_19813d29da4133294.jpeg"
+    },
+    {
+      "id": "6a8eb4ea8f066d0a2763ae91",
+      "userId": "49fc004b3b54460aa074cff2433b84da",
+      "createTime": 1787737320521,
+      "createDate": "2026-08-26",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260826_1a03d72a6d9647422.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a8eb2b282b7416f9a4c9869"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a8eb2b282b7416f9a4c9869"
+        }
+      ],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：大圣齐天\n设计理念：\n捏脸码：",
+      "userName": "尊贵的白羊",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260409_19d710ba907138935.jpeg"
+    },
     {
       "id": "6a8df7963020737f62674cb0",
       "userId": "10533372366140b5a5b1471768d2c448",

@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-26T04:01:05.961Z",
+  "lastUpdated": "2026-08-27T13:23:20.557Z",
   "source": "胡桃捏脸",
-  "totalCount": 1018,
+  "totalCount": 1020,
   "qrcodes": [
     {
       "id": "6a89a7d9a7bb2e4de4b35a72",
@@ -1441,6 +1441,32 @@
       "text": "礼貌三🪷宝宝们\n#永劫无间捏脸站# #永劫无间# #土御门胡桃捏脸# #晒联动穿搭！#",
       "userName": "Cabriel加百列",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg"
+    },
+    {
+      "id": "69b96312f62f837f93841cb5",
+      "userId": "518053cd178d494eabb8c14c54f4dc32",
+      "createTime": 1773757200164,
+      "createDate": "2026-03-17",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260317_19cfc2af258150719.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1773757197.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=69b7fe810186943fc2374e60",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##土御门胡桃捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "茵奈不是椰奶",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250601_1972ab804a5157524.jpeg"
     },
     {
       "id": "69b83eb59f93987d0cbc31d9",
@@ -14554,6 +14580,21 @@
       "userId": "097990cb31144d29b3e707086a874bfb"
     },
     {
+      "id": "66bc6df6e02d1d50aa33e169",
+      "userId": "25cbef16e2d14152a33fd7f2398402db",
+      "createTime": 1723624950874,
+      "createDate": "2024-08-14",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240814_191500a6afa455916.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# 求这个胡桃的捏脸#胡桃捏脸# #胡桃#",
+      "userName": "答糕手",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230715_18957505e1e259388.jpeg"
+    },
+    {
       "id": "66bc5b97279f3538ba2ed1dc",
       "createTime": 1723620247123,
       "createDate": "2024-08-14",
@@ -14565,7 +14606,8 @@
       "qrCodes": [],
       "text": "求这个桃的捏脸 谢谢[哇]#胡桃# #胡桃捏脸# #胡桃捏脸码#",
       "userName": "答糕手",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230715_18957505e1e259388.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230715_18957505e1e259388.jpeg",
+      "userId": "25cbef16e2d14152a33fd7f2398402db"
     },
     {
       "id": "66ba9750e02d1d50aa2d6251",
