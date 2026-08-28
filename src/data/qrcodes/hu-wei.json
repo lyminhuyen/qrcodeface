@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-27T12:59:21.396Z",
+  "lastUpdated": "2026-08-28T14:27:49.888Z",
   "source": "胡为捏脸",
-  "totalCount": 735,
+  "totalCount": 736,
   "qrcodes": [
+    {
+      "id": "6a90fc4fe6def02cfeac953f",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1787886492352,
+      "createDate": "2026-08-28",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260828_85696ee82a329fe3b902b2625313ca9c",
+        "https://ok.166.net/reunionpub/1_kol_20260828_6a72ea64c71a0cd3d3a49256693377b3",
+        "https://ok.166.net/reunionpub/1_kol_20260828_be32bf21a26b417722c4193e05dab556",
+        "https://ok.166.net/reunionpub/1_kol_20260828_097526452ee7ccce0cfb81fb4a839568"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260828_16d72544a592467082d5395855433bf7",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a90f67c093b37370e957e72"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡为捏脸x奉先】 | 无偿数据分享\n----不得不说，胡为是吃的真好啊\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #胡为捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6a8f9d4a65a4891d609132fd",
       "userId": "2c51acda14584c9ab7e3ed1ac76157f6",

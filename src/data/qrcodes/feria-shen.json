@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-25T03:22:08.823Z",
+  "lastUpdated": "2026-08-28T14:16:00.186Z",
   "source": "沈妙捏脸",
-  "totalCount": 792,
+  "totalCount": 793,
   "qrcodes": [
+    {
+      "id": "6a90e6ffe6def02cfeac686d",
+      "userId": "ed23658abe3a469c812596b8da25c186",
+      "createTime": 1787881213386,
+      "createDate": "2026-08-28",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260828_1a046064bf1887566.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#沈妙捏脸# #永劫无间#",
+      "userName": "卿清酒",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250104_1942d6b4133374103.png"
+    },
     {
       "id": "6a8c347c0c508f20f7e6c16b",
       "userId": "2ec925a539774c849081030e6d39fdc2",
