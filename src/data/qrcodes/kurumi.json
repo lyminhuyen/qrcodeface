@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-28T14:51:08.557Z",
+  "lastUpdated": "2026-08-29T09:39:10.700Z",
   "source": "胡桃捏脸",
-  "totalCount": 1022,
+  "totalCount": 1023,
   "qrcodes": [
     {
       "id": "6a89a7d9a7bb2e4de4b35a72",
@@ -78,6 +78,29 @@
       "text": "哥布桃#永劫无间捏脸站# #胡桃捏脸#",
       "userName": "黑灯白",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230706_1892b86f3dc169379.png"
+    },
+    {
+      "id": "6a746cfe306b892332d576c0",
+      "userId": "8a8a2c8446b34200ada7db4edd29ab57",
+      "createTime": 1786014971639,
+      "createDate": "2026-08-06",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260806_19fd6c9af61784283.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6c9af61595784.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6c9af61831146.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6c9af61526795.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6c9af61881876.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6c9af61521480.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6c9af61972239.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6c9af61584736.jpeg",
+        "https://ok.166.net/reunionpub/1_20260806_19fd6c9af61426731.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##土御门胡桃捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "栗子小饼",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240804_1911924239f805247.jpeg"
     },
     {
       "id": "6a710a5a4ac802698f462602",
