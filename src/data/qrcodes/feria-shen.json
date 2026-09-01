@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-31T08:34:45.183Z",
+  "lastUpdated": "2026-09-01T07:47:31.213Z",
   "source": "沈妙捏脸",
-  "totalCount": 797,
+  "totalCount": 798,
   "qrcodes": [
+    {
+      "id": "6a9586ea6ec211326379dae8",
+      "userId": "2885d090ee1f4e40a29a5891ab4ea93f",
+      "createTime": 1788184295852,
+      "createDate": "2026-08-31",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260831_1a05816f534122545.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##沈妙捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "如天使般的你",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260814_19ffe6e1614332076.jpeg"
+    },
     {
       "id": "6a94f1f58e71c72d887f2f43",
       "userId": "2f92a60766a546789ea7c7f35be004ee",
@@ -7815,7 +7830,7 @@
       ],
       "qrCodes": [],
       "text": "自用沈妙捏脸#沈妙捏脸#",
-      "userName": "纯情荷包蛋蛋",
+      "userName": "纯情荷包蛋蛋_20260828",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260418_19da0eaae4c406293.jpeg",
       "userId": "a09d2ddb98144222be754a16869a6723"
     },

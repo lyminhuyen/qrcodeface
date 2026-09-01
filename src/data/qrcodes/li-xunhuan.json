@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-27T13:09:17.733Z",
+  "lastUpdated": "2026-09-01T08:22:17.714Z",
   "source": "李寻欢捏脸",
-  "totalCount": 114,
+  "totalCount": 116,
   "qrcodes": [
     {
       "id": "6a8faddbdaf63c7827155548",
@@ -1851,6 +1851,21 @@
       "userId": "f7fa7a0031a04dda8625e2b56b988a8a"
     },
     {
+      "id": "69396fda5afb1104e749335a",
+      "userId": "19747070d4244334ae3465e1414e3500",
+      "createTime": 1765371864045,
+      "createDate": "2025-12-10",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251210_19b085cdff1860111.png"
+      ],
+      "qrCodes": [],
+      "text": "#李寻欢捏脸#",
+      "userName": "大咪爱吃鱼",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251125_19ab97d9cae879307.jpeg"
+    },
+    {
       "id": "6938cac6bf5d676d0f82c3e8",
       "createTime": 1765329605156,
       "createDate": "2025-12-10",
@@ -2236,6 +2251,33 @@
       "userName": "游戏玩家15904548",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250704_197d410062a908903.jpeg",
       "userId": "22720d3070f7476898d5e9b653fb8c72"
+    },
+    {
+      "id": "6911a95407bd4a6fe2b2ae9f",
+      "userId": "44911948a1a0490db0a6f1c54e98cf60",
+      "createTime": 1762765138824,
+      "createDate": "2025-11-10",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251110_19a6cfd62a9999640.jpeg",
+        "https://ok.166.net/reunionpub/1_20251110_19a6cfd62a9112094.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1762765135.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690c5bc590401d221d89e640",
+          "imgBtn": "导入同款捏脸作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "一键四联后点击导入同款即可使用#永劫无间# #永劫无间捏脸站# #李寻欢捏脸#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
     },
     {
       "id": "691168adbf18a17bc504565b",

@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-30T08:25:52.285Z",
+  "lastUpdated": "2026-09-01T07:51:50.088Z",
   "source": "蓝梦捏脸",
-  "totalCount": 763,
+  "totalCount": 764,
   "qrcodes": [
+    {
+      "id": "6a95b8558e71c72d88804da0",
+      "userId": "56718df3a06a477f8988a9ab12af844c",
+      "createTime": 1788196947637,
+      "createDate": "2026-08-31",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260901_1a058d80294153488.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：大佬救命啊\n设计理念：为什么这么亮啊，大厅\n捏脸码：",
+      "userName": "李舒婳",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260525_19e5fa9aa56609304.jpeg"
+    },
     {
       "id": "6a92b97d382e8f44dc4524ca",
       "userId": "2ec925a539774c849081030e6d39fdc2",
@@ -10763,7 +10778,7 @@
       ],
       "qrCodes": [],
       "text": "自用蓝梦捏脸，喜欢的私#蓝梦捏脸#",
-      "userName": "纯情荷包蛋蛋",
+      "userName": "纯情荷包蛋蛋_20260828",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260418_19da0eaae4c406293.jpeg",
       "userId": "a09d2ddb98144222be754a16869a6723"
     },
