@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-01T07:47:31.213Z",
+  "lastUpdated": "2026-09-02T07:15:10.757Z",
   "source": "沈妙捏脸",
-  "totalCount": 798,
+  "totalCount": 799,
   "qrcodes": [
+    {
+      "id": "6a97a1dfb6e01c625a7c559e",
+      "userId": "6f85d16c0bed40b1b0486fc0d887f9c9",
+      "createTime": 1788322261746,
+      "createDate": "2026-09-02",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260902_1a0605019a9176020.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##沈妙捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "早睡喵o",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240608_18ff6e90ba5525588.jpeg"
+    },
     {
       "id": "6a9586ea6ec211326379dae8",
       "userId": "2885d090ee1f4e40a29a5891ab4ea93f",
