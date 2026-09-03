@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-08-31T09:11:04.583Z",
+  "lastUpdated": "2026-09-03T07:32:48.563Z",
   "source": "季沧海捏脸",
-  "totalCount": 791,
+  "totalCount": 792,
   "qrcodes": [
+    {
+      "id": "6a990460bd7c39655efc0d43",
+      "userId": "ef10e2b548e04a2694581a8daa3cd6fe",
+      "createTime": 1788413022366,
+      "createDate": "2026-09-03",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260903_1a065b90ea7354051.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a9902920186943fc259ef06"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站##季沧海捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "羊卷毛呆呆",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260131_19c13289c75523568.jpeg"
+    },
     {
       "id": "6a952dda78de9d2c46cf1914",
       "userId": "055013efebdc4b7aa6b5372dc5e3ed7e",
