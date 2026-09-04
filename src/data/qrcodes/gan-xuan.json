@@ -1,8 +1,64 @@
 {
-  "lastUpdated": "2026-09-03T07:46:24.771Z",
+  "lastUpdated": "2026-09-04T07:50:38.732Z",
   "source": "甘璇捏脸",
-  "totalCount": 166,
+  "totalCount": 168,
   "qrcodes": [
+    {
+      "id": "6a99638bf192995fa949b4ab",
+      "userId": "9f75b27e56c74fb2af5f4f3da2d38e2d",
+      "createTime": 1788437384521,
+      "createDate": "2026-09-03",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260903_1a0672ca485429840.jpeg",
+        "https://ok.166.net/reunionpub/1_20260903_1a0672ca485655617.jpeg",
+        "https://ok.166.net/reunionpub/1_20260903_1a0672ca485989050.jpeg",
+        "https://ok.166.net/reunionpub/1_20260903_1a0672ca485590629.jpeg",
+        "https://ok.166.net/reunionpub/1_20260903_1a0672ca485104381.jpeg",
+        "https://ok.166.net/reunionpub/1_20260903_1a0672ca485279400.jpeg",
+        "https://ok.166.net/reunionpub/1_20260903_1a0672ca485302010.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1788437372.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i_J_tUhyjNxAY3Wt15DrTs&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a995cf5e416b68b1a122e04Viwgl6oI07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "点赞关注自取#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #永手甘璇捏脸# #甘璇捏脸#",
+      "userName": "o姜奶冻o",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260702_19f22d984fb281688.jpeg"
+    },
+    {
+      "id": "6a9934410877c835d63510c4",
+      "userId": "9f75b27e56c74fb2af5f4f3da2d38e2d",
+      "createTime": 1788425276517,
+      "createDate": "2026-09-03",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260903_1a066740085343448.jpeg",
+        "https://ok.166.net/reunionpub/1_20260903_1a066740086679864.jpeg",
+        "https://ok.166.net/reunionpub/1_20260903_1a066740086344759.jpeg",
+        "https://ok.166.net/reunionpub/1_20260903_1a066740086674757.jpeg",
+        "https://ok.166.net/reunionpub/1_20260903_1a066740086519814.jpeg",
+        "https://ok.166.net/reunionpub/1_20260903_1a066740086251678.jpeg",
+        "https://ok.166.net/reunionpub/1_20260903_1a066740086655992.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1788425270.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iOC4SAbgsYJHLl43SbKfvH&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a992879151aa6f5bf13bf108OBcMC4w07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "点赞关注自取#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #永手甘璇捏脸# #甘璇捏脸#",
+      "userName": "o姜奶冻o",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260702_19f22d984fb281688.jpeg"
+    },
     {
       "id": "6a9909dc3de3fe511bcd1376",
       "userId": "a49386d0b620410785b3f16950b548ec",
