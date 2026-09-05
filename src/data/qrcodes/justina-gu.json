@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-04T07:56:42.611Z",
+  "lastUpdated": "2026-09-05T06:57:40.202Z",
   "source": "顾清寒捏脸",
-  "totalCount": 873,
+  "totalCount": 874,
   "qrcodes": [
+    {
+      "id": "6a9a850c382e8f44dc4f118c",
+      "userId": "83b8ab9e9d904527b39e5e53bb5a4c64",
+      "createTime": 1788511497904,
+      "createDate": "2026-09-04",
+      "characterId": "justina-gu",
+      "characterName": "Justina Gu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260904_1a06b97ad14845979.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##顾清寒捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "呆萌八条",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260713_19f5aa841cd187643.jpeg"
+    },
     {
       "id": "6a9706335a095612072d8c2f",
       "userId": "929b68f06544443b970f14cdf87ef538",
@@ -47,7 +62,7 @@
       "qrCodes": [],
       "text": "#永劫无间捏脸站##顾清寒捏脸#\n作品名称：\n设计理念：\n捏脸码：",
       "userName": "DLT99",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20230129_185fc18065f146347.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260904_1a06baf14e3292063.png"
     },
     {
       "id": "6a933a1165a4891d609737b7",
