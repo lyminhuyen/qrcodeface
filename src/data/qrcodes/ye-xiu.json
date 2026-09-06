@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-09-01T08:18:54.099Z",
+  "lastUpdated": "2026-09-06T07:47:10.924Z",
   "source": "叶修捏脸",
-  "totalCount": 94,
+  "totalCount": 95,
   "qrcodes": [
+    {
+      "id": "6a9c122ce956ea1f523ad193",
+      "userId": "7d0a1cc5565048c1ba743b3f0dd24122",
+      "createTime": 1788613162047,
+      "createDate": "2026-09-05",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260905_1a071a6f0b2145915.jpeg",
+        "https://ok.166.net/reunionpub/1_20260905_1a071a6f0b2213438.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a9c0c84093b37370e976b47"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站# #永劫无间# #叶修捏脸#",
+      "userName": "哑巴凡",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250125_19499741290319277.jpeg"
+    },
     {
       "id": "6a95520a18c6641c1001ec37",
       "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",

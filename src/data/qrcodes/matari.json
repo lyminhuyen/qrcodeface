@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-05T06:49:47.594Z",
+  "lastUpdated": "2026-09-06T07:00:35.375Z",
   "source": "迦南捏脸",
-  "totalCount": 734,
+  "totalCount": 735,
   "qrcodes": [
+    {
+      "id": "6a9be901382e8f44dc5119b2",
+      "userId": "afa353636b024a53a69a926a9d4e8a41",
+      "createTime": 1788602623770,
+      "createDate": "2026-09-05",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260905_1a0710620e6757998.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间# #永劫无间捏脸站# #迦南捏脸# #迦南#",
+      "userName": "你拒绝的是蟑螂的爱",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260903_1a066432fba359543.jpeg"
+    },
     {
       "id": "6a9b0a0fd2dde77a46887b6a",
       "userId": "1579b2d89b274bedae971d73aa183fb1",

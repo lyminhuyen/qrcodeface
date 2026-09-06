@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-08-31T09:00:12.291Z",
+  "lastUpdated": "2026-09-06T07:43:13.364Z",
   "source": "巫真捏脸",
-  "totalCount": 260,
+  "totalCount": 261,
   "qrcodes": [
+    {
+      "id": "6a9cee1f78de9d2c46d92b53",
+      "userId": "d64e8ea22587496b86613cdf76835400",
+      "createTime": 1788669457941,
+      "createDate": "2026-09-06",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260906_1a07501d44c511786.jpeg",
+        "https://ok.166.net/reunionpub/1_20260906_1a07501d44c209507.jpeg",
+        "https://ok.166.net/reunionpub/1_20260906_1a07501d44c709069.jpeg",
+        "https://ok.166.net/reunionpub/1_20260906_1a07501d44c660252.jpeg",
+        "https://ok.166.net/reunionpub/1_20260906_1a07501d44c191257.jpeg",
+        "https://ok.166.net/reunionpub/1_20260906_1a07501d44c299749.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=idmST8ly6_jkCXMr-FBYa5&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a9ceb9d58fcc9feccbff731L89xBM6f07"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #永劫无间手游攻略# #永手新赛季捏脸# #永手巫真# #永手巫真攻略# #永手巫真捏脸# #巫真捏脸# 喜欢的点赞关注脸码一键导入即可[送花]",
+      "userName": "不良帅天赐星",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260906_1a072c4821f933146.jpeg"
+    },
     {
       "id": "6a9513c12e51cf55ec08cbba",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",

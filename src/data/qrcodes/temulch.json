@@ -1,8 +1,37 @@
 {
-  "lastUpdated": "2026-09-05T06:47:52.627Z",
+  "lastUpdated": "2026-09-06T06:58:37.591Z",
   "source": "特木尔捏脸",
-  "totalCount": 770,
+  "totalCount": 771,
   "qrcodes": [
+    {
+      "id": "6a9c0a0db6e01c625a821f50",
+      "userId": "abe6cbb14ebd4cba9ff2aa0c7af97734",
+      "createTime": 1788611082941,
+      "createDate": "2026-09-05",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260905_1a0718734f2139170.jpeg",
+        "https://ok.166.net/reunionpub/1_20260905_1a0718734f2305264.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1788611079.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a9b5fc5745ea9544bd1071e",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1788611079.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a9b5fc5745ea9544bd1071e",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "【玄沙】#永劫无间# #永劫无间捏脸站# #特木尔捏脸#",
+      "userName": "肥肥仔vera",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
+    },
     {
       "id": "6a9acd8c2e51cf55ec0f8aa3",
       "userId": "1dd7f94448564419bddcef24e57bb78c",
