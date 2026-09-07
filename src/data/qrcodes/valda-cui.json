@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-04T07:56:42.902Z",
+  "lastUpdated": "2026-09-07T07:15:58.128Z",
   "source": "崔三娘捏脸",
-  "totalCount": 730,
+  "totalCount": 731,
   "qrcodes": [
+    {
+      "id": "6a9e13a8e6def02cfebe95a9",
+      "userId": "730fc56de9564b2bbceca4e32231f09d",
+      "createTime": 1788744615284,
+      "createDate": "2026-09-07",
+      "characterId": "valda-cui",
+      "characterName": "Valda Cui",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260907_1a0797cc2bb488335.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##崔三娘捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "任客达",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250309_1957a700b58544433.jpeg"
+    },
     {
       "id": "6a955f71f192995fa945097f",
       "userId": "1dd7f94448564419bddcef24e57bb78c",
