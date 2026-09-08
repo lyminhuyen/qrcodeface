@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-09-04T07:56:42.676Z",
+  "lastUpdated": "2026-09-08T07:25:37.339Z",
   "source": "蓝梦捏脸",
-  "totalCount": 768,
+  "totalCount": 769,
   "qrcodes": [
+    {
+      "id": "6a9f8aace6def02cfec08a9c",
+      "userId": "f094850326d04b12b2cfd5a79aedcbf5",
+      "createTime": 1788840618742,
+      "createDate": "2026-09-08",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260908_1a07f359c41648396.png",
+        "https://ok.166.net/reunionpub/1_20260908_1a07f359c42648804.png"
+      ],
+      "qrCodes": [],
+      "text": "活人感这一块儿#永劫无间捏脸站# #永劫无间# #蓝梦捏脸#",
+      "userName": "脆柿籽",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260720_19f7eb8bb16345506.jpeg"
+    },
     {
       "id": "6a97c4956ec21132637c65d7",
       "userId": "6f85d16c0bed40b1b0486fc0d887f9c9",

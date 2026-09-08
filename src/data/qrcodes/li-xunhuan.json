@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-01T08:22:17.714Z",
+  "lastUpdated": "2026-09-08T07:53:04.417Z",
   "source": "李寻欢捏脸",
-  "totalCount": 116,
+  "totalCount": 117,
   "qrcodes": [
     {
       "id": "6a8faddbdaf63c7827155548",
@@ -2941,6 +2941,38 @@
       "userName": "肥肥仔vera",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg",
       "userId": "abe6cbb14ebd4cba9ff2aa0c7af97734"
+    },
+    {
+      "id": "690c24439769305d91d08039",
+      "userId": "79540e2f4a8c48dbb3a48bce26a0d85c",
+      "createTime": 1762403327744,
+      "createDate": "2025-11-06",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20251106_cb98863355756fc8a689d591a09d96e4.jpeg",
+        "https://ok.166.net/reunionpub/1_kol_20251106_be39b512be5b9fe5a23254e7ea68badf.jpeg",
+        "https://ok.166.net/reunionpub/1_kol_20251106_e65a9831b7c7e17c1592f16d98ed07c3.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgBtn": "导入同款捏脸作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20251106_7b6b1cd8e084800d2e2561bcb456181a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690c1dd690401d221d89e192"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20251106_3c8729d862383456691ae661446ee942",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690c1dd690401d221d89e192"
+        }
+      ],
+      "text": "🦋免费数据分享·李寻欢·【李寻欢】\n🤍by:泡泡柚又籽\n✨喜欢的bb可以三连支持嘛(*´・ｖ・)\n#永劫无间# #永劫无间捏脸站# #李寻欢捏脸#",
+      "userName": "泡泡柚又籽",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260703_19f2399fd0f687943.jpeg"
     },
     {
       "id": "690c1cdd3badeb04fb61f2b9",

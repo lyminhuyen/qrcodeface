@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-02T07:32:38.375Z",
+  "lastUpdated": "2026-09-08T07:39:13.465Z",
   "source": "刘炼捏脸",
-  "totalCount": 487,
+  "totalCount": 488,
   "qrcodes": [
+    {
+      "id": "6a9fa72ef192995fa952b812",
+      "userId": "c0bd0fbe9489473d87a0a8fd5b3a163c",
+      "createTime": 1788847915944,
+      "createDate": "2026-09-08",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260908_1a07fa4ff55808426.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##刘炼捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "原来是天下第一的李相夷",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240314_18e3d19d993278081.jpeg"
+    },
     {
       "id": "6a9684daf192995fa9466ca9",
       "userId": "6c90db25dceb40babbc7e5e221c9b247",
