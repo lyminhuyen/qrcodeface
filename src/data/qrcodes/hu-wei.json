@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-08T07:54:28.067Z",
+  "lastUpdated": "2026-09-09T07:42:39.951Z",
   "source": "胡为捏脸",
-  "totalCount": 739,
+  "totalCount": 740,
   "qrcodes": [
+    {
+      "id": "6aa0a799bd7c39655e06aa51",
+      "userId": "9cb623d5664f4e37bc9e48963407e099",
+      "createTime": 1788913559549,
+      "createDate": "2026-09-09",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260909_1a0838ea2ff341839.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：#永劫无间# 胡为影棚#影棚# #永劫无间捏脸站#",
+      "userName": "思简薇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250404_195fd788584806583.jpeg"
+    },
     {
       "id": "6a982d438529467ddd74cf3e",
       "userId": "10533372366140b5a5b1471768d2c448",
@@ -8397,7 +8412,7 @@
       ],
       "qrCodes": [],
       "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "洪泽0",
+      "userName": "洪泽0_20260902",
       "userAvatar": "https://ok.166.net/reunionpub/3_20231106_18ba1881695955421.jpeg",
       "userId": "e9a9e81a054a4aa08a01d5976eeaf4cc"
     },
