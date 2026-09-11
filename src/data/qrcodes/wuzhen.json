@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-07T07:53:30.584Z",
+  "lastUpdated": "2026-09-11T07:52:10.515Z",
   "source": "巫真捏脸",
-  "totalCount": 261,
+  "totalCount": 262,
   "qrcodes": [
+    {
+      "id": "6aa2684478de9d2c46e15d56",
+      "userId": "bcfb93054df34dafbd736bc86bdc6109",
+      "createTime": 1789028418581,
+      "createDate": "2026-09-10",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260910_1a08a67411a894451.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##巫真捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "玄缨乄",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260418_19da032f759959171.png"
+    },
     {
       "id": "6a9cee1f78de9d2c46d92b53",
       "userId": "d64e8ea22587496b86613cdf76835400",
