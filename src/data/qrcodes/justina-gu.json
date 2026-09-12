@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-09-11T07:16:53.518Z",
+  "lastUpdated": "2026-09-12T07:09:44.111Z",
   "source": "顾清寒捏脸",
-  "totalCount": 879,
+  "totalCount": 880,
   "qrcodes": [
+    {
+      "id": "6aa3edc5e6def02cfec66e71",
+      "userId": "356035f8ad5c4f918b105eb6ea865d2e",
+      "createTime": 1789127828553,
+      "createDate": "2026-09-11",
+      "characterId": "justina-gu",
+      "characterName": "Justina Gu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260911_1a090541de5245172.jpeg",
+        "https://ok.166.net/reunionpub/1_20260911_1a090541de5568347.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "请问大家有没有这个捏脸码 好漂亮啊 求求#顾清寒捏脸#",
+      "userName": "hadbda",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250103_1942c1881b3905487.jpeg"
+    },
     {
       "id": "6aa1951c382e8f44dc59fdac",
       "userId": "3228cdc3d03b4ec7bd24d933ccf30fad",
