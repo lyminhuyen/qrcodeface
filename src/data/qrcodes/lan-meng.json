@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-11T07:30:43.580Z",
+  "lastUpdated": "2026-09-13T07:41:21.276Z",
   "source": "蓝梦捏脸",
-  "totalCount": 771,
+  "totalCount": 772,
   "qrcodes": [
+    {
+      "id": "6aa58e572c44754f37551118",
+      "userId": "2efa65e53b454c4fa66e7c70b12c0f5d",
+      "createTime": 1789234772971,
+      "createDate": "2026-09-12",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260913_1a096b3f9bb121950.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#蓝梦捏脸#",
+      "userName": "保持乖乖男形象",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260611_19eb3f255a4333638.jpeg"
+    },
     {
       "id": "6aa37ae68e71c72d8893407b",
       "userId": "c37868f3160a4c9d88a98ea253c4daa4",
@@ -8906,7 +8921,7 @@
       "qrCodes": [],
       "text": "#永劫无间捏脸站# #蓝梦捏脸# #颜颜夏日# #颜颜夏日# #永劫无间#",
       "userName": "Cabriel加百列",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260913_1a098790ed1290545.jpeg",
       "userId": "cf20ca7d341d4e02a4de95d030970804"
     },
     {

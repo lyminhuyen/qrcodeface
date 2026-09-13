@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-07T07:57:26.420Z",
+  "lastUpdated": "2026-09-13T08:06:52.504Z",
   "source": "叶修捏脸",
-  "totalCount": 95,
+  "totalCount": 96,
   "qrcodes": [
+    {
+      "id": "6aa57f602e51cf55ec1ec12a",
+      "userId": "84d3c3bb54b64b159c5180f1c7bef106",
+      "createTime": 1789230942827,
+      "createDate": "2026-09-12",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260913_1a0967986ee763287.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##叶修捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "小雨心里痛",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260908_1a07e39b8a6214778.jpeg"
+    },
     {
       "id": "6a9c122ce956ea1f523ad193",
       "userId": "7d0a1cc5565048c1ba743b3f0dd24122",

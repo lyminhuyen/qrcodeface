@@ -1,8 +1,49 @@
 {
-  "lastUpdated": "2026-09-12T07:48:36.083Z",
+  "lastUpdated": "2026-09-13T08:04:57.792Z",
   "source": "甘璇捏脸",
-  "totalCount": 176,
+  "totalCount": 178,
   "qrcodes": [
+    {
+      "id": "6aa582b02c44754f3754f735",
+      "userId": "882951d758314206b68000449c2bdfd4",
+      "createTime": 1789231790444,
+      "createDate": "2026-09-12",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260913_1a096865054168347.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#甘璇捏脸#",
+      "userName": "凯特阿克顿",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240510_18f626e2e0c972930.png"
+    },
+    {
+      "id": "6aa50e7e18c6641c1016e3c6",
+      "userId": "6c90db25dceb40babbc7e5e221c9b247",
+      "createTime": 1789202043670,
+      "createDate": "2026-09-12",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260912_1a094c08b4f576750.jpeg",
+        "https://ok.166.net/reunionpub/1_20260912_1a094c08b4f238944.jpeg",
+        "https://ok.166.net/reunionpub/1_20260912_1a094c08b4f351769.jpeg",
+        "https://ok.166.net/reunionpub/1_20260912_1a094c08b4f143259.jpeg",
+        "https://ok.166.net/reunionpub/1_20260912_1a094c08b4f190649.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1789202039.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iZZsmCPnbmz3fohbymWq39&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6aa509d565933807c26766e7A3t2tDgd07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "dy的宝宝们，因平台限制以后的捏脸都将在大神分享，知道的宝子帮忙告诉其他不知道的宝宝谢谢大家!(我这边不可以直白告诉大家)#永劫无间手游# #甘璇捏脸# #永劫手游大神创作激励#",
+      "userName": "粥沫小福",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg"
+    },
     {
       "id": "6aa4cda95a09561207400644",
       "userId": "46c32bd1700b455aa1c42aa965ff282b",

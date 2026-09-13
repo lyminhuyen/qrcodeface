@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-11T07:52:10.515Z",
+  "lastUpdated": "2026-09-13T08:03:00.019Z",
   "source": "巫真捏脸",
-  "totalCount": 262,
+  "totalCount": 263,
   "qrcodes": [
+    {
+      "id": "6aa58e6ab6e01c625a908bd6",
+      "userId": "2efa65e53b454c4fa66e7c70b12c0f5d",
+      "createTime": 1789234792141,
+      "createDate": "2026-09-12",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260913_1a096b444ff378339.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#巫真捏脸#",
+      "userName": "保持乖乖男形象",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260611_19eb3f255a4333638.jpeg"
+    },
     {
       "id": "6aa2684478de9d2c46e15d56",
       "userId": "bcfb93054df34dafbd736bc86bdc6109",
@@ -5921,7 +5936,7 @@
       "qrCodes": [],
       "text": "原创捏脸，数据自取\n#永劫无间捏脸站# #永劫无间# #巫真捏脸#",
       "userName": "Cabriel加百列",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260421_19daf2b1ff1804211.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260913_1a098790ed1290545.jpeg",
       "userId": "cf20ca7d341d4e02a4de95d030970804"
     },
     {
