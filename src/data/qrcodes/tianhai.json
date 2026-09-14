@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-13T07:23:35.473Z",
+  "lastUpdated": "2026-09-14T07:47:09.925Z",
   "source": "天海捏脸",
-  "totalCount": 693,
+  "totalCount": 694,
   "qrcodes": [
+    {
+      "id": "6aa6b20ce956ea1f524ad21b",
+      "userId": "e364977d3bda4931a6d7632852080cc6",
+      "createTime": 1789309450845,
+      "createDate": "2026-09-13",
+      "characterId": "tianhai",
+      "characterName": "Tianhai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260913_1a09b2773df747165.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##天海捏脸#\n作品名称：萌妹\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家96167732",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231215_18c6cf1d57e718426.jpeg"
+    },
     {
       "id": "6aa58be90877c835d6467536",
       "userId": "2efa65e53b454c4fa66e7c70b12c0f5d",

@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-09-13T08:03:00.019Z",
+  "lastUpdated": "2026-09-14T08:27:51.182Z",
   "source": "巫真捏脸",
-  "totalCount": 263,
+  "totalCount": 264,
   "qrcodes": [
+    {
+      "id": "6aa69392bd7c39655e0fff60",
+      "userId": "2ceb4ae119fb4c8ea65747994791b734",
+      "createTime": 1789301647582,
+      "createDate": "2026-09-13",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260913_1a09ab065a0323980.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iPzb0brexSHxnyR9pkTldJ&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a461523d1315ea758bb6f6aI4YwmDfu07"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站##巫真捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "罗源Kris",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260906_1a0747ceb0b766034.jpeg"
+    },
     {
       "id": "6aa58e6ab6e01c625a908bd6",
       "userId": "2efa65e53b454c4fa66e7c70b12c0f5d",
