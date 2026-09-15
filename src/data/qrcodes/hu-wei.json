@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-09-14T08:14:06.464Z",
+  "lastUpdated": "2026-09-15T07:51:30.555Z",
   "source": "胡为捏脸",
-  "totalCount": 742,
+  "totalCount": 743,
   "qrcodes": [
+    {
+      "id": "6aa7eacc18c6641c101aa52b",
+      "userId": "1285dc44989a434c8e282836b244e676",
+      "createTime": 1789389511491,
+      "createDate": "2026-09-14",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260914_14508d3f8764b32d7d2d0f172e666558",
+        "https://ok.166.net/reunionpub/1_kol_20260914_5eb4a76cf16283314928f83870bd329b",
+        "https://ok.166.net/reunionpub/1_kol_20260914_4ea61ae3bde6c785b962c24154680828",
+        "https://ok.166.net/reunionpub/1_kol_20260914_42baf415ff9104743197d4db6df16f6b",
+        "https://ok.166.net/reunionpub/1_kol_20260914_f71faea508256c34dacbb988a994d6d6"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260914_810477c51a50b4fb4290a049b69317ca",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6aa7e578093b37370e993f4d"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260914_2c266300c0a8a34630bc63027044dad9",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6aa7e578093b37370e993f4d"
+        }
+      ],
+      "text": "胡为捏脸 · 金圣仙君\n补个胡为捏脸~单纯配外观，不是仿捏\n需要赛季商店的眼珠和幻丝商店的面纹，没有的用图5的数据\n#胡为捏脸# #永劫无间捏脸站# #永劫无间#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg"
+    },
     {
       "id": "6aa15214bd7c39655e08457c",
       "userId": "60701b8b7e914c64b1b5d0fcc726ae9d",
