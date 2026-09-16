@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-09-13T08:13:08.423Z",
+  "lastUpdated": "2026-09-16T08:17:27.885Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 918,
+  "totalCount": 928,
   "qrcodes": [
+    {
+      "id": "6aa976ec78de9d2c46eb5f8c",
+      "userId": "3e814e3d77f54e5a8c7bf56bcccc0f89",
+      "createTime": 1789490922521,
+      "createDate": "2026-09-15",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260916_1a0a5f87bf4707832.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1789490908.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=67fd17c27486e96610888a17",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1789490908.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=67fd17c27486e96610888a17",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##玉玲珑捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "给我一个玥",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260914_1a09bc1db5f390879.jpeg"
+    },
     {
       "id": "6aa58e18382e8f44dc5fbd01",
       "userId": "2efa65e53b454c4fa66e7c70b12c0f5d",
@@ -33,6 +61,30 @@
       "text": "#永劫无间捏脸站##玉玲珑捏脸#\n作品名称：\n设计理念：\n捏脸码：",
       "userName": "青青ay",
       "userAvatar": "https://ok.166.net/reunionpub/3_20241017_1929981bcea289846.jpeg"
+    },
+    {
+      "id": "6aa26a5e8f066d0a277f1fe1",
+      "userId": "d64e8ea22587496b86613cdf76835400",
+      "createTime": 1789028949730,
+      "createDate": "2026-09-10",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260910_1a08a6f4f4c709029.jpeg",
+        "https://ok.166.net/reunionpub/1_20260910_1a08a6f4f4c915853.jpeg",
+        "https://ok.166.net/reunionpub/1_20260910_1a08a6f4f4c677056.jpeg",
+        "https://ok.166.net/reunionpub/1_20260910_1a08a6f4f4c892403.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ixApyUjD6B9QqUqC9zlrw8&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6aa26885af1d63bd0f690596c6KcyAdo07"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #永劫无间手游攻略# #永手玉玲珑# #永手玉玲珑攻略# #永手玉玲珑捏脸# 喜欢的点赞关注脸码一键导入即可[送花]",
+      "userName": "不良帅天赐星",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260906_1a072c4821f933146.jpeg"
     },
     {
       "id": "6a9dabb56ec211326384a776",
@@ -395,6 +447,29 @@
       "text": "#永劫无间捏脸站##玉玲珑捏脸#\n作品名称：花莺\n设计理念：\n捏脸码：",
       "userName": "阿库娅IF",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240215_18dabdf6842805543.png"
+    },
+    {
+      "id": "6a71c6db2d833b0458135026",
+      "userId": "d64e8ea22587496b86613cdf76835400",
+      "createTime": 1785841109238,
+      "createDate": "2026-08-04",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260804_19fcc6cbfde563651.jpeg",
+        "https://ok.166.net/reunionpub/1_20260804_19fcc6cbfde350413.jpeg",
+        "https://ok.166.net/reunionpub/1_20260804_19fcc6cbfde607857.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ioIpuBmxpLNavamdWZyNja&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a71c30b48a2c78c00061e7fHQq3ACK407"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #永手玉玲珑攻略# #永手玉玲珑捏脸# #永手玉玲珑#",
+      "userName": "不良帅天赐星",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260906_1a072c4821f933146.jpeg"
     },
     {
       "id": "6a71873c4616c2055882b843",
@@ -1224,7 +1299,7 @@
       ],
       "text": "玉玲珑睡衣皮肤捏脸 · 夜阑\n极致妖艳~姐姐型就是最顶的\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -2521,7 +2596,7 @@
       ],
       "text": "玉玲珑捏脸 · 夜雪闻笙\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -3137,7 +3212,7 @@
       ],
       "text": "玉玲珑捏脸 · 沫瑶\n来个娇俏少御风的狐狸~\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -4535,7 +4610,7 @@
       ],
       "text": "玉玲珑捏脸 · 洛赛琳\n选择攻略对象！角色一：城里贵族的傲娇大小姐\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -4600,6 +4675,32 @@
       "userName": "考拉somnus",
       "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg",
       "userId": "09240252501f4fb1949ab98c8c5fda65"
+    },
+    {
+      "id": "69a4e26b8daa490c5d5668ff",
+      "userId": "d64e8ea22587496b86613cdf76835400",
+      "createTime": 1772413542260,
+      "createDate": "2026-03-02",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260302_19cac1454fa472619.jpeg",
+        "https://ok.166.net/reunionpub/1_20260302_19cac1454fa636056.jpeg",
+        "https://ok.166.net/reunionpub/1_20260302_19cac1454fa658336.jpeg",
+        "https://ok.166.net/reunionpub/1_20260302_19cac1454fa845969.jpeg",
+        "https://ok.166.net/reunionpub/1_20260302_19cac1454fa541867.jpeg",
+        "https://ok.166.net/reunionpub/1_20260302_19cac1454fa555500.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=if1uBgUAPBJiNbiAG4UFOD&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/69a465070e46527285151e64SiAkpuHw07"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #永劫手游热点玩法# #永手玉玲珑# #永手玉玲珑捏脸# #永手玉玲珑捏脸# #永劫无间手游攻略# 喜欢的点赞关注脸码一键导入即可[送花]",
+      "userName": "不良帅天赐星",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260906_1a072c4821f933146.jpeg"
     },
     {
       "id": "699e91a71034c8288f5f4c1e",
@@ -5553,7 +5654,7 @@
       ],
       "text": "玉玲珑 · 倒反阴阳捏脸 · 淳风\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -5791,6 +5892,32 @@
       "userId": "a5db0ea3ef134ab893e3743537980499"
     },
     {
+      "id": "6974ef08e349944a234c29db",
+      "userId": "d64e8ea22587496b86613cdf76835400",
+      "createTime": 1769270720546,
+      "createDate": "2026-01-24",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260125_19bf0c0b133321570.jpeg",
+        "https://ok.166.net/reunionpub/1_20260125_19bf0c0b133878649.jpeg",
+        "https://ok.166.net/reunionpub/1_20260125_19bf0c0b133488644.jpeg",
+        "https://ok.166.net/reunionpub/1_20260125_19bf0c0b133210126.jpeg",
+        "https://ok.166.net/reunionpub/1_20260125_19bf0c0b133713749.jpeg",
+        "https://ok.166.net/reunionpub/1_20260125_19bf0c0b133427125.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i03VUnzEW9pu-zSdEh6dAB&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6974e77f0452d3691e2cbf1fzSwdGPFq07"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #永手玉玲珑捏脸# #永劫影棚摄影大赛# #永手玉玲珑攻略# #永手玉玲珑# #永手新赛季捏脸# 喜欢的点赞关注脸码一键导入即可[送花]",
+      "userName": "不良帅天赐星",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260906_1a072c4821f933146.jpeg"
+    },
+    {
       "id": "69748610377e071364206f69",
       "createTime": 1769244173966,
       "createDate": "2026-01-24",
@@ -6012,6 +6139,30 @@
       "userName": "恩利奇",
       "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg",
       "userId": "44911948a1a0490db0a6f1c54e98cf60"
+    },
+    {
+      "id": "696c6bbd5d967a2dacf758d4",
+      "userId": "d64e8ea22587496b86613cdf76835400",
+      "createTime": 1768713145685,
+      "createDate": "2026-01-18",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260118_19bcf84c6bb690191.jpeg",
+        "https://ok.166.net/reunionpub/1_20260118_19bcf84c6bc688827.png",
+        "https://ok.166.net/reunionpub/1_20260118_19bcf84c6bc179765.png",
+        "https://ok.166.net/reunionpub/1_20260118_19bcf84c6bc258363.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iOT6pTRs-ZdhCWyzoSrlNg&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/696c6a4b72dc4d9d62c7a982pcShIdE707"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #永手玉玲珑捏脸# #永手玉玲珑攻略# #永手玉玲珑# #永手新赛季捏脸# #猜猜他是谁# #永劫影棚摄影大赛# 喜欢的点赞关注脸码一键导入即可",
+      "userName": "不良帅天赐星",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260906_1a072c4821f933146.jpeg"
     },
     {
       "id": "696c39f707a8752508d50815",
@@ -6306,7 +6457,7 @@
       ],
       "text": "玉玲珑捏脸 · 露比 | 粉昼梦境系列\n拓展一下新风格，芭比糅合bjd风的娃娃感捏脸\n感谢喜欢，请多多点赞支持姨~❤\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -7406,7 +7557,7 @@
       ],
       "text": "玉玲珑捏脸 · 图多盖洛\n猫和老鼠中的图多盖洛印象仿捏\n脸码在图2，发色码在图3\n感谢喜欢，请多多点赞支持姨~❤\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -7777,6 +7928,30 @@
       "userName": "小贺nice",
       "userAvatar": "https://ok.166.net/reunionpub/3_20220708_181de76c68c884768.jpeg",
       "userId": "1b07834e30f8467fb1d878b7d940d13e"
+    },
+    {
+      "id": "693a15a33352477c950835b5",
+      "userId": "d64e8ea22587496b86613cdf76835400",
+      "createTime": 1765414151826,
+      "createDate": "2025-12-11",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251211_19b0ae21ea3896690.png",
+        "https://ok.166.net/reunionpub/1_20251211_19b0ae21ea3243505.jpeg",
+        "https://ok.166.net/reunionpub/1_20251211_19b0ae21ea3454330.jpeg",
+        "https://ok.166.net/reunionpub/1_20251211_19b0ae21ea3338242.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ikGKL_T7NMwH08uT2ieI0f&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/693a11ddedae7aac06a8faa7AFi39C6m07"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #猜猜他是谁# #搞怪娱乐赛道# #永手新赛季捏脸# #永手玉玲珑攻略# #永手玉玲珑捏脸# #永劫无间手游奇侠赛季# 玉玲珑白鼠，喜欢的点赞关注脸码一键导入即可[送花]",
+      "userName": "不良帅天赐星",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260906_1a072c4821f933146.jpeg"
     },
     {
       "id": "6938db2f2cc4211af7f1403b",
@@ -8340,6 +8515,35 @@
       "userId": "1dd7f94448564419bddcef24e57bb78c"
     },
     {
+      "id": "69187046cecc8d3b040bef58",
+      "userId": "d64e8ea22587496b86613cdf76835400",
+      "createTime": 1763209233716,
+      "createDate": "2025-11-15",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251115_19a8775b683967252.jpeg",
+        "https://ok.166.net/reunionpub/1_20251115_19a8775b683471970.jpeg",
+        "https://ok.166.net/reunionpub/1_20251115_19a8775b683682566.jpeg",
+        "https://ok.166.net/reunionpub/1_20251115_19a8775b683377064.jpeg",
+        "https://ok.166.net/reunionpub/1_20251115_19a8775b683741311.jpeg",
+        "https://ok.166.net/reunionpub/1_20251115_19a8775b683803096.jpeg",
+        "https://ok.166.net/reunionpub/1_20251115_19a8775b683881242.jpeg",
+        "https://ok.166.net/reunionpub/1_20251115_19a8775b683284055.jpeg",
+        "https://ok.166.net/reunionpub/1_20251115_19a8775b683223455.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=id5M9K5vw5E8-bIycwnLnW&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6918531b7964941b3f8da8e0Z3FuhSdA07"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #永劫无间手游奇侠赛季# #永手玉玲珑捏脸# 金克丝的含义就是金克丝，规则就是用来打破的，玉玲珑仿金克丝，喜欢的点赞关注脸码一键导入即可[送花]",
+      "userName": "不良帅天赐星",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260906_1a072c4821f933146.jpeg"
+    },
+    {
       "id": "69186a0394f0a275517f0a64",
       "createTime": 1763207514261,
       "createDate": "2025-11-15",
@@ -8540,7 +8744,7 @@
       ],
       "text": "四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #玉玲珑捏脸# #猜猜他是谁# #永手新赛季捏脸# #泳装# #玉玲珑泳装# #玉玲珑#",
       "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260724_19f93524c20201392.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a41b798d758534.jpeg",
       "userId": "e01d2ca63c264ab3ab3438b86b1c4f06"
     },
     {
@@ -8585,7 +8789,7 @@
       ],
       "text": "玉玲珑捏脸 · 仕女图\n※只适配水墨版※只适配水墨版※只适配水墨版※\n未升级的普通版用起来会很奇怪，只适配琉璃晶升级过的效果哈\n感谢喜欢，请多多点赞支持姨~❤\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -9256,7 +9460,7 @@
       ],
       "text": "玉玲珑捏脸  ·  杨玉环 · 羞花\n需要幻丝解锁的长歌诗韵腮红，不想解锁的用图3版~\n感谢喜欢，请多多点赞支持姨~❤\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -9546,6 +9750,30 @@
       "userId": "b50556c028174bc4b20efc4de9d950d5"
     },
     {
+      "id": "68fe442e7e1527133c279ba2",
+      "userId": "d64e8ea22587496b86613cdf76835400",
+      "createTime": 1761494060008,
+      "createDate": "2025-10-26",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251026_19a213a4550288600.jpeg",
+        "https://ok.166.net/reunionpub/1_20251026_19a213a4550525783.jpeg",
+        "https://ok.166.net/reunionpub/1_20251026_19a213a4550561103.jpeg",
+        "https://ok.166.net/reunionpub/1_20251026_19a213a4550522247.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iomKA3BaUdI2mnaL9Kc6vk&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/68fe39efc7a2e95848cbe914KVQV2cCb06"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #道诡异仙捏脸# #永手捏脸站# #永手玉玲珑捏脸# #永手新赛季捏脸# #道诡异仙# 软萌小狐狸，喜欢的铁子们点赞关注脸码一键导入即可[送花]",
+      "userName": "不良帅天赐星",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260906_1a072c4821f933146.jpeg"
+    },
+    {
       "id": "68fe3280f67c102e4d8219c8",
       "createTime": 1761489534879,
       "createDate": "2025-10-26",
@@ -9567,7 +9795,7 @@
       ],
       "text": "四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #道诡异仙捏脸# #道诡异仙联动# #玉玲珑# #玉玲珑捏脸# #玉玲珑-白灵淼# #猜猜他是谁# #永手新赛季捏脸# #永手玉玲珑捏脸#",
       "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260724_19f93524c20201392.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a41b798d758534.jpeg",
       "userId": "e01d2ca63c264ab3ab3438b86b1c4f06"
     },
     {
@@ -9592,7 +9820,7 @@
       ],
       "text": "四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #道诡异仙捏脸# #玉玲珑-白灵淼# #永手玉玲珑捏脸# #玉玲珑# #玉玲珑捏脸# #猜猜他是谁# #永手新赛季捏脸#",
       "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260724_19f93524c20201392.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a41b798d758534.jpeg",
       "userId": "e01d2ca63c264ab3ab3438b86b1c4f06"
     },
     {
@@ -9617,7 +9845,7 @@
       ],
       "text": "四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #道诡异仙捏脸# #玉玲珑# #玉玲珑捏脸# #玉玲珑-白灵淼# #猜猜他是谁# #永手新赛季捏脸# #永手玉玲珑捏脸#",
       "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260724_19f93524c20201392.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a41b798d758534.jpeg",
       "userId": "e01d2ca63c264ab3ab3438b86b1c4f06"
     },
     {
@@ -9740,8 +9968,37 @@
       ],
       "text": "玉玲珑捏脸 · 狐灵仙\n粉丝点的和面具融合的捏脸，摘下面具有小小惊喜~\n感谢喜欢，请多多点赞支持姨~❤\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
+    },
+    {
+      "id": "68fca53052788a1591e165d5",
+      "userId": "d64e8ea22587496b86613cdf76835400",
+      "createTime": 1761387822352,
+      "createDate": "2025-10-25",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251025_19a1ae52c36340986.png",
+        "https://ok.166.net/reunionpub/1_20251025_19a1ae52c36500292.png",
+        "https://ok.166.net/reunionpub/1_20251025_19a1ae52c36307938.jpeg",
+        "https://ok.166.net/reunionpub/1_20251025_19a1ae52c36418058.png",
+        "https://ok.166.net/reunionpub/1_20251025_19a1ae52c36242421.png",
+        "https://ok.166.net/reunionpub/1_20251025_19a1ae52c36305495.jpeg",
+        "https://ok.166.net/reunionpub/1_20251025_19a1ae52c36652814.jpeg",
+        "https://ok.166.net/reunionpub/1_20251025_19a1ae52c36674517.jpeg",
+        "https://ok.166.net/reunionpub/1_20251025_19a1ae52c36622347.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ifrB9FvWNWmXoZry_DVKeR&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/68fc9d248ff98cf42999d9926UiGsYbg06"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #道诡异仙捏脸# #永手玉玲珑捏脸# #永手新赛季捏脸# #永劫无间手游# #道诡异仙# ai加工画面，面部细节几乎不变，就当是美图欣赏吧，喜欢的点赞关注脸码一键导入即可[送花]",
+      "userName": "不良帅天赐星",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260906_1a072c4821f933146.jpeg"
     },
     {
       "id": "68fc80d1ec97736cf3e5e171",
@@ -10318,7 +10575,7 @@
       ],
       "text": "四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #道诡异仙# #道诡异仙捏脸# #道诡异仙联动# #玉玲珑# #猜猜他是谁# #永手新赛季捏脸# #玉玲珑捏脸# #玉玲珑-白灵淼#",
       "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260724_19f93524c20201392.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a41b798d758534.jpeg",
       "userId": "e01d2ca63c264ab3ab3438b86b1c4f06"
     },
     {
@@ -10656,7 +10913,7 @@
       ],
       "text": "玉玲珑捏脸 · 白灵淼 · 垂眸\n眼睛靠捏脸闭起来的，所以人物在动和眨眼时会比较怪，介意这点就用正常版的~\n感谢喜欢，请多多点赞支持姨~❤\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -10687,7 +10944,7 @@
       ],
       "text": "玉玲珑捏脸 · 白灵淼\n感谢喜欢，请多多点赞支持姨~❤\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -10743,7 +11000,7 @@
       ],
       "text": "四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #玉玲珑捏脸# #永手新赛季捏脸# #猜猜他是谁# #玉玲珑# #玉玲珑【凯妮】# #玉玲珑凯妮捏脸# #尼尔联动#",
       "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260724_19f93524c20201392.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a41b798d758534.jpeg",
       "userId": "e01d2ca63c264ab3ab3438b86b1c4f06"
     },
     {
@@ -10768,7 +11025,7 @@
       ],
       "text": "四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #玉玲珑# #玉玲珑捏脸# #永手新赛季捏脸# #猜猜他是谁# #通行证#",
       "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260724_19f93524c20201392.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a41b798d758534.jpeg",
       "userId": "e01d2ca63c264ab3ab3438b86b1c4f06"
     },
     {
@@ -10831,7 +11088,7 @@
       ],
       "text": "玉玲珑捏脸 · 烟娆\n感谢喜欢，请多多点赞支持姨~❤\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -10912,7 +11169,7 @@
       ],
       "text": "四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #玉玲珑捏脸# #永手新赛季捏脸# #猜猜他是谁# #尼尔联动# #玉玲珑# #玉玲珑【凯妮】# #玉玲珑凯妮捏脸#",
       "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260724_19f93524c20201392.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a41b798d758534.jpeg",
       "userId": "e01d2ca63c264ab3ab3438b86b1c4f06"
     },
     {
@@ -11339,7 +11596,7 @@
       ],
       "text": "玉玲珑 · 凯妮仿捏\n导入捏脸在帖子文案下方\n感谢喜欢，请多多点赞支持姨~❤\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -11687,7 +11944,7 @@
       ],
       "text": "玉玲珑印象仿捏 · 青蛇大王\n感谢喜欢，请多多点赞支持姨~❤\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -12338,7 +12595,7 @@
       ],
       "text": "玉玲珑冠军皮捏脸 · Flossie\n脸码在图2，发色就是头发默认的金色\n感谢喜欢，请多多点赞支持姨| ू•ૅω•́)\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -13336,7 +13593,7 @@
       ],
       "text": "四连即可一键导入捏脸\n#永手捏脸站# #玉玲珑捏脸# #玉玲珑红皮# #玉玲珑#",
       "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260724_19f93524c20201392.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a41b798d758534.jpeg",
       "userId": "e01d2ca63c264ab3ab3438b86b1c4f06"
     },
     {
@@ -13515,7 +13772,7 @@
       ],
       "text": "[ 玉玲珑百战捏脸 ◆ 机械姬 ]\n无面纹版本在图3，灰皮在图4，发色在图5,\n面纹和眼影目前游戏里无法获取，需要的可以去视频版的左下角同款搭配里获取\n感谢喜欢，点赞是最好的支持(^.^)\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间# #颜颜夏日#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -14074,7 +14331,7 @@
       ],
       "text": "[ 玉玲珑捏脸 ◆ 莉兹 ]\n脸码在图2，发色在图3，喜欢还请点赞支持(^.^)\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间# #颜颜夏日#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -14473,7 +14730,7 @@
       ],
       "text": "四连即可一键导入捏脸\n#永劫手游大神创作激励# #永手捏脸站# #玉玲珑泳装# #玉玲珑捏脸# #玉玲珑#",
       "userName": "梅子喵喵酱",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260724_19f93524c20201392.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a41b798d758534.jpeg",
       "userId": "e01d2ca63c264ab3ab3438b86b1c4f06"
     },
     {
@@ -14931,7 +15188,7 @@
       ],
       "text": "[ 玉玲珑捏脸 ◆ 纷雪 ]\n脸码在图2，大家三连自取~感谢喜欢(^.^)\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -16360,7 +16617,7 @@
       ],
       "text": "[ 玉玲珑 ◆ 泳装捏脸 ◆ 浆果冰露 ]\n权威发型必须配权威捏脸~脸码在图3\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -18016,7 +18273,7 @@
       ],
       "text": "[ 玉玲珑 ◆ 夜刀神十香仿捏 ]\n捏脸码在第二张图~\n约战的画风很难还原我尽力辣\n#玉玲珑捏脸# #永劫无间捏脸站# #永劫无间#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -19576,7 +19833,7 @@
       "qrCodes": [],
       "text": "玉玲珑捏脸：小糯米 | by 昭和阿姨\n捏脸码在图2，喜欢记得点赞嗷(#^.^#)\n#玉玲珑捏脸# #永劫新皮肤捏脸# #永劫无间捏脸站#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
@@ -20648,7 +20905,7 @@
       "qrCodes": [],
       "text": "玉玲珑捏脸数据：学姐不高兴 | by 昭和阿姨\n赤羽套的搭配捏脸来辣\n新外观太拿捏女生了，学院制服好好康\n数据在最后，记得关注点赞支持姨嗷=3=\n#玉玲珑捏脸# #永劫无间捏脸# #永劫无间捏脸站#",
       "userName": "昭和阿姨",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250928_1998fad8b35935761.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260915_1a0a4d1a3de218791.jpeg",
       "userId": "1285dc44989a434c8e282836b244e676"
     },
     {
