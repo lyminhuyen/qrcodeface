@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-16T08:17:27.885Z",
+  "lastUpdated": "2026-09-17T07:16:41.567Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 928,
+  "totalCount": 929,
   "qrcodes": [
+    {
+      "id": "6aab7ee93de3fe511be77e19",
+      "userId": "f5845ba88ad346d0b4e415fb62854b9d",
+      "createTime": 1789624038936,
+      "createDate": "2026-09-17",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260917_1a0ade7b3d7847236.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##玉玲珑捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家893086338",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260917_1a0adddcf90685568.jpeg"
+    },
     {
       "id": "6aa976ec78de9d2c46eb5f8c",
       "userId": "3e814e3d77f54e5a8c7bf56bcccc0f89",

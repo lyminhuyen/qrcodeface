@@ -1,8 +1,35 @@
 {
-  "lastUpdated": "2026-09-16T08:19:36.293Z",
+  "lastUpdated": "2026-09-17T07:36:08.936Z",
   "source": "殷紫萍捏脸",
-  "totalCount": 1042,
+  "totalCount": 1043,
   "qrcodes": [
+    {
+      "id": "6aab8c2b382e8f44dc67a583",
+      "userId": "ea535fc6d5d54703891b540c279c4712",
+      "createTime": 1789627432889,
+      "createDate": "2026-09-17",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260917_1a0ae1b7812514202.jpeg",
+        "https://ok.166.net/reunionpub/1_20260917_1a0ae1b7812483920.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1789627428.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6aa92dc782b7416f9a50ed29",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##殷紫萍捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "宅物懒",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260701_19f1ce82c38417721.jpeg"
+    },
     {
       "id": "6aa62624daf63c7827347afd",
       "userId": "abe6cbb14ebd4cba9ff2aa0c7af97734",
@@ -21452,7 +21479,10 @@
         "https://ok.166.net/reunionpub/1_20231104_18b999c965c522303.jpeg"
       ],
       "qrCodes": [],
-      "text": "【小女巫白皮版】#永劫无间# #永劫无间捏脸站# #殷紫萍捏脸#"
+      "text": "【小女巫白皮版】#永劫无间# #永劫无间捏脸站# #殷紫萍捏脸#",
+      "userId": "abe6cbb14ebd4cba9ff2aa0c7af97734",
+      "userName": "肥肥仔vera",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
     },
     {
       "id": "653f88bb0770fb0001129683",
