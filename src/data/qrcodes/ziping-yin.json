@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-17T07:36:08.936Z",
+  "lastUpdated": "2026-09-18T07:28:49.819Z",
   "source": "殷紫萍捏脸",
-  "totalCount": 1043,
+  "totalCount": 1044,
   "qrcodes": [
+    {
+      "id": "6aacb5d43020737f62929ffe",
+      "userId": "46c32bd1700b455aa1c42aa965ff282b",
+      "createTime": 1789703634825,
+      "createDate": "2026-09-18",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260918_1a0b2a63877676365.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##殷紫萍捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "苦笑黄鳝斗蛐蛐",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260306_19cc33c8ca1777030.jpeg"
+    },
     {
       "id": "6aab8c2b382e8f44dc67a583",
       "userId": "ea535fc6d5d54703891b540c279c4712",
@@ -15312,7 +15327,7 @@
       ],
       "qrCodes": [],
       "text": "#殷紫萍捏脸# 求这个捏脸",
-      "userName": "风起夏天",
+      "userName": "风起夏天_20260909",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240421_18efe8b4c17715177.jpeg",
       "userId": "2f0054bf3d07417e8971ba22022caddd"
     },

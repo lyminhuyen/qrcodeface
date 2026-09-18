@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-09-17T08:07:07.940Z",
+  "lastUpdated": "2026-09-18T07:59:35.835Z",
   "source": "叶修捏脸",
-  "totalCount": 102,
+  "totalCount": 103,
   "qrcodes": [
+    {
+      "id": "6aabcbe93de3fe511be7ca1c",
+      "userId": "ffb114098aac4133969ab1aa4640bf6d",
+      "createTime": 1789643748644,
+      "createDate": "2026-09-17",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260917_06701b90f19b613feeee5d211f2bfcf6",
+        "https://ok.166.net/reunionpub/1_kol_20260917_4828605184dd89047fc660e2c3f5ff69",
+        "https://ok.166.net/reunionpub/1_kol_20260917_782fa0087d8380cccc635d0ec622de6a",
+        "https://ok.166.net/reunionpub/1_kol_20260917_b82391126a17fa54b30841623004853d"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260917_5e02963a97c20618b886eb551c54b3da",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6aabca14745ea9544bd37e14"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "[ 叶修捏脸·狐狸塑 ]\n就说这个老叶是狐狸变得~(火速肝出来国家队队服\n#永劫无间捏脸站# #叶修捏脸# #永劫无间#",
+      "userName": "高级护甲粉末",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260621_19eeabb13dc871443.jpeg"
+    },
     {
       "id": "6aab8155d152db5c10a2bf0c",
       "userId": "cc3ced9f0f0b42548eaf9235a0a53f83",
