@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-16T07:39:08.790Z",
+  "lastUpdated": "2026-09-19T07:26:17.126Z",
   "source": "武田信忠捏脸",
-  "totalCount": 768,
+  "totalCount": 769,
   "qrcodes": [
+    {
+      "id": "6aacfd62bd7c39655e182ccc",
+      "userId": "80898aac554046889b329d3d50f723c0",
+      "createTime": 1789721952442,
+      "createDate": "2026-09-18",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260918_1a0b3bdbc11650222.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##武田信忠捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "宅兔泪",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260831_1a05614e5b2839298.jpeg"
+    },
     {
       "id": "6a807b477cbb9b1a3d8a4f63",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
