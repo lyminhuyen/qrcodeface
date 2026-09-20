@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-16T08:17:27.912Z",
+  "lastUpdated": "2026-09-20T08:12:55.726Z",
   "source": "万钧捏脸",
-  "totalCount": 352,
+  "totalCount": 353,
   "qrcodes": [
+    {
+      "id": "6aaf93e2e6def02cfed4feb9",
+      "userId": "9a253300c6234481862fa35963d3a7a3",
+      "createTime": 1789891545882,
+      "createDate": "2026-09-20",
+      "characterId": "wan-jun",
+      "characterName": "Inor Wan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260920_1a0bdd98737242209.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##万钧捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "林姜鳕",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250727_1984b7441e9897557.jpeg"
+    },
     {
       "id": "6a9e55912c44754f374a19e8",
       "userId": "d64e8ea22587496b86613cdf76835400",
