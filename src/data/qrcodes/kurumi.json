@@ -1,8 +1,64 @@
 {
-  "lastUpdated": "2026-09-20T07:38:15.483Z",
+  "lastUpdated": "2026-09-22T07:31:38.021Z",
   "source": "胡桃捏脸",
-  "totalCount": 1184,
+  "totalCount": 1186,
   "qrcodes": [
+    {
+      "id": "6ab0f9b1d2dde77a46a4f639",
+      "userId": "6c90db25dceb40babbc7e5e221c9b247",
+      "createTime": 1789983149445,
+      "createDate": "2026-09-21",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260921_1a0c34f427d382885.jpeg",
+        "https://ok.166.net/reunionpub/1_20260921_1a0c34f427d215093.jpeg",
+        "https://ok.166.net/reunionpub/1_20260921_1a0c34f427d399059.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1789983131.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i-wXFxEuQAffMdZ1Jm_4EB&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6ab0efc10ffa3f74fc3ec571lyiiswci07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "dy的宝宝们，因平台限制以后的捏脸都将在大神分享，知道的宝子帮忙告诉其他不知道的宝宝谢谢大家!(我这边不可以直白告诉大家)#永劫无间手游# #胡桃捏脸# #永劫手游大神创作激励#",
+      "userName": "粥沫小福",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg"
+    },
+    {
+      "id": "6ab0e99b3de3fe511bee3b01",
+      "userId": "de440deaace4494dbbc445c92b3f5de6",
+      "createTime": 1789979025749,
+      "createDate": "2026-09-21",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260921_684bc67d4e81c60cccbb006abe1c7849",
+        "https://ok.166.net/reunionpub/1_kol_20260921_16497fa5eb08fba87d3304f8afd0bd18",
+        "https://ok.166.net/reunionpub/1_kol_20260921_73234751c3d810fd9c0e16a26c27fab3"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260921_b5a3c7a625fdf59db77e0aa046e9d810",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ab00aed0186943fc25d87fb"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260921_b077073d5d4639f8b0320573697b5640",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ab00aed0186943fc25d87fb"
+        }
+      ],
+      "text": "胡桃捏脸分享丨痛楚\n捏脸导入指引：捏脸码在图3 染发和捏脸码同码\n如左下角没有看到导入图标 请点开需要使用的捏脸码大图长按保存到手机后发布在评论区点开即可识别\n一头阿姜姜原创 - 创作不易，请动用发财的小手帮小姜点点三连支持一下吧～\n#永劫无间捏脸站# #土御门胡桃捏脸# #永劫无间# #胡桃捏脸#",
+      "userName": "一头阿姜姜",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
+    },
     {
       "id": "6aab7e51bd7c39655e166de3",
       "userId": "051ef5666b5f4257ac42ad1e7ff887a5",
