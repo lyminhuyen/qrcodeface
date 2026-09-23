@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-09-20T08:12:55.726Z",
+  "lastUpdated": "2026-09-23T08:09:42.710Z",
   "source": "万钧捏脸",
-  "totalCount": 353,
+  "totalCount": 354,
   "qrcodes": [
+    {
+      "id": "6ab28f4cd152db5c10ab95b5",
+      "userId": "baf29b0fd2694f8bbb446aaf33ea5651",
+      "createTime": 1790086986204,
+      "createDate": "2026-09-22",
+      "characterId": "wan-jun",
+      "characterName": "Inor Wan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260922_1a0c97fb73d348757.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1790086983.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ig6rDk1asO5-fMK9ijABF2&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/68d76eb2c4973357c01744c3cMbiFGfF06",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1790086983.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ig6rDk1asO5-fMK9ijABF2&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/68d76eb2c4973357c01744c3cMbiFGfF06",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##万钧捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "小豪大神",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241213_193bbd79bd2862936.jpeg"
+    },
     {
       "id": "6aaf93e2e6def02cfed4feb9",
       "userId": "9a253300c6234481862fa35963d3a7a3",
