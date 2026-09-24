@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-09-23T08:20:09.415Z",
+  "lastUpdated": "2026-09-24T07:59:40.356Z",
   "source": "刘炼捏脸",
-  "totalCount": 497,
+  "totalCount": 498,
   "qrcodes": [
+    {
+      "id": "6ab4ba8b91d52b008a942068",
+      "userId": "44911948a1a0490db0a6f1c54e98cf60",
+      "createTime": 1790229129181,
+      "createDate": "2026-09-24",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260924_1a0d1f8a0e7467897.jpeg",
+        "https://ok.166.net/reunionpub/1_20260924_1a0d1f8a0e8186154.jpeg",
+        "https://ok.166.net/reunionpub/1_20260924_1a0d1f8a0e8608950.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1790229123.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6aafa78e093b37370e9a5e1f",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "关注和赞一键三连～点击导入同款即可使用\n#永劫无间# #永劫无间捏脸站# #刘炼捏脸#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
+    },
     {
       "id": "6aaff48a3de3fe511bed04e7",
       "userId": "28528d590d1345f3b1a8b0cd3173817d",

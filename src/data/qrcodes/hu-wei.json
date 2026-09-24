@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-09-23T08:01:52.991Z",
+  "lastUpdated": "2026-09-24T07:53:49.253Z",
   "source": "胡为捏脸",
-  "totalCount": 752,
+  "totalCount": 753,
   "qrcodes": [
+    {
+      "id": "6ab3df52d96a1b266ff9daaf",
+      "userId": "cd6d7d47fe804b73ba70dd43c6e1a608",
+      "createTime": 1790173008212,
+      "createDate": "2026-09-23",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260923_1a0cea04e8e486363.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=68a82166abf4545f27231c6a"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=68a82166abf4545f27231c6a"
+        }
+      ],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家46220920",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250213_194fb62e1d2544149.jpeg"
+    },
     {
       "id": "6ab33d9b3de3fe511bf1241d",
       "userId": "ae2de4b796e44fc8b8f6628ad7dc0558",
@@ -15,7 +41,7 @@
       ],
       "qrCodes": [],
       "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "游戏玩家562622097",
+      "userName": "爱已尽归忘川",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260214_19c5adc1868913573.png"
     },
     {

@@ -1,8 +1,37 @@
 {
-  "lastUpdated": "2026-09-18T07:59:35.835Z",
+  "lastUpdated": "2026-09-24T08:11:52.860Z",
   "source": "叶修捏脸",
-  "totalCount": 103,
+  "totalCount": 104,
   "qrcodes": [
+    {
+      "id": "6ab3c0bd323d8e49cdc30d38",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1790165173924,
+      "createDate": "2026-09-23",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260923_1a0ce28bfb2726452.jpeg",
+        "https://ok.166.net/reunionpub/1_20260923_1a0ce28bfb3418849.jpeg",
+        "https://ok.166.net/reunionpub/1_20260923_1a0ce28bfb3170936.jpeg",
+        "https://ok.166.net/reunionpub/1_20260923_1a0ce28bfb3680060.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1790165170.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ab3bd8b82b7416f9a526056",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "叶修这个发型和新衣服也是绝配了\n\n#永劫无间捏脸站# #叶修穿搭# #叶修捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6aabcbe93de3fe511be7ca1c",
       "userId": "ffb114098aac4133969ab1aa4640bf6d",
