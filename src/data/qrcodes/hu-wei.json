@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-24T07:53:49.253Z",
+  "lastUpdated": "2026-09-25T07:48:48.565Z",
   "source": "胡为捏脸",
-  "totalCount": 753,
+  "totalCount": 754,
   "qrcodes": [
+    {
+      "id": "6ab55fa0323d8e49cdc5b8d8",
+      "userId": "e047273a60524bc4a140db3eb340fdc2",
+      "createTime": 1790271390273,
+      "createDate": "2026-09-24",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260925_1a0d47d7d86185869.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：中药世家\n设计理念：喝了中药，强博弈随便打，分分钟摸透了",
+      "userName": "李白菜菜子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241202_193875cc390498802.jpeg"
+    },
     {
       "id": "6ab3df52d96a1b266ff9daaf",
       "userId": "cd6d7d47fe804b73ba70dd43c6e1a608",
