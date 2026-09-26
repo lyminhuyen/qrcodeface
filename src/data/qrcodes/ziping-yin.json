@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-09-25T07:35:23.038Z",
+  "lastUpdated": "2026-09-26T08:07:40.877Z",
   "source": "殷紫萍捏脸",
-  "totalCount": 1048,
+  "totalCount": 1049,
   "qrcodes": [
+    {
+      "id": "6ab6738005a77e4099018983",
+      "userId": "376ee6ad19164657b90eea1d885cb49b",
+      "createTime": 1790342014556,
+      "createDate": "2026-09-25",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260925_1a0d8b31fc6604166.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ab670df745ea9544bd50f97"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站##殷紫萍捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "艿糕小吃货",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241203_1938c97d1e2544045.jpeg"
+    },
     {
       "id": "6ab5289a69415609453f5d9d",
       "userId": "ebf200aa04c540cfb6450c328203bb04",
@@ -4539,7 +4564,7 @@
       "qrCodes": [],
       "text": "#殷紫萍捏脸#",
       "userName": "小冉坏",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260717_19f70c309ea503542.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260907_1a07b936198916638.jpeg",
       "userId": "929b68f06544443b970f14cdf87ef538"
     },
     {
