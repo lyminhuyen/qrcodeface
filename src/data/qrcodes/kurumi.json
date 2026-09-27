@@ -1,8 +1,56 @@
 {
-  "lastUpdated": "2026-09-22T07:31:38.021Z",
+  "lastUpdated": "2026-09-27T07:48:02.777Z",
   "source": "胡桃捏脸",
-  "totalCount": 1186,
+  "totalCount": 1188,
   "qrcodes": [
+    {
+      "id": "6ab7b7eb1a7a453ec89bd3b5",
+      "userId": "2ec925a539774c849081030e6d39fdc2",
+      "createTime": 1790425064613,
+      "createDate": "2026-09-26",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260926_1a0dda65ea0641243.jpeg",
+        "https://ok.166.net/reunionpub/1_20260926_1a0dda65ea0896495.jpeg",
+        "https://ok.166.net/reunionpub/1_20260926_1a0dda65ea0174679.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1790425060.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iH8kLhJLa4MUvrB-RzfWwP&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6aabafea954fb3cdad7d100evEafXwD707",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "赞赞自取~\n点击下方一键导入即可获得同款捏脸，不会的宝宝可以看下置顶哦🔝#永劫手游大神创作激励# #永手捏脸站# #永劫有手就行# #永手新赛季捏脸# #永手胡桃捏脸# #胡桃# #捏脸# #胡桃捏脸# #永劫无间手游#",
+      "userName": "玫瑰凶杀案",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250925_19980080759940187.jpeg"
+    },
+    {
+      "id": "6ab7b78fb250b7083992e0d1",
+      "userId": "2ec925a539774c849081030e6d39fdc2",
+      "createTime": 1790424971566,
+      "createDate": "2026-09-26",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260926_1a0dda4f46b233888.jpeg",
+        "https://ok.166.net/reunionpub/1_20260926_1a0dda4f46b489215.jpeg",
+        "https://ok.166.net/reunionpub/1_20260926_1a0dda4f46b503266.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1790424955.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ikfqtvu__yxzTwgR-sPviT&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6aacf1e6c67a6119f2ea4aa63A32gCzq07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "赞赞自取~\n点击下方一键导入即可获得同款捏脸，不会的宝宝可以看下置顶哦🔝#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #永劫无间手游# #永手胡桃捏脸# #胡桃# #捏脸# #胡桃捏脸#",
+      "userName": "玫瑰凶杀案",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250925_19980080759940187.jpeg"
+    },
     {
       "id": "6ab0f9b1d2dde77a46a4f639",
       "userId": "6c90db25dceb40babbc7e5e221c9b247",

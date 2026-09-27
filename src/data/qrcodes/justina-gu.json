@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-09-26T08:07:40.871Z",
+  "lastUpdated": "2026-09-27T07:53:51.120Z",
   "source": "顾清寒捏脸",
-  "totalCount": 899,
+  "totalCount": 900,
   "qrcodes": [
+    {
+      "id": "6ab7b729f8486e7cb56251cd",
+      "userId": "09240252501f4fb1949ab98c8c5fda65",
+      "createTime": 1790424868095,
+      "createDate": "2026-09-26",
+      "characterId": "justina-gu",
+      "characterName": "Justina Gu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260926_c8d648a2d17c4dd4fdfa78b9d0a21392",
+        "https://ok.166.net/reunionpub/1_kol_20260926_8a9c447c213ae1fbe652b943e3fc05e5",
+        "https://ok.166.net/reunionpub/1_kol_20260926_bcb8d02810bc29a1d4e0f913df638f62"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260926_1ce6f84c668a681dcc9e4e439881f823",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ab7b3120186943fc25ea407"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260926_90f5f5dbc6d7c1bf0a90caede7a81316",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ab7b3120186943fc25ea407"
+        }
+      ],
+      "text": "顾清寒[问]\n左下角可以直接导入哦，球球关注~\n#永劫无间##顾清寒捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "6aaed2d8e956ea1f52556a3f",
       "userId": "08fa146771a941ac98af4edf254f6351",
@@ -6094,7 +6126,7 @@
         }
       ],
       "text": "#永劫无间捏脸站##顾清寒捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "呈呈橙子",
+      "userName": "O悲伤小玉米",
       "userAvatar": "https://ok.166.net/reunionpub/3_20221011_183c5a4ea13978517.jpeg",
       "userId": "57ebcc8d3a6c48ffbbe791105a66864f"
     },
@@ -6122,7 +6154,7 @@
         }
       ],
       "text": "#永劫无间捏脸站##顾清寒捏脸#\n作品名称：\n设计理念：\n捏脸码：",
-      "userName": "呈呈橙子",
+      "userName": "O悲伤小玉米",
       "userAvatar": "https://ok.166.net/reunionpub/3_20221011_183c5a4ea13978517.jpeg",
       "userId": "57ebcc8d3a6c48ffbbe791105a66864f"
     },
