@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-09-28T08:46:09.357Z",
+  "lastUpdated": "2026-09-29T08:24:15.997Z",
   "source": "蓝梦捏脸",
-  "totalCount": 785,
+  "totalCount": 786,
   "qrcodes": [
+    {
+      "id": "6abaf74138bff70f1913e346",
+      "userId": "9fc5c34d4eee44f3a093ab3cf331e51b",
+      "createTime": 1790637887091,
+      "createDate": "2026-09-28",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260929_fd081540d25331d1511b3a491a85fd73",
+        "https://ok.166.net/reunionpub/1_kol_20260929_20f4551307ccd52ae2ac40c2056e3b48",
+        "https://ok.166.net/reunionpub/1_kol_20260929_2d36cb89fde217f91d434d7e45cc3794",
+        "https://ok.166.net/reunionpub/1_kol_20260929_1eddec2f64fc49d929f2d75de4f23878"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260929_dcab87078f8b39f91770a86711f46570",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6abaf67a0186943fc25f3948"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【蓝梦·清冷】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##蓝梦捏脸#",
+      "userName": "怎知榆晚",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg"
+    },
     {
       "id": "6aba22b2250c540c7d106eae",
       "userId": "ba80b41287814145b63c6b377b8e803a",
@@ -2626,7 +2658,7 @@
       "qrCodes": [],
       "text": "#蓝梦捏脸#",
       "userName": "是橘猫海啊",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260909_1a0837f169b509673.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260928_1a0e7c3f774787858.jpeg",
       "userId": "5f39012c284a41ceba6d54834a79af05"
     },
     {

@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-09-27T07:53:51.120Z",
+  "lastUpdated": "2026-09-29T08:10:32.416Z",
   "source": "顾清寒捏脸",
-  "totalCount": 900,
+  "totalCount": 901,
   "qrcodes": [
+    {
+      "id": "6abb124505a77e409906e78a",
+      "userId": "54cc028bdae445a4883039798a531721",
+      "createTime": 1790644803634,
+      "createDate": "2026-09-29",
+      "characterId": "justina-gu",
+      "characterName": "Justina Gu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260929_1a0eabf554a331204.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6920a58ef983ff4d841995b8"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站##顾清寒捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "祁筠秋",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230930_18ae3d9815f263686.jpeg"
+    },
     {
       "id": "6ab7b729f8486e7cb56251cd",
       "userId": "09240252501f4fb1949ab98c8c5fda65",
@@ -696,8 +721,8 @@
       ],
       "qrCodes": [],
       "text": "#顾清寒捏脸#",
-      "userName": "陌翰练目压",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251127_19ac55b661d161045.jpeg",
+      "userName": "蓝莓味的吐司面包",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260928_1a0e84c591b704362.jpeg",
       "userId": "ced16408ccb34f808528b5ab2ad1971c"
     },
     {

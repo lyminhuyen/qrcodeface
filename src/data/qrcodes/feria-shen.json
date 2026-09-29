@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-28T08:42:10.555Z",
+  "lastUpdated": "2026-09-29T08:20:22.872Z",
   "source": "沈妙捏脸",
-  "totalCount": 833,
+  "totalCount": 834,
   "qrcodes": [
+    {
+      "id": "6abaaf9ed96a1b266f02f38e",
+      "userId": "2efa65e53b454c4fa66e7c70b12c0f5d",
+      "createTime": 1790619548234,
+      "createDate": "2026-09-28",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260929_1a0e93df777110138.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#沈妙捏脸#",
+      "userName": "保持乖乖男形象",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260611_19eb3f255a4333638.jpeg"
+    },
     {
       "id": "6ab9e658f8486e7cb564a170",
       "userId": "6c90db25dceb40babbc7e5e221c9b247",
