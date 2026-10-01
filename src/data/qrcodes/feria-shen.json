@@ -1,8 +1,47 @@
 {
-  "lastUpdated": "2026-09-30T08:32:25.218Z",
+  "lastUpdated": "2026-10-01T08:49:53.977Z",
   "source": "沈妙捏脸",
-  "totalCount": 834,
+  "totalCount": 836,
   "qrcodes": [
+    {
+      "id": "6abd5aba46bd183883cdc2b8",
+      "userId": "a198f57aab504f7e8807911ec54b0928",
+      "createTime": 1790794424056,
+      "createDate": "2026-09-30",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261001_1a0f3aa5cb3276373.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##沈妙捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "保护小苹果",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240802_1910f2a9635902249.jpeg"
+    },
+    {
+      "id": "6abcfa1c323d8e49cdce8c08",
+      "userId": "2ec925a539774c849081030e6d39fdc2",
+      "createTime": 1790769690167,
+      "createDate": "2026-09-30",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260930_1a0f230f274643608.jpeg",
+        "https://ok.166.net/reunionpub/1_20260930_1a0f230f274835930.jpeg",
+        "https://ok.166.net/reunionpub/1_20260930_1a0f230f274689861.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1790769686.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i6B2EyTAish_PWfF_tqkh0&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6aae443ef294923ade337517dwNhmbFO07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "赞赞自取~\n点击下方一键导入即可获得同款捏脸，不会的宝宝可以看下置顶哦🔝#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #永劫无间手游# #捏脸# #沈妙# #沈妙捏脸# #永手沈妙捏脸#",
+      "userName": "玫瑰凶杀案",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250925_19980080759940187.jpeg"
+    },
     {
       "id": "6abaaf9ed96a1b266f02f38e",
       "userId": "2efa65e53b454c4fa66e7c70b12c0f5d",

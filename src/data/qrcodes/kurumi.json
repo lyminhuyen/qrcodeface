@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-09-30T08:14:15.420Z",
+  "lastUpdated": "2026-10-01T09:29:09.133Z",
   "source": "胡桃捏脸",
-  "totalCount": 1190,
+  "totalCount": 1193,
   "qrcodes": [
+    {
+      "id": "6abd044438bff70f1915e547",
+      "userId": "2ec925a539774c849081030e6d39fdc2",
+      "createTime": 1790772289323,
+      "createDate": "2026-09-30",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260930_1a0f258973d193773.jpeg",
+        "https://ok.166.net/reunionpub/1_20260930_1a0f258973d896543.jpeg",
+        "https://ok.166.net/reunionpub/1_20260930_1a0f258973d456861.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1790772280.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iHC6lMuA6duGqujkADNf2C&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6aacf5743a92c5954dac6f26gcklu67i07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "赞赞自取~\n点击下方一键导入即可获得同款捏脸，不会的宝宝可以看下置顶哦🔝#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #永劫无间手游# #永手胡桃捏脸# #捏脸# #胡桃# #胡桃捏脸#",
+      "userName": "玫瑰凶杀案",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250925_19980080759940187.jpeg"
+    },
     {
       "id": "6abbda6e999f5a6c87c6336e",
       "userId": "2ec925a539774c849081030e6d39fdc2",
@@ -682,6 +706,21 @@
       "text": "#永劫无间捏脸站##土御门胡桃捏脸#\n作品名称：\n设计理念：\n捏脸码：",
       "userName": "鉴水真心",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260704_19f2ca75ec0244765.jpeg"
+    },
+    {
+      "id": "6a78b5b8c4796d7f6ac1ec5a",
+      "userId": "fe8d4e6cf03c4b71a0f6950530269c51",
+      "createTime": 1786295734030,
+      "createDate": "2026-08-09",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260810_19fe785cc0d989602.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##土御门胡桃捏脸#",
+      "userName": "码我我就噜噜脸",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231123_18bf946ea3a519128.jpeg"
     },
     {
       "id": "6a74cc09dae8e149a846ded3",
@@ -7283,6 +7322,21 @@
       "userName": "手执妙笔可生花",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250329_195e144822b595838.jpeg",
       "userId": "f3057230f5d3433fa29cc7c73a45f6da"
+    },
+    {
+      "id": "68d72780b91bc35961b2ff1d",
+      "userId": "8a55f6c005914968942a661cf4e6e531",
+      "createTime": 1758930733226,
+      "createDate": "2025-09-26",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250927_199887105dd908056.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#土御门胡桃捏脸#",
+      "userName": "谧茗萃儿",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250914_19946bfc644949538.jpeg"
     },
     {
       "id": "68d69babb9520518a1e98d58",

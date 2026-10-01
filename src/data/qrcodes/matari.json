@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-09-30T08:12:16.567Z",
+  "lastUpdated": "2026-10-01T08:30:21.849Z",
   "source": "迦南捏脸",
-  "totalCount": 749,
+  "totalCount": 750,
   "qrcodes": [
+    {
+      "id": "6abcf192b31ce77f12500f70",
+      "userId": "9fc5c34d4eee44f3a093ab3cf331e51b",
+      "createTime": 1790767504269,
+      "createDate": "2026-09-30",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260930_9fbb3fd366668b7a0776788e5456f1b5",
+        "https://ok.166.net/reunionpub/1_kol_20260930_1f096a61be8a32c31c822b2f08f3fbbf",
+        "https://ok.166.net/reunionpub/1_kol_20260930_baffb540f5a2113b5a9cb0dd0d2a48c7",
+        "https://ok.166.net/reunionpub/1_kol_20260930_09e0ccd8fe9f8ba51d9e69356636fa6e"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260930_18bd8109fce59eb0f975fcd3a23bdafe",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6abce8a00186943fc25f83af"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【迦南·孔雀】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##迦南捏脸#",
+      "userName": "怎知榆晚",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg"
+    },
     {
       "id": "6aac162dd152db5c10a3891a",
       "userId": "6f4e102059b94af683031b03e9365f96",
@@ -218,9 +250,18 @@
       "characterId": "matari",
       "characterName": "Matari",
       "images": [
+        "https://ok.166.net/reunionpub/2_20260914_1a09fda4bf5508449.jpeg",
         "https://ok.166.net/reunionpub/2_20260817_1a00ef0b688481391.jpeg"
       ],
       "qrCodes": [
+        {
+          "imgName": "作者评论二维码",
+          "imgLocalName": "2_20260914_1a09fda4bf5508449.jpeg",
+          "imgBtn": "作者评论二维码",
+          "imgUrl": "https://ok.166.net/reunionpub/2_20260914_1a09fda4bf5508449.jpeg",
+          "url": "https://ok.166.net/reunionpub/2_20260914_1a09fda4bf5508449.jpeg",
+          "source": "author-comment"
+        },
         {
           "imgName": "作者评论二维码",
           "imgLocalName": "2_20260817_1a00ef0b688481391.jpeg",

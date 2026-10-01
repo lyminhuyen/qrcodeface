@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-30T08:20:09.548Z",
+  "lastUpdated": "2026-10-01T08:39:09.658Z",
   "source": "顾清寒捏脸",
-  "totalCount": 901,
+  "totalCount": 902,
   "qrcodes": [
+    {
+      "id": "6abe19fef8486e7cb568dad3",
+      "userId": "e047273a60524bc4a140db3eb340fdc2",
+      "createTime": 1790843387947,
+      "createDate": "2026-10-01",
+      "characterId": "justina-gu",
+      "characterName": "Justina Gu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261001_1a0f6957a45528293.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##顾清寒捏脸#\n作品名称：中药世家\n设计理念：换上中药世家 像虎哥一样从一千种能赢得可能找到唯一输的机会吧！",
+      "userName": "李白菜菜子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241202_193875cc390498802.jpeg"
+    },
     {
       "id": "6abb124505a77e409906e78a",
       "userId": "54cc028bdae445a4883039798a531721",
@@ -220,7 +235,24 @@
         "https://ok.166.net/reunionpub/1_20260906_1a073353572202364.jpeg",
         "https://ok.166.net/reunionpub/1_20260906_1a073353572626171.jpeg"
       ],
-      "qrCodes": [],
+      "qrCodes": [
+        {
+          "imgName": "作者评论二维码",
+          "imgLocalName": "2_20260925_1a0d8eb469a507719.jpeg",
+          "imgBtn": "作者评论二维码",
+          "imgUrl": "https://ok.166.net/reunionpub/2_20260925_1a0d8eb469a507719.jpeg",
+          "url": "https://ok.166.net/reunionpub/2_20260925_1a0d8eb469a507719.jpeg",
+          "source": "author-comment"
+        },
+        {
+          "imgName": "作者评论二维码",
+          "imgLocalName": "2_20260925_1a0d8b83b0b665280.jpeg",
+          "imgBtn": "作者评论二维码",
+          "imgUrl": "https://ok.166.net/reunionpub/2_20260925_1a0d8b83b0b665280.jpeg",
+          "url": "https://ok.166.net/reunionpub/2_20260925_1a0d8b83b0b665280.jpeg",
+          "source": "author-comment"
+        }
+      ],
       "text": "#永劫无间捏脸站##顾清寒捏脸#\n作品名称：\n设计理念：\n捏脸码：",
       "userName": "谧茗萃儿",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250914_19946bfc644949538.jpeg"
