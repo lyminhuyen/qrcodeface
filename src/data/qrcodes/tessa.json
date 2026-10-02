@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-10-01T08:26:16.801Z",
+  "lastUpdated": "2026-10-02T08:02:15.844Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 934,
+  "totalCount": 935,
   "qrcodes": [
+    {
+      "id": "6abeb8ef9038c52112248b7a",
+      "userId": "101eec47481446738cf8bf8e09c55ce7",
+      "createTime": 1790884076879,
+      "createDate": "2026-10-01",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261002_1a0f9025bee220348.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1790884075.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a1a7d3b093b37370e8095e5",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##玉玲珑捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "坏数据线",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20210802_17b05ae1c95315307.jpeg"
+    },
     {
       "id": "6abdc8c7b250b7083998f95f",
       "userId": "79540e2f4a8c48dbb3a48bce26a0d85c",
@@ -4093,7 +4119,7 @@
       "qrCodes": [],
       "text": "#玉玲珑捏脸#",
       "userName": "小小软酥",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260305_19cbda24eef472014.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261002_1a0fae67ebc280343.jpeg",
       "userId": "919d5cae22da415daffcc2c967e5e474"
     },
     {

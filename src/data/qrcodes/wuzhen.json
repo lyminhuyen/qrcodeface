@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-09-30T08:57:58.607Z",
+  "lastUpdated": "2026-10-02T08:49:46.217Z",
   "source": "巫真捏脸",
-  "totalCount": 269,
+  "totalCount": 270,
   "qrcodes": [
+    {
+      "id": "6abf173338bff70f191843f5",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1790908200045,
+      "createDate": "2026-10-02",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261002_4c86829211123893491137a6fb68c176",
+        "https://ok.166.net/reunionpub/1_kol_20261002_5f23964ed40f8bcbe0c0339091dcbe33",
+        "https://ok.166.net/reunionpub/1_kol_20261002_826783b54963dffd5c336f91807ab81d",
+        "https://ok.166.net/reunionpub/1_kol_20261002_0b02e4efbb990b72e1893fe0f566b0b2"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261002_fed43d54bf8220fab8a187e65ef04ef2",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6abeaefc0186943fc25ffd46"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【巫真捏脸x冷脸】 | 无偿数据分享\n----巫真真的很适合这种冷脸\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #巫真捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6ab788608f8a3a2b0fffbfe4",
       "userId": "6f85d16c0bed40b1b0486fc0d887f9c9",

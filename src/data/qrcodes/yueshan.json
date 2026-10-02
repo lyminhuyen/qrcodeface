@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-10-01T08:43:21.896Z",
+  "lastUpdated": "2026-10-02T08:17:48.153Z",
   "source": "岳山捏脸",
-  "totalCount": 765,
+  "totalCount": 766,
   "qrcodes": [
+    {
+      "id": "6abe57a869415609454a6532",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1790859173948,
+      "createDate": "2026-10-01",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261001_ee2aa2f46e8c43a46b3dc5f4779c106b",
+        "https://ok.166.net/reunionpub/1_kol_20261001_acab1087a937efa2209aad25f562d019",
+        "https://ok.166.net/reunionpub/1_kol_20261001_ace61c11fd3101279926f5104087e4b3",
+        "https://ok.166.net/reunionpub/1_kol_20261001_a1c262d5f6d7650f8a0c488ad97497d1"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261001_08b220540056bde1310fc2b8bcd8772e",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6abe4fd282b7416f9a545527"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【岳山捏脸x飞当】 | 无偿数据分享\n----过节怎么能少了岳山，这套仍然是顶级的存在\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #岳山捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6abd12439173ea71dc0adc8a",
       "userId": "abe6cbb14ebd4cba9ff2aa0c7af97734",
