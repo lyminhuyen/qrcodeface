@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-09-30T08:52:06.480Z",
+  "lastUpdated": "2026-10-03T08:24:58.948Z",
   "source": "万钧捏脸",
-  "totalCount": 356,
+  "totalCount": 357,
   "qrcodes": [
+    {
+      "id": "6ac06215999f5a6c87cb598f",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1790992800793,
+      "createDate": "2026-10-03",
+      "characterId": "wan-jun",
+      "characterName": "Inor Wan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261002_2d82748edffbee7b01d8abe865676daa",
+        "https://ok.166.net/reunionpub/1_kol_20261002_19ceeec8769eed5b20f8b1fe95477d26",
+        "https://ok.166.net/reunionpub/1_kol_20261002_d6872e8b610d3c5d4072c6a8707be498",
+        "https://ok.166.net/reunionpub/1_kol_20261002_245ca201f3483c21186ed0d8d16fad23"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261002_88a0b3bd0796ad7a2acdb7c9555812f8",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6abec1af0186943fc260009b"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【万钧捏脸x膘人】 | 无偿数据分享\n----过节可不要吃成了 膘人哦\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #万钧捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6aba82fd05a77e40990662c4",
       "userId": "6ba79ace1ad14a47a2941ecc90344cda",

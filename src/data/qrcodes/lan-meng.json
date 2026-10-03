@@ -1,8 +1,25 @@
 {
-  "lastUpdated": "2026-09-30T08:36:21.734Z",
+  "lastUpdated": "2026-10-03T08:09:20.996Z",
   "source": "蓝梦捏脸",
-  "totalCount": 786,
+  "totalCount": 787,
   "qrcodes": [
+    {
+      "id": "6abf8c6d69415609454bf952",
+      "userId": "0913c19f57264081b911a223ee2b8ee0",
+      "createTime": 1790938017207,
+      "createDate": "2026-10-02",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261002_1a0fc396788334000.jpeg",
+        "https://ok.166.net/reunionpub/1_20261002_1a0fc396788547489.jpeg",
+        "https://ok.166.net/reunionpub/1_20261002_1a0fc396788398993.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家89518954",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250624_197a299a2b9206096.jpeg"
+    },
     {
       "id": "6abaf74138bff70f1913e346",
       "userId": "9fc5c34d4eee44f3a093ab3cf331e51b",
@@ -2441,8 +2458,8 @@
       ],
       "qrCodes": [],
       "text": "#蓝梦捏脸#",
-      "userName": "仙昊乾",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20231024_18b60fd7ec6730523.jpeg",
+      "userName": "Sakuoha",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261003_1a0ffd16557965716.jpeg",
       "userId": "3b3049ca4226491c9b444e9bf8b7e075"
     },
     {

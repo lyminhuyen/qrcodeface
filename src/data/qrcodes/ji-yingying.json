@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-10-02T08:29:30.466Z",
+  "lastUpdated": "2026-10-03T08:11:15.494Z",
   "source": "季莹莹捏脸",
-  "totalCount": 979,
+  "totalCount": 980,
   "qrcodes": [
+    {
+      "id": "6abfac48f8486e7cb56ac5aa",
+      "userId": "09240252501f4fb1949ab98c8c5fda65",
+      "createTime": 1790946218502,
+      "createDate": "2026-10-02",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261002_9cf3fc6769a72b2a947d47bf2e9a71e4",
+        "https://ok.166.net/reunionpub/1_kol_20261002_178355530a065992e0357d766ccdead2",
+        "https://ok.166.net/reunionpub/1_kol_20261002_39171d2d5b43b6a0520f72920d58939f"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261002_0cf2d1c39b77539300253f1ac483f6a0",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6abfa4c582b7416f9a54b085"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261002_2f9d8e17f1ddaf9e0b6b45976ddb9c66",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6abfa4c582b7416f9a54b085"
+        }
+      ],
+      "text": "季莹莹[虞澜]\n左下角可以直接导入哦，球球关注~\n#永劫无间##季莹莹捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "6abe86aff8486e7cb56963e7",
       "userId": "6c0e765ab5004252bdafa182c5f32529",
