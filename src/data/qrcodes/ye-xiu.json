@@ -1,8 +1,37 @@
 {
-  "lastUpdated": "2026-09-30T09:01:54.646Z",
+  "lastUpdated": "2026-10-04T08:44:48.427Z",
   "source": "叶修捏脸",
-  "totalCount": 105,
+  "totalCount": 106,
   "qrcodes": [
+    {
+      "id": "6ac0c3468f8a3a2b0f0a77e8",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1791017795593,
+      "createDate": "2026-10-03",
+      "characterId": "ye-xiu",
+      "characterName": "Ye Xiu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261003_1a100fa9f92351069.jpeg",
+        "https://ok.166.net/reunionpub/1_20261003_1a100fa9f93580831.jpeg",
+        "https://ok.166.net/reunionpub/1_20261003_1a100fa9f93876012.jpeg",
+        "https://ok.166.net/reunionpub/1_20261003_1a100fa9f93304340.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791017786.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6abec61d093b37370e9cec2c",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "神嘛！你是说教练正在热身！\n\n#永劫无间捏脸站# #永劫无间# #叶修捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6ab8bf1ad96a1b266f00e852",
       "userId": "eae71c5936e04c1ca282722286feebd4",

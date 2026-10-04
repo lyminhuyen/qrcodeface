@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-10-03T08:05:23.865Z",
+  "lastUpdated": "2026-10-04T08:14:45.038Z",
   "source": "沈妙捏脸",
-  "totalCount": 836,
+  "totalCount": 838,
   "qrcodes": [
+    {
+      "id": "6ac1cfae6241ec1192d08ec3",
+      "userId": "9efd4a06769043e49473131fa3ab403c",
+      "createTime": 1791086501090,
+      "createDate": "2026-10-04",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261004_1a105130f7c943342.png",
+        "https://ok.166.net/reunionpub/1_20261004_1a105130f7c109020.png",
+        "https://ok.166.net/reunionpub/1_20261004_1a105130f7c925882.png",
+        "https://ok.166.net/reunionpub/1_20261004_1a105130f7c793181.png",
+        "https://ok.166.net/reunionpub/1_20261004_1a105130f7c767432.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac1cab5093b37370e9db09c"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站##沈妙捏脸#\n作者：换个晚饭",
+      "userName": "换个晚饭",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260818_1a0145284fb142633.jpeg"
+    },
+    {
+      "id": "6ac10d936048e3656bab9e64",
+      "userId": "ba80b41287814145b63c6b377b8e803a",
+      "createTime": 1791036817235,
+      "createDate": "2026-10-03",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261003_1a1021cf9d8251247.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##沈妙捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "大脚母蟑螂",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251108_19a625b92d9915893.jpeg"
+    },
     {
       "id": "6abd5aba46bd183883cdc2b8",
       "userId": "a198f57aab504f7e8807911ec54b0928",

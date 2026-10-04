@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-10-02T08:13:56.240Z",
+  "lastUpdated": "2026-10-04T08:04:43.447Z",
   "source": "顾清寒捏脸",
-  "totalCount": 904,
+  "totalCount": 905,
   "qrcodes": [
+    {
+      "id": "6ac197026048e3656bac494b",
+      "userId": "9fc5c34d4eee44f3a093ab3cf331e51b",
+      "createTime": 1791072000242,
+      "createDate": "2026-10-04",
+      "characterId": "justina-gu",
+      "characterName": "Justina Gu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261003_fd9a52b18ebbc0414401c3dd8394b570",
+        "https://ok.166.net/reunionpub/1_kol_20261003_5e1fda0924ec721afea20f2067a00d5c",
+        "https://ok.166.net/reunionpub/1_kol_20261003_3330da6948a0da21f7acb1d2233915ad",
+        "https://ok.166.net/reunionpub/1_kol_20261003_2e94957da3ac3a824a664ca021e5bbef"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261003_0456266806a424cdb2003ca155f1c19b",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac076ea0186943fc2606b1f"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【顾清寒· 蛇信】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##顾清寒捏脸#",
+      "userName": "怎知榆晚",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg"
+    },
     {
       "id": "6abe9bb391d52b008a9f9ef1",
       "userId": "6f85d16c0bed40b1b0486fc0d887f9c9",

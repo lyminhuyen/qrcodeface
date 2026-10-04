@@ -1,8 +1,35 @@
 {
-  "lastUpdated": "2026-10-01T08:30:21.849Z",
+  "lastUpdated": "2026-10-04T07:56:53.225Z",
   "source": "迦南捏脸",
-  "totalCount": 750,
+  "totalCount": 751,
   "qrcodes": [
+    {
+      "id": "6ac1a2811a7a453ec8a779d8",
+      "userId": "ee679a3c596447e28e83a0974a4a1b53",
+      "createTime": 1791074941963,
+      "createDate": "2026-10-04",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261004_1a10462b2c4737070.jpeg",
+        "https://ok.166.net/reunionpub/1_20261004_1a10462b2c4449362.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791074808.jpg",
+          "url": "https://www.yjwujian.cn/",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##迦南捏脸#\n作品名称：相思情蓝\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家59019973",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260907_1a07b62b569941626.jpeg"
+    },
     {
       "id": "6abcf192b31ce77f12500f70",
       "userId": "9fc5c34d4eee44f3a093ab3cf331e51b",

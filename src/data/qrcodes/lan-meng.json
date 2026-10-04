@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-10-03T08:09:20.996Z",
+  "lastUpdated": "2026-10-04T08:18:34.453Z",
   "source": "蓝梦捏脸",
-  "totalCount": 787,
+  "totalCount": 788,
   "qrcodes": [
+    {
+      "id": "6ac1d22c999f5a6c87cd6e47",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
+      "createTime": 1791087144859,
+      "createDate": "2026-10-04",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261004_77bc440fe6c7d0c94046819af5feeea8",
+        "https://ok.166.net/reunionpub/1_kol_20261004_a6fa1638f99f4348cec1eb34454902e5"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261004_6df376fa018baf5fa6e707f52ad2e711",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6abcc7f90186943fc25f7ac0"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261004_f537208921c95c4f335f59cadd3892df",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6abcc7f90186943fc25f7ac0"
+        }
+      ],
+      "text": "蓝梦哆嗦毛——图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #狗熊哆嗦毛# #蓝梦捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "6abf8c6d69415609454bf952",
       "userId": "0913c19f57264081b911a223ee2b8ee0",
