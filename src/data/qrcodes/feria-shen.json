@@ -1,8 +1,35 @@
 {
-  "lastUpdated": "2026-10-04T08:14:45.038Z",
+  "lastUpdated": "2026-10-05T08:52:39.501Z",
   "source": "沈妙捏脸",
-  "totalCount": 838,
+  "totalCount": 839,
   "qrcodes": [
+    {
+      "id": "6ac27c767427865d21f11b2b",
+      "userId": "f92d49b61a66412eaf9032411bc260c1",
+      "createTime": 1791130738435,
+      "createDate": "2026-10-04",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261005_1a107b60c18879507.png",
+        "https://ok.166.net/reunionpub/1_20261005_1a107b60c18509802.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac24c5a745ea9544bd7a548"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac24c94745ea9544bd7a552"
+        }
+      ],
+      "text": "#永劫无间捏脸站##沈妙捏脸#\n作品名称：小麦色拉拉队浓妆辣妹夯爆了\n设计理念：hso\n捏脸码：扫码导入",
+      "userName": "闹吃大战古振兴",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261001_1a0f6d537bc353647.jpeg"
+    },
     {
       "id": "6ac1cfae6241ec1192d08ec3",
       "userId": "9efd4a06769043e49473131fa3ab403c",
@@ -12160,7 +12187,7 @@
       ],
       "qrCodes": [],
       "text": "沈妙-魔法少女喵\n#永劫无间# #永劫无间捏脸站# #沈妙捏脸#",
-      "userName": "白桃sy",
+      "userName": "不系甜菜",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240814_1914fef9623628347.jpeg",
       "userId": "7595c8222214410bb7ddeafef04caf47"
     },
@@ -14455,7 +14482,7 @@
       ],
       "qrCodes": [],
       "text": "【芷兰】沈妙云溪仙子\n#永劫无间# #永劫无间捏脸站# #沈妙捏脸#",
-      "userName": "白桃sy",
+      "userName": "不系甜菜",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240814_1914fef9623628347.jpeg",
       "userId": "7595c8222214410bb7ddeafef04caf47"
     },
@@ -14618,7 +14645,7 @@
       ],
       "qrCodes": [],
       "text": "喵呜 | 沈妙熊猫捏脸分享\n#永劫无间# #永劫无间捏脸站# #沈妙捏脸#",
-      "userName": "白桃sy",
+      "userName": "不系甜菜",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240814_1914fef9623628347.jpeg",
       "userId": "7595c8222214410bb7ddeafef04caf47"
     },
@@ -14648,7 +14675,7 @@
       ],
       "qrCodes": [],
       "text": "芝芝莓莓 | 沈妙捏脸分享\n宝宝们3L自取哦，长按扫码即可导入\n#永劫无间# #永劫无间捏脸站# #沈妙捏脸#",
-      "userName": "白桃sy",
+      "userName": "不系甜菜",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240814_1914fef9623628347.jpeg",
       "userId": "7595c8222214410bb7ddeafef04caf47"
     },

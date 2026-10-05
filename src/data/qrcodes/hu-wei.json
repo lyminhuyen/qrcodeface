@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-04T08:26:28.750Z",
+  "lastUpdated": "2026-10-05T09:04:25.646Z",
   "source": "胡为捏脸",
-  "totalCount": 758,
+  "totalCount": 759,
   "qrcodes": [
+    {
+      "id": "6ac301c88a1d6628fede1d56",
+      "userId": "ac93fbf533314aaf9637f8c3bb566934",
+      "createTime": 1791164870005,
+      "createDate": "2026-10-05",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261005_1a109bee936567789.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间# #胡为捏脸#孙悟空捏脸#",
+      "userName": "kaobv",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261005_1a109c0ab89475889.jpeg"
+    },
     {
       "id": "6ac11674323d8e49cdd3f586",
       "userId": "b6598ae710d9404383ce6d90ea9cb527",

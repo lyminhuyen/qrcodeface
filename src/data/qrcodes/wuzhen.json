@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-03T08:30:52.617Z",
+  "lastUpdated": "2026-10-05T09:18:32.859Z",
   "source": "巫真捏脸",
-  "totalCount": 271,
+  "totalCount": 272,
   "qrcodes": [
+    {
+      "id": "6ac23ae11a7a453ec8a87cea",
+      "userId": "bb4c12e787e8467795229076df378965",
+      "createTime": 1791113742978,
+      "createDate": "2026-10-04",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261004_1a106b2c363245903.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#巫真捏脸#",
+      "userName": "不许亲我脸",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230530_1886b3b6629278518.jpeg"
+    },
     {
       "id": "6abfb1dd323d8e49cdd1f178",
       "userId": "53fba6c0d36a48a6b21cf7a15c471009",

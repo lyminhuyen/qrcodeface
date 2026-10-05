@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-10-03T08:11:15.494Z",
+  "lastUpdated": "2026-10-05T08:58:35.427Z",
   "source": "季莹莹捏脸",
-  "totalCount": 980,
+  "totalCount": 981,
   "qrcodes": [
+    {
+      "id": "6ac22f499173ea71dc118165",
+      "userId": "101eec47481446738cf8bf8e09c55ce7",
+      "createTime": 1791110982108,
+      "createDate": "2026-10-04",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261004_1a10688a763731084.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791110979.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a37ff4982b7416f9a3c7a81",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##季莹莹捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "坏数据线",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20210802_17b05ae1c95315307.jpeg"
+    },
     {
       "id": "6abfac48f8486e7cb56ac5aa",
       "userId": "09240252501f4fb1949ab98c8c5fda65",
