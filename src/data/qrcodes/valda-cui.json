@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-10-05T08:40:52.341Z",
+  "lastUpdated": "2026-10-06T08:50:41.954Z",
   "source": "崔三娘捏脸",
-  "totalCount": 751,
+  "totalCount": 752,
   "qrcodes": [
+    {
+      "id": "6ac4440091d52b008aa70f26",
+      "userId": "09240252501f4fb1949ab98c8c5fda65",
+      "createTime": 1791247353544,
+      "createDate": "2026-10-06",
+      "characterId": "valda-cui",
+      "characterName": "Valda Cui",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261006_fa4d1476965adbc1235daded21cfa797",
+        "https://ok.166.net/reunionpub/1_kol_20261006_107c58bb3b324025c6bc61956432e6ba",
+        "https://ok.166.net/reunionpub/1_kol_20261006_19de05534b59382ae25c33c716caa2b5"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261006_fe910d6863efdbbcae47e7248a9166eb",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac3cfa0093b37370e9e3720"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261006_9faf9cd1d0864c25ef8245c564e33d77",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac3cfa0093b37370e9e3720"
+        }
+      ],
+      "text": "崔三娘[澪]\n左下角可以直接导入哦，球球关注~\n#永劫无间##崔三娘捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "6abda70e6241ec1192cad29a",
       "userId": "6f85d16c0bed40b1b0486fc0d887f9c9",

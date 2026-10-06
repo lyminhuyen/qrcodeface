@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-10-01T08:45:19.806Z",
+  "lastUpdated": "2026-10-06T08:58:35.295Z",
   "source": "武田信忠捏脸",
-  "totalCount": 769,
+  "totalCount": 770,
   "qrcodes": [
+    {
+      "id": "6ac4688b694156094552da57",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
+      "createTime": 1791256711494,
+      "createDate": "2026-10-06",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261006_550761ddbf586984db0c59172924389b",
+        "https://ok.166.net/reunionpub/1_kol_20261006_092404ec3a60cb693d4f9377e91f69dd"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261006_898ad20cfc321bf168edeef178ac811a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac3a53d82b7416f9a55b754"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261006_44c9213292eda68efd70f3ee773ea460",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac3a53d82b7416f9a55b754"
+        }
+      ],
+      "text": "鬼舞辻无惨——武田信忠捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #鬼舞辻无惨# #武田信忠捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "6aacfd62bd7c39655e182ccc",
       "userId": "80898aac554046889b329d3d50f723c0",

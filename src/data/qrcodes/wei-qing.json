@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-10-02T08:25:41.307Z",
+  "lastUpdated": "2026-10-06T09:04:30.230Z",
   "source": "魏轻捏脸",
-  "totalCount": 733,
+  "totalCount": 734,
   "qrcodes": [
+    {
+      "id": "6ac494086241ec1192d46bb5",
+      "userId": "9fc5c34d4eee44f3a093ab3cf331e51b",
+      "createTime": 1791267844750,
+      "createDate": "2026-10-06",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261006_0df85eec51a2d2ea24a931ff720404ab",
+        "https://ok.166.net/reunionpub/1_kol_20261006_bff9549102a72dab36cacaf35011a8ff",
+        "https://ok.166.net/reunionpub/1_kol_20261006_12cf5264044bc18c8d5fea9771bc0f87",
+        "https://ok.166.net/reunionpub/1_kol_20261006_cedd637d5378fb47507b8114562d3637"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261006_b139b9f264106d15e70f1fe8460e5b4d",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac4922a745ea9544bd82afc"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【魏轻·霁月】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##魏轻捏脸#",
+      "userName": "怎知榆晚",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg"
+    },
     {
       "id": "6abf66a18f8a3a2b0f0891e6",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",

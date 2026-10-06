@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-10-05T08:50:40.746Z",
+  "lastUpdated": "2026-10-06T09:00:32.911Z",
   "source": "殷紫萍捏脸",
-  "totalCount": 1055,
+  "totalCount": 1056,
   "qrcodes": [
+    {
+      "id": "6ac370939c02552c2b624182",
+      "userId": "3005230392a44c31b8acf0d4782b040b",
+      "createTime": 1791193233741,
+      "createDate": "2026-10-05",
+      "characterId": "ziping-yin",
+      "characterName": "Ziping Yin",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261005_1a10b6f9fd7366066.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791193198.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac36f800186943fc261306b",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##殷紫萍捏脸#",
+      "userName": "枪破戟",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260219_19c75fff381154276.jpeg"
+    },
     {
       "id": "6abeb7c8d96a1b266f075a91",
       "userId": "101eec47481446738cf8bf8e09c55ce7",
@@ -3169,7 +3195,7 @@
       "qrCodes": [],
       "text": "#殷紫萍捏脸#",
       "userName": "暮雾沉",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20231006_18b0513d5a2947387.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261005_1a10bf1e225172931.jpeg",
       "userId": "5874299d72ca4178beff8b76992bcc25"
     },
     {

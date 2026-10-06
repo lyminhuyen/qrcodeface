@@ -1,8 +1,49 @@
 {
-  "lastUpdated": "2026-10-04T08:28:58.614Z",
+  "lastUpdated": "2026-10-06T09:16:25.432Z",
   "source": "季沧海捏脸",
-  "totalCount": 812,
+  "totalCount": 814,
   "qrcodes": [
+    {
+      "id": "6ac4a35946bd183883d72e17",
+      "userId": "2d94c36ca26e41869509f034e2809b52",
+      "createTime": 1791271767159,
+      "createDate": "2026-10-06",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261006_1a1101e085e333203.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791271740.jpg",
+          "url": "https://yjwujian.cn/xcxtyzz/?activity=yjwj_yingpengfx_20260401&q=fromH5Game%3D1%26shareCode%3DTTgsPMUIKF3Laq96DCS75",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##季沧海捏脸#\n喜欢赞赞哦",
+      "userName": "TIEEE",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260817_1a010351598845797.jpeg"
+    },
+    {
+      "id": "6ac3c32994342b76436f0722",
+      "userId": "c11b507885d3437e85b9915f02bb2874",
+      "createTime": 1791214374678,
+      "createDate": "2026-10-05",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261005_1a10cb24ad3530866.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##季沧海捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "给我杯养乐多",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250522_196f59b96e7903005.jpeg"
+    },
     {
       "id": "6ac10e4869415609454e2163",
       "userId": "ba80b41287814145b63c6b377b8e803a",
@@ -9500,7 +9541,7 @@
       "qrCodes": [],
       "text": "#永劫无间捏脸站##季沧海捏脸#\n作品名称：火不男\n设计理念：闲的\n捏脸码：",
       "userName": "fjiddf",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240201_18d63821014568046.png",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261005_1a10c8c5569979563.png",
       "userId": "174544c7ac5043b482e9a616e2aec617"
     },
     {

@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-09-30T08:50:08.705Z",
+  "lastUpdated": "2026-10-06T09:20:21.908Z",
   "source": "刘炼捏脸",
-  "totalCount": 501,
+  "totalCount": 502,
   "qrcodes": [
+    {
+      "id": "6ac4667d250c540c7d1cbdfe",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1791256179512,
+      "createDate": "2026-10-06",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261006_dce0162a7eb80a469311c8943ee6993a",
+        "https://ok.166.net/reunionpub/1_kol_20261006_3534a14f3900b121a95e449eee5617b5",
+        "https://ok.166.net/reunionpub/1_kol_20261006_509203aeaa382fe26d497bdb688a2ff3"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261006_f7c0350b208b565e3746d4343bb5128b",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac45c2682b7416f9a55dd6a"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【刘炼捏脸x问秋】 | 无偿数据分享\n----刘炼的时装是各种角色扮演\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #刘炼捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6ab8bf97323d8e49cdca4c56",
       "userId": "6c90db25dceb40babbc7e5e221c9b247",

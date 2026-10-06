@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-10-05T08:58:35.427Z",
+  "lastUpdated": "2026-10-06T09:08:26.640Z",
   "source": "季莹莹捏脸",
-  "totalCount": 981,
+  "totalCount": 982,
   "qrcodes": [
+    {
+      "id": "6ac3a7ecb250b70839a0d7d6",
+      "userId": "9fc5c34d4eee44f3a093ab3cf331e51b",
+      "createTime": 1791205270253,
+      "createDate": "2026-10-05",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261005_ff0778aed05465ebc20442ad3e8b9539",
+        "https://ok.166.net/reunionpub/1_kol_20261005_5f3d5d02b2275e2a6c78df613816bb5c",
+        "https://ok.166.net/reunionpub/1_kol_20261005_a4a3e8e9170569f3eaeac6017d51f4c6",
+        "https://ok.166.net/reunionpub/1_kol_20261005_f68c914f97ab51944ec4e3b7d993429a"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261005_5d021fa7b5c08b26ca39acab4142cb8a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac39e17093b37370e9e29c1"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【季莹莹· 冬霜】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##季莹莹捏脸#",
+      "userName": "怎知榆晚",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg"
+    },
     {
       "id": "6ac22f499173ea71dc118165",
       "userId": "101eec47481446738cf8bf8e09c55ce7",

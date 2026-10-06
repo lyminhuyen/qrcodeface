@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-03T07:59:29.890Z",
+  "lastUpdated": "2026-10-06T08:56:37.624Z",
   "source": "岳山捏脸",
-  "totalCount": 767,
+  "totalCount": 768,
   "qrcodes": [
+    {
+      "id": "6ac4a3682a85655db3af64fd",
+      "userId": "199c645a336f47d280d20d71f75bceb2",
+      "createTime": 1791271782160,
+      "createDate": "2026-10-06",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261006_1a1101e44cd753620.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##岳山捏脸#\n作品名称：\n设计理念：\n捏脸码：\n蹲一下这个捏脸",
+      "userName": "少之卿qvq",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260930_1a0f26312ad917238.jpeg"
+    },
     {
       "id": "6abf9dcf8a1d6628fed927e8",
       "userId": "6c90db25dceb40babbc7e5e221c9b247",
@@ -9051,7 +9066,7 @@
       ],
       "qrCodes": [],
       "text": "#岳山捏脸#",
-      "userName": "疑似正经人",
+      "userName": "疑似正经人_20260928",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240729_190fbfaaeaa930688.png",
       "userId": "40a04ec8116e4e9eaef75384bcea7fa3"
     },
