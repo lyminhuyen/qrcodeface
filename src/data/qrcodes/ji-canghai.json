@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-06T09:16:25.432Z",
+  "lastUpdated": "2026-10-07T08:51:14.360Z",
   "source": "季沧海捏脸",
-  "totalCount": 814,
+  "totalCount": 815,
   "qrcodes": [
+    {
+      "id": "6ac5dc096048e3656bb2028c",
+      "userId": "56f05fe1ed5d4c289ffad875aebe089c",
+      "createTime": 1791351816094,
+      "createDate": "2026-10-07",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261007_1a114e3701c237599.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##季沧海捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "玩也是花",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240427_18f1ba8bf11553630.jpeg"
+    },
     {
       "id": "6ac4a35946bd183883d72e17",
       "userId": "2d94c36ca26e41869509f034e2809b52",
@@ -15412,7 +15427,7 @@
       ],
       "qrCodes": [],
       "text": "#永劫无间# 火男捏脸，季沧海捏脸#火男捏脸# #季沧海捏脸#",
-      "userName": "我特么可狠",
+      "userName": "我特么可狠_20260928",
       "userAvatar": "https://ok.166.net/reunionpub/3_20241112_193205a0679755984.png",
       "userId": "82e9de605e3947bdbe777ba29dd2acef"
     },

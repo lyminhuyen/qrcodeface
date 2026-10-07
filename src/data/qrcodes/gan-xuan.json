@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-06T09:30:09.405Z",
+  "lastUpdated": "2026-10-07T09:05:16.177Z",
   "source": "甘璇捏脸",
-  "totalCount": 187,
+  "totalCount": 188,
   "qrcodes": [
+    {
+      "id": "6ac54f4d94342b7643713516",
+      "userId": "2efa65e53b454c4fa66e7c70b12c0f5d",
+      "createTime": 1791315787211,
+      "createDate": "2026-10-06",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261007_1a112bdbb11351873.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#甘璇捏脸#",
+      "userName": "保持乖乖男形象",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260611_19eb3f255a4333638.jpeg"
+    },
     {
       "id": "6ac3c30294342b76436f06dc",
       "userId": "594270795dec48cdbd3beb445a7529c9",
