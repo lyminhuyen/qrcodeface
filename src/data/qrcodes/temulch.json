@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-09-30T08:10:19.271Z",
+  "lastUpdated": "2026-10-08T08:33:29.440Z",
   "source": "特木尔捏脸",
-  "totalCount": 777,
+  "totalCount": 778,
   "qrcodes": [
+    {
+      "id": "6ac752918f8a3a2b0f136015",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
+      "createTime": 1791447695555,
+      "createDate": "2026-10-08",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261008_4ec52ff5cd3ce9f126f3aa4ec8ebe66b",
+        "https://ok.166.net/reunionpub/1_kol_20261008_6cdeb80fd513336cd0207bb0c59117d3"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261008_cd0d6fc5f8e34d42c507ca78e9d5de3a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac7151482b7416f9a566662"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261008_04adbf45bd7ce50945eefa96a33938cb",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac7151482b7416f9a566662"
+        }
+      ],
+      "text": "秦时明月——卫庄捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #卫庄# #特木尔捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "6aa7ee028f066d0a27868230",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",

@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-10-06T09:20:21.908Z",
+  "lastUpdated": "2026-10-08T09:10:41.832Z",
   "source": "刘炼捏脸",
-  "totalCount": 502,
+  "totalCount": 503,
   "qrcodes": [
+    {
+      "id": "6ac622d36941560945552bd1",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
+      "createTime": 1791369937242,
+      "createDate": "2026-10-07",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261007_cf13b6fb0c8a2cc2268f2abb20ff768a",
+        "https://ok.166.net/reunionpub/1_kol_20261007_b1f8f0d0c14ff12b409fb87627136904"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261007_d8bcac2b9e57a507f00956eb3f45b413",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac61bca82b7416f9a5646f3"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261007_14551ea0345de33b931203eb24dad600",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac61bca82b7416f9a5646f3"
+        }
+      ],
+      "text": "秦时明月——盖聂\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #盖聂# #刘炼捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "6ac4667d250c540c7d1cbdfe",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",

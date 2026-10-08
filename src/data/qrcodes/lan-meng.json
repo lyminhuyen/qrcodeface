@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-10-07T08:41:25.367Z",
+  "lastUpdated": "2026-10-08T08:57:02.260Z",
   "source": "蓝梦捏脸",
-  "totalCount": 789,
+  "totalCount": 791,
   "qrcodes": [
+    {
+      "id": "6ac6fc028a1d6628fee34e18",
+      "userId": "b4c8573cbd0a43da92e5f0d8f431b17e",
+      "createTime": 1791425535524,
+      "createDate": "2026-10-08",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261008_1a1194856f9419358.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：冷萌脸\n设计理念：舍弃网上花里胡哨的宝宝脸，嘟嘟唇，保存活泼少女该有的姿态（自己捏脸，放心使用）",
+      "userName": "清寒不是迪士尼公主",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241104_192f308415f288728.png"
+    },
+    {
+      "id": "6ac66122323d8e49cddb3eb4",
+      "userId": "a39fbd39e2364466a7b9f729136b56b2",
+      "createTime": 1791385888572,
+      "createDate": "2026-10-07",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261007_1a116eb6061510026.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "玉米皮子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241004_1925346f4fe290882.jpeg"
+    },
     {
       "id": "6ac33d8191d52b008aa5dd00",
       "userId": "4def539fd8fa4a1490640670df60b172",

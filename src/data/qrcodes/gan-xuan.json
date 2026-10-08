@@ -1,8 +1,53 @@
 {
-  "lastUpdated": "2026-10-07T09:05:16.177Z",
+  "lastUpdated": "2026-10-08T09:20:27.660Z",
   "source": "甘璇捏脸",
-  "totalCount": 188,
+  "totalCount": 190,
   "qrcodes": [
+    {
+      "id": "6ac70538b31ce77f125d9bc8",
+      "userId": "7a8a59dc1e794975a9e94509264a438f",
+      "createTime": 1791427886860,
+      "createDate": "2026-10-08",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261008_1a1196c3467714492.png",
+        "https://ok.166.net/reunionpub/1_20261008_1a1196c3467337518.png",
+        "https://ok.166.net/reunionpub/1_20261008_1a1196c3467486424.png",
+        "https://ok.166.net/reunionpub/1_20261008_1a1196c3467974299.png",
+        "https://ok.166.net/reunionpub/1_20261008_1a1196c3467945889.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##甘璇捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家456640530",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260108_19b9c69c3c6829344.png"
+    },
+    {
+      "id": "6ac65e178a1d6628fee28d2b",
+      "userId": "cead42ce87f543d0932396ec96671ae9",
+      "createTime": 1791385109275,
+      "createDate": "2026-10-07",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261007_1a116df7e17287993.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac65c980186943fc261db19"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac65c980186943fc261db19"
+        }
+      ],
+      "text": "#永劫无间捏脸站##甘璇捏脸#\n作品名称：我的幻想梦\n设计理念：我的幻想梦\n捏脸码：",
+      "userName": "已读乱回了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241222_193ee4aa782809325.jpeg"
+    },
     {
       "id": "6ac54f4d94342b7643713516",
       "userId": "2efa65e53b454c4fa66e7c70b12c0f5d",
