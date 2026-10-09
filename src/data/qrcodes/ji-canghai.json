@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-08T09:06:47.749Z",
+  "lastUpdated": "2026-10-09T09:30:04.742Z",
   "source": "季沧海捏脸",
-  "totalCount": 815,
+  "totalCount": 817,
   "qrcodes": [
     {
       "id": "6ac5dc096048e3656bb2028c",
@@ -15720,6 +15720,21 @@
       "userId": "abe6cbb14ebd4cba9ff2aa0c7af97734"
     },
     {
+      "id": "65ca1a1f53b12a00017cf067",
+      "userId": "7f9196175a4a4b2b9ed88f754a1d4f30",
+      "createTime": 1707743775070,
+      "createDate": "2024-02-12",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240212_18d9d75fed7792718.png"
+      ],
+      "qrCodes": [],
+      "text": "#捏个年味# #永劫无间捏脸站# #季沧海捏脸# 还是火狗比较对味😁",
+      "userName": "灵雪飞絮",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230203_1861460db48424635.png"
+    },
+    {
       "id": "65c8d8cd82fe95000128405e",
       "createTime": 1707661517439,
       "createDate": "2024-02-11",
@@ -16365,6 +16380,26 @@
       "userName": "肥肥仔vera",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg",
       "userId": "abe6cbb14ebd4cba9ff2aa0c7af97734"
+    },
+    {
+      "id": "625fd9318d5cee0001f19cb6",
+      "userId": "7f9196175a4a4b2b9ed88f754a1d4f30",
+      "createTime": 1650448689380,
+      "createDate": "2022-04-20",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20220420_18046686063916994.png",
+        "https://ok.166.net/reunionpub/1_20220420_18046686063280871.png",
+        "https://ok.166.net/reunionpub/1_20220420_18046686063209685.png",
+        "https://ok.166.net/reunionpub/1_20220420_18046686063972223.png",
+        "https://ok.166.net/reunionpub/1_20220420_18046686063427484.png",
+        "https://ok.166.net/reunionpub/1_20220420_18046686063466522.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #季沧海捏脸# 烈豪火男，侠骨柔情。",
+      "userName": "灵雪飞絮",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230203_1861460db48424635.png"
     },
     {
       "id": "6256765d880c710001dc9a5c",

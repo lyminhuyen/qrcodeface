@@ -1,8 +1,78 @@
 {
-  "lastUpdated": "2026-10-08T08:57:02.260Z",
+  "lastUpdated": "2026-10-09T09:30:04.680Z",
   "source": "蓝梦捏脸",
-  "totalCount": 791,
+  "totalCount": 796,
   "qrcodes": [
+    {
+      "id": "6ac7a5506048e3656bb405a9",
+      "userId": "0b8892b71b3e473488dd48c8c013462d",
+      "createTime": 1791468877402,
+      "createDate": "2026-10-08",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261008_1a11bddb036697163.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11bddb036922683.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11bddb036498704.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11bddb036271272.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791468683.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac50ca8093b37370e9e8491",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1791468683.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac50ca8093b37370e9e8491",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#可直接导入自取，可二改不可盈利",
+      "userName": "气人画手阿浅",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230824_18a26c5995f833447.jpeg"
+    },
+    {
+      "id": "6ac7908894342b764373d39c",
+      "userId": "a53a045249dd4ca785f65df556bdf7b4",
+      "createTime": 1791463556765,
+      "createDate": "2026-10-08",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261008_1a11b8c6eae993656.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11b8c6eae886555.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11b8c6eae605102.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11b8c6eaf549927.jpg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11b8c6eaf349168.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11b8c6eaf851575.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11b8c6eaf387877.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11b8c6eaf990743.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11b8c6eaf688061.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：甜酒\n设计理念：5加蜂蜜\n捏脸码：1470",
+      "userName": "游戏玩家19990650",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261008_1a11b865fb9584846.png"
+    },
+    {
+      "id": "6ac7900b9c02552c2b67302d",
+      "userId": "a53a045249dd4ca785f65df556bdf7b4",
+      "createTime": 1791463433469,
+      "createDate": "2026-10-08",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261008_1a11b8a9cab859662.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11b8a9cab108162.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：甜酒\n设计理念：甜酒封面\n捏脸码：0825",
+      "userName": "游戏玩家19990650",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261008_1a11b865fb9584846.png"
+    },
     {
       "id": "6ac6fc028a1d6628fee34e18",
       "userId": "b4c8573cbd0a43da92e5f0d8f431b17e",
@@ -17527,6 +17597,24 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20250112_19459112ac8139372.jpeg"
     },
     {
+      "id": "678fe84ce0ff6c386f1ed2ab",
+      "userId": "7f9196175a4a4b2b9ed88f754a1d4f30",
+      "createTime": 1737484362803,
+      "createDate": "2025-01-21",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250122_1948a235db9448236.png",
+        "https://ok.166.net/reunionpub/1_20250122_1948a235db9847408.png",
+        "https://ok.166.net/reunionpub/1_20250122_1948a235db9918841.png",
+        "https://ok.166.net/reunionpub/1_20250122_1948a235db9708010.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #蓝梦捏脸# 码在最后一张",
+      "userName": "灵雪飞絮",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230203_1861460db48424635.png"
+    },
+    {
       "id": "678fd48e02975a213103123b",
       "createTime": 1737479309076,
       "createDate": "2025-01-21",
@@ -17667,6 +17755,21 @@
       "userName": "芍兔",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250707_197e1159dec739672.jpeg",
       "userId": "02b174c376c34985b388e98792c268fb"
+    },
+    {
+      "id": "678f7df284623c551a495ad8",
+      "userId": "7f9196175a4a4b2b9ed88f754a1d4f30",
+      "createTime": 1737457136844,
+      "createDate": "2025-01-21",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20250121_1948883f1df771179.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #蓝梦捏脸# 小捏一下[可爱]",
+      "userName": "灵雪飞絮",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230203_1861460db48424635.png"
     },
     {
       "id": "678f7a9ab068987b4c16a2df",

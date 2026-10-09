@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-30T08:54:04.147Z",
+  "lastUpdated": "2026-10-09T09:30:04.674Z",
   "source": "李寻欢捏脸",
-  "totalCount": 124,
+  "totalCount": 125,
   "qrcodes": [
     {
       "id": "6ab0dbe2e956ea1f5257d391",
@@ -2400,6 +2400,22 @@
       "userName": "游戏玩家15904548",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250704_197d410062a908903.jpeg",
       "userId": "22720d3070f7476898d5e9b653fb8c72"
+    },
+    {
+      "id": "6911b48f74555d663901731c",
+      "userId": "7f9196175a4a4b2b9ed88f754a1d4f30",
+      "createTime": 1762768014168,
+      "createDate": "2025-11-10",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251110_19a6d2946f2361239.jpeg",
+        "https://ok.166.net/reunionpub/1_20251110_19a6d2946f2501264.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #李寻欢捏脸# #永劫无间捏脸#",
+      "userName": "灵雪飞絮",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230203_1861460db48424635.png"
     },
     {
       "id": "6911a95407bd4a6fe2b2ae9f",

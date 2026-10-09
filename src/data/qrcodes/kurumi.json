@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-10-06T09:37:37.196Z",
+  "lastUpdated": "2026-10-09T09:30:04.756Z",
   "source": "胡桃捏脸",
-  "totalCount": 1196,
+  "totalCount": 1199,
   "qrcodes": [
+    {
+      "id": "6ac7b54c9173ea71dc185bb2",
+      "userId": "2ec925a539774c849081030e6d39fdc2",
+      "createTime": 1791472969694,
+      "createDate": "2026-10-08",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261008_1a11c1c17ed428460.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11c1c17ed734738.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11c1c17ed677450.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11c1c17ed752736.jpeg",
+        "https://ok.166.net/reunionpub/1_20261008_1a11c1c17ed796998.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1791472960.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iEwvMtUlMGi3P9qo-jpnhC&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6abec0d3dda17af9910d9021ggLk10qa07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "赞赞自取~\n点击下方一键导入即可获得同款捏脸，不会的宝宝可以看下置顶哦🔝#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #胡桃捏脸# #捏脸# #胡桃# #永手胡桃捏脸# #永劫无间手游捏脸#",
+      "userName": "玫瑰凶杀案",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250925_19980080759940187.jpeg"
+    },
     {
       "id": "6abd044438bff70f1915e547",
       "userId": "2ec925a539774c849081030e6d39fdc2",
@@ -299,6 +325,21 @@
       "text": "dy的宝宝们，因平台限制以后的捏脸都将在大神分享，知道的宝子帮忙告诉其他不知道的宝宝谢谢大家!(我这边不可以直白告诉大家)#永劫无间手游# #胡桃捏脸# #永劫手游大神创作激励#",
       "userName": "粥沫小福",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg"
+    },
+    {
+      "id": "6aa84fcd2c44754f3758cc11",
+      "userId": "0170f9bad25a4fb597d5c66752c18c13",
+      "createTime": 1789415371263,
+      "createDate": "2026-09-14",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260915_1a0a177ade3570993.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##土御门胡桃捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "混吃等死爱摆烂",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260910_1a08b781c40135353.jpeg"
     },
     {
       "id": "6aa58c5b8f066d0a27838f8c",
@@ -20251,6 +20292,22 @@
       "userName": "易安然茶",
       "userAvatar": "https://ok.166.net/reunionpub/3_20231111_18bbcd4c111250276.jpeg",
       "userId": "2c207a6fb6d947b589939e27b4f24f79"
+    },
+    {
+      "id": "65c3c9b81a1aab00012b982a",
+      "userId": "7f9196175a4a4b2b9ed88f754a1d4f30",
+      "createTime": 1707329976329,
+      "createDate": "2024-02-07",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240208_18d84cbe9af359167.png",
+        "https://ok.166.net/reunionpub/1_20240208_18d84cbe9af748891.png"
+      ],
+      "qrCodes": [],
+      "text": "#捏个年味# #永劫无间捏脸站# #土御门胡桃捏脸# 🧐就穿这套过年~数据在第二张。",
+      "userName": "灵雪飞絮",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230203_1861460db48424635.png"
     },
     {
       "id": "65abd03ec4b3630001b6189d",
