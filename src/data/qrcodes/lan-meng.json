@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-09T09:30:04.680Z",
+  "lastUpdated": "2026-10-10T08:37:22.727Z",
   "source": "蓝梦捏脸",
-  "totalCount": 796,
+  "totalCount": 797,
   "qrcodes": [
+    {
+      "id": "6ac9abf76941560945599463",
+      "userId": "9488d8636f8f4bc1abf4b95de4f553de",
+      "createTime": 1791601652748,
+      "createDate": "2026-10-10",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261010_1a123c7aaf3753365.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#蓝梦捏脸#",
+      "userName": "落月望星晨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261006_1a10f203a5f200247.jpeg"
+    },
     {
       "id": "6ac7a5506048e3656bb405a9",
       "userId": "0b8892b71b3e473488dd48c8c013462d",

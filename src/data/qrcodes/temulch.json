@@ -1,8 +1,125 @@
 {
-  "lastUpdated": "2026-10-09T08:36:49.518Z",
+  "lastUpdated": "2026-10-10T08:13:49.007Z",
   "source": "特木尔捏脸",
-  "totalCount": 781,
+  "totalCount": 785,
   "qrcodes": [
+    {
+      "id": "6ac9072eb250b70839a72f38",
+      "userId": "abe6cbb14ebd4cba9ff2aa0c7af97734",
+      "createTime": 1791559468645,
+      "createDate": "2026-10-09",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261009_1a1214402a8690635.jpeg",
+        "https://ok.166.net/reunionpub/1_20261009_1a1214402a8811318.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791559466.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac90482745ea9544bd8ea53",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1791559466.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac90482745ea9544bd8ea53",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "【特木尔捏脸卫庄】仿的是少年版但是发型不一样还是差点#永劫无间# #永劫无间捏脸站# #特木尔捏脸#",
+      "userName": "肥肥仔vera",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
+    },
+    {
+      "id": "6ac8f5a046bd183883dc38e2",
+      "userId": "de440deaace4494dbbc445c92b3f5de6",
+      "createTime": 1791554972045,
+      "createDate": "2026-10-09",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261009_d477937ac35d5cad4db41045e4122f61",
+        "https://ok.166.net/reunionpub/1_kol_20261009_0aac548be71c192797003f1e4487c5e1",
+        "https://ok.166.net/reunionpub/1_kol_20261009_0e9ad0d02470c9b910603a5ebb71acb9"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261009_dd10bf3074624126e9fdab4ee251f60f",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac86f17093b37370e9f052d"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261009_e6dfef99498f9e21b9ec9a397cbfb257",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac86f17093b37370e9f052d"
+        }
+      ],
+      "text": "特木尔捏脸分享丨卫庄仿捏\n捏脸导入指引：捏脸码在图3 染发和捏脸码同码\n如左下角没有看到导入图标 请点开需要使用的捏脸码大图长按保存到手机后发布在评论区点开即可识别\n一头阿姜姜原创 - 创作不易，请动用发财的小手帮小姜点点三连支持一下吧～\n#永劫无间捏脸站# #特木尔捏脸# #永劫无间#",
+      "userName": "一头阿姜姜",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
+    },
+    {
+      "id": "6ac8cdc491d52b008aac6ab7",
+      "userId": "ffb114098aac4133969ab1aa4640bf6d",
+      "createTime": 1791544753818,
+      "createDate": "2026-10-09",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261009_6746019fb277efcdfe698578f7f2fe9a",
+        "https://ok.166.net/reunionpub/1_kol_20261009_85e96016c74f57fa8ab70a8c56ce0293",
+        "https://ok.166.net/reunionpub/1_kol_20261009_e52f2b59b5a36a7b6d75c7364ac8285b"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261009_dae05b251343b7c307f580db788f9c71",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac8c5de745ea9544bd8dcc2"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "[ 特木尔捏脸·卫庄 ]\n预判失误 没有短发😭\n#永劫无间捏脸站# #特木尔捏脸# #永劫无间#",
+      "userName": "高级护甲粉末",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260621_19eeabb13dc871443.jpeg"
+    },
+    {
+      "id": "6ac8a865f8486e7cb5762e89",
+      "userId": "ded1ec726a33435b8efeed82acc9e2e3",
+      "createTime": 1791535202285,
+      "createDate": "2026-10-09",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261009_1a11fd1bc34476416.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac8a6cb82b7416f9a569a9d"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站##特木尔捏脸#\n作品名称：卫装\n设计理念：秦时明月\n捏脸码：#永劫无间捏脸站#",
+      "userName": "夜砚声不会振刀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260804_19fca2cb8cb765286.jpeg"
+    },
     {
       "id": "6ac890f391d52b008aac2685",
       "userId": "28528d590d1345f3b1a8b0cd3173817d",
@@ -4291,7 +4408,7 @@
       ],
       "qrCodes": [],
       "text": "#特木尔捏脸#",
-      "userName": "胖几的主人",
+      "userName": "再给角色红退游",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260402_19d4d1984c2970126.jpeg",
       "userId": "3d02cff3a1ba4921ba43af90e6d9c9a4"
     },
