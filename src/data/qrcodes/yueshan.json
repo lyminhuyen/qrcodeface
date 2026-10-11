@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-09T09:30:04.835Z",
+  "lastUpdated": "2026-10-11T09:19:52.746Z",
   "source": "岳山捏脸",
-  "totalCount": 769,
+  "totalCount": 770,
   "qrcodes": [
     {
       "id": "6ac4a3682a85655db3af64fd",
@@ -4942,6 +4942,31 @@
       "userName": "成为专家",
       "userAvatar": "https://ok.166.net/reunionpub/3_20241208_193a5a6bbe9324526.jpeg",
       "userId": "88a284b6a4904d07bfb3e5624fed00a0"
+    },
+    {
+      "id": "68f4c3522e79be5f77657d7c",
+      "userId": "13c0e51e062443be9b87ca6a180f99e7",
+      "createTime": 1760871248020,
+      "createDate": "2025-10-19",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251019_199fc1ae731304815.jpeg",
+        "https://ok.166.net/reunionpub/1_20251019_199fc1ae731935838.jpeg",
+        "https://ok.166.net/reunionpub/1_20251019_199fc1ae731891299.jpeg",
+        "https://ok.166.net/reunionpub/1_20251019_199fc1ae731954872.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1760871233.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iguYMiiGXxejK-8ooGxGET&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/68f3d181614649a3ce3017a0mbikJTZQ06",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "永劫无间手游×尼尔联动，岳山 尼尔捏脸。#永手岳山捏脸# #永手捏脸站# #永劫手游大神创作激励# #永手新赛季捏脸# #永劫无间手游天罗赛季# #永劫无间手游#",
+      "userName": "Winny丶",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241021_192af22b917160731.jpeg"
     },
     {
       "id": "68f36fe5f1b8d74fe0e72c02",

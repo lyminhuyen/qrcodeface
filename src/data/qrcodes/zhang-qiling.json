@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-10T08:49:17.759Z",
+  "lastUpdated": "2026-10-11T09:19:52.708Z",
   "source": "张起灵捏脸",
-  "totalCount": 640,
+  "totalCount": 641,
   "qrcodes": [
     {
       "id": "6ac003d51a7a453ec8a550c0",
@@ -3397,6 +3397,31 @@
       "userName": "艺van",
       "userAvatar": "https://ok.166.net/reunionpub/3_20211225_17df07bcdd3786835.jpeg",
       "userId": "80621139ec7f4035be4a83694b7ef948"
+    },
+    {
+      "id": "6926c968ac84ad52f71857f4",
+      "userId": "13c0e51e062443be9b87ca6a180f99e7",
+      "createTime": 1764149605398,
+      "createDate": "2025-11-26",
+      "characterId": "zhang-qiling",
+      "characterName": "Kylin Zhang",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251126_19abf82afae383284.jpeg",
+        "https://ok.166.net/reunionpub/1_20251126_19abf82afae752077.jpeg",
+        "https://ok.166.net/reunionpub/1_20251126_19abf82afae636300.jpeg",
+        "https://ok.166.net/reunionpub/1_20251126_19abf82afae502942.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1764149574.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i23EjNYvzMJCoLb6MW8VoL&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6926be24aee0980088175b9aCL4HqEkd07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "张起灵通行证「发丘天官」捏脸。#永手张起灵捏脸# #永手捏脸站# #永劫手游大神创作激励# #永劫无间手游奇侠赛季# #永劫无间手游# #永手新赛季捏脸#",
+      "userName": "Winny丶",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241021_192af22b917160731.jpeg"
     },
     {
       "id": "6924046eb0055218ddf0fbf5",

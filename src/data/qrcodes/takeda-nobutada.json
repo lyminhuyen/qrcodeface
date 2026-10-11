@@ -1,8 +1,65 @@
 {
-  "lastUpdated": "2026-10-10T08:29:18.834Z",
+  "lastUpdated": "2026-10-11T08:41:34.971Z",
   "source": "武田信忠捏脸",
-  "totalCount": 779,
+  "totalCount": 781,
   "qrcodes": [
+    {
+      "id": "6acb43248f8a3a2b0f188389",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
+      "createTime": 1791705889258,
+      "createDate": "2026-10-11",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261011_c8f989f346ac949a4157ee2faf4bea59",
+        "https://ok.166.net/reunionpub/1_kol_20261011_f1ec45783e98bf83f4b68ac7c3545864"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261011_5055e103da9583eaf1ab4e49ef7d9c4a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6acb3d6d82b7416f9a5716a8"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261011_afa9c52d5145c3176aaa2538694846ed",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6acb3d6d82b7416f9a5716a8"
+        }
+      ],
+      "text": "迈克尔杰克逊——武田信忠捏脸\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #武田信忠捏脸# #迈克尔杰克逊#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
+    {
+      "id": "6aca4d6f6048e3656bb7283d",
+      "userId": "fe6ccf88f84d43fbb023217e050a8ba3",
+      "createTime": 1791642989214,
+      "createDate": "2026-10-10",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261010_1a1263e6d1f474014.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791642881.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac90f7382b7416f9a56b139",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##武田信忠捏脸#\n作品名称：镇鬼\n设计理念：年上叔，就要成熟年上！\n捏脸码：",
+      "userName": "虚弱小狗",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240202_18d65ca9b3b206054.jpeg"
+    },
     {
       "id": "6ac9e4e794342b764376cc9a",
       "userId": "6f97e929885e4eafbfcad22702843c75",

@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-08T09:18:29.178Z",
+  "lastUpdated": "2026-10-11T09:19:52.601Z",
   "source": "巫真捏脸",
-  "totalCount": 273,
+  "totalCount": 274,
   "qrcodes": [
     {
       "id": "6ac660d91a7a453ec8ae0ec5",
@@ -386,6 +386,34 @@
       "userName": "鉴水真心",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260704_19f2ca75ec0244765.jpeg",
       "userId": "30fc865a369b444aa8f166782ac3a2d5"
+    },
+    {
+      "id": "6a64eae5d6aeb32c80a9defb",
+      "userId": "13c0e51e062443be9b87ca6a180f99e7",
+      "createTime": 1784998620200,
+      "createDate": "2026-07-25",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260726_19f9a35593b808531.jpeg",
+        "https://ok.166.net/reunionpub/1_20260726_19f9a35593b721539.jpeg",
+        "https://ok.166.net/reunionpub/1_20260726_19f9a35593b167659.jpeg",
+        "https://ok.166.net/reunionpub/1_20260726_19f9a35593b167725.jpeg",
+        "https://ok.166.net/reunionpub/1_20260726_19f9a35593b965762.jpeg",
+        "https://ok.166.net/reunionpub/1_20260726_19f9a35593b169937.jpeg",
+        "https://ok.166.net/reunionpub/1_20260726_19f9a35593b361501.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1784998611.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i8_8RQv46k6Rb01zX_xR8N&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6a64dbb4094fc6d70920ad892E7jD9dX07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "巫真「镇渊、大地之息」捏脸分享。#永手巫真捏脸# #永手捏脸站# #永劫手游大神创作激励# #今日劫点# #永劫无间手游千机赛季# #永手新赛季捏脸# #永劫无间手游#",
+      "userName": "Winny丶",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241021_192af22b917160731.jpeg"
     },
     {
       "id": "6a641376d633912b962359c2",

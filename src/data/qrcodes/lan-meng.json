@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-10T08:37:22.727Z",
+  "lastUpdated": "2026-10-11T09:19:52.717Z",
   "source": "蓝梦捏脸",
-  "totalCount": 797,
+  "totalCount": 798,
   "qrcodes": [
     {
       "id": "6ac9abf76941560945599463",
@@ -6900,6 +6900,32 @@
       "userName": "陆梓念",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250305_195643493a2832183.jpeg",
       "userId": "913271f66f0f47b2af9d9db78a545ad1"
+    },
+    {
+      "id": "691efc3749055e1e3e3aef95",
+      "userId": "13c0e51e062443be9b87ca6a180f99e7",
+      "createTime": 1763638324779,
+      "createDate": "2025-11-20",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251120_19aa1092513105532.jpeg",
+        "https://ok.166.net/reunionpub/1_20251120_19aa1092513491717.jpeg",
+        "https://ok.166.net/reunionpub/1_20251120_19aa1092513963514.jpeg",
+        "https://ok.166.net/reunionpub/1_20251120_19aa1092513937645.jpeg",
+        "https://ok.166.net/reunionpub/1_20251120_19aa1092513943311.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1763638210.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i-3ed9dCvM6F-KZuWMO39i&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/691eb4b1cd3f45ed80bbccf9Ze7SPoGE07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "蓝梦国风「秋日序曲·翩云」捏脸。#永手蓝梦捏脸# #永手捏脸站# #永劫手游大神创作激励# #永劫无间手游# #永劫无间手游奇侠赛季# #永手新赛季捏脸#",
+      "userName": "Winny丶",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241021_192af22b917160731.jpeg"
     },
     {
       "id": "691ed35dfbf7e44f84749f70",

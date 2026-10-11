@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-09T09:30:04.674Z",
+  "lastUpdated": "2026-10-11T09:19:52.695Z",
   "source": "李寻欢捏脸",
-  "totalCount": 125,
+  "totalCount": 127,
   "qrcodes": [
     {
       "id": "6ab0dbe2e956ea1f5257d391",
@@ -2020,6 +2020,58 @@
       "userName": "就以记忆唱下去",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4"
+    },
+    {
+      "id": "69385b3c98081070190121a8",
+      "userId": "13c0e51e062443be9b87ca6a180f99e7",
+      "createTime": 1765301050417,
+      "createDate": "2025-12-09",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251210_19b04244f17718376.jpeg",
+        "https://ok.166.net/reunionpub/1_20251210_19b04244f17759363.jpeg",
+        "https://ok.166.net/reunionpub/1_20251210_19b04244f17850592.jpeg",
+        "https://ok.166.net/reunionpub/1_20251210_19b04244f17317691.jpeg",
+        "https://ok.166.net/reunionpub/1_20251210_19b04244f17506596.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1765301039.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iXyiJAIbS6AVyTDWkJyRrJ&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/693834eb395e64bda6b7a058CJbJOzVZ07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "李寻欢「寒梅傲雪」捏脸。#永手李寻欢捏脸# #李寻欢捏脸# #永手捏脸站# #永劫手游大神创作激励# #永劫无间手游奇侠赛季# #永劫无间手游# #永手新赛季捏脸# #猜猜他是谁#",
+      "userName": "Winny丶",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241021_192af22b917160731.jpeg"
+    },
+    {
+      "id": "693264ea5390255512fc8fc4",
+      "userId": "13c0e51e062443be9b87ca6a180f99e7",
+      "createTime": 1764910312486,
+      "createDate": "2025-12-05",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251205_19aecda273a174380.jpeg",
+        "https://ok.166.net/reunionpub/1_20251205_19aecda273a777012.jpeg",
+        "https://ok.166.net/reunionpub/1_20251205_19aecda273a305767.jpeg",
+        "https://ok.166.net/reunionpub/1_20251205_19aecda273a718770.jpeg",
+        "https://ok.166.net/reunionpub/1_20251205_19aecda273a797144.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1764910291.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i54bSFt4skTx4Y9x1UPBmY&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6932412fd413967189c18c6aP3hBfb0N07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "李寻欢「焦恩俊」仿捏。#永手李寻欢捏脸# #李寻欢捏脸# #永手捏脸站# #永劫手游大神创作激励# #猜猜他是谁# #永劫无间手游# #永手新赛季捏脸# #永劫无间手游奇侠赛季#",
+      "userName": "Winny丶",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241021_192af22b917160731.jpeg"
     },
     {
       "id": "69325a0e4c50086cd8e987e3",
