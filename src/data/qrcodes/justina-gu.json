@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-11T09:19:52.623Z",
+  "lastUpdated": "2026-10-12T08:57:25.270Z",
   "source": "顾清寒捏脸",
-  "totalCount": 917,
+  "totalCount": 918,
   "qrcodes": [
+    {
+      "id": "6acb6eec69415609455bffb5",
+      "userId": "b168e59176224905a9c2329152455ca6",
+      "createTime": 1791717093489,
+      "createDate": "2026-10-11",
+      "characterId": "justina-gu",
+      "characterName": "Justina Gu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261011_1a12aa92f44716851.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#顾清寒捏脸#",
+      "userName": "是赤红色",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261009_1a11da9d8d7589793.jpeg"
+    },
     {
       "id": "6acb04627427865d21fc1e24",
       "userId": "af0d4699a9a4480dba5fa39e27f2e85b",

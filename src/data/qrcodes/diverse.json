@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-11T09:22:40.244Z",
+  "lastUpdated": "2026-10-12T09:39:19.074Z",
   "source": "diverse",
-  "totalCount": 2880,
+  "totalCount": 2882,
   "qrcodes": [
     {
       "id": "6aba5bd994342b764362fa2d",
@@ -13699,6 +13699,21 @@
       "text": "",
       "userName": "游戏玩家10943009",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240811_19140ed1d35846244.png"
+    },
+    {
+      "id": "6a08cd4f27132700c5168f09",
+      "userId": "b3b4d1f4f68244a9ac7064ee5617e21d",
+      "createTime": 1778961741522,
+      "createDate": "2026-05-16",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260517_19e3261f0a2959695.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间影棚夯拉打分##P5联动# \n作品名称：P5R\n设计理念：p5天下第一",
+      "userName": "pc端手游是基本盘",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251012_199d426ca3c617114.jpeg"
     },
     {
       "id": "6a08695988776b5fd2c77789",
@@ -30552,6 +30567,30 @@
       "text": "#永劫无间捏脸站#",
       "userName": "鹤晚雪",
       "userAvatar": "https://ok.166.net/reunionpub/3_20230818_18a047a81f7433094.jpeg"
+    },
+    {
+      "id": "68e7c7b61019333563d9bcd2",
+      "userId": "b3b4d1f4f68244a9ac7064ee5617e21d",
+      "createTime": 1760020404505,
+      "createDate": "2025-10-09",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251009_199c9641451733454.jpeg",
+        "https://ok.166.net/reunionpub/1_20251009_199c9641452903403.jpeg",
+        "https://ok.166.net/reunionpub/1_20251009_199c9641452564312.jpeg",
+        "https://ok.166.net/reunionpub/1_20251009_199c9641452641932.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=i3rNWgO1LVNEN75LP34pce&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/68e7becd36dc17cdb2accb16g2qqi1si06"
+        }
+      ],
+      "text": "诸位道友记得点赞，评论加关注，如有合适日后追加，修仙道路且长，祝道友念头通达！\n原创不易，搬运备注\n#永手捏脸站# #猜猜他是谁# #永手无尘捏脸# #永手张起灵捏脸# #永手南宫锦捏脸# #永手刘炼捏脸# #凡人修仙传# #永劫手游大神创作激励#",
+      "userName": "pc端手游是基本盘",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251012_199d426ca3c617114.jpeg"
     },
     {
       "id": "68e79a881019333563d8b7b3",

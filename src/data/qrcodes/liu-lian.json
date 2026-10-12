@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-10-11T09:19:52.730Z",
+  "lastUpdated": "2026-10-12T09:39:19.101Z",
   "source": "刘炼捏脸",
-  "totalCount": 511,
+  "totalCount": 513,
   "qrcodes": [
+    {
+      "id": "6acb7cd538bff70f192808bd",
+      "userId": "1dd7f94448564419bddcef24e57bb78c",
+      "createTime": 1791720657420,
+      "createDate": "2026-10-11",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261011_faec48f5ebdf188755752a5f0e344144",
+        "https://ok.166.net/reunionpub/1_kol_20261011_2f7fe26fcb6e08e58e17eef4728584d3",
+        "https://ok.166.net/reunionpub/1_kol_20261011_edf808906e2be8ccbcfbb58166e7ec47"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261011_42a139fd6dd489c62684af4d86e253a4",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6acb79df0186943fc262acf9"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "戈翊【盖聂】捏脸码在图三\n‎💗‎点击下方可直接导入捏脸‎💗\n‎💗（跪求关注点赞分享，谢谢）‎💗（ღ( ´･ᴗ･` )比心）\n#永劫无间##永劫无间捏脸站##刘炼捏脸#",
+      "userName": "星野织呀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250904_19910dd0e22102142.jpeg"
+    },
     {
       "id": "6acb266a94342b7643788752",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
@@ -3035,6 +3066,28 @@
       "userName": "skyjjjjj",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240721_190d42a6258439382.jpeg",
       "userId": "ba462eb1425f4aa39173709e32164803"
+    },
+    {
+      "id": "6909e7a13bee730d5354de25",
+      "userId": "b3b4d1f4f68244a9ac7064ee5617e21d",
+      "createTime": 1762256799890,
+      "createDate": "2025-11-04",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251104_19a4eb0c2f8994185.jpeg",
+        "https://ok.166.net/reunionpub/1_20251104_19a4eb0c2f9981053.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ioXo2ixNfXkjLSHfbYfQdj&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6909d4e7f4df0323f85e8581UmqO6zE506"
+        }
+      ],
+      "text": "世事难两全，得失总相伴，点赞，关注，评论给一个也行，转发记得备注#永劫手游大神创作激励# #猜猜他是谁# #永手刘炼捏脸# #永手捏脸站#",
+      "userName": "pc端手游是基本盘",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251012_199d426ca3c617114.jpeg"
     },
     {
       "id": "69099ed2dfd2437376e11db2",

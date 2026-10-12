@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-10-11T08:57:46.379Z",
+  "lastUpdated": "2026-10-12T09:19:04.051Z",
   "source": "胡为捏脸",
-  "totalCount": 761,
+  "totalCount": 762,
   "qrcodes": [
+    {
+      "id": "6acbacd69173ea71dc1d2e29",
+      "userId": "e8631ebc3d214b98af5a9e0f6130c26a",
+      "createTime": 1791732947706,
+      "createDate": "2026-10-11",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261011_1a12b9b0b8c286783.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791732941.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6acbaca7093b37370e9fa47f",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "纳兰若侲",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20210120_1771db4ca67674453.jpeg"
+    },
     {
       "id": "6aca7bbbf8486e7cb5789888",
       "userId": "ee336cace9d04a75aeac5fb60ebc91c2",
