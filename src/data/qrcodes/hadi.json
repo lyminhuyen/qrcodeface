@@ -1,8 +1,57 @@
 {
-  "lastUpdated": "2026-10-12T09:30:49.787Z",
+  "lastUpdated": "2026-10-13T09:49:20.598Z",
   "source": "哈迪捏脸",
-  "totalCount": 635,
+  "totalCount": 637,
   "qrcodes": [
+    {
+      "id": "6acdfb369038c5211239184b",
+      "userId": "1285dc44989a434c8e282836b244e676",
+      "createTime": 1791884083095,
+      "createDate": "2026-10-13",
+      "characterId": "hadi",
+      "characterName": "Hadi Ismail",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261013_01a6799c1330ac8e364e6939133b244e",
+        "https://ok.166.net/reunionpub/1_kol_20261013_c60e0fd6e6cab3c971b5c429ff1b4401",
+        "https://ok.166.net/reunionpub/1_kol_20261013_67d6d6d6be7dae32660a9be8da08f69f",
+        "https://ok.166.net/reunionpub/1_kol_20261013_780ec41b9a547df8e8bb394712aa39de",
+        "https://ok.166.net/reunionpub/1_kol_20261013_3fce1e8ac96c4cea4c57c0330b2a4c15"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261013_47319ae291db698c154a11cc7c1c927b",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6acd415a82b7416f9a57618e"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261013_b7c9339e9d17d719ced8ad1426ccce25",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6acd415a82b7416f9a57618e"
+        }
+      ],
+      "text": "哈迪花露外观捏脸 · 深穹\n需要幻丝商店面纹25，没有面纹的用图5的捏脸码\n#哈迪捏脸# #永劫无间捏脸站# #永劫无间#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260930_1a0effe9f97891240.jpeg"
+    },
+    {
+      "id": "6acd0d9a9c02552c2b6e0a6c",
+      "userId": "31bf8b8d8c0b4aa8a2aa45442528118e",
+      "createTime": 1791823256882,
+      "createDate": "2026-10-12",
+      "characterId": "hadi",
+      "characterName": "Hadi Ismail",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261013_1a130fd1b99223335.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#哈迪捏脸#",
+      "userName": "忧郁且泡泡",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260423_19db8d1805d361601.jpeg"
+    },
     {
       "id": "6acba9c305a77e40991c7bc1",
       "userId": "1dd7f94448564419bddcef24e57bb78c",
@@ -6698,7 +6747,7 @@
       ],
       "qrCodes": [],
       "text": "#永劫无间捏脸站# #哈迪捏脸#",
-      "userName": "忧郁威士忌",
+      "userName": "忧郁威士忌_20261005",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240729_190fd48642d198764.jpeg",
       "userId": "7e81ddc0841d4d37a98d2271ba2aa7c7"
     },

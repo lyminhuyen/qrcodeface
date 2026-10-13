@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-10-12T09:11:11.246Z",
+  "lastUpdated": "2026-10-13T09:29:29.596Z",
   "source": "蓝梦捏脸",
-  "totalCount": 800,
+  "totalCount": 802,
   "qrcodes": [
+    {
+      "id": "6acd04aef8486e7cb57bb596",
+      "userId": "72125ab6c2f84a9eaa4e93e4f93eb28b",
+      "createTime": 1791820972323,
+      "createDate": "2026-10-12",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261013_1a130da3f47294822.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "无牙仔z",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240609_18ffc3a4989116056.jpeg"
+    },
+    {
+      "id": "6acd03937427865d21fee5ee",
+      "userId": "72125ab6c2f84a9eaa4e93e4f93eb28b",
+      "createTime": 1791820689783,
+      "createDate": "2026-10-12",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261012_1a130d5efd8323744.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "无牙仔z",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240609_18ffc3a4989116056.jpeg"
+    },
     {
       "id": "6acc61c26241ec1192de9e41",
       "userId": "8f9423712f6a44189948dcabaf8181da",

@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-10T08:47:19.789Z",
+  "lastUpdated": "2026-10-13T09:39:15.502Z",
   "source": "季沧海捏脸",
-  "totalCount": 817,
+  "totalCount": 818,
   "qrcodes": [
+    {
+      "id": "6accd1369c02552c2b6d9776",
+      "userId": "2a21775f5103438d92569fc67a1c7928",
+      "createTime": 1791807795836,
+      "createDate": "2026-10-12",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261012_1a130112f60678344.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##季沧海捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "齐奇茂",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20221123_184a30bae88595084.jpeg"
+    },
     {
       "id": "6ac5dc096048e3656bb2028c",
       "userId": "56f05fe1ed5d4c289ffad875aebe089c",
