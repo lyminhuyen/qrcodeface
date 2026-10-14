@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-13T09:49:20.598Z",
+  "lastUpdated": "2026-10-14T08:06:21.506Z",
   "source": "哈迪捏脸",
-  "totalCount": 637,
+  "totalCount": 638,
   "qrcodes": [
     {
       "id": "6acdfb369038c5211239184b",
@@ -51,6 +51,30 @@
       "text": "#哈迪捏脸#",
       "userName": "忧郁且泡泡",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260423_19db8d1805d361601.jpeg"
+    },
+    {
+      "id": "6acc38a37ed20870f693a5cf",
+      "userId": "d64e8ea22587496b86613cdf76835400",
+      "createTime": 1791768736887,
+      "createDate": "2026-10-12",
+      "characterId": "hadi",
+      "characterName": "Hadi Ismail",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261012_1a12dbd278f717474.png",
+        "https://ok.166.net/reunionpub/1_20261012_1a12dbd278f276888.png",
+        "https://ok.166.net/reunionpub/1_20261012_1a12dbd278f459302.png",
+        "https://ok.166.net/reunionpub/1_20261012_1a12dbd278f272175.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iNeU-sMuxnopeLcXlRJPPG&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6acbc96609e34d054851abb8IIccS5Dv07"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永手捏脸站# #永劫无间手游攻略# #永手新赛季捏脸# #永手哈迪# #永哈迪劫无间手游攻略# #永手哈迪捏脸#",
+      "userName": "不良帅天赐星",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260927_1a0dec19d9a414332.jpeg"
     },
     {
       "id": "6acba9c305a77e40991c7bc1",
@@ -978,7 +1002,7 @@
       ],
       "text": "#永劫手游大神创作激励# #永手捏脸站# #今日劫点# #永手新赛季捏脸# #永手哈迪捏脸# #永手哈迪# #永劫手游热点玩法# 喜欢的点赞关注脸码一键导入即可[送花]",
       "userName": "不良帅天赐星",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260906_1a072c4821f933146.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260927_1a0dec19d9a414332.jpeg"
     },
     {
       "id": "69cc9dea4d822076f7c02cc3",
