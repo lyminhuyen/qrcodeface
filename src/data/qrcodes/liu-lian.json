@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-10-14T08:06:21.525Z",
+  "lastUpdated": "2026-10-15T07:44:13.441Z",
   "source": "刘炼捏脸",
-  "totalCount": 516,
+  "totalCount": 517,
   "qrcodes": [
+    {
+      "id": "6acf56c9d96a1b266f1e03bd",
+      "userId": "ffb114098aac4133969ab1aa4640bf6d",
+      "createTime": 1791973062018,
+      "createDate": "2026-10-14",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261014_0f916ecb0f3dddd4d93fb439b7a2a110",
+        "https://ok.166.net/reunionpub/1_kol_20261014_d1a3137106ca8109c71c038a971e9d3d",
+        "https://ok.166.net/reunionpub/1_kol_20261014_dfdea02a9e7aabdd00282a131e9c411f"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261014_92435d31434715b7caf53bc53056ea90",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac8c354745ea9544bd8dc4f"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "[ 刘炼捏脸·盖聂中年版 ]\n去年万钧捏了一张大叔到确认联动后修修补补改了几轮 仿捏还是太难了😭\n#永劫无间捏脸站# #刘炼捏脸# #永劫无间#",
+      "userName": "高级护甲粉末",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260621_19eeabb13dc871443.jpeg"
+    },
     {
       "id": "6acb7cd538bff70f192808bd",
       "userId": "1dd7f94448564419bddcef24e57bb78c",

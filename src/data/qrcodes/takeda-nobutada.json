@@ -1,8 +1,54 @@
 {
-  "lastUpdated": "2026-10-14T07:32:24.478Z",
+  "lastUpdated": "2026-10-15T07:22:31.385Z",
   "source": "武田信忠捏脸",
-  "totalCount": 786,
+  "totalCount": 788,
   "qrcodes": [
+    {
+      "id": "6acfd1986241ec1192e3cad7",
+      "userId": "de440deaace4494dbbc445c92b3f5de6",
+      "createTime": 1792004502114,
+      "createDate": "2026-10-14",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261015_1a13bcaab5b596775.jpeg",
+        "https://ok.166.net/reunionpub/1_20261015_1a13bcaab5b530476.jpeg",
+        "https://ok.166.net/reunionpub/1_20261015_1a13bcaab5c733986.jpeg",
+        "https://ok.166.net/reunionpub/1_20261015_1a13bcaab5c747910.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1792004492.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6acfc76c0186943fc2633622",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1792004492.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6acfc76c0186943fc2633622",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "*鬼舞辻无惨仿捏/ooc致歉/不像致歉\n导入指引:捏脸码双版本在图34\n左下角如果没有看到导入图标，可点开需要使用的捏脸码大图，长按保存到手机后发布在评论区点开即可识别\n一头阿姜姜原创-创作不易免费分享，请多支持!禁倒卖二改抄袭。\n#永劫无间捏脸站#\n#武田信忠捏脸#\n#永劫无间#",
+      "userName": "一头阿姜姜",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
+    },
+    {
+      "id": "6acf78516241ec1192e32977",
+      "userId": "5b79b4d5b71b44ec8f031d6ed705b6f7",
+      "createTime": 1791981647171,
+      "createDate": "2026-10-14",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261014_1a13a6def64458298.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##武田信忠捏脸#\n作品名称：索隆\n设计理念：\n捏脸码：",
+      "userName": "浅怅n",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20220713_181f51156de932704.png"
+    },
     {
       "id": "6ace6406999f5a6c87dd3241",
       "userId": "28528d590d1345f3b1a8b0cd3173817d",

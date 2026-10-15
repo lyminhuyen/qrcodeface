@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-14T08:06:21.514Z",
+  "lastUpdated": "2026-10-15T07:06:39.146Z",
   "source": "特木尔捏脸",
-  "totalCount": 786,
+  "totalCount": 787,
   "qrcodes": [
+    {
+      "id": "6acf98e494342b76437efba5",
+      "userId": "e5d0ac2465594150a57c2213785e9fde",
+      "createTime": 1791989986863,
+      "createDate": "2026-10-14",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261014_1a13aed332c919615.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##特木尔捏脸#\n作品名称：内格尔\n设计理念：非洲内格尔\n捏脸码：",
+      "userName": "从小皮到大鸭",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240619_19030579ed3629700.png"
+    },
     {
       "id": "6acae9258a1d6628fee852b1",
       "userId": "d64e8ea22587496b86613cdf76835400",

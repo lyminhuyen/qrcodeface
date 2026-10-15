@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-10-14T08:06:21.915Z",
+  "lastUpdated": "2026-10-15T07:40:16.024Z",
   "source": "季沧海捏脸",
-  "totalCount": 818,
+  "totalCount": 819,
   "qrcodes": [
+    {
+      "id": "6acf67826241ec1192e304b2",
+      "userId": "7d10aa1ff3884280a95029decf390222",
+      "createTime": 1791977339076,
+      "createDate": "2026-10-14",
+      "characterId": "ji-canghai",
+      "characterName": "Tarka Ji",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261014_1a13a2c35ac761176.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6acf6544093b37370ea0109a"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6acf6544093b37370ea0109a"
+        }
+      ],
+      "text": "根据岳山龙头捏脸数据捏的，适合有火男赛季红皮和角的人，有红发配配红发更好看，岳山龙头捏脸原创未知#永劫无间# #季沧海捏脸#",
+      "userName": "梧风野",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260110_19ba418455e242995.png"
+    },
     {
       "id": "6accd1369c02552c2b6d9776",
       "userId": "2a21775f5103438d92569fc67a1c7928",
@@ -1509,7 +1535,7 @@
       ],
       "qrCodes": [],
       "text": "#季沧海捏脸# 谁有这个捏脸",
-      "userName": "帅晕a",
+      "userName": "AK9837",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260423_19db791bde6915051.jpeg",
       "userId": "cb273571923444ab902a84e650966843"
     },
