@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-10-14T08:06:21.613Z",
+  "lastUpdated": "2026-10-16T07:36:48.122Z",
   "source": "巫真捏脸",
-  "totalCount": 275,
+  "totalCount": 276,
   "qrcodes": [
+    {
+      "id": "6ad123d2def0814d7def02d8",
+      "userId": "7f59de70e4f14defb0b92c08f8f8a5ce",
+      "createTime": 1792091087771,
+      "createDate": "2026-10-15",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261016_1a140f3dfb8963267.jpeg",
+        "https://ok.166.net/reunionpub/1_20261016_1a140f3dfb8642936.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##巫真捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "飞飞喜欢洗素脚",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251229_19b693850fc274736.jpeg"
+    },
     {
       "id": "6acc666d05a77e40991d7cb8",
       "userId": "8f9423712f6a44189948dcabaf8181da",

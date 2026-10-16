@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-10-14T08:06:21.906Z",
+  "lastUpdated": "2026-10-16T07:10:50.937Z",
   "source": "沈妙捏脸",
-  "totalCount": 857,
+  "totalCount": 858,
   "qrcodes": [
+    {
+      "id": "6ad18d094cd70b4963883065",
+      "userId": "1dd7f94448564419bddcef24e57bb78c",
+      "createTime": 1792118011521,
+      "createDate": "2026-10-16",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261016_7a39d6a4b4d5b42ecb69826fbfa3515e",
+        "https://ok.166.net/reunionpub/1_kol_20261016_c4ab48d13ab161ed2dccd2a86fd3a780",
+        "https://ok.166.net/reunionpub/1_kol_20261016_11d4a5b31e84cd2e87543031d7a16dc6"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261016_7bb982a2baacd934335615936cb2b7be",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad1882c0186943fc26360d6"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "寻糕【狩猎都市】捏脸码在图三\n‎💗‎点击下方可直接导入捏脸‎💗\n‎💗（跪求关注点赞分享，谢谢）‎💗（ღ( ´･ᴗ･` )比心）\n#永劫无间##永劫无间捏脸站##沈妙捏脸#",
+      "userName": "星野织呀",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250904_19910dd0e22102142.jpeg"
+    },
     {
       "id": "6acef7452a85655db3bc06db",
       "userId": "aec9858c9ba14034808d7799d2014b1a",
