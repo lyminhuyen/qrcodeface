@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-10-15T07:44:13.441Z",
+  "lastUpdated": "2026-10-17T07:19:45.032Z",
   "source": "刘炼捏脸",
-  "totalCount": 517,
+  "totalCount": 518,
   "qrcodes": [
+    {
+      "id": "6ad25faee769e53739f706db",
+      "userId": "c2175fd883894844bd4d981b40dedb4a",
+      "createTime": 1792171947431,
+      "createDate": "2026-10-16",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261017_1a145c5af21209298.jpeg",
+        "https://ok.166.net/reunionpub/1_20261017_1a145c5af21303501.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "近看还原度还行的\n#刘炼捏脸# #盖聂# #永劫无间捏脸站#",
+      "userName": "任意门didu",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241115_1932f8876bd261986.jpeg"
+    },
     {
       "id": "6acf56c9d96a1b266f1e03bd",
       "userId": "ffb114098aac4133969ab1aa4640bf6d",

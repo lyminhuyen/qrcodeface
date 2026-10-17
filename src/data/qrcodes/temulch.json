@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-10-15T07:06:39.146Z",
+  "lastUpdated": "2026-10-17T06:42:32.986Z",
   "source": "特木尔捏脸",
-  "totalCount": 787,
+  "totalCount": 788,
   "qrcodes": [
+    {
+      "id": "6ad25fe4ab532225bb06b152",
+      "userId": "c2175fd883894844bd4d981b40dedb4a",
+      "createTime": 1792171996475,
+      "createDate": "2026-10-16",
+      "characterId": "temulch",
+      "characterName": "Temulch",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261017_1a145c66f13900082.jpeg",
+        "https://ok.166.net/reunionpub/1_20261017_1a145c66f13237006.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #特木尔捏脸# #卫庄#",
+      "userName": "任意门didu",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20241115_1932f8876bd261986.jpeg"
+    },
     {
       "id": "6acf98e494342b76437efba5",
       "userId": "e5d0ac2465594150a57c2213785e9fde",

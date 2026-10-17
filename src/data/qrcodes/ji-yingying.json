@@ -1,8 +1,49 @@
 {
-  "lastUpdated": "2026-10-16T07:43:25.428Z",
+  "lastUpdated": "2026-10-17T07:08:09.905Z",
   "source": "季莹莹捏脸",
-  "totalCount": 1016,
+  "totalCount": 1018,
   "qrcodes": [
+    {
+      "id": "6ad2636322669053c8cf2c17",
+      "userId": "6c90db25dceb40babbc7e5e221c9b247",
+      "createTime": 1792172897701,
+      "createDate": "2026-10-16",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261017_1a145d42af8410018.jpeg",
+        "https://ok.166.net/reunionpub/1_20261017_1a145d42af9834167.jpeg",
+        "https://ok.166.net/reunionpub/1_20261017_1a145d42af9269947.jpeg",
+        "https://ok.166.net/reunionpub/1_20261017_1a145d42af9102545.jpeg",
+        "https://ok.166.net/reunionpub/1_20261017_1a145d42af9335982.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1792172892.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=ik3K4i3jQ3hFSRnH8lkTC2&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6ad1e8f79d9f53555696be45GEHVOOBw07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "#永劫无间手游# #永劫手游大神创作激励# #季莹莹捏脸#",
+      "userName": "粥沫小福",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg"
+    },
+    {
+      "id": "6ad1f6750ee32d6f3005799c",
+      "userId": "97a9dce8d09a4d82885a3b1c8f3c11d3",
+      "createTime": 1792145011345,
+      "createDate": "2026-10-16",
+      "characterId": "ji-yingying",
+      "characterName": "Zai",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261016_1a1442aaeb4632131.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "9月份mike打摸金单排看到的这个#季莹莹捏脸# #永劫无间捏脸站# #永劫无间#",
+      "userName": "苏沐橙是光",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230703_1891bfec4a4728084.jpeg"
+    },
     {
       "id": "6ad1ae7e961e5a5d84ac69c9",
       "userId": "e94944b444354e329b46e81beb9e77ab",

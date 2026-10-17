@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-16T07:47:35.928Z",
+  "lastUpdated": "2026-10-17T07:38:29.376Z",
   "source": "胡桃捏脸",
-  "totalCount": 1213,
+  "totalCount": 1214,
   "qrcodes": [
     {
       "id": "6acf85dc2a85655db3bcde7a",
@@ -54,6 +54,32 @@
       "text": "赞赞自取~\n点击下方一键导入即可获得同款捏脸，不会的宝宝可以看下置顶哦🔝#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #永劫无间手游# #永手胡桃捏脸# #胡桃捏脸# #胡桃# #捏脸# #泳装#",
       "userName": "玫瑰凶杀案",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250925_19980080759940187.jpeg"
+    },
+    {
+      "id": "6ac9055b250c540c7d223749",
+      "userId": "053acae271ee48c0a3423f5d3680c67f",
+      "createTime": 1791559000890,
+      "createDate": "2026-10-09",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261009_1a1213ce110364701.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791558995.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ac90516093b37370e9f21d0",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##土御门胡桃捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "美洲钻石粒",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260315_19cf0436f16655095.jpeg"
     },
     {
       "id": "6ac7b54c9173ea71dc185bb2",

@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-16T07:15:02.893Z",
+  "lastUpdated": "2026-10-17T07:06:09.089Z",
   "source": "蓝梦捏脸",
-  "totalCount": 803,
+  "totalCount": 804,
   "qrcodes": [
+    {
+      "id": "6ad2e121798e0e4722755d15",
+      "userId": "41ed6cc77de4439e80c816051d49f4fa",
+      "createTime": 1792205080387,
+      "createDate": "2026-10-17",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261017_1a147bf449b763824.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#蓝梦捏脸# \n有没有这个的捏脸求捏脸？[哭泣][抱拳][抱拳][抱拳][抱拳]",
+      "userName": "爱吃青苔徐知命",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250801_1986362e7b4667354.jpeg"
+    },
     {
       "id": "6acd04aef8486e7cb57bb596",
       "userId": "72125ab6c2f84a9eaa4e93e4f93eb28b",
