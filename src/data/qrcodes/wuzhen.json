@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-16T07:36:48.122Z",
+  "lastUpdated": "2026-10-18T07:48:27.690Z",
   "source": "巫真捏脸",
-  "totalCount": 276,
+  "totalCount": 277,
   "qrcodes": [
+    {
+      "id": "6ad39065e769e53739f89098",
+      "userId": "22bad095d4264f2caedf6a081912111c",
+      "createTime": 1792249955599,
+      "createDate": "2026-10-17",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261017_1a14a6c01cf877467.png"
+      ],
+      "qrCodes": [],
+      "text": "各位有这个巫真的捏脸吗，求求求求求求求#永劫无间# #永劫无间捏脸站# #巫真捏脸#",
+      "userName": "柳智敏男仆",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260905_1a06e865d36124373.jpeg"
+    },
     {
       "id": "6ad123d2def0814d7def02d8",
       "userId": "7f59de70e4f14defb0b92c08f8f8a5ce",
@@ -1369,8 +1384,8 @@
       ],
       "qrCodes": [],
       "text": "#巫真捏脸#",
-      "userName": "胡桃是糕手",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20240621_190368da3c0602534.jpeg",
+      "userName": "不知名男用户",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261017_1a149d95ccf685651.jpeg",
       "userId": "1cfc82446bb0486b8d7bea80f09cd2ba"
     },
     {
