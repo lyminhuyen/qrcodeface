@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-10-14T08:06:21.947Z",
+  "lastUpdated": "2026-10-19T07:25:09.392Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 950,
+  "totalCount": 952,
   "qrcodes": [
+    {
+      "id": "6ad4ab530ee32d6f300945e8",
+      "userId": "b5804d7bcc6447bcad1ea8e234c92ccf",
+      "createTime": 1792322378459,
+      "createDate": "2026-10-18",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261018_1a14ebd115d378226.jpeg",
+        "https://ok.166.net/reunionpub/1_20261018_1a14ebd115d112882.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "附影棚\n#影棚# #玉玲珑捏脸# #鸣潮# #心月狐# #玉玲珑影棚#",
+      "userName": "kasa青龙",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260521_19e47a57462937336.jpeg"
+    },
+    {
+      "id": "6ad4998a1998146d09938411",
+      "userId": "44911948a1a0490db0a6f1c54e98cf60",
+      "createTime": 1792317831858,
+      "createDate": "2026-10-18",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261018_1a14e77b649274581.jpeg",
+        "https://ok.166.net/reunionpub/1_20261018_1a14e77b649170898.jpeg",
+        "https://ok.166.net/reunionpub/1_20261018_1a14e77b64a206880.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1792317830.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad4672382b7416f9a58835b",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "关注和赞一键三连～点击导入同款即可使用\n#玉玲珑捏脸# #永劫无间# #永劫无间捏脸站# #玉玲珑穿搭#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
+    },
     {
       "id": "6aca09049173ea71dc1b0d8b",
       "userId": "81fba6531ba048fe8a9ffa5d5774ea3f",

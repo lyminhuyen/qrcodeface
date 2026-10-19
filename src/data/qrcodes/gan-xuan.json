@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-10-18T07:50:21.636Z",
+  "lastUpdated": "2026-10-19T08:14:22.065Z",
   "source": "甘璇捏脸",
-  "totalCount": 218,
+  "totalCount": 219,
   "qrcodes": [
+    {
+      "id": "6ad499cd0ee32d6f3009312b",
+      "userId": "09240252501f4fb1949ab98c8c5fda65",
+      "createTime": 1792317886525,
+      "createDate": "2026-10-18",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261018_63bb88f8dc3f5c1632a203d1dade9a79",
+        "https://ok.166.net/reunionpub/1_kol_20261018_4dffc59c41e3122597f00788b3662129",
+        "https://ok.166.net/reunionpub/1_kol_20261018_ff271fcff729cf63756b847b3f66d9de"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261018_b096ee1dfc299c4dfba486511dcfcb2f",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad48ca70186943fc26413e6"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261018_cb3d8025cefc76ba98f48c26ec030351",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad48ca70186943fc26413e6"
+        }
+      ],
+      "text": "甘璇[卿缦]\n左下角可以直接导入哦，球球关注~\n#永劫无间##甘璇捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "6ad39ad44ba34f3ef5bdd495",
       "userId": "2ec925a539774c849081030e6d39fdc2",
