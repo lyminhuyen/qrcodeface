@@ -1,8 +1,46 @@
 {
-  "lastUpdated": "2026-10-16T07:06:46.710Z",
+  "lastUpdated": "2026-10-20T07:34:06.700Z",
   "source": "武田信忠捏脸",
-  "totalCount": 789,
+  "totalCount": 790,
   "qrcodes": [
+    {
+      "id": "6ad7008c3bc8a27983837a94",
+      "userId": "c7e590328d464f3d8f4172573454308f",
+      "createTime": 1792475272363,
+      "createDate": "2026-10-20",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261020_89f32c3d059cd1f22402374cd7320bee",
+        "https://ok.166.net/reunionpub/1_kol_20261020_7a42df9c636a83d715b6e57b6b0ce53b",
+        "https://ok.166.net/reunionpub/1_kol_20261020_7f096101e9082a82cd65da3b1a937056",
+        "https://ok.166.net/reunionpub/1_kol_20261020_15fa0ab34a3cc8349a36d079e12b3df9",
+        "https://ok.166.net/reunionpub/1_kol_20261020_76704976b03081a3546867131740901f",
+        "https://ok.166.net/reunionpub/1_kol_20261020_64f14c58d3c4375427b180652df1c018",
+        "https://ok.166.net/reunionpub/1_kol_20261020_6443f0813cb230a6682a23d6cb53f167",
+        "https://ok.166.net/reunionpub/1_kol_20261020_59736c4b682d7c37a373efd851c03d14",
+        "https://ok.166.net/reunionpub/1_kol_20261020_42778c2789ad7f388ac3f8e7923565f4"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261020_b5579efeb7e2fe871aeb8165cb158313",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad6fe43745ea9544bdb17af"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261020_9eac0a28403083dcad21370a9a33ee84",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad6fe620186943fc26460b5"
+        }
+      ],
+      "text": "#永劫无间 #永劫无间捏脸 #逆战暴王 #万钧捏脸 #武田信忠捏脸  #张起灵捏脸  #刘炼捏脸  #宁红夜捏脸 #沈妙捏脸 #特木尔捏脸 #补档\n\n#逆战暴王\n#逆战暴王\n#逆战暴王",
+      "userName": "逆战暴王",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260422_19db213a759713091.jpeg"
+    },
     {
       "id": "6ad0b17a7a147d18e7f23c58",
       "userId": "1dd7f94448564419bddcef24e57bb78c",

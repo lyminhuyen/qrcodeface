@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-17T06:44:28.196Z",
+  "lastUpdated": "2026-10-20T07:20:17.681Z",
   "source": "迦南捏脸",
-  "totalCount": 782,
+  "totalCount": 783,
   "qrcodes": [
+    {
+      "id": "6ad64a27c6548d68d0b3ad6c",
+      "userId": "c94df65a84ce41feaec1cf9e18dd8a65",
+      "createTime": 1792428575013,
+      "createDate": "2026-10-19",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261020_1a1551185a6634976.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站# #迦南捏脸#",
+      "userName": "振一发三",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260102_19b7ec2c868836373.jpeg"
+    },
     {
       "id": "6ad2257f961e5a5d84ad0817",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",

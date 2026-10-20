@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-15T07:28:26.671Z",
+  "lastUpdated": "2026-10-20T07:39:59.160Z",
   "source": "魏轻捏脸",
-  "totalCount": 738,
+  "totalCount": 739,
   "qrcodes": [
+    {
+      "id": "6ad70c2ce04f2e0bebfb568f",
+      "userId": "dad7da2750ce40d9a8d7d211e3d52625",
+      "createTime": 1792478250856,
+      "createDate": "2026-10-20",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261020_1a1580784b5987891.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##魏轻捏脸#",
+      "userName": "夜的第七章听坤坤的话",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230827_18a350d5c04267670.jpeg"
+    },
     {
       "id": "6ac494086241ec1192d46bb5",
       "userId": "9fc5c34d4eee44f3a093ab3cf331e51b",

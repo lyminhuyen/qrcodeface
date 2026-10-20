@@ -1,8 +1,67 @@
 {
-  "lastUpdated": "2026-10-18T07:31:03.202Z",
+  "lastUpdated": "2026-10-20T08:12:03.129Z",
   "source": "席拉捏脸",
-  "totalCount": 769,
+  "totalCount": 771,
   "qrcodes": [
+    {
+      "id": "6ad60af17756962d9eb9d581",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1792412398672,
+      "createDate": "2026-10-19",
+      "characterId": "xila",
+      "characterName": "Cyra",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261019_1a1541aadaa807937.jpeg",
+        "https://ok.166.net/reunionpub/1_20261019_1a1541aadaa349560.jpeg",
+        "https://ok.166.net/reunionpub/1_20261019_1a1541aadaa825248.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1792412391.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad55582093b37370ea12197",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站# #永劫无间# #席拉捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "6ad5ddcfb9316d04777ba2fc",
+      "userId": "abe6cbb14ebd4cba9ff2aa0c7af97734",
+      "createTime": 1792400838670,
+      "createDate": "2026-10-19",
+      "characterId": "xila",
+      "characterName": "Cyra",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261019_1a1536a4998465003.jpeg",
+        "https://ok.166.net/reunionpub/1_20261019_1a1536a4998129569.jpeg",
+        "https://ok.166.net/reunionpub/1_20261019_1a1536a4998970305.jpeg",
+        "https://ok.166.net/reunionpub/1_20261019_1a1536a4998664229.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1792400835.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad5cca382b7416f9a58b868",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgLocalName": "1792400835.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad5cca382b7416f9a58b868",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "【席拉捏脸小玫瑰】换回原始的截图方便你们导入#永劫无间# #永劫无间捏脸站# #席拉捏脸#",
+      "userName": "肥肥仔vera",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250619_19787508a38938166.jpeg"
+    },
     {
       "id": "6ad34eadef679856d2154b33",
       "userId": "79540e2f4a8c48dbb3a48bce26a0d85c",
@@ -18055,7 +18114,8 @@
       "qrCodes": [],
       "text": "席拉 千仞雪仿捏\n请点赞评论转发关注支持哦\n#永劫新皮肤捏脸# #永劫无间捏脸站# #席拉捏脸#",
       "userName": "一头阿姜姜",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg"
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260401_19d487b6701212285.jpeg",
+      "userId": "de440deaace4494dbbc445c92b3f5de6"
     },
     {
       "id": "67233396ff3ab917b94053ba",
