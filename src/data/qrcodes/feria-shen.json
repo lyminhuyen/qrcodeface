@@ -1,8 +1,51 @@
 {
-  "lastUpdated": "2026-10-19T07:46:49.369Z",
+  "lastUpdated": "2026-10-21T07:32:27.344Z",
   "source": "沈妙捏脸",
-  "totalCount": 864,
+  "totalCount": 866,
   "qrcodes": [
+    {
+      "id": "6ad84c463bc8a279838562d9",
+      "userId": "b1c4ef7874b448f6b11ec45e53af7e93",
+      "createTime": 1792560171783,
+      "createDate": "2026-10-21",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261021_1a15ce002f5545958.heic"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##沈妙捏脸#\n作品名称：东北雨姐捏脸\n设计理念：东北\n捏脸码：",
+      "userName": "藍鉞橼",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240118_18d1b9ef7cf796037.jpeg"
+    },
+    {
+      "id": "6ad81e9eab532225bb0e7171",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1792548504784,
+      "createDate": "2026-10-21",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261021_1a15c377ffc776706.jpeg",
+        "https://ok.166.net/reunionpub/1_20261021_1a15c377ffc533000.jpeg",
+        "https://ok.166.net/reunionpub/1_20261021_1a15c377ffc826163.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1792548500.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad7fceb745ea9544bdb3a8a",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "沈妙吞天赛季新皮肤穿搭分享 | 幽灵行者\n\n⭐捏脸原帖：<tag type=\"link\" title=\"大神\">https://m.ds.163.com/feed/654132418167a40001e5e7fe/?isNew=1</tag>\n\n#永劫无间捏脸站# #沈妙穿搭# #沈妙捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6ad5080322669053c8d2bfa8",
       "userId": "f8cbf51275d9442baee4beb60ee1b616",

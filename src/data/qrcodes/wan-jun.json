@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-10-16T07:30:53.340Z",
+  "lastUpdated": "2026-10-21T07:51:56.712Z",
   "source": "万钧捏脸",
-  "totalCount": 361,
+  "totalCount": 362,
   "qrcodes": [
+    {
+      "id": "6ad72f1f6fca0079da1bc43c",
+      "userId": "9fc5c34d4eee44f3a093ab3cf331e51b",
+      "createTime": 1792487196358,
+      "createDate": "2026-10-20",
+      "characterId": "wan-jun",
+      "characterName": "Inor Wan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261020_1ec26aad5b497cfb437db9daeb41dcb9",
+        "https://ok.166.net/reunionpub/1_kol_20261020_f4bb9b94c5abe4d7c24225341a9ee9cd",
+        "https://ok.166.net/reunionpub/1_kol_20261020_b0171d1f6f3465d8c367609b96ccec8b",
+        "https://ok.166.net/reunionpub/1_kol_20261020_bbf64af52d8056983c124633aff86ba4"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261020_716f930765074b29b813fdbbbb69cfa2",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad72ded093b37370ea1555a"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【万钧·白龙】⁰ᵕᵔ 小榆原创 三连关注自取 进帖左下角点击导入同款捏脸可一键导入 感谢喜欢#永劫无间##永劫无间捏脸站##万钧捏脸#",
+      "userName": "怎知榆晚",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260710_19f47b4b822671264.jpeg"
+    },
     {
       "id": "6ad125a7def0814d7def03bd",
       "userId": "7f59de70e4f14defb0b92c08f8f8a5ce",

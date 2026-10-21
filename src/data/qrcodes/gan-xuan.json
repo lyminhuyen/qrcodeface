@@ -1,8 +1,69 @@
 {
-  "lastUpdated": "2026-10-19T08:14:22.065Z",
+  "lastUpdated": "2026-10-21T07:59:47.998Z",
   "source": "甘璇捏脸",
-  "totalCount": 219,
+  "totalCount": 221,
   "qrcodes": [
+    {
+      "id": "6ad82606e04f2e0bebfcf475",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1792550402756,
+      "createDate": "2026-10-21",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261021_1a15c547484906569.jpeg",
+        "https://ok.166.net/reunionpub/1_20261021_1a15c547484521119.jpeg",
+        "https://ok.166.net/reunionpub/1_20261021_1a15c547484563349.jpeg",
+        "https://ok.166.net/reunionpub/1_20261021_1a15c547484441792.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1792550398.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad7fc18093b37370ea17181",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "甘璇少司命穿搭分享 | 璃梦\n\n⭐捏脸原帖：<tag type=\"link\" title=\"大神\">https://m.ds.163.com/feed/6a749d39f480b8601b0e5e9e/?isNew=1</tag>\n\n#永劫无间捏脸站# #甘璇穿搭# #甘璇捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "6ad76a5e042b5869222435a4",
+      "userId": "79540e2f4a8c48dbb3a48bce26a0d85c",
+      "createTime": 1792502362951,
+      "createDate": "2026-10-20",
+      "characterId": "gan-xuan",
+      "characterName": "Tara Ga",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261020_e56d331dac44045de0be3c1493272f07",
+        "https://ok.166.net/reunionpub/1_kol_20261020_7790da7468176293e7e7d9ff474f3541",
+        "https://ok.166.net/reunionpub/1_kol_20261020_b3b71f71a272231696adbfdc10167764"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261020_173f542c3fb92f3cdefc1037c8e07154",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad764f9093b37370ea15e8c"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261020_792d8e45e22ce2edd4891487216d5231",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad764f9093b37370ea15e8c"
+        }
+      ],
+      "text": "🦋免费数据分享·甘璇·【少司命】\n🖤by:泡泡柚又籽\n✨喜欢的bb可以三连支持嘛(*´・ｖ・)\n#永劫无间# #永劫无间捏脸站# #甘璇捏脸#",
+      "userName": "泡泡柚又籽",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260703_19f2399fd0f687943.jpeg"
+    },
     {
       "id": "6ad499cd0ee32d6f3009312b",
       "userId": "09240252501f4fb1949ab98c8c5fda65",

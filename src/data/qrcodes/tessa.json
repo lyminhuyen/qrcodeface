@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-10-20T08:12:03.122Z",
+  "lastUpdated": "2026-10-21T07:11:03.963Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 952,
+  "totalCount": 953,
   "qrcodes": [
+    {
+      "id": "6ad71c420ee32d6f300cd111",
+      "userId": "a11304a34cff4b13ab8a6ac857d38751",
+      "createTime": 1792482367424,
+      "createDate": "2026-10-20",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261020_1a1584652ae454758.jpeg",
+        "https://ok.166.net/reunionpub/1_20261020_1a1584652ae727857.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##玉玲珑捏脸#\n作品名称：狐狸捏脸\n设计理念：下垂眼-杏圆眼\n捏脸码：无\n自用，存一下",
+      "userName": "醋缸子阿蒙",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240312_18e3077016e997661.jpeg"
+    },
     {
       "id": "6ad4ab530ee32d6f300945e8",
       "userId": "b5804d7bcc6447bcad1ea8e234c92ccf",

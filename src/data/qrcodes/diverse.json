@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-20T08:14:09.875Z",
+  "lastUpdated": "2026-10-21T08:07:46.785Z",
   "source": "diverse",
-  "totalCount": 3040,
+  "totalCount": 3055,
   "qrcodes": [
     {
       "id": "6ad58cb722669053c8d3549a",
@@ -20,6 +20,88 @@
       "text": "#胡桃捏脸# #紫萍捏脸#",
       "userName": "yukoh",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260912_1a091c972d2570888.jpeg"
+    },
+    {
+      "id": "6ad4aab71998146d099397d4",
+      "userId": "ee679a3c596447e28e83a0974a4a1b53",
+      "createTime": 1792322222449,
+      "createDate": "2026-10-18",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261018_1a14ebab4ae231813.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#影棚##席拉影棚#\n作品名称：东席圣诞\n设计理念：\n影棚码：",
+      "userName": "孤叶03",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260907_1a07b62b569941626.jpeg"
+    },
+    {
+      "id": "6ad4aae3fe258865824e7ee4",
+      "userId": "ee679a3c596447e28e83a0974a4a1b53",
+      "createTime": 1792322003270,
+      "createDate": "2026-10-18",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261018_1a14eb75bb9360117.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1792322000.jpg",
+          "url": "https://yjwujian.cn/xcxtyzz/?activity=yjwj_yingpengfx_20260401&q=fromH5Game%3D1%26shareCode%3DYwn4ulp5-NJ5Z-4N5gW7B",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#影棚##席拉影棚##双人影棚#\n作品名称：拉拉梦\n设计理念：\n影棚码：",
+      "userName": "孤叶03",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260907_1a07b62b569941626.jpeg"
+    },
+    {
+      "id": "6ad4a8f8b9316d047779ee14",
+      "userId": "ee679a3c596447e28e83a0974a4a1b53",
+      "createTime": 1792321781372,
+      "createDate": "2026-10-18",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261018_1a14eb3f82a932250.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1792321772.jpg",
+          "url": "https://yjwujian.cn/xcxtyzz/?activity=yjwj_yingpengfx_20260401&q=fromH5Game%3D1%26shareCode%3DLdolEpH62yJGIJIYg_fc6",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#影棚##席拉影棚#\n作品名称：辉去\n设计理念：\n影棚码：",
+      "userName": "孤叶03",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260907_1a07b62b569941626.jpeg"
+    },
+    {
+      "id": "6ad37cf37756962d9eb66500",
+      "userId": "aaa5c648e25b41f38729aeb3e97531b8",
+      "createTime": 1792244976734,
+      "createDate": "2026-10-17",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261017_1a14a2006e8106070.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "",
+      "userName": "A萘泠",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260918_1a0b035da8f241809.jpeg"
     },
     {
       "id": "6acf25d06048e3656bbd6230",
@@ -48,6 +130,51 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20260927_1a0dec19d9a414332.jpeg"
     },
     {
+      "id": "6acc792105a77e40991d92ee",
+      "userId": "aaa5c648e25b41f38729aeb3e97531b8",
+      "createTime": 1791785247120,
+      "createDate": "2026-10-12",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261012_1a12eb91ac0344498.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "",
+      "userName": "A萘泠",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260918_1a0b035da8f241809.jpeg"
+    },
+    {
+      "id": "6acba5b0f8486e7cb579f719",
+      "userId": "ee679a3c596447e28e83a0974a4a1b53",
+      "createTime": 1791731117240,
+      "createDate": "2026-10-11",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261011_1a12b7f232a373803.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "蹲一个",
+      "userName": "孤叶03",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260907_1a07b62b569941626.jpeg"
+    },
+    {
+      "id": "6acb7fe269415609455c175d",
+      "userId": "aaa5c648e25b41f38729aeb3e97531b8",
+      "createTime": 1791721440120,
+      "createDate": "2026-10-11",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261011_1a12aeb8036800029.png"
+      ],
+      "qrCodes": [],
+      "text": "",
+      "userName": "A萘泠",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260918_1a0b035da8f241809.jpeg"
+    },
+    {
       "id": "6aca22da94342b7643771cb8",
       "userId": "2b6e1968dceb4c85bfb20707d85962ba",
       "createTime": 1791632053921,
@@ -61,6 +188,102 @@
       "text": "#胡桃#",
       "userName": "恋源公式",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260207_19c36988565543636.jpeg"
+    },
+    {
+      "id": "6ac8e9b02a85655db3b45c17",
+      "userId": "aaa5c648e25b41f38729aeb3e97531b8",
+      "createTime": 1791551918105,
+      "createDate": "2026-10-09",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261009_1a120d0c973110677.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "",
+      "userName": "A萘泠",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260918_1a0b035da8f241809.jpeg"
+    },
+    {
+      "id": "6ac377ce91d52b008aa62510",
+      "userId": "ee679a3c596447e28e83a0974a4a1b53",
+      "createTime": 1791195083884,
+      "createDate": "2026-10-05",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261005_1a10b8beebc161205.jpeg",
+        "https://ok.166.net/reunionpub/1_20261005_1a10b8beebc158099.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791195070.jpg",
+          "url": "https://www.yjwujian.cn/",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#影棚##迦南影棚##双人影棚#\n作品名称：暧昧\n设计理念：\n影棚码：",
+      "userName": "孤叶03",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260907_1a07b62b569941626.jpeg"
+    },
+    {
+      "id": "6ac20a2f69415609454f9d13",
+      "userId": "ee679a3c596447e28e83a0974a4a1b53",
+      "createTime": 1791101484982,
+      "createDate": "2026-10-04",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261004_1a105f7ba11931508.jpeg",
+        "https://ok.166.net/reunionpub/1_20261004_1a105f7ba11613388.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791101459.jpg",
+          "url": "https://www.yjwujian.cn/",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#影棚##迦南影棚#\n作品名称：成名\n设计理念：\n影棚码：",
+      "userName": "孤叶03",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260907_1a07b62b569941626.jpeg"
+    },
+    {
+      "id": "6ac1bd7838bff70f191be2d5",
+      "userId": "ee679a3c596447e28e83a0974a4a1b53",
+      "createTime": 1791081846090,
+      "createDate": "2026-10-04",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261004_1a104cc0f08569501.jpeg",
+        "https://ok.166.net/reunionpub/1_20261004_1a104cc0f08474036.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1791081840.jpg",
+          "url": "https://www.yjwujian.cn/",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#影棚##迦南影棚#\n作品名称：情蓝\n设计理念：\n影棚码：",
+      "userName": "孤叶03",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260907_1a07b62b569941626.jpeg"
     },
     {
       "id": "6ac0b0499c02552c2b5e616c",
@@ -100,6 +323,58 @@
       "text": "好耶",
       "userName": "心动樱律",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260904_1a068dc25d7283758.jpeg"
+    },
+    {
+      "id": "6abc8b176241ec1192c9a11d",
+      "userId": "008823ef75b24765bb521ed3c550f950",
+      "createTime": 1790741269376,
+      "createDate": "2026-09-30",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260930_1a0f07f49fd517700.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6aba98970186943fc25f300b"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6aba98970186943fc25f300b"
+        }
+      ],
+      "text": "",
+      "userName": "The5hyyy",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240805_191214505f9553983.png"
+    },
+    {
+      "id": "6abc8a5b9c02552c2b595b2f",
+      "userId": "008823ef75b24765bb521ed3c550f950",
+      "createTime": 1790741081331,
+      "createDate": "2026-09-30",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260930_1a0f07c6abe803631.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6aba98970186943fc25f300b"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6aba98970186943fc25f300b"
+        }
+      ],
+      "text": "",
+      "userName": "The5hyyy",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240805_191214505f9553983.png"
     },
     {
       "id": "6aba5bd994342b764362fa2d",
@@ -451,6 +726,33 @@
       "text": "捏脸指路肥肥仔老师沈妙卷卷\n#永劫无间# #永劫无间高燃混剪# #沈妙#",
       "userName": "开心果茉莉椰",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250620_1978d89aa44366610.jpeg"
+    },
+    {
+      "id": "6aa9f986e956ea1f524ef3e6",
+      "userId": "ee679a3c596447e28e83a0974a4a1b53",
+      "createTime": 1789524355639,
+      "createDate": "2026-09-16",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260916_1a0a7f6a796137488.jpeg",
+        "https://ok.166.net/reunionpub/1_20260916_1a0a7f6a797997070.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1789524346.jpg",
+          "url": "https://www.yjwujian.cn/",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#影棚##迦南影棚##单人影棚#\n作品名称：\n设计理念：\n影棚码：",
+      "userName": "孤叶03",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260907_1a07b62b569941626.jpeg"
     },
     {
       "id": "6aa9a6c60877c835d64b6f33",
@@ -2119,6 +2421,33 @@
       "text": "#永劫手游大神创作激励# #永手捏脸站# #永劫无间手游攻略# #永手方诺# #永手方诺攻略# #永手方诺捏脸# 喜欢的点赞关注脸码一键导入即可[送花]",
       "userName": "不良帅天赐星",
       "userAvatar": "https://ok.166.net/reunionpub/3_20260927_1a0dec19d9a414332.jpeg"
+    },
+    {
+      "id": "6a91bca62c44754f3738f3ea",
+      "userId": "ee679a3c596447e28e83a0974a4a1b53",
+      "createTime": 1787935908350,
+      "createDate": "2026-08-28",
+      "characterId": "diverse",
+      "characterName": "Diverse",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260829_1a04948da20442939.jpeg",
+        "https://ok.166.net/reunionpub/1_20260829_1a04948da20345555.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1787935900.jpg",
+          "url": "https://www.yjwujian.cn/",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#影棚##迦南影棚##单人影棚#\n作品名称：\n设计理念：\n影棚码：",
+      "userName": "孤叶03",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260907_1a07b62b569941626.jpeg"
     },
     {
       "id": "6a9160105a849578411a8319",

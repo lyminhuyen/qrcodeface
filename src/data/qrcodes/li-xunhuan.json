@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-14T08:06:21.694Z",
+  "lastUpdated": "2026-10-21T07:53:54.070Z",
   "source": "李寻欢捏脸",
-  "totalCount": 127,
+  "totalCount": 128,
   "qrcodes": [
+    {
+      "id": "6ad8034ce04f2e0bebfcbee9",
+      "userId": "3ab18c246b2e4012a754a790bc41db49",
+      "createTime": 1792541509131,
+      "createDate": "2026-10-21",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261021_1a15bccc28f326367.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##李寻欢捏脸#\n作品名称：贝利亚\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家11442809",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260903_1a0653b1a69732800.png"
+    },
     {
       "id": "6ab0dbe2e956ea1f5257d391",
       "userId": "8cda466edc64456dbf55aa967ce627d4",
