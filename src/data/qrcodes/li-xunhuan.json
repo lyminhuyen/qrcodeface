@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-10-21T07:53:54.070Z",
+  "lastUpdated": "2026-10-22T08:07:57.593Z",
   "source": "李寻欢捏脸",
-  "totalCount": 128,
+  "totalCount": 131,
   "qrcodes": [
+    {
+      "id": "6ad9a1667302e307e4d66e0b",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1792647519941,
+      "createDate": "2026-10-22",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261022_debfda5594dbf10dd0ee5bd114f1f1db",
+        "https://ok.166.net/reunionpub/1_kol_20261022_333b8026f2159fa657782babea734f9a",
+        "https://ok.166.net/reunionpub/1_kol_20261022_65a0851f231762bcf9f0ad712a7b3a6d"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261022_9e0bd6bf75462c9082bc626930a24da8",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad99d20745ea9544bdb6b85"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【李寻欢捏脸x红颜醉】 | 无偿数据分享\n----这朵花真的好绝哈哈哈，还得是李寻欢\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #李寻欢捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
     {
       "id": "6ad8034ce04f2e0bebfcbee9",
       "userId": "3ab18c246b2e4012a754a790bc41db49",
@@ -3109,6 +3140,62 @@
       "text": "#李寻欢捏脸# #曼巴#",
       "userName": "原声道",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250531_19726d5509f180441.jpeg"
+    },
+    {
+      "id": "690c29a463939e65bca606b7",
+      "userId": "8856fecad8cc4e77bb6ae36b4028d62e",
+      "createTime": 1762404770840,
+      "createDate": "2025-11-06",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251106_19a5782a03d721451.jpeg",
+        "https://ok.166.net/reunionpub/1_20251106_19a5782a03d401182.jpeg",
+        "https://ok.166.net/reunionpub/1_20251106_19a5782a03d178252.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690c217f5123803a99ea5601"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690c217f5123803a99ea5601"
+        }
+      ],
+      "text": "#李寻欢捏脸# #永劫无间捏脸站#新皮肤捏脸来咯～雪中行-李寻欢\n 雷火映画请使用P3二合一\n-使用大神扫一扫或直接识别 绑定游戏就可以直接使用啦-\n—🌸—————看重点——分割线————🌸—\n个人捏脸风格不喜请绕道 玻璃心请勿口出恶言 杠我就是我对 接受友好建议 会一直改进风格\n+捏脸仅限自用 禁二改二传商用倒卖（违者替我挡灾）\n+无授权禁止搬运其他平台\n+数据仅发布大神 如有外传请及时联系我\n#永劫无间#",
+      "userName": "芋圆怎么又炸了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231130_18c20969648701616.jpeg"
+    },
+    {
+      "id": "690c296d6ec6a0627feba54a",
+      "userId": "8856fecad8cc4e77bb6ae36b4028d62e",
+      "createTime": 1762404715550,
+      "createDate": "2025-11-06",
+      "characterId": "li-xunhuan",
+      "characterName": "Xunhuan Li",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20251106_19a5781c7d7930125.jpeg",
+        "https://ok.166.net/reunionpub/1_20251106_19a5781c7d7336686.jpeg",
+        "https://ok.166.net/reunionpub/1_20251106_19a5781c7d7165525.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸作品",
+          "imgName": "上传作品同款捏脸码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690c21d190401d221d89e1d8"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=690c21d190401d221d89e1d8"
+        }
+      ],
+      "text": "#李寻欢捏脸# #永劫无间捏脸站#新皮肤捏脸来咯～惜朝-李寻欢\n 雷火映画请使用P3二合一\n-使用大神扫一扫或直接识别 绑定游戏就可以直接使用啦-\n—🌸—————看重点——分割线————🌸—\n个人捏脸风格不喜请绕道 玻璃心请勿口出恶言 杠我就是我对 接受友好建议 会一直改进风格\n+捏脸仅限自用 禁二改二传商用倒卖（违者替我挡灾）\n+无授权禁止搬运其他平台\n+数据仅发布大神 如有外传请及时联系我\n#永劫无间#",
+      "userName": "芋圆怎么又炸了",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20231130_18c20969648701616.jpeg"
     },
     {
       "id": "690c299cfd816026faf94a4e",

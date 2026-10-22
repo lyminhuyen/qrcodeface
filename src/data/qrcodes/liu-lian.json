@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-10-21T07:49:58.668Z",
+  "lastUpdated": "2026-10-22T07:51:55.133Z",
   "source": "刘炼捏脸",
-  "totalCount": 518,
+  "totalCount": 519,
   "qrcodes": [
+    {
+      "id": "6ad8b69eab532225bb0f26f0",
+      "userId": "6c90db25dceb40babbc7e5e221c9b247",
+      "createTime": 1792587418921,
+      "createDate": "2026-10-21",
+      "characterId": "liu-lian",
+      "characterName": "Lyam Liu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261021_1a15e89425e570851.jpeg",
+        "https://ok.166.net/reunionpub/1_20261021_1a15e89425e671111.jpeg",
+        "https://ok.166.net/reunionpub/1_20261021_1a15e89425e935105.jpeg",
+        "https://ok.166.net/reunionpub/1_20261021_1a15e89425e885955.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1792587412.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iDzOd8SrQnZv2zklyLZpIz&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6ad86d46475033fbc57e4a49zz2ztYoS07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "ooc了很多#永劫无间手游# #永劫手游大神创作激励# #刘炼捏脸#",
+      "userName": "粥沫小福",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg"
+    },
     {
       "id": "6ad25faee769e53739f706db",
       "userId": "c2175fd883894844bd4d981b40dedb4a",
