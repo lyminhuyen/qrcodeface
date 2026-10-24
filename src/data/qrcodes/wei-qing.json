@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-10-23T07:59:05.550Z",
+  "lastUpdated": "2026-10-24T07:20:45.135Z",
   "source": "魏轻捏脸",
-  "totalCount": 742,
+  "totalCount": 743,
   "qrcodes": [
+    {
+      "id": "6adb5c8ff80e8820a5c99eec",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
+      "createTime": 1792760971829,
+      "createDate": "2026-10-23",
+      "characterId": "wei-qing",
+      "characterName": "Shayol Wei",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261023_9d9788c9a0f35f79a6561cc90f4f934f",
+        "https://ok.166.net/reunionpub/1_kol_20261023_68f8076594745d6ff019801b749f8f3e"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261023_f30b525e5b2e81005965d40a84ac151a",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6adb5b040186943fc264e9cf"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261023_6e21d7a5ae18354da530f69c69dc264f",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6adb5b040186943fc264e9cf"
+        }
+      ],
+      "text": "神之八秒——魏轻\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #魏轻捏脸# #神之八秒#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "6ad70c2ce04f2e0bebfb568f",
       "userId": "dad7da2750ce40d9a8d7d211e3d52625",

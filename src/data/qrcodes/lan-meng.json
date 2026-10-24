@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-23T08:05:18.489Z",
+  "lastUpdated": "2026-10-24T07:22:49.418Z",
   "source": "蓝梦捏脸",
-  "totalCount": 815,
+  "totalCount": 816,
   "qrcodes": [
+    {
+      "id": "6adc45c7c9b21461acba5fd2",
+      "userId": "8f9423712f6a44189948dcabaf8181da",
+      "createTime": 1792820678065,
+      "createDate": "2026-10-24",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261024_1a16c708a84354934.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "JLii离水",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260816_1a008465120181157.jpeg"
+    },
     {
       "id": "6ad82e6b042b58692225539f",
       "userId": "6f1c0158d1e946d198b04364d8fbddfd",

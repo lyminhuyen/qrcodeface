@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-23T08:05:18.516Z",
+  "lastUpdated": "2026-10-24T07:50:50.907Z",
   "source": "胡桃捏脸",
-  "totalCount": 1271,
+  "totalCount": 1273,
   "qrcodes": [
+    {
+      "id": "6adb8d58ca8643644ab22b42",
+      "userId": "9367ee68111341f4b6f7ea69033173be",
+      "createTime": 1792773463136,
+      "createDate": "2026-10-23",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261024_1a169a01a2a232302.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#胡桃捏脸#",
+      "userName": "怪我也没办法的",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261023_1a1675a2eb6169514.jpeg"
+    },
     {
       "id": "6ad9c0ed2a02db2f462211e5",
       "userId": "6c90db25dceb40babbc7e5e221c9b247",
@@ -1286,7 +1301,7 @@
       ],
       "text": "点赞关注自取#永劫手游大神创作激励# #永手捏脸站# #永手新赛季捏脸# #胡桃捏脸# #永手胡桃捏脸# #永手胡桃# #永手胡桃攻略#",
       "userName": "姜饼奶冻",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20261011_1a1296c027e880135.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261023_1a1690da658623881.jpeg",
       "userId": "9f75b27e56c74fb2af5f4f3da2d38e2d"
     },
     {
@@ -3348,6 +3363,21 @@
       "userName": "游戏玩家56473826",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250319_195adff952e123275.jpeg",
       "userId": "b56a097b815b493888cfe49eb99a6c0e"
+    },
+    {
+      "id": "69dfa37a86b73875ebcfe3c7",
+      "userId": "494ff7d157084dd081455abe73d9891a",
+      "createTime": 1776264057384,
+      "createDate": "2026-04-15",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20260415_19d919690c8169623.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##土御门胡桃捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "龙雨之夜",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260425_19dc096601e573333.jpeg"
     },
     {
       "id": "69df346b4a420d3511894d3a",

@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-20T08:01:20.462Z",
+  "lastUpdated": "2026-10-24T07:42:22.120Z",
   "source": "哈迪捏脸",
-  "totalCount": 639,
+  "totalCount": 640,
   "qrcodes": [
+    {
+      "id": "6adb59adf80e8820a5c99b16",
+      "userId": "b25cba0ebccd49b6b3a8ddea710c95ed",
+      "createTime": 1792760004320,
+      "createDate": "2026-10-23",
+      "characterId": "hadi",
+      "characterName": "Hadi Ismail",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261023_1a168d2b5a3925500.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##哈迪捏脸#\n作品名称：哈\n设计理念：帅\n捏脸码：",
+      "userName": "阿怪怪guaiii",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261010_1a12165e567363684.jpeg"
+    },
     {
       "id": "6ad6b6e1042b586922231481",
       "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",

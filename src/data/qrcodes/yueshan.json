@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-10-23T08:05:18.623Z",
+  "lastUpdated": "2026-10-24T07:12:48.796Z",
   "source": "岳山捏脸",
-  "totalCount": 783,
+  "totalCount": 784,
   "qrcodes": [
+    {
+      "id": "6adb128699f09836c907d2aa",
+      "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
+      "createTime": 1792742019636,
+      "createDate": "2026-10-23",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261023_37671bb1aa0c19c21e2aa1b311a43a9d",
+        "https://ok.166.net/reunionpub/1_kol_20261023_4a653ff0a062281d2b3b74d1721515b0"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261023_31f0335dafed8a1c87352e75c3a98baf",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6adaf35b745ea9544bdb98c9"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261023_7c3b7820c952e4b6e7ed6193aabbaba1",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6adaf35b745ea9544bdb98c9"
+        }
+      ],
+      "text": "《死寂》木偶仿捏\n图2就是捏脸码\n喜欢的小伙伴可以点赞评论转发自取\n#永劫无间捏脸站# #死寂# #岳山捏脸#",
+      "userName": "暴躁De橙子",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20211118_17d31f88178816513.jpeg"
+    },
     {
       "id": "6ad94bda3bc8a27983867b6f",
       "userId": "1dd7f94448564419bddcef24e57bb78c",
