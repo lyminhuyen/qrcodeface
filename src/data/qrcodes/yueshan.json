@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-10-24T07:12:48.796Z",
+  "lastUpdated": "2026-10-25T07:36:55.684Z",
   "source": "岳山捏脸",
-  "totalCount": 784,
+  "totalCount": 786,
   "qrcodes": [
+    {
+      "id": "6add91fad9851f70ec810a14",
+      "userId": "784ac36c5f564c2783a9a5542363cc70",
+      "createTime": 1792905720325,
+      "createDate": "2026-10-25",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261025_1a171822d23259388.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##岳山捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家60978450",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250320_195b2157228357797.png"
+    },
+    {
+      "id": "6adc73ba7e55247b7d3c088f",
+      "userId": "58d08f2c1910406893b0fb18a6b74d5e",
+      "createTime": 1792832440006,
+      "createDate": "2026-10-24",
+      "characterId": "yueshan",
+      "characterName": "Yueshan",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261024_1a16d23d4d9344101.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##岳山捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "遥远的猪猪6158",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250218_19518b9677a225032.png"
+    },
     {
       "id": "6adb128699f09836c907d2aa",
       "userId": "3859e3251eeb4e78a6cb7a272ac6e4ae",
@@ -6853,7 +6883,7 @@
       "qrCodes": [],
       "text": "#岳山捏脸#",
       "userName": "刘垭楠",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20251216_19b26afc745460244.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261025_1a16f40d84d904423.jpeg",
       "userId": "41678f7ecf8440a9943bca57de913e98"
     },
     {

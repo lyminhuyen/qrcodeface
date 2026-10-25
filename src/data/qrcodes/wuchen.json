@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-24T07:10:50.944Z",
+  "lastUpdated": "2026-10-25T07:35:00.929Z",
   "source": "无尘捏脸",
-  "totalCount": 717,
+  "totalCount": 718,
   "qrcodes": [
+    {
+      "id": "6adc75db446a4f1a706e235f",
+      "userId": "2f648131d7ff463eb4c185225dfa46cd",
+      "createTime": 1792832986268,
+      "createDate": "2026-10-24",
+      "characterId": "wuchen",
+      "characterName": "Wuchen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261024_1a16d2c57a2363985.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##无尘捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "忧郁的小肥猪",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260501_19de26f1627299570.jpeg"
+    },
     {
       "id": "6adb7900290a623aac1f1dde",
       "userId": "0bf4ba8dfe1c4551b54b05a266b7b693",

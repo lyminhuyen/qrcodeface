@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-10-23T08:05:18.500Z",
+  "lastUpdated": "2026-10-25T07:25:29.105Z",
   "source": "迦南捏脸",
-  "totalCount": 796,
+  "totalCount": 797,
   "qrcodes": [
+    {
+      "id": "6adc6a6e446a4f1a706e17f0",
+      "userId": "44911948a1a0490db0a6f1c54e98cf60",
+      "createTime": 1792830059372,
+      "createDate": "2026-10-24",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261024_1a16cffaf80204041.jpeg",
+        "https://ok.166.net/reunionpub/1_20261024_1a16cffaf80114231.jpeg",
+        "https://ok.166.net/reunionpub/1_20261024_1a16cffaf80820319.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1792830057.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad462e50186943fc26406e0",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "关注和赞一键三连～点击导入同款即可使用\n#永劫无间# #永劫无间捏脸站# #迦南捏脸# #迦南穿搭#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
+    },
     {
       "id": "6adab72b449d5b7b0a2e033a",
       "userId": "8b457ba46cb94093b1929cb8c8808e18",
