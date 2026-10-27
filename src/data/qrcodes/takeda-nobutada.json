@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-10-22T08:10:07.687Z",
+  "lastUpdated": "2026-10-27T07:43:09.601Z",
   "source": "武田信忠捏脸",
-  "totalCount": 791,
+  "totalCount": 792,
   "qrcodes": [
+    {
+      "id": "6adfb965a9b3f049ca0d312b",
+      "userId": "559dc16f0b2d4e64a38c5a8255b35784",
+      "createTime": 1793046883711,
+      "createDate": "2026-10-26",
+      "characterId": "takeda-nobutada",
+      "characterName": "Takeda Nobutada",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261027_1a179ec28de551503.png",
+        "https://ok.166.net/reunionpub/1_20261027_1a179ec28de525794.png"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6adfb90082b7416f9a5a18a8"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站##武田信忠捏脸#",
+      "userName": "21h100w",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230827_18a35177ff6119170.png"
+    },
     {
       "id": "6ad7008c3bc8a27983837a94",
       "userId": "c7e590328d464f3d8f4172573454308f",

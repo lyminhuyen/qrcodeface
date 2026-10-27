@@ -1,8 +1,92 @@
 {
-  "lastUpdated": "2026-10-26T08:21:54.867Z",
+  "lastUpdated": "2026-10-27T07:47:02.830Z",
   "source": "沈妙捏脸",
-  "totalCount": 890,
+  "totalCount": 893,
   "qrcodes": [
+    {
+      "id": "6ae053d5446a4f1a7072ec21",
+      "userId": "376a04df8b0b4c9faebce8f6024b5a8b",
+      "createTime": 1793086419890,
+      "createDate": "2026-10-27",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261027_1a17c4770a5737843.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##沈妙捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "波塔桑特",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20250724_1983b32b23c425971.png"
+    },
+    {
+      "id": "6adf27a0ca8643644ab6adb6",
+      "userId": "1285dc44989a434c8e282836b244e676",
+      "createTime": 1793009556491,
+      "createDate": "2026-10-26",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261026_bcae39590759e28d300251ddbca4076d",
+        "https://ok.166.net/reunionpub/1_kol_20261026_6bc3cc61db90d9bc5ce687c944f2a04a",
+        "https://ok.166.net/reunionpub/1_kol_20261026_d9cccfd410301b92407339d4882712cf",
+        "https://ok.166.net/reunionpub/1_kol_20261026_088fcf7e5ae6d18093b318b6ee495c74",
+        "https://ok.166.net/reunionpub/1_kol_20261026_c7c521b87225fb2425ed46ec9ddfeb93"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261026_351f37e45755a8ecca008c06a103d98e",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6adf23230186943fc2658bd2"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261026_224109bdf1ccd613b69f5d9f2b356183",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6adf23b282b7416f9a5a05f2"
+        }
+      ],
+      "text": "沈妙秘宝外观捏脸 · 诺娃\n填坑+1 挑染发色在图4图5~\n#沈妙捏脸# #永劫无间捏脸站# #永劫无间#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260930_1a0effe9f97891240.jpeg"
+    },
+    {
+      "id": "6adf3125ca8643644ab6ba5f",
+      "userId": "1285dc44989a434c8e282836b244e676",
+      "createTime": 1793009100142,
+      "createDate": "2026-10-26",
+      "characterId": "feria-shen",
+      "characterName": "Feria Shen",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261026_e08abaf1db136c2241cb4f397bc65fa5",
+        "https://ok.166.net/reunionpub/1_kol_20261026_fe264fb85c51c9041a4f8efe8375cde8",
+        "https://ok.166.net/reunionpub/1_kol_20261026_205d7fc890d4099d8a97af820118dcce",
+        "https://ok.166.net/reunionpub/1_kol_20261026_2eb2fba83c203f66dd2a8ad627306298",
+        "https://ok.166.net/reunionpub/1_kol_20261026_ae048a7e4da700aae85b85f0b1da2326",
+        "https://ok.166.net/reunionpub/1_kol_20261026_fedd2cca65323b39f4cfc08b90d87fe7"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261026_9ebb15dc4f3940777848f0a659b5109b",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6adf23230186943fc2658bd2"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261026_a9e73f3119f2d5c50d2131105cb10640",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6adf23b282b7416f9a5a05f2"
+        }
+      ],
+      "text": "沈妙秘宝外观捏脸 · 诺娃\n填坑+1 挑染发色在图5图6~\n#沈妙捏脸# #永劫无间捏脸站# #永劫无间#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260930_1a0effe9f97891240.jpeg"
+    },
     {
       "id": "6adafc7ed57eb01a2f5157b1",
       "userId": "066f869bffff440aa221b6836271cdd8",
@@ -2887,7 +2971,7 @@
       ],
       "text": "#永劫无间手游# #沈妙捏脸# #永劫手游大神创作激励#",
       "userName": "粥沫小福",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261026_1a178181435967902.jpeg",
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
     },
     {
@@ -2913,7 +2997,7 @@
       ],
       "text": "#永劫无间手游# #永劫手游大神创作激励# #沈妙捏脸#",
       "userName": "粥沫小福",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261026_1a178181435967902.jpeg",
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
     },
     {
@@ -4368,7 +4452,7 @@
       ],
       "text": "#永劫无间手游# #沈妙捏脸# #永劫手游大神创作激励#",
       "userName": "粥沫小福",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261026_1a178181435967902.jpeg",
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
     },
     {
@@ -4829,7 +4913,7 @@
       ],
       "text": "#永劫无间手游# #沈妙捏脸# #永劫手游大神创作激励#",
       "userName": "粥沫小福",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261026_1a178181435967902.jpeg",
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
     },
     {
@@ -5365,7 +5449,7 @@
       ],
       "text": "#永劫无间手游# #永劫手游大神创作激励# #永劫手游大神创作激励# #沈妙捏脸#",
       "userName": "粥沫小福",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261026_1a178181435967902.jpeg",
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
     },
     {
@@ -6300,7 +6384,7 @@
       ],
       "text": "#永劫无间手游# #沈妙捏脸# #永劫手游大神创作激励#",
       "userName": "粥沫小福",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261026_1a178181435967902.jpeg",
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
     },
     {
@@ -6689,7 +6773,7 @@
       ],
       "text": "#永劫无间手游# #永手捏脸站# #沈妙捏脸# #永劫手游大神创作激励#",
       "userName": "粥沫小福",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261026_1a178181435967902.jpeg",
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
     },
     {
@@ -6792,7 +6876,7 @@
       ],
       "text": "#永劫无间手游# #永手捏脸站# #沈妙捏脸# #永劫手游大神创作激励#",
       "userName": "粥沫小福",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250814_198a768b03d916165.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261026_1a178181435967902.jpeg",
       "userId": "6c90db25dceb40babbc7e5e221c9b247"
     },
     {
@@ -14417,7 +14501,7 @@
       "qrCodes": [],
       "text": "#沈妙捏脸# 求这个脸，找到了踢我一脚谢谢",
       "userName": "桃王要玩斩马刀",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20250706_197df35c96f963786.jpeg",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261027_1a17a7652e0757873.png",
       "userId": "2736fb659bb442f09311195180488447"
     },
     {
