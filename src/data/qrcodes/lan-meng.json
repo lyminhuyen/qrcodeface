@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-10-27T07:50:57.853Z",
+  "lastUpdated": "2026-10-28T08:25:43.700Z",
   "source": "蓝梦捏脸",
-  "totalCount": 817,
+  "totalCount": 818,
   "qrcodes": [
+    {
+      "id": "6ae06e6f39537f3314289ebd",
+      "userId": "a239ff949e2c4d2ab290616640a43ce8",
+      "createTime": 1793093230081,
+      "createDate": "2026-10-27",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261027_1a17caf5b58720392.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "寒叶无霜",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230920_18ab04da0e9268941.jpeg"
+    },
     {
       "id": "6ae04705a9b3f049ca0dc421",
       "userId": "b5804d7bcc6447bcad1ea8e234c92ccf",

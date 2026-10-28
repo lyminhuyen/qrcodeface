@@ -1,8 +1,56 @@
 {
-  "lastUpdated": "2026-10-27T07:25:23.105Z",
+  "lastUpdated": "2026-10-28T08:54:35.304Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 992,
+  "totalCount": 995,
   "qrcodes": [
+    {
+      "id": "6ae0e5e6ca8643644ab8a42d",
+      "userId": "ac6e268e549d42bfac94307ad6e0e06e",
+      "createTime": 1793123812322,
+      "createDate": "2026-10-27",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261028_1a17e81fb8d528399.jpeg",
+        "https://ok.166.net/reunionpub/1_20261028_1a17e81fb8d134060.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#玉玲珑捏脸#",
+      "userName": "yukoh",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260912_1a091c972d2570888.jpeg"
+    },
+    {
+      "id": "6ae0a4fa7e55247b7d41180f",
+      "userId": "09240252501f4fb1949ab98c8c5fda65",
+      "createTime": 1793106991438,
+      "createDate": "2026-10-27",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261027_989b9eb021f7f8c2ee48086287262b55",
+        "https://ok.166.net/reunionpub/1_kol_20261027_5b4bea345a16eb43d045484056f049c9",
+        "https://ok.166.net/reunionpub/1_kol_20261027_f43167c7554558882e863ee7081480eb"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261027_ed84a9298e58eb66cfb42beb663dac3f",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ae0a09982b7416f9a5a2c96"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261027_0435be78987d29edcaa1c44f0aded05f",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ae0a09982b7416f9a5a2c96"
+        }
+      ],
+      "text": "玉玲珑[秋霞]\n左下角可以直接导入哦，球球关注~\n#永劫无间##玉玲珑捏脸##永劫无间捏脸站#",
+      "userName": "考拉somnus",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e45c9328726089.jpeg"
+    },
     {
       "id": "6ae04419dc81547966d3224e",
       "userId": "b5804d7bcc6447bcad1ea8e234c92ccf",
@@ -219,6 +267,21 @@
       "text": "#永劫无间捏脸站##玉玲珑捏脸#\n作品名称：\n设计理念：\n捏脸码：",
       "userName": "坏数据线",
       "userAvatar": "https://ok.166.net/reunionpub/3_20210802_17b05ae1c95315307.jpeg"
+    },
+    {
+      "id": "6abe969338bff70f1917d0ab",
+      "userId": "6f85d16c0bed40b1b0486fc0d887f9c9",
+      "createTime": 1790875281832,
+      "createDate": "2026-10-01",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261002_1a0f87c237d933975.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##玉玲珑捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "早睡喵o",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240608_18ff6e90ba5525588.jpeg"
     },
     {
       "id": "6abdc8c7b250b7083998f95f",
