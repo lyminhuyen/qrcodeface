@@ -1,8 +1,25 @@
 {
-  "lastUpdated": "2026-10-27T07:57:09.189Z",
+  "lastUpdated": "2026-10-29T08:42:17.985Z",
   "source": "宁红夜捏脸",
-  "totalCount": 747,
+  "totalCount": 748,
   "qrcodes": [
+    {
+      "id": "6ae2915d9a24a1198dc5470f",
+      "userId": "4b232f611263401d86b600dcf42e0066",
+      "createTime": 1793233242090,
+      "createDate": "2026-10-29",
+      "characterId": "ning-hongye",
+      "characterName": "Viper Ning",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261029_1a18507bd07973418.jpeg",
+        "https://ok.166.net/reunionpub/1_20261029_1a18507bd07566392.jpeg",
+        "https://ok.166.net/reunionpub/1_20261029_1a18507bd07270838.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##宁红夜捏脸#\n作品名称：宁红叶\n设计理念：\n捏脸码：",
+      "userName": "梵音天丿",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230608_18897b0aa8f154043.png"
+    },
     {
       "id": "6adfe0b741ead9619166dfef",
       "userId": "6c9a02c9a1654d478d113baf0a0c42e2",

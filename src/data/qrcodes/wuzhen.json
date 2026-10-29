@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-10-23T07:54:37.439Z",
+  "lastUpdated": "2026-10-29T08:57:57.968Z",
   "source": "巫真捏脸",
-  "totalCount": 278,
+  "totalCount": 279,
   "qrcodes": [
+    {
+      "id": "6ae2d1e375ae4f2260c184cc",
+      "userId": "07757893bf9742c786a281c65da9d2d1",
+      "createTime": 1793249757718,
+      "createDate": "2026-10-29",
+      "characterId": "wuzhen",
+      "characterName": "Zenda Wu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261029_1a18603c4eb540404.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgName": "上传作品同款捏脸/影棚码",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6a4ba8d282b7416f9a3f4ade"
+        },
+        {
+          "imgBtn": "导入同款发型作品",
+          "imgName": "上传作品同款发型码"
+        }
+      ],
+      "text": "#永劫无间捏脸站##巫真捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "LLL东东",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261022_1a15f5e5f89100811.jpeg"
+    },
     {
       "id": "6ad9ea6b3040434b6c30d821",
       "userId": "8a615ce3b43347fe96d4b82387a4d262",

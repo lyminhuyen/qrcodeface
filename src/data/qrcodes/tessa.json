@@ -1,8 +1,39 @@
 {
-  "lastUpdated": "2026-10-28T08:54:35.304Z",
+  "lastUpdated": "2026-10-29T08:08:40.140Z",
   "source": "玉玲珑捏脸",
-  "totalCount": 995,
+  "totalCount": 996,
   "qrcodes": [
+    {
+      "id": "6ae1d28969a7294ae3546fc3",
+      "userId": "6f97e929885e4eafbfcad22702843c75",
+      "createTime": 1793184389816,
+      "createDate": "2026-10-28",
+      "characterId": "tessa",
+      "characterName": "Tessa",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261028_bc13c9f04760e153d913822efc723431",
+        "https://ok.166.net/reunionpub/1_kol_20261028_62508cb0efc5935a5b92e93be51ccf44",
+        "https://ok.166.net/reunionpub/1_kol_20261028_030dc1a442aec4e5637a45ed815a4b46"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261028_3cf566395a989da57e7a1cc4dc607829",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ae0d3bc0186943fc265bd66"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "玉玲珑捏脸分享丨【世俗美】\n✨免费数据 感谢喜欢～(♡>𖥦<)/♥\n#永劫无间##永劫无间捏脸站##玉玲珑捏脸#",
+      "userName": "Yoi悠响",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230325_18717f85aec479130.jpeg"
+    },
     {
       "id": "6ae0e5e6ca8643644ab8a42d",
       "userId": "ac6e268e549d42bfac94307ad6e0e06e",
