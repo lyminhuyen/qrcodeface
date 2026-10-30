@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-10-27T07:55:12.141Z",
+  "lastUpdated": "2026-10-30T08:41:33.918Z",
   "source": "席拉捏脸",
-  "totalCount": 778,
+  "totalCount": 779,
   "qrcodes": [
+    {
+      "id": "6ae42ca2ee006933784fb8c6",
+      "userId": "44911948a1a0490db0a6f1c54e98cf60",
+      "createTime": 1793338528903,
+      "createDate": "2026-10-30",
+      "characterId": "xila",
+      "characterName": "Cyra",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261030_1a18b4e4e53906787.jpeg",
+        "https://ok.166.net/reunionpub/1_20261030_1a18b4e4e53481119.jpeg",
+        "https://ok.166.net/reunionpub/1_20261030_1a18b4e4e53557780.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1793338518.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad462150186943fc264069d",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "关注和赞一键三连～点击导入同款即可使用\n#永劫无间捏脸站# #永劫无间# #席拉捏脸# #席拉穿搭#",
+      "userName": "恩利奇",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20251015_199e7e56a5d939960.jpeg"
+    },
     {
       "id": "6adec394ca8643644ab62c89",
       "userId": "1285dc44989a434c8e282836b244e676",
@@ -2143,8 +2171,8 @@
       ],
       "qrCodes": [],
       "text": "#席拉捏脸#",
-      "userName": "千千玊",
-      "userAvatar": "https://ok.166.net/reunionpub/3_20220828_182e1100fc2266151.jpeg",
+      "userName": "白夜千千",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261030_1a18908c976932407.jpeg",
       "userId": "d5b88a13416b46eca84ab861cab7eaf7"
     },
     {

@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-29T09:08:37.880Z",
-  "totalCount": 22628,
+  "lastUpdated": "2026-10-30T09:10:37.888Z",
+  "totalCount": 22634,
   "characterCounts": {
     "tessa": 996,
     "temulch": 792,
-    "matari": 804,
-    "kurumi": 1293,
+    "matari": 805,
+    "kurumi": 1297,
     "tianhai": 715,
     "valda-cui": 769,
     "justina-gu": 965,
@@ -17,7 +17,7 @@
     "wei-qing": 752,
     "lan-meng": 818,
     "ji-yingying": 1090,
-    "xila": 778,
+    "xila": 779,
     "ning-hongye": 748,
     "hu-wei": 766,
     "ji-canghai": 831,
@@ -32,5 +32,5 @@
     "diverse": 3303
   },
   "authorCount": 7167,
-  "dayCount": 1973
+  "dayCount": 1974
 }
