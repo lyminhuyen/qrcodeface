@@ -1,8 +1,61 @@
 {
-  "lastUpdated": "2026-10-30T09:06:17.943Z",
+  "lastUpdated": "2026-10-31T09:06:49.197Z",
   "source": "胡桃捏脸",
-  "totalCount": 1297,
+  "totalCount": 1306,
   "qrcodes": [
+    {
+      "id": "6ae5a33b1652f12cda8118b9",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1793434240219,
+      "createDate": "2026-10-31",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261031_1a19102ad31754122.jpeg",
+        "https://ok.166.net/reunionpub/1_20261031_1a19102ad31965137.jpeg",
+        "https://ok.166.net/reunionpub/1_20261031_1a19102ad31250093.jpeg",
+        "https://ok.166.net/reunionpub/1_20261031_1a19102ad31693933.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1793434203.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ae58f7c78b37c502aac637b",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "----还得是胡桃\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #土御门胡桃捏脸#  #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "6ae490e700faad424fdeaf71",
+      "userId": "6c90db25dceb40babbc7e5e221c9b247",
+      "createTime": 1793364190493,
+      "createDate": "2026-10-30",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261030_1a18cd5db54834178.jpeg",
+        "https://ok.166.net/reunionpub/1_20261030_1a18cd5db54822715.jpeg",
+        "https://ok.166.net/reunionpub/1_20261030_1a18cd5db54108178.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸码",
+          "imgLocalName": "1793364186.jpg",
+          "url": "https://m.yjwujian.cn/game/facesculpting/?id=iSwez3iu4F2H0AGbskA8LE&NieLianFpUrl=http://yjwjf.fp.ps.netease.com/file/6ae463d66d775bc9ca998ecfpG7hju5T07",
+          "imgBtn": "导入同款捏脸作品"
+        }
+      ],
+      "text": "#永劫手游大神创作激励# #永劫无间手游# #胡桃捏脸#",
+      "userName": "粥沫小福",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20261026_1a178181435967902.jpeg"
+    },
     {
       "id": "6ae436dd446a4f1a70778f5e",
       "userId": "ac6e268e549d42bfac94307ad6e0e06e",
@@ -177,6 +230,37 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20251020_199ff7cbd1c813463.jpeg"
     },
     {
+      "id": "6ad9d9f1f1c6d567f62beb24",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1792661998757,
+      "createDate": "2026-10-22",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261022_1a162fb405f887618.jpeg",
+        "https://ok.166.net/reunionpub/1_20261022_1a162fb4060880022.jpeg",
+        "https://ok.166.net/reunionpub/1_20261022_1a162fb4060535595.jpeg",
+        "https://ok.166.net/reunionpub/1_20261022_1a162fb4060855782.jpeg",
+        "https://ok.166.net/reunionpub/1_20261022_1a162fb4060504432.jpeg",
+        "https://ok.166.net/reunionpub/1_20261022_1a162fb4060117540.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1792661979.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad9c007093b37370ea1a90c",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "胡桃秉烛夜话主题时装穿搭分享 | 害羞幽灵\n\n⭐捏脸原帖：<tag type=\"link\" title=\"大神\">https://m.ds.163.com/feed/68634ce0392f132d97dfe8c9/?isNew=1</tag>\n\n#永劫无间捏脸站# #土御门胡桃穿搭# #土御门胡桃捏脸#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
       "id": "6ad9c0ed2a02db2f462211e5",
       "userId": "6c90db25dceb40babbc7e5e221c9b247",
       "createTime": 1792655595001,
@@ -225,6 +309,71 @@
       "text": "#永劫无间手游# #永劫手游大神创作激励# #胡桃捏脸#",
       "userName": "粥沫小福",
       "userAvatar": "https://ok.166.net/reunionpub/3_20261026_1a178181435967902.jpeg"
+    },
+    {
+      "id": "6ad9ae04013f292adac902e5",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1792650750821,
+      "createDate": "2026-10-22",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261022_26e442ccb61e1e4ae2f2ee935e3ae6ca",
+        "https://ok.166.net/reunionpub/1_kol_20261022_38dedff38a129d5558f701a1c41b7de1",
+        "https://ok.166.net/reunionpub/1_kol_20261022_f39ea30e48aa4530b0efec6a25c506ec",
+        "https://ok.166.net/reunionpub/1_kol_20261022_61986ac9d3c14bb53bdd78a959c667b6"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261022_7c251196ae1ae43bb88699c9fedfaaa8",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad9a2a7093b37370ea1a478"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡桃捏脸x提线木偶】 | 秉烛夜话主题时装\n----五年了终于等到了这个面纹！！\n未解锁部件为秉烛夜话妆容礼包\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #土御门胡桃捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
+      "id": "6ad98816370c447e27f0f56f",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1792641039666,
+      "createDate": "2026-10-22",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261022_18fed5a7599afa0b17ce47d43cad9da3",
+        "https://ok.166.net/reunionpub/1_kol_20261022_561e8eaa94b1b3f6c1f8737e357cf03b",
+        "https://ok.166.net/reunionpub/1_kol_20261022_5be1b2bc23d0b6b291c798439cfd49f1",
+        "https://ok.166.net/reunionpub/1_kol_20261022_bf2bccab45dcff50c867925622b9f138",
+        "https://ok.166.net/reunionpub/1_kol_20261022_f49574039bb24963a87d80af8f6d7ec8"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261022_30dff2864032bc899364a64d60cb05d6",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ad97e2d82b7416f9a592c2b"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡桃捏脸x暗黑童话】 | 秉烛夜话主题时装\n----这期万圣节主题时装质量真不错，秉烛夜谈妆容深得我心\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #土御门胡桃捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
     },
     {
       "id": "6ad71bdab9316d04777d78e5",
@@ -494,6 +643,38 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20260611_19eb3f255a4333638.jpeg"
     },
     {
+      "id": "6aba6a399173ea71dc085180",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1790601781941,
+      "createDate": "2026-09-28",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260928_d0348af4536448618de7eae71d1debf5",
+        "https://ok.166.net/reunionpub/1_kol_20260928_a2e81ac2ac9e749b4eaa4a2fa7678b06",
+        "https://ok.166.net/reunionpub/1_kol_20260928_218f27f98b20d0e24840542fa1f99ae8",
+        "https://ok.166.net/reunionpub/1_kol_20260928_d4db922d4033331a2eb19bd5a59cd17b"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260928_26f044c785451da1d11c9c4b2ba68202",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6aba61f60186943fc25f252d"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡桃捏脸x照夜】 | 无偿数据分享\n----胡桃的新衣服真的有品\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #土御门胡桃捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
       "id": "6ab7b7eb1a7a453ec89bd3b5",
       "userId": "2ec925a539774c849081030e6d39fdc2",
       "createTime": 1790425064613,
@@ -702,6 +883,39 @@
       "userAvatar": "https://ok.166.net/reunionpub/3_20260927_1a0dec19d9a414332.jpeg"
     },
     {
+      "id": "6aab8f91daf63c78273b0e59",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1789628302446,
+      "createDate": "2026-09-17",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260917_afbdaddb13060813d8ad127ad350874f",
+        "https://ok.166.net/reunionpub/1_kol_20260917_ba5bb62846ede5d15a09d6b8fc19cb38",
+        "https://ok.166.net/reunionpub/1_kol_20260917_61dfd3abd97c736724462dfcc9951450",
+        "https://ok.166.net/reunionpub/1_kol_20260917_749cc24b08a55023d983298912ae08f4",
+        "https://ok.166.net/reunionpub/1_kol_20260917_3ce68c41da4a8507a170890eadc853b1"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260917_847e73a535aca8715fe6d576734e5c54",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6aab8a4d093b37370e99a869"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡桃捏脸x特攻】 | 胡桃亚运主题新时装\n----胡桃你怎么可以帅成这样\n未解锁部件的直接用图四\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #土御门胡桃捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
+    },
+    {
       "id": "6aab86c0e956ea1f5251253f",
       "userId": "d64e8ea22587496b86613cdf76835400",
       "createTime": 1789626039899,
@@ -770,6 +984,38 @@
       "text": "无偿分享捏脸-极影-胡桃\n数据最后一张图 \n你的三连是我坚持的动力求随手给我点一下谢谢！ \n#永劫无间捏脸站##土御门胡桃捏脸##永劫无间#",
       "userName": "阿橘不吃小鱼干",
       "userAvatar": "https://ok.166.net/reunionpub/3_20221215_1851515102c987971.png"
+    },
+    {
+      "id": "6aab7ecf18c6641c101f077d",
+      "userId": "a226aa8d72b64ffaadcbc8f85ef9b6c4",
+      "createTime": 1789624006688,
+      "createDate": "2026-09-17",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20260917_05193683208516521469de7f5fac7ab2",
+        "https://ok.166.net/reunionpub/1_kol_20260917_c1e660efe344642e1f289e2f586b56e7",
+        "https://ok.166.net/reunionpub/1_kol_20260917_919ec7837f44caf9edd4733f47b85de5",
+        "https://ok.166.net/reunionpub/1_kol_20260917_45e1da1cb61175becd4ffcfd5f9cdfca"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20260917_b44c426b910190a8e7aec809b44528b5",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6aab7c1f093b37370e99a661"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "",
+          "errmsg": ""
+        }
+      ],
+      "text": "【胡桃捏脸x天机线】 | 无偿数据分享\n----这何尝不是胡桃的小谪星\n\n⭐脸码在最后，左下角也可自取，喜欢的小伙伴三连自取哈\n\n#永劫无间捏脸站# #土御门胡桃捏脸# #永劫无间#",
+      "userName": "就以记忆唱下去",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20230329_1872aa2a72f835465.jpeg"
     },
     {
       "id": "6aab7e51bd7c39655e166de3",
@@ -7367,7 +7613,7 @@
       ],
       "qrCodes": [],
       "text": "四连可分享\n道诡异仙联动发型适配捏脸\n原创数据 全平台同名\n#永手胡桃捏脸# #道诡异仙捏脸# #胡桃捏脸# #李岁捏脸# #永劫手游大神创作激励#",
-      "userName": "看背景",
+      "userName": "小祼",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250808_1988814abb9701444.jpeg",
       "userId": "ad5437eeaeca4daabb08a809227d2e57"
     },
@@ -7653,7 +7899,7 @@
       ],
       "qrCodes": [],
       "text": "胡桃道诡异仙联动时装适配捏脸\n原创数据 全平台同名\n#永手胡桃捏脸# #胡桃捏脸# #道诡异仙# #道诡异仙捏脸#",
-      "userName": "看背景",
+      "userName": "小祼",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250808_1988814abb9701444.jpeg",
       "userId": "ad5437eeaeca4daabb08a809227d2e57"
     },
@@ -21081,6 +21327,21 @@
       "userName": "Tan笑风生",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240903_191b82a9172520228.jpeg",
       "userId": "2ca72f05b59c49d3b44fd305485a5e3d"
+    },
+    {
+      "id": "66ae73ec151329203d7ca186",
+      "userId": "905e8a590c0d467999cc1cf9c794cb8e",
+      "createTime": 1722708972325,
+      "createDate": "2024-08-03",
+      "characterId": "kurumi",
+      "characterName": "Kurumi Tsuchimikado",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240804_1911974cace226585.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永手胡桃捏脸# #永劫有手就行# #网易大神集劫令# 可爱可爱",
+      "userName": "国服草莓",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240715_190b6431989650749.png"
     },
     {
       "id": "66ae04afb3c3272ddfbc8aa0",

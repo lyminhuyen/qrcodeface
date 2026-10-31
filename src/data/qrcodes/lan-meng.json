@@ -1,8 +1,25 @@
 {
-  "lastUpdated": "2026-10-28T08:25:43.700Z",
+  "lastUpdated": "2026-10-31T08:30:09.745Z",
   "source": "蓝梦捏脸",
-  "totalCount": 818,
+  "totalCount": 819,
   "qrcodes": [
+    {
+      "id": "6ae4ecc46cd8a224d6b3e916",
+      "userId": "a80c1317d67843808336d7cd8142c14d",
+      "createTime": 1793387714382,
+      "createDate": "2026-10-30",
+      "characterId": "lan-meng",
+      "characterName": "Lannie",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261031_1a18e3cd167592898.jpeg",
+        "https://ok.166.net/reunionpub/1_20261031_1a18e3cd167416818.jpeg",
+        "https://ok.166.net/reunionpub/1_20261031_1a18e3cd167108517.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##蓝梦捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "心挡",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260411_19d7bc07516786910.jpeg"
+    },
     {
       "id": "6ae06e6f39537f3314289ebd",
       "userId": "a239ff949e2c4d2ab290616640a43ce8",
@@ -9825,7 +9842,7 @@
       ],
       "qrCodes": [],
       "text": "原创数据 全平台同名\n#永手捏脸站# #永劫手游大神创作激励# #蓝梦捏脸# #永手蓝梦捏脸#",
-      "userName": "看背景",
+      "userName": "小祼",
       "userAvatar": "https://ok.166.net/reunionpub/3_20250808_1988814abb9701444.jpeg",
       "userId": "ad5437eeaeca4daabb08a809227d2e57"
     },

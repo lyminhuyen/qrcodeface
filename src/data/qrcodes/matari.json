@@ -1,8 +1,58 @@
 {
-  "lastUpdated": "2026-10-30T08:15:49.173Z",
+  "lastUpdated": "2026-10-31T09:06:49.210Z",
   "source": "迦南捏脸",
-  "totalCount": 805,
+  "totalCount": 808,
   "qrcodes": [
+    {
+      "id": "6ae48d6a398c850cfc6d45f1",
+      "userId": "3817da908dae4fba9e9b02a26081aac8",
+      "createTime": 1793363299348,
+      "createDate": "2026-10-30",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261030_1a18cc82103954711.png"
+      ],
+      "qrCodes": [],
+      "text": "#永劫无间捏脸站##迦南捏脸#\n作品名称：\n设计理念：\n捏脸码：",
+      "userName": "游戏玩家57850738",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240518_18f8c4438ea682415.png"
+    },
+    {
+      "id": "6ae47dc5446a4f1a7077e4ab",
+      "userId": "1285dc44989a434c8e282836b244e676",
+      "createTime": 1793359297268,
+      "createDate": "2026-10-30",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_kol_20261030_4a67ac0ce6adc8982e265717776b6df1",
+        "https://ok.166.net/reunionpub/1_kol_20261030_373a85f7842ed8ae580317c43afeb5aa",
+        "https://ok.166.net/reunionpub/1_kol_20261030_a9a25ded7fca7cc65de258ef83864b19",
+        "https://ok.166.net/reunionpub/1_kol_20261030_d1fc9c8e4938a6a784bbbb0d023648de",
+        "https://ok.166.net/reunionpub/1_kol_20261030_25bcf26c5e518683ac26c513a44a18b2",
+        "https://ok.166.net/reunionpub/1_kol_20261030_d8bc7992a17a1c70d0c9ce90042e05c8"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgBtn": "导入同款捏脸/影棚作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261030_431d9d486e7a50ed7cd4e1ec96abd1e3",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ae47c9d109b0f061753e461"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品",
+          "imgUrl": "https://ok.166.net/reunionpub/kol_20261030_471fd1eec7e0c9567435a16a3d9b85b4",
+          "errmsg": "",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ae47c9d109b0f061753e461"
+        }
+      ],
+      "text": "秦时明月联动仿捏 · 赤练\n填坑填坑，脸其实早就捏好了，但是影棚一直做不好\n拖到了现在 久等了~\n#迦南捏脸# #永劫无间捏脸站# #永劫无间#",
+      "userName": "昭和阿姨",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260930_1a0effe9f97891240.jpeg"
+    },
     {
       "id": "6ae320e2ca8643644abb05c0",
       "userId": "79540e2f4a8c48dbb3a48bce26a0d85c",
@@ -14054,6 +14104,22 @@
       "userName": "不是烨ovo",
       "userAvatar": "https://ok.166.net/reunionpub/3_20240415_18eddab6128253184.png",
       "userId": "1edd46ab5ce9424da31721650f800e1a"
+    },
+    {
+      "id": "66ae7364b3c3272ddfbe5949",
+      "userId": "905e8a590c0d467999cc1cf9c794cb8e",
+      "createTime": 1722708836773,
+      "createDate": "2024-08-03",
+      "characterId": "matari",
+      "characterName": "Matari",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20240804_1911972b7d6897626.jpeg",
+        "https://ok.166.net/reunionpub/1_20240804_1911972b7d6411258.jpeg"
+      ],
+      "qrCodes": [],
+      "text": "#永手迦南捏脸# 好看好看#永手捏脸站# #永手迦南捏脸# #永劫有手就行# #网易大神集劫令#",
+      "userName": "国服草莓",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20240715_190b6431989650749.png"
     },
     {
       "id": "66ae376d1e00457e0196569a",

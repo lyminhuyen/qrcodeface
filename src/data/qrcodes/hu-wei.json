@@ -1,8 +1,64 @@
 {
-  "lastUpdated": "2026-10-27T07:59:03.552Z",
+  "lastUpdated": "2026-10-31T08:41:51.094Z",
   "source": "胡为捏脸",
-  "totalCount": 766,
+  "totalCount": 768,
   "qrcodes": [
+    {
+      "id": "6ae4fa4e18a5e875e2ff4459",
+      "userId": "13a6c726da614a30a80f0e1f9111bbf8",
+      "createTime": 1793391179491,
+      "createDate": "2026-10-30",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261031_1a18e71aaee496271.jpeg",
+        "https://ok.166.net/reunionpub/1_20261031_1a18e71aaee138966.jpeg",
+        "https://ok.166.net/reunionpub/1_20261031_1a18e71aaee182236.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1793391173.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ae4f53d8f930e3c88be14c7",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#永劫无间捏脸站##胡为捏脸#\n作品名称：呃呃啊啊额额可爱捏\n设计理念：搞抽象de\n捏脸码：",
+      "userName": "游戏玩家908958529",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260820_1a01dacb240545345.jpeg"
+    },
+    {
+      "id": "6ae4f645dc81547966d8e659",
+      "userId": "13a6c726da614a30a80f0e1f9111bbf8",
+      "createTime": 1793390146491,
+      "createDate": "2026-10-30",
+      "characterId": "hu-wei",
+      "characterName": "Akos Hu",
+      "images": [
+        "https://ok.166.net/reunionpub/1_20261031_1a18e61d5cc466512.jpeg",
+        "https://ok.166.net/reunionpub/1_20261031_1a18e61d5cd232265.jpeg",
+        "https://ok.166.net/reunionpub/1_20261031_1a18e61d5cd337606.jpeg"
+      ],
+      "qrCodes": [
+        {
+          "imgName": "上传作品同款捏脸/影棚码",
+          "imgLocalName": "1793390133.jpg",
+          "url": "https://q.ds.163.com/yjwujian/?module=nielian&shareId=6ae4f53d8f930e3c88be14c7",
+          "imgBtn": "导入同款捏脸/影棚作品"
+        },
+        {
+          "imgName": "上传作品同款发型码",
+          "imgBtn": "导入同款发型作品"
+        }
+      ],
+      "text": "#胡为捏脸# 搞抽象ing，竟生出了一丝别样的情愫…[脸红]",
+      "userName": "游戏玩家908958529",
+      "userAvatar": "https://ok.166.net/reunionpub/3_20260820_1a01dacb240545345.jpeg"
+    },
     {
       "id": "6acbacd69173ea71dc1d2e29",
       "userId": "e8631ebc3d214b98af5a9e0f6130c26a",
